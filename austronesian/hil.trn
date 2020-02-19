@@ -1,879 +1,879 @@
-tabo/katabo	natabo	V;PST;PROG
-padala	magapadala pa	V;FUT;PRF;PROG
-nagon	maganagon na	V;FUT;PRF
+tabo/katabo	natabo	V;PROG;PST
+padala	magapadala pa	V;PRF+PROG;FUT
+nagon	maganagon na	V;PRF;FUT
 baligya	baligya	V;NFIN
-gamit	magagamit pa	V;FUT;PRF;PROG
+gamit	magagamit pa	V;PRF+PROG;FUT
 gua	gua	V;NFIN
 padala	nagpadala	V;PST
 hibalo/hibaluan	hibalo	V;NFIN
-hatag	nagahatag pa	V;PRS;PRF;PROG
-tawag	nagatawag na	V;PRS;PRF
-butang	nagbutang	V;PST;PROG
-hibalo/hibaluan	ginhibalo	V;PST;PROG
-balik	magabalik	V;FUT;PROG
-tabo/katabo	nagakatabo na	V;PRS;PRF
+hatag	nagahatag pa	V;PRF+PROG;PRS
+tawag	nagatawag na	V;PRF;PRS
+butang	nagbutang	V;PROG;PST
+hibalo/hibaluan	ginhibalo	V;PROG;PST
+balik	magabalik	V;PROG;FUT
+tabo/katabo	nagakatabo na	V;PRF;PRS
 ginhawa	ginhawa	V;NFIN
-maka/naka	naka	V;PST;PROG
-kita	nakita	V;PRS;PROG
-tuon	nagatuon	V;PRS;PROG
-lupad	naglupad	V;PST;PROG
-gamit	nagagamit na	V;PRS;PRF
-hunahuna	naghunahuna	V;PST;PROG
-pakilala	nagapakilala pa	V;PRS;PRF;PROG
-kabuhi	nagakabuhi	V;PRS;PROG
-nagon	nagnagon na	V;PST;PRF
-hatag	magahatag na	V;FUT;PRF
-sabat	ginsabat na	V;PST;PRF
+maka/naka	naka	V;PROG;PST
+kita	nakita	V;PROG;PRS
+tuon	nagatuon	V;PROG;PRS
+lupad	naglupad	V;PROG;PST
+gamit	nagagamit na	V;PRF;PRS
+hunahuna	naghunahuna	V;PROG;PST
+pakilala	nagapakilala pa	V;PRF+PROG;PRS
+kabuhi	nagakabuhi	V;PROG;PRS
+nagon	nagnagon na	V;PRF;PST
+hatag	magahatag na	V;PRF;FUT
+sabat	ginsabat na	V;PRF;PST
 yuhom	magayuhom	V;FUT
-talupangdan/talupangod/talupangdon	gintalupangod	V;PST;PROG
-mangin/nangin	mangin	V;PRS;PROG
+talupangdan/talupangod/talupangdon	gintalupangod	V;PROG;PST
+mangin/nangin	mangin	V;PROG;PRS
 sulod	magasulod	V;FUT
-sugata	nagasugata	V;PRS;PROG
-baton	magabaton pa	V;FUT;PRF;PROG
+sugata	nagasugata	V;PROG;PRS
+baton	magabaton pa	V;PRF+PROG;FUT
 daw	daw	V;PST
-nagon	nagnagon	V;PST;PROG
-nagon	naganagon na	V;PRS;PRF
-kado	nagkado	V;PST;PROG
-sugata	nagsugata na	V;PST;PRF
+nagon	nagnagon	V;PROG;PST
+nagon	naganagon na	V;PRF;PRS
+kado	nagkado	V;PROG;PST
+sugata	nagsugata na	V;PRF;PST
 hatag	magahatag	V;FUT
-buksan	ginbuksan na	V;PST;PRF
-dalagan	magadalagan	V;FUT;PROG
+buksan	ginbuksan na	V;PRF;PST
+dalagan	magadalagan	V;PROG;FUT
 mangin/nangin	mangin	V;FUT
-tawag	nagtawag na	V;PST;PRF
-pakilala	nagapakilala	V;PRS;PROG
+tawag	nagtawag na	V;PRF;PST
+pakilala	nagapakilala	V;PROG;PRS
 agda	gin-agda	V;PST
-yuhom	nagayuhom	V;PRS;PROG
-tulog	nagatulog	V;PRS;PROG
+yuhom	nagayuhom	V;PROG;PRS
+tulog	nagatulog	V;PROG;PRS
 kadlaw	kadlaw	V;NFIN
 pakita	nagpakita	V;PST
-buka	pagabuka na	V;FUT;PRF
+buka	pagabuka na	V;PRF;FUT
 pakita	nagapakita	V;PRS
-hulog/kahulog	nagakahulog pa	V;PRS;PRF;PROG
+hulog/kahulog	nagakahulog pa	V;PRF+PROG;PRS
 siling	nagsiling	V;PST
 kita/pangita	nakita	V;PRS
-hibalo/hibaluan	mahibaluan	V;FUT;PROG
+hibalo/hibaluan	mahibaluan	V;PROG;FUT
 kaon	nagakaon	V;PRS
-hular	magahular	V;FUT;PROG
+hular	magahular	V;PROG;FUT
 higugma/higugmaon	ginhigugma	V;PST
-aku	ginaaku na	V;PRS;PRF
-kuha	nagakuha na	V;PRS;PRF
-tapos	magataps pa	V;FUT;PRF;PROG
-hulog/kahulog	mahulog	V;FUT;PROG
-basa	magabasa	V;FUT;PROG
-pakita	magapakita na	V;FUT;PRF
-patay	ginpatay	V;PST;PROG
-mangin/nangin	mangin	V;FUT;PRF
-singgit	nagasinggit	V;PRS;PROG
+aku	ginaaku na	V;PRF;PRS
+kuha	nagakuha na	V;PRF;PRS
+tapos	magataps pa	V;PRF+PROG;FUT
+hulog/kahulog	mahulog	V;PROG;FUT
+basa	magabasa	V;PROG;FUT
+pakita	magapakita na	V;PRF;FUT
+patay	ginpatay	V;PROG;PST
+mangin/nangin	mangin	V;PRF;FUT
+singgit	nagasinggit	V;PROG;PRS
 daog	nag-daog	V;PST
-kinahanglan	nagakinahanglan na	V;PRS;PRF
-daog	magadaog na	V;FUT;PRF
-higda	nagahigda na	V;PRS;PRF
-ginhawa	nagaginhawa na	V;PRS;PRF
-tabo/katabo	nagakatabo pa	V;PRS;PRF;PROG
-sira	ginasira	V;PRS;PROG
+kinahanglan	nagakinahanglan na	V;PRF;PRS
+daog	magadaog na	V;PRF;FUT
+higda	nagahigda na	V;PRF;PRS
+ginhawa	nagaginhawa na	V;PRF;PRS
+tabo/katabo	nagakatabo pa	V;PRF+PROG;PRS
+sira	ginasira	V;PROG;PRS
 kado	nagkado	V;PST
-desisyon	magadesisyon pa	V;FUT;PRF;PROG
+desisyon	magadesisyon pa	V;PRF+PROG;FUT
 kita	makita	V;FUT
-sulit	magasulit na	V;FUT;PRF
+sulit	magasulit na	V;PRF;FUT
 ginhawa	nagaginhawa	V;PRS
 pungko	nagpungko	V;PST
-padala	nagpadala na	V;PST;PRF
-yuhom	nagyuhom pa	V;PST;PRF;PROG
-kadlaw	nagakadlaw na	V;PRS;PRF
+padala	nagpadala na	V;PRF;PST
+yuhom	nagyuhom pa	V;PRF+PROG;PST
+kadlaw	nagakadlaw na	V;PRF;PRS
 buhin	nagabuhin	V;PRS
-talupangdan/talupangod/talupangdon	pagatalupangdon pa	V;FUT;PRF;PROG
-pili	magapili pa	V;FUT;PRF;PROG
+talupangdan/talupangod/talupangdon	pagatalupangdon pa	V;PRF+PROG;FUT
+pili	magapili pa	V;PRF+PROG;FUT
 sulat	magasulat	V;FUT
-desisyon	nagadesisyon pa	V;PRS;PRF;PROG
-singgit	magasinggit	V;FUT;PROG
+desisyon	nagadesisyon pa	V;PRF+PROG;PRS
+singgit	magasinggit	V;PROG;FUT
 bakal	nagabakal	V;PRS
-balik	nagabalik pa	V;PRS;PRF;PROG
-daog	nagadaog pa	V;PRS;PRF;PROG
+balik	nagabalik pa	V;PRF+PROG;PRS
+daog	nagadaog pa	V;PRF+PROG;PRS
 kaon	kaon	V;NFIN
 mangin/nangin	mangin	V;PRS
-tulog	nagatulog na	V;PRS;PRF
-himo	nagahimo na	V;PRS;PRF
-batyag	nagabatyag na	V;PRS;PRF
-sira	magasira	V;FUT;PROG
+tulog	nagatulog na	V;PRF;PRS
+himo	nagahimo na	V;PRF;PRS
+batyag	nagabatyag na	V;PRF;PRS
+sira	magasira	V;PROG;FUT
 tan-aw	magatan-aw	V;FUT
-dula	madula na	V;FUT;PRF
+dula	madula na	V;PRF;FUT
 away	magaaway	V;FUT
-pamangkot	nagpamangkot	V;PST;PROG
+pamangkot	nagpamangkot	V;PROG;PST
 buhin	nagbuhin	V;PST
-sugod	magasugod	V;FUT;PROG
-pungko	nagapungko	V;PRS;PROG
+sugod	magasugod	V;PROG;FUT
+pungko	nagapungko	V;PROG;PRS
 hampang	magahampang	V;FUT
 kadlaw	magakadlaw	V;FUT
 hatag	hatag	V;NFIN
-hibi	naghibi pa	V;PST;PRF;PROG
+hibi	naghibi pa	V;PRF+PROG;PST
 hibi	magahibi	V;FUT
-maka/naka	maka	V;FUT;PROG
+maka/naka	maka	V;PROG;FUT
 basa	magabasa	V;FUT
-kinahanglan	nagkinahanglan na	V;PST;PRF
-sulat	nagasulat pa	V;PRS;PRF;PROG
-dalagan	nagdalagan pa	V;PST;PRF;PROG
+kinahanglan	nagkinahanglan na	V;PRF;PST
+sulat	nagasulat pa	V;PRF+PROG;PRS
+dalagan	nagdalagan pa	V;PRF+PROG;PST
 hampang	naghampang	V;PST
-tulog	nagtulog	V;PST;PROG
-patay/tagumatayon	mapatay	V;FUT;PROG
+tulog	nagtulog	V;PROG;PST
+patay/tagumatayon	mapatay	V;PROG;FUT
 mangin/nangin	mangin	V;NFIN
-kuha	nagkuha na	V;PST;PRF
-tan-aw	magatan-aw pa	V;FUT;PRF;PROG
-saot	nagasaot na	V;PRS;PRF
+kuha	nagkuha na	V;PRF;PST
+tan-aw	magatan-aw pa	V;PRF+PROG;FUT
+saot	nagasaot na	V;PRF;PRS
 bulig/buligan	ginbuligan	V;PST
 lakat	magalakat	V;FUT
-byahe	magabyahe na	V;FUT;PRF
-buksan	ginabuksan na	V;PRS;PRF
-kuha	magakuha	V;FUT;PROG
+byahe	magabyahe na	V;PRF;FUT
+buksan	ginabuksan na	V;PRF;PRS
+kuha	magakuha	V;PROG;FUT
 tandog	tandog	V;NFIN
-dugang	magadugang na	V;FUT;PRF
+dugang	magadugang na	V;PRF;FUT
 mangin/nangin	mangin	V;NFIN
 maneho	maneho	V;NFIN
-kuha	nagkuha	V;PST;PROG
-tabo/katabo	natabo na	V;PST;PRF
+kuha	nagkuha	V;PROG;PST
+tabo/katabo	natabo na	V;PRF;PST
 kado	nagakado	V;PRS
 nagon	nagon	V;NFIN
-luto	nagluto pa	V;PST;PRF;PROG
-kaon	nagakaon pa	V;PRS;PRF;PROG
+luto	nagluto pa	V;PRF+PROG;PST
+kaon	nagakaon pa	V;PRF+PROG;PRS
 nagon	maganagon	V;FUT
-bati/batian/pamatian	ginpamantian	V;PST;PROG
-pili	nagpili pa	V;PST;PRF;PROG
-kallimtan	ginkallimtan pa	V;PST;PRF;PROG
-tandog	nagtandog	V;PST;PROG
+bati/batian/pamatian	ginpamantian	V;PROG;PST
+pili	nagpili pa	V;PRF+PROG;PST
+kallimtan	ginkallimtan pa	V;PRF+PROG;PST
+tandog	nagtandog	V;PROG;PST
 sira	magasira	V;FUT
-kado	nagkado pa	V;PST;PRF;PROG
+kado	nagkado pa	V;PRF+PROG;PST
 kinahanglan	kinahanglan	V;NFIN
 sulod	nagsulod	V;PST
 tapos	tapos	V;NFIN
-dumdom	ginadumdom na	V;PRS;PRF
-sugod	nagsugod na	V;PST;PRF
+dumdom	ginadumdom na	V;PRF;PRS
+sugod	nagsugod na	V;PRF;PST
 buka	ginbuka	V;PST
-lakat	naglakat	V;PST;PROG
-kanta	magakanta	V;FUT;PROG
-pungko	nagapungko pa	V;PRS;PRF;PROG
+lakat	naglakat	V;PROG;PST
+kanta	magakanta	V;PROG;FUT
+pungko	nagapungko pa	V;PRF+PROG;PRS
 abot	magaabot	V;FUT
 tapos	ginatapos	V;PRS
 tawag	magatawag	V;FUT
 saot	nagsaot	V;PST
-pamati	magapamati na	V;FUT;PRF
-patay	magapatay	V;FUT;PROG
+pamati	magapamati na	V;PRF;FUT
+patay	magapatay	V;PROG;FUT
 sugod	sugod	V;NFIN
-daog	nag-daog na	V;PST;PRF
+daog	nag-daog na	V;PRF;PST
 dumdom	ginadumdom	V;PRS
-paathag	nagpaathag pa	V;PST;PRF;PROG
+paathag	nagpaathag pa	V;PRF+PROG;PST
 kadlaw	nagakadlaw	V;PRS
-sugod	nagasugod na	V;PRS;PRF
-hampang	magahampang na	V;FUT;PRF
+sugod	nagasugod na	V;PRF;PRS
+hampang	magahampang na	V;PRF;FUT
 patay/tagumatayon	mapatay	V;FUT
-dula	gindula	V;PST;PROG
-baton	ginbaton pa	V;PST;PRF;PROG
-kabuhi	nagkabuhi na	V;PST;PRF
-butang	nagbutang pa	V;PST;PRF;PROG
-aku	ginaaku pa	V;PRS;PRF;PROG
-lupad	nagalupad pa	V;PRS;PRF;PROG
-kuha	magakuha na	V;FUT;PRF
+dula	gindula	V;PROG;PST
+baton	ginbaton pa	V;PRF+PROG;PST
+kabuhi	nagkabuhi na	V;PRF;PST
+butang	nagbutang pa	V;PRF+PROG;PST
+aku	ginaaku pa	V;PRF+PROG;PRS
+lupad	nagalupad pa	V;PRF+PROG;PRS
+kuha	magakuha na	V;PRF;FUT
 gamit	gamit	V;NFIN
-higda	magahigda pa	V;FUT;PRF;PROG
-kanta	nagkanta na	V;PST;PRF
+higda	magahigda pa	V;PRF+PROG;FUT
+kanta	nagkanta na	V;PRF;PST
 pakilala	nagapakilala	V;PRS
-kita	nakita na	V;PRS;PRF
+kita	nakita na	V;PRF;PRS
 maka/naka	maka	V;NFIN
-hular	naghular	V;PST;PROG
-sulat	nagsulat na	V;PST;PRF
-dumdom	gindumdom pa	V;PST;PRF;PROG
-kita/pangita	ginapangita pa	V;PRS;PRF;PROG
-kado	magakado pa	V;FUT;PRF;PROG
-hibi	nagahibi na	V;PRS;PRF
+hular	naghular	V;PROG;PST
+sulat	nagsulat na	V;PRF;PST
+dumdom	gindumdom pa	V;PRF+PROG;PST
+kita/pangita	ginapangita pa	V;PRF+PROG;PRS
+kado	magakado pa	V;PRF+PROG;FUT
+hibi	nagahibi na	V;PRF;PRS
 hibi	nagahibi	V;PRS
-talupangdan/talupangod/talupangdon	pagatalupangdon	V;FUT;PROG
-agda	gin-agda pa	V;PST;PRF;PROG
+talupangdan/talupangod/talupangdon	pagatalupangdon	V;PROG;FUT
+agda	gin-agda pa	V;PRF+PROG;PST
 hangop/hangpan	nahangpan	V;PRS
 ginhawa	magaginhawa	V;FUT
-padala	nagpadala	V;PST;PROG
-dula	gindula pa	V;PST;PRF;PROG
-dugang	magadugang	V;FUT;PROG
-abot	nagaabot	V;PRS;PROG
-hatag	naghatag	V;PST;PROG
+padala	nagpadala	V;PROG;PST
+dula	gindula pa	V;PRF+PROG;PST
+dugang	magadugang	V;PROG;FUT
+abot	nagaabot	V;PROG;PRS
+hatag	naghatag	V;PROG;PST
 baton	magabaton	V;FUT
-hangop/hangpan	mahangpan na	V;FUT;PRF
-hibi	nagahibi	V;PRS;PROG
+hangop/hangpan	mahangpan na	V;PRF;FUT
+hibi	nagahibi	V;PROG;PRS
 saot	nagasaot	V;PRS
-maneho	magamaneho na	V;FUT;PRF
+maneho	magamaneho na	V;PRF;FUT
 away	nagaaway	V;PRS
 tudlo	magatudlo	V;FUT
-saot	nagasaot pa	V;PRS;PRF;PROG
+saot	nagasaot pa	V;PRF+PROG;PRS
 nagon	nagnagon	V;PST
-halok/halukan	ginahalukan pa	V;PRS;PRF;PROG
-kita/pangita	magapangita pa	V;FUT;PRF;PROG
-tan-aw	nagatan-aw na	V;PRS;PRF
-away	magaaway pa	V;FUT;PRF;PROG
-hibalo/hibaluan	ginahibalo	V;PRS;PROG
+halok/halukan	ginahalukan pa	V;PRF+PROG;PRS
+kita/pangita	magapangita pa	V;PRF+PROG;FUT
+tan-aw	nagatan-aw na	V;PRF;PRS
+away	magaaway pa	V;PRF+PROG;FUT
+hibalo/hibaluan	ginahibalo	V;PROG;PRS
 patay	patay	V;NFIN
-paathag	nagpaathag na	V;PST;PRF
+paathag	nagpaathag na	V;PRF;PST
 gustuhan	nagustuhan	V;PRS
-kaon	nagakaon na	V;PRS;PRF
-patay	ginapatay na	V;PRS;PRF
-sulod	nagasulod	V;PRS;PROG
+kaon	nagakaon na	V;PRF;PRS
+patay	ginapatay na	V;PRF;PRS
+sulod	nagasulod	V;PROG;PRS
 na/naga	na	V;NFIN
 dugang	nagadugang	V;PRS
-agda	gin-agda	V;PST;PROG
-tan-aw	nagtan-aw pa	V;PST;PRF;PROG
-kanta	magakanta na	V;FUT;PRF
-hulog/kahulog	nagakahulog	V;PRS;PROG
-kallimtan	ginakallimtan pa	V;PRS;PRF;PROG
-obra	nagaobra	V;PRS;PROG
-maneho	nagmaneho na	V;PST;PRF
+agda	gin-agda	V;PROG;PST
+tan-aw	nagtan-aw pa	V;PRF+PROG;PST
+kanta	magakanta na	V;PRF;FUT
+hulog/kahulog	nagakahulog	V;PROG;PRS
+kallimtan	ginakallimtan pa	V;PRF+PROG;PRS
+obra	nagaobra	V;PROG;PRS
+maneho	nagmaneho na	V;PRF;PST
 siling	siling	V;NFIN
-hampang	naghampang	V;PST;PROG
-agda	ginaagda pa	V;PRS;PRF;PROG
+hampang	naghampang	V;PROG;PST
+agda	ginaagda pa	V;PRF+PROG;PRS
 abot	nag-abot	V;PST
 abot	abot	V;NFIN
 hunahuna	magahunahuna	V;FUT
-inom	magainom	V;FUT;PROG
-dumdom	magadumdom	V;FUT;PROG
+inom	magainom	V;PROG;FUT
+dumdom	magadumdom	V;PROG;FUT
 dalagan	nagdalagan	V;PST
 pakilala	magapakilala	V;FUT
-patay	magapatay na	V;FUT;PRF
-lakat	nagalakat na	V;PRS;PRF
-buka	ginbuka na	V;PST;PRF
+patay	magapatay na	V;PRF;FUT
+lakat	nagalakat na	V;PRF;PRS
+buka	ginbuka na	V;PRF;PST
 mangin/nangin	mangin	V;PRS
-pamangkot	magapamangkot na	V;FUT;PRF
-kita	nakita pa	V;PRS;PRF;PROG
-tawag	nagatawag pa	V;PRS;PRF;PROG
+pamangkot	magapamangkot na	V;PRF;FUT
+kita	nakita pa	V;PRF+PROG;PRS
+tawag	nagatawag pa	V;PRF+PROG;PRS
 luto	luto	V;NFIN
-kadlaw	nagakadlaw	V;PRS;PROG
+kadlaw	nagakadlaw	V;PROG;PRS
 balik	balik	V;NFIN
 gamit	magagamit	V;FUT
 pili	magapili	V;FUT
-sulat	nagsulat	V;PST;PROG
-hunahuna	naghunahuna pa	V;PST;PRF;PROG
+sulat	nagsulat	V;PROG;PST
+hunahuna	naghunahuna pa	V;PRF+PROG;PST
 uyat/uyatan	magauyat	V;FUT
-buka	ginabuka na	V;PRS;PRF
-gustuhan	magustuhan	V;FUT;PROG
-dugang	magadugang pa	V;FUT;PRF;PROG
-patay	ginpatay na	V;PST;PRF
+buka	ginabuka na	V;PRF;PRS
+gustuhan	magustuhan	V;PROG;FUT
+dugang	magadugang pa	V;PRF+PROG;FUT
+patay	ginpatay na	V;PRF;PST
 sulod	nagasulod	V;PRS
 gua	naggua	V;PST
-desisyon	magadesisyon na	V;FUT;PRF
+desisyon	magadesisyon na	V;PRF;FUT
 obra	obra	V;NFIN
-paathag	nagapaathag na	V;PRS;PRF
+paathag	nagapaathag na	V;PRF;PRS
 desisyon	magadesisyon	V;FUT
 lupad	naglupad	V;PST
-kaon	magakaon pa	V;FUT;PRF;PROG
+kaon	magakaon pa	V;PRF+PROG;FUT
 hambal	naghambal	V;PST
-sulit	ginasulit pa	V;PRS;PRF;PROG
-inom	nag-inom pa	V;PST;PRF;PROG
+sulit	ginasulit pa	V;PRF+PROG;PRS
+inom	nag-inom pa	V;PRF+PROG;PST
 bulig/buligan	ginabuligan	V;PRS
-higda	magahigda na	V;FUT;PRF
-dugang	nagdugang	V;PST;PROG
-siling	nagasiling	V;PRS;PROG
-lakat	naglakat pa	V;PST;PRF;PROG
+higda	magahigda na	V;PRF;FUT
+dugang	nagdugang	V;PROG;PST
+siling	nagasiling	V;PROG;PRS
+lakat	naglakat pa	V;PRF+PROG;PST
 dalagan	nagadalagan	V;PRS
-pakita	nagpakita na	V;PST;PRF
+pakita	nagpakita na	V;PRF;PST
 kabuhi	nagakabuhi	V;PRS
-bulig/buligan	magabulig pa	V;FUT;PRF;PROG
-luto	magaluto pa	V;FUT;PRF;PROG
-tapos	ginatapos pa	V;PRS;PRF;PROG
-buhin	nagbuhin pa	V;PST;PRF;PROG
-tulog	magatulog pa	V;FUT;PRF;PROG
-lupad	naglupad na	V;PST;PRF
-padala	magapadala na	V;FUT;PRF
-hunahuna	magahunahuna pa	V;FUT;PRF;PROG
-sugod	nagasugod na	V;PRS;PRF
-patay/tagumatayon	naptay na	V;PST;PRF
+bulig/buligan	magabulig pa	V;PRF+PROG;FUT
+luto	magaluto pa	V;PRF+PROG;FUT
+tapos	ginatapos pa	V;PRF+PROG;PRS
+buhin	nagbuhin pa	V;PRF+PROG;PST
+tulog	magatulog pa	V;PRF+PROG;FUT
+lupad	naglupad na	V;PRF;PST
+padala	magapadala na	V;PRF;FUT
+hunahuna	magahunahuna pa	V;PRF+PROG;FUT
+sugod	nagasugod na	V;PRF;PRS
+patay/tagumatayon	naptay na	V;PRF;PST
 hampang	nagahampang	V;PRS
-kaon	magakaon	V;FUT;PROG
-tan-aw	nagtan-aw	V;PST;PROG
-tindog	nagtindog	V;PST;PROG
-himo	nagahimo pa	V;PRS;PRF;PROG
-kuha	nagakuha	V;PRS;PROG
-kallimtan	ginakallimtan	V;PRS;PROG
+kaon	magakaon	V;PROG;FUT
+tan-aw	nagtan-aw	V;PROG;PST
+tindog	nagtindog	V;PROG;PST
+himo	nagahimo pa	V;PRF+PROG;PRS
+kuha	nagakuha	V;PROG;PRS
+kallimtan	ginakallimtan	V;PROG;PRS
 higda	magahigda	V;FUT
-pamangkot	nagapamangkot pa	V;PRS;PRF;PROG
+pamangkot	nagapamangkot pa	V;PRF+PROG;PRS
 kuha	nagakuha	V;PRS
 tan-aw	tan-aw	V;NFIN
-saot	magasaot	V;FUT;PROG
-baton	ginabaton	V;PRS;PROG
-hunahuna	nagahunahuna	V;PRS;PROG
+saot	magasaot	V;PROG;FUT
+baton	ginabaton	V;PROG;PRS
+hunahuna	nagahunahuna	V;PROG;PRS
 kita	kita	V;NFIN
-pakilala	nagapakilala na	V;PRS;PRF
-tan-aw	magatan-aw	V;FUT;PROG
-tawag	magatawag na	V;FUT;PRF
-kanta	nagakanta pa	V;PRS;PRF;PROG
+pakilala	nagapakilala na	V;PRF;PRS
+tan-aw	magatan-aw	V;PROG;FUT
+tawag	magatawag na	V;PRF;FUT
+kanta	nagakanta pa	V;PRF+PROG;PRS
 pakilala	nagpakilala	V;PST
 kuha	kuha	V;NFIN
-bulig/buligan	ginabuligan	V;PRS;PROG
-padala	nagapadala na	V;PRS;PRF
-siling	nagsiling pa	V;PST;PRF;PROG
-batyag	nagbatyag na	V;PST;PRF
-gamit	nagagamit pa	V;PRS;PRF;PROG
-gamit	naggamit	V;PST;PROG
-kuha	nagakuha pa	V;PRS;PRF;PROG
-bati/batian/pamatian	ginpamatian pa	V;PST;PRF;PROG
-hambal	nagahambal na	V;PRS;PRF
+bulig/buligan	ginabuligan	V;PROG;PRS
+padala	nagapadala na	V;PRF;PRS
+siling	nagsiling pa	V;PRF+PROG;PST
+batyag	nagbatyag na	V;PRF;PST
+gamit	nagagamit pa	V;PRF+PROG;PRS
+gamit	naggamit	V;PROG;PST
+kuha	nagakuha pa	V;PRF+PROG;PRS
+bati/batian/pamatian	ginpamatian pa	V;PRF+PROG;PST
+hambal	nagahambal na	V;PRF;PRS
 pili	nagpili	V;PST
-istorya	nagaistorya na	V;PRS;PRF
-bakal	nagbakal na	V;PST;PRF
+istorya	nagaistorya na	V;PRF;PRS
+bakal	nagbakal na	V;PRF;PST
 desisyon	nagdesisyon	V;PST
-hunahuna	naghunahuna na	V;PST;PRF
+hunahuna	naghunahuna na	V;PRF;PST
 buksan	ginabuksan	V;PRS
-bulig/buligan	magabulig na	V;FUT;PRF
-sugod	nagasugod pa	V;PRS;PRF;PROG
-sabat	ginsabat	V;PST;PROG
-baton	magabaton na	V;FUT;PRF
+bulig/buligan	magabulig na	V;PRF;FUT
+sugod	nagasugod pa	V;PRF+PROG;PRS
+sabat	ginsabat	V;PROG;PST
+baton	magabaton na	V;PRF;FUT
 maneho	nagamaneho	V;PRS
-uyat/uyatan	gin-uyatan pa	V;PST;PRF;PROG
-pamati	nagapamati	V;PRS;PROG
-paathag	nagapaathag pa	V;PRS;PRF;PROG
-hampang	nagahampang pa	V;PRS;PRF;PROG
-singgit	nagsinggit na	V;PST;PRF
+uyat/uyatan	gin-uyatan pa	V;PRF+PROG;PST
+pamati	nagapamati	V;PROG;PRS
+paathag	nagapaathag pa	V;PRF+PROG;PRS
+hampang	nagahampang pa	V;PRF+PROG;PRS
+singgit	nagsinggit na	V;PRF;PST
 hular	hular	V;NFIN
-butang	nagbutang na	V;PST;PRF
-tudlo	nagatudlo na	V;PRS;PRF
-dalagan	magadalagan pa	V;FUT;PRF;PROG
-hunahuna	nagahunahuna pa	V;PRS;PRF;PROG
-higda	naghigda na	V;PST;PRF
-sulit	ginasulit	V;PRS;PROG
+butang	nagbutang na	V;PRF;PST
+tudlo	nagatudlo na	V;PRF;PRS
+dalagan	magadalagan pa	V;PRF+PROG;FUT
+hunahuna	nagahunahuna pa	V;PRF+PROG;PRS
+higda	naghigda na	V;PRF;PST
+sulit	ginasulit	V;PROG;PRS
 istar	istar	V;NFIN
-kita/pangita	ginapangita	V;PRS;PROG
-obra	nagobra na	V;PST;PRF
+kita/pangita	ginapangita	V;PROG;PRS
+obra	nagobra na	V;PRF;PST
 tandog	nagtandog	V;PST
 tindog	nagatindog	V;PRS
-tuon	nagtuon pa	V;PST;PRF;PROG
-yuhom	nagyuhom	V;PST;PROG
-tan-aw	nagtan-aw na	V;PST;PRF
+tuon	nagtuon pa	V;PRF+PROG;PST
+yuhom	nagyuhom	V;PROG;PST
+tan-aw	nagtan-aw na	V;PRF;PST
 byahe	nagbyahe	V;PST
-kinahanglan	magakinahanglan na	V;FUT;PRF
-pakilala	magapakilala na	V;FUT;PRF
-balik	nagabalik	V;PRS;PROG
-pakita	magapakita	V;FUT;PROG
+kinahanglan	magakinahanglan na	V;PRF;FUT
+pakilala	magapakilala na	V;PRF;FUT
+balik	nagabalik	V;PROG;PRS
+pakita	magapakita	V;PROG;FUT
 tabo/katabo	tabo	V;NFIN
 gustuhan	magustuhan	V;FUT
-byahe	magabyahe pa	V;FUT;PRF;PROG
-tawag	nagatawag	V;PRS;PROG
-kabuhi	nagkabuhi	V;PST;PROG
-balik	nagbalik pa	V;PST;PRF;PROG
-pili	magapili na	V;FUT;PRF
-buksan	pagabuksan	V;FUT;PROG
+byahe	magabyahe pa	V;PRF+PROG;FUT
+tawag	nagatawag	V;PROG;PRS
+kabuhi	nagkabuhi	V;PROG;PST
+balik	nagbalik pa	V;PRF+PROG;PST
+pili	magapili na	V;PRF;FUT
+buksan	pagabuksan	V;PROG;FUT
 talupangdan/talupangod/talupangdon	talupangdan	V;NFIN
-gamit	naggamit pa	V;PST;PRF;PROG
-hatag	nagahatag	V;PRS;PROG
-kita/pangita	magapangita	V;FUT;PROG
-sugata	magasugata	V;FUT;PROG
+gamit	naggamit pa	V;PRF+PROG;PST
+hatag	nagahatag	V;PROG;PRS
+kita/pangita	magapangita	V;PROG;FUT
+sugata	magasugata	V;PROG;FUT
 himo	himo	V;NFIN
-paathag	magapaathag	V;FUT;PROG
-ginhawa	nagaginhawa pa	V;PRS;PRF;PROG
-tudlo	nagatudlo	V;PRS;PROG
+paathag	magapaathag	V;PROG;FUT
+ginhawa	nagaginhawa pa	V;PRF+PROG;PRS
+tudlo	nagatudlo	V;PROG;PRS
 pakilala	pakilala	V;NFIN
-pili	nagapili	V;PRS;PROG
+pili	nagapili	V;PROG;PRS
 tudlo	nagtudlo	V;PST
-pungko	nagpungko na	V;PST;PRF
+pungko	nagpungko na	V;PRF;PST
 byahe	byahe	V;NFIN
-paathag	magapaathag pa	V;FUT;PRF;PROG
-away	nagaaway	V;PRS;PROG
-balik	magabalik pa	V;FUT;PRF;PROG
-tulog	nagtulog pa	V;PST;PRF;PROG
-mangin/nangin	mangin	V;FUT;PRF;PROG
-aku	gin-aku na	V;PST;PRF
+paathag	magapaathag pa	V;PRF+PROG;FUT
+away	nagaaway	V;PROG;PRS
+balik	magabalik pa	V;PRF+PROG;FUT
+tulog	nagtulog pa	V;PRF+PROG;PST
+mangin/nangin	mangin	V;PRF+PROG;FUT
+aku	gin-aku na	V;PRF;PST
 baton	magabaton	V;FUT
-tandog	nagtandog na	V;PST;PRF
+tandog	nagtandog na	V;PRF;PST
 pungko	magapungko	V;FUT
 padala	nagapadala	V;PRS
-patay	ginapatay pa	V;PRS;PRF;PROG
-hatag	magahatag	V;FUT;PROG
-bakal	magabakal pa	V;FUT;PRF;PROG
-ginhawa	nagaginhawa	V;PRS;PROG
+patay	ginapatay pa	V;PRF+PROG;PRS
+hatag	magahatag	V;PROG;FUT
+bakal	magabakal pa	V;PRF+PROG;FUT
+ginhawa	nagaginhawa	V;PROG;PRS
 sulat	nagsulat	V;PST
-sugata	nagasugata na	V;PRS;PRF
-lupad	nagalupad na	V;PRS;PRF
-uyat/uyatan	magauyat na	V;FUT;PRF
+sugata	nagasugata na	V;PRF;PRS
+lupad	nagalupad na	V;PRF;PRS
+uyat/uyatan	magauyat na	V;PRF;FUT
 sira	ginasira	V;PRS
-baligya	nagabaligya	V;PRS;PROG
-tudlo	nagtudlo na	V;PST;PRF
+baligya	nagabaligya	V;PROG;PRS
+tudlo	nagtudlo na	V;PRF;PST
 inom	nag-inom	V;PST
-halok/halukan	ginhalukan pa	V;PST;PRF;PROG
-tabo/katabo	nagakatabo	V;PRS;PROG
+halok/halukan	ginhalukan pa	V;PRF+PROG;PST
+tabo/katabo	nagakatabo	V;PROG;PRS
 sarang	nakasarang	V;PST
-kaon	nagkaon	V;PST;PROG
-pamati	nagpamati	V;PST;PROG
-gamit	naggamit na	V;PST;PRF
-tapos	magataps	V;FUT;PROG
-istar	nagistar na	V;PST;PRF
-nagon	nagnagon pa	V;PST;PRF;PROG
-bakal	nagbakal	V;PST;PROG
+kaon	nagkaon	V;PROG;PST
+pamati	nagpamati	V;PROG;PST
+gamit	naggamit na	V;PRF;PST
+tapos	magataps	V;PROG;FUT
+istar	nagistar na	V;PRF;PST
+nagon	nagnagon pa	V;PRF+PROG;PST
+bakal	nagbakal	V;PROG;PST
 dugang	nagdugang	V;PST
 gusto/gustuhan	nagustuhan	V;PST
-luto	nagaluto pa	V;PRS;PRF;PROG
-pungko	magapungko	V;FUT;PROG
-talupangdan/talupangod/talupangdon	ginatalupangod	V;PRS;PROG
-sugod	nagsugod pa	V;PST;PRF;PROG
-gustuhan	nagustuhan	V;PRS;PROG
-abot	nagaabot na	V;PRS;PRF
+luto	nagaluto pa	V;PRF+PROG;PRS
+pungko	magapungko	V;PROG;FUT
+talupangdan/talupangod/talupangdon	ginatalupangod	V;PROG;PRS
+sugod	nagsugod pa	V;PRF+PROG;PST
+gustuhan	nagustuhan	V;PROG;PRS
+abot	nagaabot na	V;PRF;PRS
 kado	kado	V;NFIN
 sulit	ginasulit	V;PRS
 daog	magadaog	V;FUT
 pakita	nagapakita	V;PRS
-hulog/kahulog	mahulog pa	V;FUT;PRF;PROG
-patay/tagumatayon	nagtagumatayon pa	V;PST;PRF;PROG
-buhin	nagbuhin	V;PST;PROG
-tawag	magatawag	V;FUT;PROG
+hulog/kahulog	mahulog pa	V;PRF+PROG;FUT
+patay/tagumatayon	nagtagumatayon pa	V;PRF+PROG;PST
+buhin	nagbuhin	V;PROG;PST
+tawag	magatawag	V;PROG;FUT
 tan-aw	nagtan-aw	V;PST
-gua	nagagua na	V;PRS;PRF
-istar	nagaistar na	V;PRS;PRF
+gua	nagagua na	V;PRF;PRS
+istar	nagaistar na	V;PRF;PRS
 sugod	nagasugod	V;PRS
-hular	nagahular pa	V;PRS;PRF;PROG
+hular	nagahular pa	V;PRF+PROG;PRS
 lupad	magalupad	V;FUT
-kadlaw	nagakadlaw pa	V;PRS;PRF;PROG
-baton	magabaton na	V;FUT;PRF
-gustuhan	magustuhan na	V;FUT;PRF
-sabat	ginasabat	V;PRS;PROG
+kadlaw	nagakadlaw pa	V;PRF+PROG;PRS
+baton	magabaton na	V;PRF;FUT
+gustuhan	magustuhan na	V;PRF;FUT
+sabat	ginasabat	V;PROG;PRS
 saot	saot	V;NFIN
-hambal	nagahambal	V;PRS;PROG
-sira	ginsira pa	V;PST;PRF;PROG
-pamangkot	nagpamangkot pa	V;PST;PRF;PROG
-baton	magabaton	V;FUT;PROG
+hambal	nagahambal	V;PROG;PRS
+sira	ginsira pa	V;PRF+PROG;PST
+pamangkot	nagpamangkot pa	V;PRF+PROG;PST
+baton	magabaton	V;PROG;FUT
 hibalo/hibaluan	nahibaluan	V;PST
-uyat/uyatan	gin-uyatan	V;PST;PROG
-dumdom	ginadumdom pa	V;PRS;PRF;PROG
+uyat/uyatan	gin-uyatan	V;PROG;PST
+dumdom	ginadumdom pa	V;PRF+PROG;PRS
 butang	nagbutang	V;PST
-siling	nagsiling	V;PST;PROG
-baton	magabaton pa	V;FUT;PRF;PROG
-himo	nagahimo	V;PRS;PROG
-bati/batian/pamatian	nabatian na	V;PST;PRF
-maneho	nagmaneho	V;PST;PROG
-hular	naghular pa	V;PST;PRF;PROG
+siling	nagsiling	V;PROG;PST
+baton	magabaton pa	V;PRF+PROG;FUT
+himo	nagahimo	V;PROG;PRS
+bati/batian/pamatian	nabatian na	V;PRF;PST
+maneho	nagmaneho	V;PROG;PST
+hular	naghular pa	V;PRF+PROG;PST
 hular	nagahular	V;PRS
-hambal	naghambal na	V;PST;PRF
+hambal	naghambal na	V;PRF;PST
 buka	buka	V;NFIN
-tan-aw	nagatan-aw pa	V;PRS;PRF;PROG
+tan-aw	nagatan-aw pa	V;PRF+PROG;PRS
 dumdom	gindumdom	V;PST
-maneho	nagamaneho na	V;PRS;PRF
-pili	nagapili pa	V;PRS;PRF;PROG
-sulod	magasulod	V;FUT;PROG
-bulig/buligan	ginbuligan	V;PST;PROG
+maneho	nagamaneho na	V;PRF;PRS
+pili	nagapili pa	V;PRF+PROG;PRS
+sulod	magasulod	V;PROG;FUT
+bulig/buligan	ginbuligan	V;PROG;PST
 singgit	magasinggit	V;FUT
-nagon	maganagon pa	V;FUT;PRF;PROG
-away	nag-away na	V;PST;PRF
-desisyon	nagdesisyon na	V;PST;PRF
-gua	naggua pa	V;PST;PRF;PROG
-maneho	nagamaneho	V;PRS;PROG
-gua	naggua	V;PST;PROG
-pakita	magapakita na	V;FUT;PRF
-ginhawa	nagginhawa na	V;PST;PRF
-basa	nagbasa	V;PST;PROG
-pakita	nagapakita	V;PRS;PROG
-gustuhan	nagustuhan	V;PST;PROG
-padala	nagapadala	V;PRS;PROG
-buka	pagabuka	V;FUT;PROG
-ginhawa	magaginhawa	V;FUT;PROG
+nagon	maganagon pa	V;PRF+PROG;FUT
+away	nag-away na	V;PRF;PST
+desisyon	nagdesisyon na	V;PRF;PST
+gua	naggua pa	V;PRF+PROG;PST
+maneho	nagamaneho	V;PROG;PRS
+gua	naggua	V;PROG;PST
+pakita	magapakita na	V;PRF;FUT
+ginhawa	nagginhawa na	V;PRF;PST
+basa	nagbasa	V;PROG;PST
+pakita	nagapakita	V;PROG;PRS
+gustuhan	nagustuhan	V;PROG;PST
+padala	nagapadala	V;PROG;PRS
+buka	pagabuka	V;PROG;FUT
+ginhawa	magaginhawa	V;PROG;FUT
 dugang	dugang	V;NFIN
-halok/halukan	ginhalukan na	V;PST;PRF
-tabo/katabo	natabo pa	V;PST;PRF;PROG
-tandog	nagtandog pa	V;PST;PRF;PROG
-buksan	ginbuksan pa	V;PST;PRF;PROG
-istar	nagaistar pa	V;PRS;PRF;PROG
-kita	nakita	V;PST;PROG
+halok/halukan	ginhalukan na	V;PRF;PST
+tabo/katabo	natabo pa	V;PRF+PROG;PST
+tandog	nagtandog pa	V;PRF+PROG;PST
+buksan	ginbuksan pa	V;PRF+PROG;PST
+istar	nagaistar pa	V;PRF+PROG;PRS
+kita	nakita	V;PROG;PST
 uyat/uyatan	ginauyatan	V;PRS
 hular	naghular	V;PST
 sarang	makasarang	V;PRS
-kallimtan	ginakallimtan na	V;PRS;PRF
-tapos	gintapos pa	V;PST;PRF;PROG
-agda	magaagda	V;FUT;PROG
-desisyon	nagdesisyon pa	V;PST;PRF;PROG
+kallimtan	ginakallimtan na	V;PRF;PRS
+tapos	gintapos pa	V;PRF+PROG;PST
+agda	magaagda	V;PROG;FUT
+desisyon	nagdesisyon pa	V;PRF+PROG;PST
 uyat/uyatan	uyat	V;NFIN
-aku	nagaaku	V;PRS;PROG
+aku	nagaaku	V;PROG;PRS
 kanta	kanta	V;NFIN
 sugod	nagasugod	V;PRS
-hibi	naghibi	V;PST;PROG
-sabat	magasabat na	V;FUT;PRF
-hibi	magahibi	V;FUT;PROG
-pakilala	magapakilala	V;FUT;PROG
-luto	magaluto	V;FUT;PROG
-istar	nagistar pa	V;PST;PRF;PROG
+hibi	naghibi	V;PROG;PST
+sabat	magasabat na	V;PRF;FUT
+hibi	magahibi	V;PROG;FUT
+pakilala	magapakilala	V;PROG;FUT
+luto	magaluto	V;PROG;FUT
+istar	nagistar pa	V;PRF+PROG;PST
 pakita	magapakita	V;FUT
-hangop/hangpan	ginahangop	V;PRS;PROG
-siling	nagsiling na	V;PST;PRF
-basa	nagabasa pa	V;PRS;PRF;PROG
+hangop/hangpan	ginahangop	V;PROG;PRS
+siling	nagsiling na	V;PRF;PST
+basa	nagabasa pa	V;PRF+PROG;PRS
 tudlo	tudlo	V;NFIN
 baligya	nagabaligya	V;PRS
-sugod	nagsugod pa	V;PST;PRF;PROG
-hampang	magahampang pa	V;FUT;PRF;PROG
-saot	magasaot pa	V;FUT;PRF;PROG
-buksan	pagabuksan na	V;FUT;PRF
+sugod	nagsugod pa	V;PRF+PROG;PST
+hampang	magahampang pa	V;PRF+PROG;FUT
+saot	magasaot pa	V;PRF+PROG;FUT
+buksan	pagabuksan na	V;PRF;FUT
 gustuhan	gustuhan	V;NFIN
-bati/batian/pamatian	ginpamatian pa	V;PRS;PRF;PROG
-bulig/buligan	ginabuligan pa	V;PRS;PRF;PROG
-sira	ginasira na	V;PRS;PRF
-bakal	nagbakal pa	V;PST;PRF;PROG
-lupad	magalupad	V;FUT;PROG
+bati/batian/pamatian	ginpamatian pa	V;PRF+PROG;PRS
+bulig/buligan	ginabuligan pa	V;PRF+PROG;PRS
+sira	ginasira na	V;PRF;PRS
+bakal	nagbakal pa	V;PRF+PROG;PST
+lupad	magalupad	V;PROG;FUT
 tuon	tuon	V;NFIN
 batyag	batyag	V;NFIN
 higda	naghigda	V;PST
 tudlo	nagatudlo	V;PRS
-dugang	nagadugang pa	V;PRS;PRF;PROG
-patay/tagumatayon	mapatay pa	V;FUT;PRF;PROG
+dugang	nagadugang pa	V;PRF+PROG;PRS
+patay/tagumatayon	mapatay pa	V;PRF+PROG;FUT
 dumdom	magadumdom	V;FUT
-abot	magaabot	V;FUT;PROG
-baligya	nagbaligya	V;PST;PROG
-balik	nagbalik na	V;PST;PRF
-agda	magaagda na	V;FUT;PRF
-hibalo/hibaluan	nahibaluan na	V;PRS;PRF
-tudlo	magatudlo na	V;FUT;PRF
-singgit	magasinggit pa	V;FUT;PRF;PROG
+abot	magaabot	V;PROG;FUT
+baligya	nagbaligya	V;PROG;PST
+balik	nagbalik na	V;PRF;PST
+agda	magaagda na	V;PRF;FUT
+hibalo/hibaluan	nahibaluan na	V;PRF;PRS
+tudlo	magatudlo na	V;PRF;FUT
+singgit	magasinggit pa	V;PRF+PROG;FUT
 tulog	magatulog	V;FUT
-talupangdan/talupangod/talupangdon	natalupangdan na	V;PST;PRF
-sira	magasira na	V;FUT;PRF
-desisyon	nagadesisyon na	V;PRS;PRF
-kado	nagakado	V;PRS;PROG
+talupangdan/talupangod/talupangdon	natalupangdan na	V;PRF;PST
+sira	magasira na	V;PRF;FUT
+desisyon	nagadesisyon na	V;PRF;PRS
+kado	nagakado	V;PROG;PRS
 higugma/higugmaon	higugma	V;NFIN
-sugod	nagasugod	V;PRS;PROG
-paathag	magapaathag na	V;FUT;PRF
-tindog	nagtindog na	V;PST;PRF
+sugod	nagasugod	V;PROG;PRS
+paathag	magapaathag na	V;PRF;FUT
+tindog	nagtindog na	V;PRF;PST
 agda	agda	V;NFIN
 paathag	paathag	V;NFIN
 kuha	magakuha	V;FUT
 hibalo/hibaluan	nakahibalo	V;PRS
-talupangdan/talupangod/talupangdon	matalupangdan na	V;FUT;PRF
+talupangdan/talupangod/talupangdon	matalupangdan na	V;PRF;FUT
 tawag	nagatawag	V;PRS
-byahe	magabyahe	V;FUT;PROG
+byahe	magabyahe	V;PROG;FUT
 higda	higda	V;NFIN
-patay/tagumatayon	napatay na	V;PRS;PRF
+patay/tagumatayon	napatay na	V;PRF;PRS
 pamati	pamati	V;NFIN
 na/naga	na	V;PST
 kinahanglan	nagakinahanglan	V;PRS
 agda	ginaagda	V;PRS
-pakilala	magapakilala pa	V;FUT;PRF;PROG
-himo	magahimo na	V;FUT;PRF
-tindog	magatindog pa	V;FUT;PRF;PROG
-buhin	nagabuhin	V;PRS;PROG
+pakilala	magapakilala pa	V;PRF+PROG;FUT
+himo	magahimo na	V;PRF;FUT
+tindog	magatindog pa	V;PRF+PROG;FUT
+buhin	nagabuhin	V;PROG;PRS
 luto	nagluto	V;PST
-kado	nagkado na	V;PST;PRF
-pili	nagpili na	V;PST;PRF
-himo	magahimo pa	V;FUT;PRF;PROG
+kado	nagkado na	V;PRF;PST
+pili	nagpili na	V;PRF;PST
+himo	magahimo pa	V;PRF+PROG;FUT
 dula	nadula	V;PRS
-dugang	nagadugang na	V;PRS;PRF
-obra	magaobra pa	V;FUT;PRF;PROG
+dugang	nagadugang na	V;PRF;PRS
+obra	magaobra pa	V;PRF+PROG;FUT
 pamati	nagpamati	V;PST
-paathag	nagapaathag	V;PRS;PROG
-halok/halukan	ginahalukan	V;PRS;PROG
-sugata	magasugata na	V;FUT;PRF
-kanta	nagakanta	V;PRS;PROG
-bakal	nagabakal na	V;PRS;PRF
-hibalo/hibaluan	nahibaluan na	V;PST;PRF
+paathag	nagapaathag	V;PROG;PRS
+halok/halukan	ginahalukan	V;PROG;PRS
+sugata	magasugata na	V;PRF;FUT
+kanta	nagakanta	V;PROG;PRS
+bakal	nagabakal na	V;PRF;PRS
+hibalo/hibaluan	nahibaluan na	V;PRF;PST
 sabat	ginsabat	V;PST
-pakita	nagapakita na	V;PRS;PRF
-bulig/buligan	magabulig	V;FUT;PROG
-daw	daw	V;PST;PRF
+pakita	nagapakita na	V;PRF;PRS
+bulig/buligan	magabulig	V;PROG;FUT
+daw	daw	V;PRF;PST
 baton	ginabaton	V;PRS
 tindog	tindog	V;NFIN
-gamit	magagamit	V;FUT;PROG
+gamit	magagamit	V;PROG;FUT
 hunahuna	naghunahuna	V;PST
-kallimtan	pagakallimtan	V;FUT;PROG
+kallimtan	pagakallimtan	V;PROG;FUT
 butang	magabutang	V;FUT
 bulig/buligan	bulig	V;NFIN
 higugma/higugmaon	pagahigugmaon	V;FUT
-dula	madula pa	V;FUT;PRF;PROG
-kita/pangita	nakita na	V;PRS;PRF
-tuon	magatuon pa	V;FUT;PRF;PROG
-buhin	nagabuhin na	V;PRS;PRF
-sugod	nagsugod	V;PST;PROG
-baligya	nagabaligya na	V;PRS;PRF
+dula	madula pa	V;PRF+PROG;FUT
+kita/pangita	nakita na	V;PRF;PRS
+tuon	magatuon pa	V;PRF+PROG;FUT
+buhin	nagabuhin na	V;PRF;PRS
+sugod	nagsugod	V;PROG;PST
+baligya	nagabaligya na	V;PRF;PRS
 hibalo/hibaluan	mahibaluan	V;FUT
 daw	daw	V;NFIN
-patay/tagumatayon	mapatay na	V;FUT;PRF
+patay/tagumatayon	mapatay na	V;PRF;FUT
 pamangkot	magapamangkot	V;FUT
 balik	magabalik	V;FUT
 kallimtan	kallimtan	V;NFIN
-siling	magasiling	V;FUT;PROG
-daog	nagadaog na	V;PRS;PRF
-siling	nagasiling na	V;PRS;PRF
-bati/batian/pamatian	nabatian na	V;PRS;PRF
-patay	ginpatay pa	V;PST;PRF;PROG
+siling	magasiling	V;PROG;FUT
+daog	nagadaog na	V;PRF;PRS
+siling	nagasiling na	V;PRF;PRS
+bati/batian/pamatian	nabatian na	V;PRF;PRS
+patay	ginpatay pa	V;PRF+PROG;PST
 hulog/kahulog	nagakahulog	V;PRS
-tandog	nagatandog na	V;PRS;PRF
-baton	ginbaton na	V;PST;PRF
-halok/halukan	magahalok	V;FUT;PROG
-kita	makita na	V;FUT;PRF
-pakita	nagpakita pa	V;PST;PRF;PROG
-baton	ginbaton	V;PST;PROG
+tandog	nagatandog na	V;PRF;PRS
+baton	ginbaton na	V;PRF;PST
+halok/halukan	magahalok	V;PROG;FUT
+kita	makita na	V;PRF;FUT
+pakita	nagpakita pa	V;PRF+PROG;PST
+baton	ginbaton	V;PROG;PST
 pakita	pakita	V;NFIN
-kaon	nagakaon	V;PRS;PROG
-baton	ginabaton	V;PRS;PROG
-pungko	magapungko pa	V;FUT;PRF;PROG
-basa	magabasa pa	V;FUT;PRF;PROG
-aku	nag-aku	V;PST;PROG
+kaon	nagakaon	V;PROG;PRS
+baton	ginabaton	V;PROG;PRS
+pungko	magapungko pa	V;PRF+PROG;FUT
+basa	magabasa pa	V;PRF+PROG;FUT
+aku	nag-aku	V;PROG;PST
 batyag	nagbatyag	V;PST
 hambal	nagahambal	V;PRS
-kita	nakita pa	V;PST;PRF;PROG
-hibalo/hibaluan	mahibaluan pa	V;FUT;PRF;PROG
-sabat	magasabat	V;FUT;PROG
-baligya	magabaligya	V;FUT;PROG
-luto	nagluto	V;PST;PROG
-tapos	magataps na	V;FUT;PRF
-lakat	magalakat pa	V;FUT;PRF;PROG
-buhin	magabuhin	V;FUT;PROG
-kabuhi	nagakabuhi na	V;PRS;PRF
+kita	nakita pa	V;PRF+PROG;PST
+hibalo/hibaluan	mahibaluan pa	V;PRF+PROG;FUT
+sabat	magasabat	V;PROG;FUT
+baligya	magabaligya	V;PROG;FUT
+luto	nagluto	V;PROG;PST
+tapos	magataps na	V;PRF;FUT
+lakat	magalakat pa	V;PRF+PROG;FUT
+buhin	magabuhin	V;PROG;FUT
+kabuhi	nagakabuhi na	V;PRF;PRS
 hampang	hampang	V;NFIN
-dumdom	gindumdom na	V;PST;PRF
+dumdom	gindumdom na	V;PRF;PST
 baton	ginbaton	V;PST
-hulog/kahulog	nakagahulog pa	V;PST;PRF;PROG
-byahe	nagbyahe na	V;PST;PRF
-lupad	nagalupad	V;PRS;PROG
-sugod	magasugod pa	V;FUT;PRF;PROG
-kanta	nagkanta	V;PST;PROG
+hulog/kahulog	nakagahulog pa	V;PRF+PROG;PST
+byahe	nagbyahe na	V;PRF;PST
+lupad	nagalupad	V;PROG;PRS
+sugod	magasugod pa	V;PRF+PROG;FUT
+kanta	nagkanta	V;PROG;PST
 tan-aw	nagatan-aw	V;PRS
 singgit	nagasinggit	V;PRS
 tabo/katabo	natabo	V;PST
-lakat	nagalakat	V;PRS;PROG
-buhin	nagabuhin pa	V;PRS;PRF;PROG
+lakat	nagalakat	V;PROG;PRS
+buhin	nagabuhin pa	V;PRF+PROG;PRS
 tandog	magatandog	V;FUT
-talupangdan/talupangod/talupangdon	natalupangdan na	V;PRS;PRF
-baligya	nagbaligya pa	V;PST;PRF;PROG
-away	nagaaway pa	V;PRS;PRF;PROG
+talupangdan/talupangod/talupangdon	natalupangdan na	V;PRF;PRS
+baligya	nagbaligya pa	V;PRF+PROG;PST
+away	nagaaway pa	V;PRF+PROG;PRS
 hulog/kahulog	nahulog	V;PST
-buksan	ginabuksan	V;PRS;PROG
+buksan	ginabuksan	V;PROG;PRS
 kabuhi	nagkabuhi	V;PST
-patay/tagumatayon	nagatagumatayon	V;PRS;PROG
-buka	ginabuka	V;PRS;PROG
-tuon	nagatuon na	V;PRS;PRF
+patay/tagumatayon	nagatagumatayon	V;PROG;PRS
+buka	ginabuka	V;PROG;PRS
+tuon	nagatuon na	V;PRF;PRS
 pili	nagapili	V;PRS
-gua	naggua na	V;PST;PRF
-hibi	magahibi pa	V;FUT;PRF;PROG
+gua	naggua na	V;PRF;PST
+hibi	magahibi pa	V;PRF+PROG;FUT
 tindog	magatindog	V;FUT
-baton	ginbaton na	V;PST;PRF
+baton	ginbaton na	V;PRF;PST
 talupangdan/talupangod/talupangdon	natalupangdan	V;PST
-dalagan	nagdalagan	V;PST;PROG
+dalagan	nagdalagan	V;PROG;PST
 patay	ginpatay	V;PST
 kado	magakado	V;FUT
-abot	nag-abot pa	V;PST;PRF;PROG
-pili	magapili	V;FUT;PROG
-mangin/nangin	nangin	V;PST;PRF
+abot	nag-abot pa	V;PRF+PROG;PST
+pili	magapili	V;PROG;FUT
+mangin/nangin	nangin	V;PRF;PST
 patay/tagumatayon	patay	V;NFIN
 sulat	nagasulat	V;PRS
-gua	nagagua pa	V;PRS;PRF;PROG
+gua	nagagua pa	V;PRF+PROG;PRS
 byahe	magabyahe	V;FUT
-baton	ginbaton pa	V;PST;PRF;PROG
-agda	ginaagda	V;PRS;PROG
-mangin/nangin	nangin	V;PRS;PRF
+baton	ginbaton pa	V;PRF+PROG;PST
+agda	ginaagda	V;PROG;PRS
+mangin/nangin	nangin	V;PRF;PRS
 tuon	magatuon	V;FUT
 abot	nagaabot	V;PRS
-lakat	magalakat	V;FUT;PROG
-kinahanglan	nagakinahanglan	V;PRS;PROG
+lakat	magalakat	V;PROG;FUT
+kinahanglan	nagakinahanglan	V;PROG;PRS
 singgit	singgit	V;NFIN
-pakita	nagpakita	V;PST;PROG
-kabuhi	magakabuhi pa	V;FUT;PRF;PROG
-hatag	naghatag na	V;PST;PRF
+pakita	nagpakita	V;PROG;PST
+kabuhi	magakabuhi pa	V;PRF+PROG;FUT
+hatag	naghatag na	V;PRF;PST
 buka	ginabuka	V;PRS
-hulog/kahulog	nagakahulog	V;PST;PROG
-sulat	magasulat na	V;FUT;PRF
+hulog/kahulog	nagakahulog	V;PROG;PST
+sulat	magasulat na	V;PRF;FUT
 basa	nagabasa	V;PRS
-luto	nagaluto na	V;PRS;PRF
-yuhom	nagyuhom na	V;PST;PRF
-balik	nagbalik	V;PST;PROG
-hatag	naghatag pa	V;PST;PRF;PROG
-istar	magaistar na	V;FUT;PRF
+luto	nagaluto na	V;PRF;PRS
+yuhom	nagyuhom na	V;PRF;PST
+balik	nagbalik	V;PROG;PST
+hatag	naghatag pa	V;PRF+PROG;PST
+istar	magaistar na	V;PRF;FUT
 tawag	tawag	V;NFIN
-hular	nagahular na	V;PRS;PRF
-lupad	naglupad pa	V;PST;PRF;PROG
-basa	magabasa na	V;FUT;PRF
-pakita	magapakita pa	V;FUT;PRF;PROG
+hular	nagahular na	V;PRF;PRS
+lupad	naglupad pa	V;PRF+PROG;PST
+basa	magabasa na	V;PRF;FUT
+pakita	magapakita pa	V;PRF+PROG;FUT
 basa	basa	V;NFIN
-maneho	magamaneho pa	V;FUT;PRF;PROG
-sira	ginsira	V;PST;PROG
-inom	magainom na	V;FUT;PRF
+maneho	magamaneho pa	V;PRF+PROG;FUT
+sira	ginsira	V;PROG;PST
+inom	magainom na	V;PRF;FUT
 talupangdan/talupangod/talupangdon	matalupangdon	V;FUT
-himo	naghimo	V;PST;PROG
+himo	naghimo	V;PROG;PST
 maneho	magamaneho	V;FUT
-butang	nagabutang na	V;PRS;PRF
-hatag	nagahatag na	V;PRS;PRF
-batyag	magabatyag	V;FUT;PROG
-abot	magaabot na	V;FUT;PRF
+butang	nagabutang na	V;PRF;PRS
+hatag	nagahatag na	V;PRF;PRS
+batyag	magabatyag	V;PROG;FUT
+abot	magaabot na	V;PRF;FUT
 talupangdan/talupangod/talupangdon	natalupangdan	V;PRS
-higda	nagahigda	V;PRS;PROG
-sulod	nagsulod na	V;PST;PRF
-luto	magaluto na	V;FUT;PRF
+higda	nagahigda	V;PROG;PRS
+sulod	nagsulod na	V;PRF;PST
+luto	magaluto na	V;PRF;FUT
 pakita	pakita	V;NFIN
-saot	nagsaot pa	V;PST;PRF;PROG
-sulat	nagasulat na	V;PRS;PRF
-dalagan	nagadalagan pa	V;PRS;PRF;PROG
-inom	nag-inom	V;PST;PROG
-pungko	nagpungko	V;PST;PROG
+saot	nagsaot pa	V;PRF+PROG;PST
+sulat	nagasulat na	V;PRF;PRS
+dalagan	nagadalagan pa	V;PRF+PROG;PRS
+inom	nag-inom	V;PROG;PST
+pungko	nagpungko	V;PROG;PST
 gustuhan	nagustuhan	V;PST
 patay/tagumatayon	napatay	V;PST
-kaon	nagkaon na	V;PST;PRF
-talupangdan/talupangod/talupangdon	gintalupangod pa	V;PST;PRF;PROG
-hambal	magahambal pa	V;FUT;PRF;PROG
+kaon	nagkaon na	V;PRF;PST
+talupangdan/talupangod/talupangdon	gintalupangod pa	V;PRF+PROG;PST
+hambal	magahambal pa	V;PRF+PROG;FUT
 pungko	nagapungko	V;PRS
-basa	nagbasa na	V;PST;PRF
-tindog	magatindog na	V;FUT;PRF
-istorya	nagaistorya	V;PRS;PROG
+basa	nagbasa na	V;PRF;PST
+tindog	magatindog na	V;PRF;FUT
+istorya	nagaistorya	V;PROG;PRS
 maneho	nagmaneho	V;PST
-byahe	nagabyahe na	V;PRS;PRF
-sulit	ginsulit pa	V;PST;PRF;PROG
+byahe	nagabyahe na	V;PRF;PRS
+sulit	ginsulit pa	V;PRF+PROG;PST
 aku	nag-aku	V;PST
 sugod	magasugod	V;FUT
-sabat	ginasabat na	V;PRS;PRF
-maneho	nagmaneho pa	V;PST;PRF;PROG
+sabat	ginasabat na	V;PRF;PRS
+maneho	nagmaneho pa	V;PRF+PROG;PST
 obra	magaobra	V;FUT
-uyat/uyatan	ginauyatan pa	V;PRS;PRF;PROG
+uyat/uyatan	ginauyatan pa	V;PRF+PROG;PRS
 kanta	nagakanta	V;PRS
 saot	magasaot	V;FUT
-agda	ginaagda na	V;PRS;PRF
-kuha	nagkuha pa	V;PST;PRF;PROG
-hambal	magahambal	V;FUT;PROG
-daog	magadaog	V;FUT;PROG
-tapos	ginatapos na	V;PRS;PRF
-mangin/nangin	nangin	V;PST;PROG
-dumdom	gindumdom	V;PST;PROG
+agda	ginaagda na	V;PRF;PRS
+kuha	nagkuha pa	V;PRF+PROG;PST
+hambal	magahambal	V;PROG;FUT
+daog	magadaog	V;PROG;FUT
+tapos	ginatapos na	V;PRF;PRS
+mangin/nangin	nangin	V;PROG;PST
+dumdom	gindumdom	V;PROG;PST
 bakal	magabakal	V;FUT
 balik	nagabalik	V;PRS
 kabuhi	magakabuhi	V;FUT
-dumdom	magadumdom pa	V;FUT;PRF;PROG
-hibi	nagahibi pa	V;PRS;PRF;PROG
-gua	magagua na	V;FUT;PRF
-patay/tagumatayon	nagatagumatayon pa	V;PRS;PRF;PROG
-hampang	nagahampang	V;PRS;PROG
+dumdom	magadumdom pa	V;PRF+PROG;FUT
+hibi	nagahibi pa	V;PRF+PROG;PRS
+gua	magagua na	V;PRF;FUT
+patay/tagumatayon	nagatagumatayon pa	V;PRF+PROG;PRS
+hampang	nagahampang	V;PROG;PRS
 hangop/hangpan	mahangpan	V;FUT
-dula	nadula na	V;PST;PRF
+dula	nadula na	V;PRF;PST
 lakat	nagalakat	V;PRS
-yuhom	magayuhom pa	V;FUT;PRF;PROG
+yuhom	magayuhom pa	V;PRF+PROG;FUT
 kita	nakita	V;PRS
-kadlaw	magakadlaw na	V;FUT;PRF
-hampang	naghampang na	V;PST;PRF
+kadlaw	magakadlaw na	V;PRF;FUT
+hampang	naghampang na	V;PRF;PST
 yuhom	nagyuhom	V;PST
 pungko	pungko	V;NFIN
 baton	ginabaton	V;PRS
-sugod	nagasugod	V;PRS;PROG
-butang	nagabutang pa	V;PRS;PRF;PROG
-sulit	magasulit pa	V;FUT;PRF;PROG
+sugod	nagasugod	V;PROG;PRS
+butang	nagabutang pa	V;PRF+PROG;PRS
+sulit	magasulit pa	V;PRF+PROG;FUT
 pili	pili	V;NFIN
-sulit	ginasulit na	V;PRS;PRF
-daog	nag-daog pa	V;PST;PRF;PROG
-hangop/hangpan	nahangpan na	V;PST;PRF
-hibalo/hibaluan	ginhibalo pa	V;PST;PRF;PROG
-butang	magabutang na	V;FUT;PRF
-padala	nagpadala pa	V;PST;PRF;PROG
+sulit	ginasulit na	V;PRF;PRS
+daog	nag-daog pa	V;PRF+PROG;PST
+hangop/hangpan	nahangpan na	V;PRF;PST
+hibalo/hibaluan	ginhibalo pa	V;PRF+PROG;PST
+butang	magabutang na	V;PRF;FUT
+padala	nagpadala pa	V;PRF+PROG;PST
 patay/tagumatayon	napatay	V;PRS
-talupangdan/talupangod/talupangdon	ginatalupangod pa	V;PRS;PRF;PROG
+talupangdan/talupangod/talupangdon	ginatalupangod pa	V;PRF+PROG;PRS
 himo	naghimo	V;PST
 pamangkot	nagpamangkot	V;PST
-hampang	magahampang	V;FUT;PROG
-dugang	nagdugang na	V;PST;PRF
-sugata	nagsugata pa	V;PST;PRF;PROG
-balik	magabalik na	V;FUT;PRF
+hampang	magahampang	V;PROG;FUT
+dugang	nagdugang na	V;PRF;PST
+sugata	nagsugata pa	V;PRF+PROG;PST
+balik	magabalik na	V;PRF;FUT
 aku	magaaku	V;FUT
 gamit	naggamit	V;PST
-baton	magabaton	V;FUT;PROG
-aku	magaaku	V;FUT;PROG
-hular	nagahular	V;PRS;PROG
-sulat	nagsulat pa	V;PST;PRF;PROG
-mangin/nangin	nangin	V;PST;PRF;PROG
-baton	ginabaton pa	V;PRS;PRF;PROG
-higugma/higugmaon	ginahigugma	V;PRS;PROG
-dula	madula	V;FUT;PROG
-lupad	magalupad na	V;FUT;PRF
-pungko	nagapungko na	V;PRS;PRF
-sugod	nagsugod	V;PST;PROG
+baton	magabaton	V;PROG;FUT
+aku	magaaku	V;PROG;FUT
+hular	nagahular	V;PROG;PRS
+sulat	nagsulat pa	V;PRF+PROG;PST
+mangin/nangin	nangin	V;PRF+PROG;PST
+baton	ginabaton pa	V;PRF+PROG;PRS
+higugma/higugmaon	ginahigugma	V;PROG;PRS
+dula	madula	V;PROG;FUT
+lupad	magalupad na	V;PRF;FUT
+pungko	nagapungko na	V;PRF;PRS
+sugod	nagsugod	V;PROG;PST
 desisyon	nagadesisyon	V;PRS
-hular	naghular na	V;PST;PRF
+hular	naghular na	V;PRF;PST
 hambal	magahambal	V;FUT
-obra	nagaobra na	V;PRS;PRF
-kabuhi	nagkabuhi pa	V;PST;PRF;PROG
+obra	nagaobra na	V;PRF;PRS
+kabuhi	nagkabuhi pa	V;PRF+PROG;PST
 siling	nagasiling	V;PRS
 mangin/nangin	nangin	V;PST
-sira	ginsira na	V;PST;PRF
-istorya	magaistorya	V;FUT;PROG
-bulig/buligan	ginbuligan na	V;PST;PRF
+sira	ginsira na	V;PRF;PST
+istorya	magaistorya	V;PROG;FUT
+bulig/buligan	ginbuligan na	V;PRF;PST
 kinahanglan	nagkinahanglan	V;PST
-hangop/hangpan	mahangpan pa	V;FUT;PRF;PROG
+hangop/hangpan	mahangpan pa	V;PRF+PROG;FUT
 obra	nagaobra	V;PRS
 sugata	magasugata	V;FUT
-dalagan	magadalagan na	V;FUT;PRF
+dalagan	magadalagan na	V;PRF;FUT
 istar	nagaistar	V;PRS
 kadlaw	nagkadlaw	V;PST
 hulog/kahulog	hulog	V;NFIN
-halok/halukan	ginhalukan	V;PST;PROG
+halok/halukan	ginhalukan	V;PROG;PST
 paathag	nagapaathag	V;PRS
 istorya	magaistorya	V;FUT
 sarang	sarang	V;NFIN
-kadlaw	nagkadlaw	V;PST;PROG
+kadlaw	nagkadlaw	V;PROG;PST
 tapos	gintapos	V;PST
-tuon	magatuon na	V;FUT;PRF
-uyat/uyatan	magauyat pa	V;FUT;PRF;PROG
-kabuhi	magakabuhi	V;FUT;PROG
-sugata	nagasugata pa	V;PRS;PRF;PROG
+tuon	magatuon na	V;PRF;FUT
+uyat/uyatan	magauyat pa	V;PRF+PROG;FUT
+kabuhi	magakabuhi	V;PROG;FUT
+sugata	nagasugata pa	V;PRF+PROG;PRS
 tuon	nagatuon	V;PRS
-siling	magasiling pa	V;FUT;PRF;PROG
-hambal	naghambal	V;PST;PROG
+siling	magasiling pa	V;PRF+PROG;FUT
+hambal	naghambal	V;PROG;PST
 tulog	nagtulog	V;PST
-tabo/katabo	matabo na	V;FUT;PRF
-dugang	nagadugang	V;PRS;PROG
-hambal	nagahambal pa	V;PRS;PRF;PROG
-himo	naghimo pa	V;PST;PRF;PROG
-bati/batian/pamatian	ginpamantian	V;PRS;PROG
+tabo/katabo	matabo na	V;PRF;FUT
+dugang	nagadugang	V;PROG;PRS
+hambal	nagahambal pa	V;PRF+PROG;PRS
+himo	naghimo pa	V;PRF+PROG;PST
+bati/batian/pamatian	ginpamantian	V;PROG;PRS
 batyag	nagabatyag	V;PRS
 tabo/katabo	nagakatabo	V;PRS
-higugma/higugmaon	ginhigugma na	V;PST;PRF
+higugma/higugmaon	ginhigugma na	V;PRF;PST
 kita/pangita	kita	V;NFIN
-gamit	magagamit na	V;FUT;PRF
-kaon	nagkaon pa	V;PST;PRF;PROG
-sulat	nagasulat	V;PRS;PROG
-singgit	magasinggit na	V;FUT;PRF
-tindog	nagatindog	V;PRS;PROG
-bati/batian/pamatian	pagapamatian	V;FUT;PROG
-kanta	nagkanta pa	V;PST;PRF;PROG
+gamit	magagamit na	V;PRF;FUT
+kaon	nagkaon pa	V;PRF+PROG;PST
+sulat	nagasulat	V;PROG;PRS
+singgit	magasinggit na	V;PRF;FUT
+tindog	nagatindog	V;PROG;PRS
+bati/batian/pamatian	pagapamatian	V;PROG;FUT
+kanta	nagkanta pa	V;PRF+PROG;PST
 sabat	sabat	V;NFIN
 bakal	bakal	V;NFIN
 away	nag-away	V;PST
-kita	makita pa	V;FUT;PRF;PROG
-kaon	magakaon na	V;FUT;PRF
+kita	makita pa	V;PRF+PROG;FUT
+kaon	magakaon na	V;PRF;FUT
 bati/batian/pamatian	bati	V;NFIN
-gua	nagagua	V;PRS;PROG
+gua	nagagua	V;PROG;PRS
 baton	baton	V;NFIN
 bakal	nagbakal	V;PST
 sulit	magasulit	V;FUT
 halok/halukan	halok	V;NFIN
 higugma/higugmaon	ginahigugma	V;PRS
-kita/pangita	magapangita na	V;FUT;PRF
+kita/pangita	magapangita na	V;PRF;FUT
 paathag	nagpaathag	V;PST
-byahe	nagbyahe	V;PST;PROG
-pakita	nagapakita na	V;PRS;PRF
-istar	magaistar pa	V;FUT;PRF;PROG
-desisyon	magadesisyon	V;FUT;PROG
+byahe	nagbyahe	V;PROG;PST
+pakita	nagapakita na	V;PRF;PRS
+istar	magaistar pa	V;PRF+PROG;FUT
+desisyon	magadesisyon	V;PROG;FUT
 buka	pagabuka	V;FUT
-uyat/uyatan	ginauyatan na	V;PRS;PRF
+uyat/uyatan	ginauyatan na	V;PRF;PRS
 pamangkot	pamangkot	V;NFIN
-pamati	nagapamati pa	V;PRS;PRF;PROG
+pamati	nagapamati pa	V;PRF+PROG;PRS
 baligya	magabaligya	V;FUT
-buhin	magabuhin pa	V;FUT;PRF;PROG
-butang	nagabutang	V;PRS;PROG
-sugata	nagsugata	V;PST;PROG
-pamangkot	nagpamangkot na	V;PST;PRF
-hibi	magahibi na	V;FUT;PRF
+buhin	magabuhin pa	V;PRF+PROG;FUT
+butang	nagabutang	V;PROG;PRS
+sugata	nagsugata	V;PROG;PST
+pamangkot	nagpamangkot na	V;PRF;PST
+hibi	magahibi na	V;PRF;FUT
 lupad	nagalupad	V;PRS
-pili	nagpili	V;PST;PROG
+pili	nagpili	V;PROG;PST
 baton	baton	V;NFIN
-obra	nagaobra pa	V;PRS;PRF;PROG
-hular	magahular pa	V;FUT;PRF;PROG
+obra	nagaobra pa	V;PRF+PROG;PRS
+hular	magahular pa	V;PRF+PROG;FUT
 sugata	nagsugata	V;PST
-tabo/katabo	matabo pa	V;FUT;PRF;PROG
+tabo/katabo	matabo pa	V;PRF+PROG;FUT
 daog	nagadaog	V;PRS
-pamati	nagpamati pa	V;PST;PRF;PROG
-tapos	gintapos	V;PST;PROG
+pamati	nagpamati pa	V;PRF+PROG;PST
+tapos	gintapos	V;PROG;PST
 dula	madula	V;FUT
-istorya	magaistorya na	V;FUT;PRF
-nagon	maganagon	V;FUT;PROG
-sira	magasira pa	V;FUT;PRF;PROG
-hampang	naghampang pa	V;PST;PRF;PROG
-tuon	magatuon	V;FUT;PROG
+istorya	magaistorya na	V;PRF;FUT
+nagon	maganagon	V;PROG;FUT
+sira	magasira pa	V;PRF+PROG;FUT
+hampang	naghampang pa	V;PRF+PROG;PST
+tuon	magatuon	V;PROG;FUT
 balik	nagbalik	V;PST
 yuhom	nagayuhom	V;PRS
-siling	nagasiling pa	V;PRS;PRF;PROG
-patay	ginapatay	V;PRS;PROG
+siling	nagasiling pa	V;PRF+PROG;PRS
+patay	ginapatay	V;PROG;PRS
 tabo/katabo	matabo	V;FUT
-lupad	magalupad pa	V;FUT;PRF;PROG
-hampang	nagahampang na	V;PRS;PRF
-kallimtan	ginkallimtan	V;PST;PROG
-sulit	ginsulit na	V;PST;PRF
-agda	gin-agda na	V;PST;PRF
-lakat	magalakat na	V;FUT;PRF
-tawag	nagtawag pa	V;PST;PRF;PROG
+lupad	magalupad pa	V;PRF+PROG;FUT
+hampang	nagahampang na	V;PRF;PRS
+kallimtan	ginkallimtan	V;PROG;PST
+sulit	ginsulit na	V;PRF;PST
+agda	gin-agda na	V;PRF;PST
+lakat	magalakat na	V;PRF;FUT
+tawag	nagtawag pa	V;PRF+PROG;PST
