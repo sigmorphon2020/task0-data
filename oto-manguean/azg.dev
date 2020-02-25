@@ -1,5 +1,5 @@
 n⁵ndí⁵ntkoʔ³⁴	n⁵ndí⁵ntkɔ³⁴ɔ⁵	V;IRR;PL;1+INCL;FUT
-n⁵ndí⁵hmeʔ³	tí⁵hmeʔ³ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵hmeʔ³	tí⁵hmeʔ³ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵ skù¹	to³ndí⁵skù¹ha³	V;PROG;SG;1;PST
 n⁵ndí⁵hndɛ¹²	kwí⁵hndɛ¹²hâ³¹	V;SBJV;PL;1+EXCL
 n⁵ndí⁵xke³	n⁵ndí⁵xkê³¹	V;IRR;PL;1+EXCL;FUT
@@ -11,7 +11,7 @@ n⁵ndí⁵xuè¹	to³ndí⁵xuè¹én⁵	V;PROG;SG;3;PST
 n⁵ndʔuà¹	ki³ndʔuà¹hú⁵	V;SBJV;SG;3
 n⁵ndí⁵ndyè¹	bá⁵ndí⁵ndyè¹há⁵á⁵	V;IPFV;PL;1+INCL;PRS
 n⁵ndioʔ³⁵	ki³ndiôʔ³¹	V;SBJV;SG;2
-n⁵ndo³nko³	to³nkò¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndo³nko³	to³nkò¹oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵ ʔ⁵hndí⁵	n⁵ndí⁵ʔ⁵hndí⁵	V;IRR;SG;3;FUT
 m⁵ʔmé⁵	tí⁵tʔoén⁵én⁵	V;PFV;SG;3;PST
 n⁵ndyò¹	n⁵ñi³nkio³oʔ³	V;IRR;PL;3;FUT
@@ -21,7 +21,7 @@ n⁵ndí⁵nchkóʔ⁵	tí⁵nchkʔɔ⁵ó⁵	V;PFV;PL;1+INCL;PST
 n⁵ndí⁵bìʔ¹ngʔe³⁵	n⁵ndí⁵bìʔ¹ngʔê³¹	V;IRR;PL;1+EXCL;FUT
 n⁵na³ki³ntyha³	ma³na³ki⁵ntyha⁵³	V;IPFV;SG;1;PRS
 n⁵ndí⁵ñèʔ¹ kwaʔ³	n⁵ndí⁵ñèʔ¹kwʔâ³¹	V;IRR;PL;1+EXCL;FUT
-n⁵ndí⁵chio³⁵	tí⁵ndyio³⁵ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵chio³⁵	tí⁵ndyio³⁵ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵ ʔ⁵hndíʔ⁵tzʔon³	ʔ⁵hndíʔ⁵tzʔon³	V;IPFV;SG;3;PRS
 n⁵ndí⁵tʔoàn¹ ntzkwí⁵	kwí⁵tʔoàn¹ntkwí⁵í⁵	V;SBJV;PL;1+INCL
 n⁵ndí⁵ntykwiʔ¹²	kwí⁵ntykwîʔ³¹	V;SBJV;SG;2
@@ -103,7 +103,7 @@ n⁵ndyi³xeʔ³⁴	ki³tyi³xeʔ³⁴	V;SBJV;SG;3
 n⁵ndí⁵hndaʔ⁵³ xken³	kwí⁵hndaʔ⁵³xkènʔ¹	V;SBJV;SG;2
 n⁵ndí⁵ndyóʔ⁵	kwí⁵ndyóʔ⁵ʔo³	V;SBJV;PL;3
 n⁵ndí⁵ ki³ndyʔa³⁴	n⁵ngo³ndí⁵ki³ndyʔa³⁴én⁵	V;PROG;SG;3;FUT
-n⁵ndí⁵chhóʔ⁵tzʔon³	tí⁵chhóʔ⁵nʔo³oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵chhóʔ⁵tzʔon³	tí⁵chhóʔ⁵nʔo³oʔ³	V;PFV;PL;3;PST
 n⁵ndyion³ànʔ¹ntkóʔ⁵	ʔ⁵tyion³ànʔ¹ntkóʔ⁵hâ³¹	V;IPFV;PL;1+EXCL;PRS
 n⁵ndí⁵hndà¹	n⁵ngo³ndí⁵hndà¹hâ³¹	V;PROG;PL;1+EXCL;FUT
 n⁵ndí⁵ki³hndyu³	n⁵ngo³ki³hndyu⁵³	V;PROG;SG;1;FUT
@@ -253,7 +253,7 @@ n⁵ndó⁵nkó⁵ yà¹	n⁵ndó⁵nkó⁵yà¹oʔ³	V;IRR;PL;3;FUT
 n⁵ndyòʔ¹yʔon³⁵	ki³ndyo³yʔôn³¹	V;SBJV;PL;1+EXCL
 n⁵ndyòʔ¹yʔon³⁵	ki³ndyòʔ¹yʔon³⁵	V;SBJV;SG;3
 n⁵ndí⁵ndyóʔ⁵ xtyoʔ³	n⁵ngo³ndí⁵ndyóʔ⁵xtyoʔ³	V;PROG;SG;3;FUT
-n⁵ndí⁵ntkoʔ³⁴	tí⁵ntko³⁴oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵ntkoʔ³⁴	tí⁵ntko³⁴oʔ³	V;PFV;PL;3;PST
 n⁵ndɛ³⁴	to³ndɛ³⁴hâ³¹	V;PROG;PL;1+EXCL;PST
 n⁵ndí⁵kí⁵ʔmaʔ³⁴	n⁵ndí⁵kí⁵ʔmaʔ³⁴ʔo³	V;IRR;PL;3;FUT
 n⁵ndyion³ànʔ¹ntkóʔ⁵	ʔ⁵tyion³ànʔ¹ntkóʔ⁵ʔu³	V;IPFV;SG;2;PRS
@@ -282,7 +282,7 @@ n⁵ndí⁵tenʔ³⁴	n⁵ngo³ndí⁵tênʔ³¹	V;PROG;SG;2;FUT
 n⁵ndí⁵kí⁵tzʔon³	n⁵ngo³nàʔ¹ki⁵nʔô³¹	V;PROG;PL;1+EXCL;FUT
 n⁵ndyiaʔ³⁵bʔi³⁵	n⁵ngo³hndyʔiâ³¹bhê³¹	V;PROG;PL;1+EXCL;FUT
 n⁵ndí⁵ndyiaʔ⁵³tzʔon³	n⁵ngo³ndí⁵ndyiaʔ⁵³tzʔon³	V;PROG;SG;3;FUT
-n⁵ndí⁵nchênʔ³¹	tí⁵nchênʔ³¹ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵nchênʔ³¹	tí⁵nchênʔ³¹ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵tó⁵nkúʔ⁵	to³ndí⁵tó⁵nkúʔ⁵ha³	V;PROG;SG;1;PST
 n⁵ndí⁵xenʔ¹²	n⁵ngo³ndí⁵xɛn¹²	V;PROG;SG;1;FUT
 n⁵ndʔuiʔ³⁵	n⁵ngo³tʔuiʔ³⁵hâ³¹	V;PROG;PL;1+EXCL;FUT
@@ -295,11 +295,11 @@ n⁵ndí⁵kʔua³⁵ngʔe³⁵	to³ndí⁵kʔua³⁵ngʔeʔ³	V;PROG;SG;2;PST
 n⁵ndí⁵ñèʔ¹ kí⁵	to³ndí⁵ñèʔ¹kí³tkí⁵oʔ³	V;PROG;PL;3;PST
 n⁵ndí⁵hndoʔ³⁴	n⁵ngo³ndí⁵hndôʔ³¹	V;PROG;SG;2;FUT
 n⁵ndí⁵ kí⁵ñí⁵nkiúʔ⁵	kwí⁵kí⁵ñí⁵nkiûʔ³¹	V;SBJV;SG;2
-n⁵ndyion³ ndʔɔ³ cheʔ¹²	tyion³oʔ³ndue³⁵oʔ³che¹²oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndyion³ ndʔɔ³ cheʔ¹²	tyion³oʔ³ndue³⁵oʔ³che¹²oʔ³	V;PFV;PL;3;PST
 n⁵ndyòʔ¹yʔon³⁵	ndyòʔ¹yʔon³⁵	V;IPFV;SG;3;PRS
 n⁵ndyo¹²	to³ndyo¹²ʔu³	V;PROG;SG;2;PST
 n⁵ndyiaʔ³⁵	to³ndyʔia⁵³	V;PROG;SG;1;PST
-n⁵ndí⁵xʔ	tí⁵nkʔén⁵ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵xʔ	tí⁵nkʔén⁵ʔo³	V;PFV;PL;3;PST
 n⁵ndyion³than³ xken³	n⁵ngo³tyionʔ⁵³than³xkènʔ¹	V;PROG;SG;2;FUT
 n⁵ndí⁵bè¹ká⁵	n⁵ndí⁵bè¹kʔa¹²	V;IRR;PL;1+INCL;FUT
 n⁵ndyion³hndyè¹n⁵no³	n⁵ngo³tyiɔn⁵³hndyè¹nɔ⁵³	V;PROG;SG;1;FUT
@@ -310,7 +310,7 @@ n⁵ndí⁵ ʔ⁵han³	kwí⁵ʔ⁵han³ʔu³	V;SBJV;SG;2
 n⁵ndí⁵biʔ¹²	n⁵ndí⁵bʔi¹²	V;IRR;SG;1;FUT
 n⁵ndiʔ³	n⁵ngo³n⁵ndiʔ³hâ³¹	V;PROG;PL;1+EXCL;FUT
 n⁵ndí⁵khé⁵	kwí⁵khé⁵ha³	V;SBJV;SG;1
-n⁵ndyio³ hnʔá⁵	tyio³oʔ³hnʔá⁵	V;PFV;PL;3+INCL;PST
+n⁵ndyio³ hnʔá⁵	tyio³oʔ³hnʔá⁵	V;PFV;PL;3;PST
 n⁵ndí⁵ñèʔ¹ kwé⁵	n⁵ngo³ndí⁵ñèʔ¹kwè¹	V;PROG;SG;1;FUT
 n⁵ndí⁵yaʔ¹²	yaʔ¹²	V;IPFV;SG;3;PRS
 n⁵ndí⁵xenʔ¹²	tí⁵xènʔ¹	V;PFV;SG;2;PST
@@ -378,16 +378,16 @@ n⁵ndí⁵biʔ¹²	bʔi¹²í⁵	V;IPFV;PL;1+INCL;PRS
 n⁵ndí⁵ ʔndáʔ⁵	tí⁵ʔndáʔ⁵ha³	V;PFV;SG;1;PST
 n⁵ndí⁵yà¹hñʔo¹²	tí⁵yà¹hñʔo¹²ha³	V;PFV;SG;1;PST
 n⁵ndɛʔ³⁵	to³n⁵nda¹²	V;PROG;SG;1;PST
-n⁵ndí⁵tʔoàn¹	tí⁵tʔoàn¹ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵tʔoàn¹	tí⁵tʔoàn¹ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵bìʔ¹nchhi³⁵	to³ndί⁵bìʔ¹ngiô³¹	V;PROG;PL;1+EXCL;PST
-n⁵ndí⁵hndyuá⁵	ti⁵hndyuá⁵ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵hndyuá⁵	ti⁵hndyuá⁵ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵ma³yanʔ¹²	tí⁵ma³yan¹²án⁵	V;PFV;PL;1+INCL;PST
 n⁵ndí⁵ñèʔ¹ ki³ta³	tí⁵ñèʔ¹ki³ta¹²á⁵	V;PFV;PL;1+INCL;PST
 n⁵ndí⁵hnaʔ¹²	kwí⁵hnʔa¹²oʔ³	V;SBJV;PL;3
 n⁵ndʔɛ¹	n⁵ndʔɛ¹én⁵	V;IRR;SG;3;FUT
 n⁵ndí⁵xuè¹	tí⁵xuè¹ha³	V;PFV;SG;1;PST
 n⁵ndí⁵kí⁵hnè¹	ko³ndí⁵kí⁵hnè¹há⁵á⁵	V;IPFV;PL;1+INCL;PRS
-n⁵ndí⁵nchkénʔ⁵	tí⁵ntyken¹²oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵nchkénʔ⁵	tí⁵ntyken¹²oʔ³	V;PFV;PL;3;PST
 n⁵ndɛʔ³⁵	to³ndʔɛ³⁴	V;PROG;PL;1+INCL;PST
 n⁵ndyʔe³	n⁵ngo³ndyʔeʔ³	V;PROG;SG;2;FUT
 n⁵ndí⁵ñèʔ¹ kʔú⁵	kwí⁵ñèʔ¹kʔuà¹	V;SBJV;SG;1
@@ -452,7 +452,7 @@ n⁵ndyeʔ¹²tzʔon³	ko³ndyeʔ¹²nʔô³¹	V;IPFV;PL;1+EXCL;PRS
 n⁵ndí⁵tyìʔ¹nkiò¹	kwí⁵tyìʔ¹nkiò¹ha³	V;SBJV;SG;1
 n⁵ndí⁵xuè¹	kwí⁵xuè¹ʔu³	V;SBJV;SG;2
 n⁵ndyion³hndyè¹n⁵no³	tyiɔn⁵³hndyè¹nɔ⁵³	V;PFV;SG;1;PST
-n⁵ndí⁵tyìʔ¹nkiò¹	tí⁵tyìʔ¹nkiò¹ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵tyìʔ¹nkiò¹	tí⁵tyìʔ¹nkiò¹ʔo³	V;PFV;PL;3;PST
 n⁵nchhe³	n⁵ngo³nchhe³	V;PROG;SG;3;FUT
 n⁵ndyiaʔ³⁵ndaʔ³	n⁵ngo³ndyiaʔ³⁵ndaʔ³	V;PROG;SG;3;FUT
 n⁵ndí⁵khè¹	to³ndí⁵khè¹ha³	V;PROG;SG;1;PST
@@ -463,7 +463,7 @@ n⁵ndʔuiʔ³⁵	ko³tʔuiʔ³⁵ʔo³	V;IPFV;PL;3;PRS
 n⁵ndi⁵ ki⁵³tzʔon³	to³ndí⁵ki⁵³nʔɔ³⁴	V;PROG;PL;1+INCL;PST
 n⁵ndí⁵ ki³ndyʔa³⁴	tí⁵ki³ndyʔa³⁴ha³	V;PFV;SG;1;PST
 n⁵ndí⁵xʔiaʔ¹²	n⁵ngo³ndí⁵xʔiâʔ³¹	V;PROG;SG;2;FUT
-n⁵ndí⁵tyià¹nchhi³⁵	tí⁵tyià¹ngiò¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵tyià¹nchhi³⁵	tí⁵tyià¹ngiò¹oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵tyà¹	to³ndí⁵tyà¹hâ³¹	V;PROG;PL;1+EXCL;PST
 n⁵ndyʔuè¹	to³tyʔuè¹én⁵	V;PROG;SG;3;PST
 n⁵ndyò¹n⁵ntkweʔ³	n⁵ngo³nkiô³¹n⁵ntkwʔê³¹	V;PROG;PL;1+EXCL;FUT
@@ -526,13 +526,13 @@ n⁵ndí⁵nchaʔ⁵³	n⁵ndí⁵nchaʔ⁵³ha³	V;IRR;SG;1;FUT
 n⁵ndui¹²só⁵ xken³	ko³tui¹²só⁵nkèn¹oʔ³	V;IPFV;PL;3;PRS
 n⁵ndí⁵tzha³ xken³	to³ndí⁵tzha³nkên³¹	V;PROG;PL;1+EXCL;PST
 n⁵ndʔue³	kí⁵ndʔuê³¹ɛ³	V;SBJV;SG;1
-n⁵ndʔɛʔ¹²	tʔɛʔ¹²ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndʔɛʔ¹²	tʔɛʔ¹²ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵sì¹	n⁵ngo³ndí⁵sì¹ʔo³	V;PROG;PL;3;FUT
 n⁵ndí⁵xke³	tí⁵xkeʔ³	V;PFV;SG;2;PST
 n⁵ndyʔue³	tyuɛ³⁴	V;PFV;PL;1+INCL;PST
-n⁵ndí⁵ ki³ndyʔa³⁴	tí⁵ki³ndyʔa³⁴ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵ ki³ndyʔa³⁴	tí⁵ki³ndyʔa³⁴ʔo³	V;PFV;PL;3;PST
 n⁵ndyiaʔ³⁵nioʔ³⁴	n⁵ngo³ndyiàʔ¹niôʔ³¹	V;PROG;SG;2;FUT
-n⁵ndí⁵ndyua³	tí⁵ndyua³ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵ndyua³	tí⁵ndyua³ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵hmeʔ³⁴	bá⁵ndí⁵hmeʔ³⁴ʔo³	V;IPFV;PL;3;PRS
 n⁵ndí⁵tye³tʔoàn¹	to³ndí⁵tyɛ⁵³tʔoan¹²	V;PROG;SG;1;PST
 n⁵ndí⁵bʔiʔ³⁵ tzʔon³	to³ndí⁵bʔiʔ³⁵nʔo³oʔ³	V;PROG;PL;3;PST
@@ -540,7 +540,7 @@ n⁵nduiʔ³ ntzkwí⁵	n⁵nduiʔ³ntkwí⁵oʔ³	V;IRR;PL;3;FUT
 n⁵né⁵	to³né⁵ʔo³	V;PROG;PL;3;PST
 n⁵ndí⁵kíʔ⁵na³ ʔndyó⁵	n⁵ngo³ndí⁵kí⁵ʔna³ʔndyɔ⁵³	V;PROG;SG;1;FUT
 n⁵ndí⁵saʔ¹²	sàʔ¹	V;IPFV;SG;2;PRS
-n⁵ndí⁵ñèʔ¹ kwio³	tí⁵ñèʔ¹ki³tio¹²oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵ñèʔ¹ kwio³	tí⁵ñèʔ¹ki³tio¹²oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵tykiaʔ¹²	n⁵ngo³ndí⁵tykʔia¹²	V;PROG;SG;1;FUT
 n⁵ndí⁵thanʔ³⁴	kwí⁵thânʔ³¹	V;SBJV;SG;2
 n⁵ndí⁵nké⁵ ndʔɔ³	tí⁵nké⁵ndʔɔ³	V;PFV;SG;3;PST
@@ -622,7 +622,7 @@ n⁵ndí⁵ñèʔ¹ kwio³	n⁵ngo³ndí⁵ñèʔ¹kwioʔ³	V;PROG;SG;2;FUT
 n⁵ndí⁵yà¹hñʔo¹²	kwí⁵yà¹hñʔo¹²hâ³¹	V;SBJV;PL;1+EXCL
 n⁵ndí⁵kí⁵hnè¹	n⁵ngo³ndí⁵kí⁵hnè¹hâ³¹	V;PROG;PL;1+EXCL;FUT
 n⁵ndi³ki³tyéʔ⁵	kwi³ki³tyéʔ⁵ʔu³	V;SBJV;SG;2
-n⁵ndí⁵nchhi³⁵	tí⁵ngiò¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵nchhi³⁵	tí⁵ngiò¹oʔ³	V;PFV;PL;3;PST
 n⁵ndʔeòn¹ hñʔo¹²	ʔ⁵tʔeòn¹hñʔo¹²	V;IPFV;SG;3;PRS
 n⁵ndí⁵ ki³ndyʔa³⁴	n⁵ngo³ndí⁵ki³ndyʔa³⁴ʔu³	V;PROG;SG;2;FUT
 n⁵nde³hndí⁵	n⁵ndèʔ¹hndî³¹	V;IRR;PL;1+EXCL;FUT
@@ -647,7 +647,7 @@ n⁵ndí⁵ kí⁵ñí⁵nkiúʔ⁵	tí⁵kí⁵ñí⁵nkiúʔ⁵	V;PFV;SG;3;PST
 n⁵ndí⁵tzàʔ¹	n⁵ngo³ndí⁵tzàʔ¹ʔu³	V;PROG;SG;2;FUT
 n⁵ndyʔiù¹	n⁵ndyʔiù¹	V;IRR;SG;3;FUT
 n⁵ntyho³	ki³ntyhɔ⁵³	V;SBJV;SG;1
-n⁵ndí⁵tyaʔ¹²tzʔon³	tí⁵tyaʔ¹²nʔo³oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵tyaʔ¹²tzʔon³	tí⁵tyaʔ¹²nʔo³oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵ndye¹²	kwí⁵ndyê³¹	V;SBJV;PL;1+EXCL
 n⁵ndyion³ hnaʔ¹²	n⁵ndyion³oʔ³hna¹²oʔ³	V;IRR;PL;3;FUT
 n⁵ndí⁵tziánʔ⁵ tzʔon³	n⁵ngo³ndí⁵tziánʔ⁵tzônʔ³¹	V;PROG;SG;2;FUT
@@ -684,7 +684,7 @@ n⁵ndui³⁴	ki³ndui³⁴ʔu³	V;SBJV;SG;2
 n⁵ndyiaʔ³⁵kueʔ³	hndyʔiâ³¹kwhê³¹	V;PFV;PL;1+EXCL;PST
 n⁵nduìʔ¹xʔon⁵³	n⁵ngo³nduiʔ³ngʔon⁵³há⁵á⁵	V;PROG;PL;1+INCL;FUT
 n⁵ndí⁵tykwanʔ³	kwí⁵tykwanʔ³ʔu³	V;SBJV;SG;2
-n⁵ndí⁵kʔua³⁵ngʔe³⁵	tí⁵kʔua³⁵ngʔè¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵kʔua³⁵ngʔe³⁵	tí⁵kʔua³⁵ngʔè¹oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵ndyóʔ⁵	to³ndí⁵ndyóʔ⁵én⁵	V;PROG;SG;3;PST
 n⁵ndí⁵tyèn¹	to³tyèn¹ha³	V;PROG;SG;1;PST
 n⁵ndó⁵nkó⁵ yà¹	n⁵nkó⁵yà¹ʔu³	V;SBJV;SG;2
@@ -730,7 +730,7 @@ n⁵ndí⁵ ʔ⁵hndíʔ⁵tzʔon³	n⁵ngo³ndí⁵ʔ⁵hndíʔ⁵nʔô³¹	V;P
 n⁵ndyuʔ³⁵	ki³ndyuʔ³⁵	V;SBJV;SG;3
 n⁵ndí⁵tyà¹	tí⁵tyà¹ha³	V;PFV;SG;1;PST
 n⁵ndí⁵tykiaʔ¹²	tí⁵tykʔia¹²á⁵	V;PFV;PL;1+INCL;PST
-n⁵ndí⁵ʔnaʔ³⁴	tí⁵ʔna³⁴oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵ʔnaʔ³⁴	tí⁵ʔna³⁴oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵ndyá⁵	n⁵ndí⁵ndyá⁵ʔo³	V;IRR;PL;3;FUT
 n⁵ndyiaʔ³⁵nioʔ³⁴	kí⁵hndyʔiâ³¹nʔiô³¹	V;SBJV;PL;1+EXCL
 n⁵na³ba³ndyè¹	ko³nàʔ¹bâ³¹ndyê³¹	V;IPFV;PL;1+EXCL;PRS
@@ -755,7 +755,7 @@ n⁵ndí⁵ñèʔ¹ kwaʔ³	to³ndí⁵ñèʔ¹kwʔa⁵³	V;PROG;SG;1;PST
 n⁵ndyui³⁵	ko³ndyuè¹oʔ³	V;IPFV;PL;3;PRS
 n⁵ndí⁵hndye³chuʔ³⁴	n⁵ndí⁵hndye³ndyu³⁴oʔ³	V;IRR;PL;3;FUT
 n⁵ndí⁵tɛʔ⁵tzʔon³	tɛʔ⁵tzʔon⁵	V;IPFV;SG;3;PRS
-n⁵ndí⁵tʔoàn¹ tziáʔ⁵	tí⁵tʔoàn¹tziá⁵oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵tʔoàn¹ tziáʔ⁵	tí⁵tʔoàn¹tziá⁵oʔ³	V;PFV;PL;3;PST
 n⁵ndyion³	to³tyion³	V;PROG;SG;3;PST
 n⁵ndí⁵ñèʔ¹ ki³tʔeo³⁵	ñèʔ¹ki³tyuê³¹	V;IPFV;PL;1+EXCL;PRS
 n⁵ndí⁵ñèʔ¹ ki³ndyiaʔ³⁵	n⁵ndí⁵ñèʔ¹kí⁵ndyʔia⁵³	V;IRR;SG;1;FUT
@@ -768,7 +768,7 @@ n⁵ndí⁵hnduáʔ⁵	n⁵ndí⁵hndʔua⁵³	V;IRR;SG;1;FUT
 n⁵ndí⁵tyià¹nchhi³⁵	tyià¹ngiɔ¹²	V;IPFV;PL;1+INCL;PRS
 n⁵ndí⁵xʔ	n⁵ndí⁵nkʔén⁵hâ³¹	V;IRR;PL;1+EXCL;FUT
 n⁵ndoʔ³bìʔ¹	hndɔʔ¹²bʔi¹²	V;PFV;PL;1+INCL;PST
-n⁵ndyi³⁵yà¹	hndyè¹yà¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndyi³⁵yà¹	hndyè¹yà¹oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵hnda³pi³là¹	n⁵ndí⁵nda³pi³la¹oʔ³	V;IRR;PL;3;FUT
 n⁵ndí⁵tɛʔ⁵tzʔon³	n⁵ndí⁵tɛʔ⁵tzʔɔn⁵³	V;IRR;SG;1;FUT
 n⁵ndye¹²tzìʔ¹nʔo³	n⁵ngo³ndye¹²ndìʔ¹nʔò¹oʔ³	V;PROG;PL;3;FUT
@@ -794,7 +794,7 @@ n⁵ndí⁵tʔeó⁵	tʔeó⁵há⁵á⁵	V;IPFV;PL;1+INCL;PRS
 n⁵ndí⁵ ʔ⁵hndí⁵	tí⁵ʔ⁵hndɔ³	V;PFV;SG;1;PST
 n⁵ndí⁵tenʔ³⁴	tí⁵tɛn³	V;PFV;SG;1;PST
 n⁵ndí⁵bì¹	tí⁵bì¹ha³	V;PFV;SG;1;PST
-n⁵ndí⁵hán⁵	tí⁵hán⁵ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵hán⁵	tí⁵hán⁵ʔo³	V;PFV;PL;3;PST
 n⁵ndyo³tzʔa³⁵	hndyó⁵tzʔaʔ⁵³	V;PFV;SG;2;PST
 n⁵ndí⁵bìʔ¹tza³⁴	n⁵ndí⁵bìʔ¹tza⁵³	V;IRR;SG;1;FUT
 n⁵ndí⁵tzʔón⁵	n⁵ngo³ndí⁵tzʔón⁵ha³	V;PROG;SG;1;FUT
@@ -836,7 +836,7 @@ n⁵nduiʔ³ ntzkwí⁵	hnduiʔ³ntzkwí⁵	V;PFV;SG;3;PST
 n⁵ndí⁵tyà¹	n⁵ngo³ndí⁵tyà¹hâ³¹	V;PROG;PL;1+EXCL;FUT
 n⁵ndyo³tzʔa³⁵	ma³ndyó⁵tzʔa⁵³	V;IPFV;SG;1;PRS
 n⁵ndyiʔ³⁴	n⁵ngo³kí⁵ndyʔi⁵³	V;PROG;SG;1;FUT
-n⁵nchhe³	nchhe³oʔ³	V;PFV;PL;3+INCL;PST
+n⁵nchhe³	nchhe³oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵ndʔue³tzʔon³	tí⁵ndʔue³tzʔɔn⁵³	V;PFV;SG;1;PST
 n⁵nde³hndí⁵hñʔo¹²	te³hndiʔ⁵³hñʔo¹²	V;PFV;SG;2;PST
 n⁵ndyʔui⁵³	tyʔui⁵³hâ³¹	V;PFV;PL;1+EXCL;PST
@@ -850,7 +850,7 @@ n⁵ndí⁵nchênʔ³¹	bá⁵ndí⁵nchên³¹há⁵á⁵	V;IPFV;PL;1+INCL;PRS
 n⁵ndí⁵tykwanʔ³	tykwanʔ³ʔu³	V;IPFV;SG;2;PRS
 n⁵ndí⁵bì¹	tí⁵bì¹ʔu³	V;PFV;SG;2;PST
 n⁵ndyion³ ndʔɔ³ cheʔ¹²	to³tyiɔn³⁴nduɛ³⁵é⁵chɛ¹²	V;PROG;PL;1+INCL;PST
-n⁵ndyio³ xú⁵	tyio³ʔo³xú⁵	V;PFV;PL;3+INCL;PST
+n⁵ndyio³ xú⁵	tyio³ʔo³xú⁵	V;PFV;PL;3;PST
 n⁵ndyo³tzʔa³⁵	ma³ndyó⁵tzʔaʔ⁵³	V;IPFV;SG;2;PRS
 n⁵ndí⁵bì¹	bá⁵ndí⁵bì¹én⁵	V;IPFV;SG;3;PRS
 n⁵ndí⁵tzhɔ³⁴	n⁵ngo³ndí⁵tzhɔ³⁴ʔu³	V;PROG;SG;2;FUT
@@ -866,13 +866,13 @@ n⁵ndí⁵yà¹tzʔan⁵³	to³ndí⁵yà¹nʔa⁵³hâ³¹	V;PROG;PL;1+EXCL;PS
 n⁵ndí⁵yú⁵	n⁵ndí⁵yú⁵ʔo³	V;IRR;PL;3;FUT
 n⁵ndyiaʔ³⁵kueʔ³	ki³ndyiàʔ¹kwʔioʔ³	V;SBJV;SG;2
 n⁵nchiuʔ³⁵	n⁵ndyʔiu¹²oʔ³	V;IRR;PL;3;FUT
-n⁵ndaʔ³⁴	hnda³⁴oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndaʔ³⁴	hnda³⁴oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵kí⁵	tí⁵kí⁵ha³	V;PFV;SG;1;PST
 n⁵ndí⁵kí⁵tzʔon³	kwí⁵ki⁵nʔɔ³⁴	V;SBJV;PL;1+INCL
 n⁵ndòʔ¹ño¹²kí⁵xen³nkiá⁵	tòʔ¹ño¹²kí⁵xen³nkiá⁵há⁵á⁵	V;PFV;PL;1+INCL;PST
-n⁵nchʔue³⁵	hndyʔue³⁵oʔ³	V;PFV;PL;3+INCL;PST
+n⁵nchʔue³⁵	hndyʔue³⁵oʔ³	V;PFV;PL;3;PST
 n⁵ndyo¹²	ko³ndyo¹²hâ³¹	V;IPFV;PL;1+EXCL;PRS
-n⁵ndí⁵ ʔ⁵han³	tí⁵ʔ⁵han³ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵ ʔ⁵han³	tí⁵ʔ⁵han³ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵hmeʔ³⁴	n⁵ngo³ndí⁵hmeʔ³⁴ha³	V;PROG;SG;1;FUT
 n⁵ndí⁵ntzá⁵	kwí⁵ntzá⁵há⁵á⁵	V;SBJV;PL;1+INCL
 n⁵ndí⁵sì¹	to³ndí⁵sì¹hâ³¹	V;PROG;PL;1+EXCL;PST
@@ -891,10 +891,10 @@ n⁵ndí⁵tyèn¹	tí⁵tyèn¹én⁵	V;PFV;SG;3;PST
 n⁵ndiù¹	ki³tiu³oʔ³	V;SBJV;PL;3
 n⁵ndí⁵bì¹	n⁵ndí⁵bì¹há⁵á⁵	V;IRR;PL;1+INCL;FUT
 n⁵ndí⁵bè¹ká⁵	n⁵ngo³ndí⁵bè¹kʔa¹²	V;PROG;PL;1+INCL;FUT
-n⁵ndyòʔ¹yʔon³⁵ n⁵ntkweʔ³	hndyo³yʔòn¹n⁵ntkweʔ³oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndyòʔ¹yʔon³⁵ n⁵ntkweʔ³	hndyo³yʔòn¹n⁵ntkweʔ³oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵ndye¹²	n⁵ndí⁵ndyɔ¹	V;IRR;SG;1;FUT
 n⁵nchhe³	n⁵ngo³nchhɛ³⁴	V;PROG;PL;1+INCL;FUT
-n⁵ndui¹²só⁵ xken³	tui¹²só⁵nkèn¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndui¹²só⁵ xken³	tui¹²só⁵nkèn¹oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵nchaʔ⁵³	kwí⁵nchaʔ⁵³ʔo³	V;SBJV;PL;3
 n⁵ndí⁵hñeʔ⁵³	n⁵ngo³ndí⁵hñeʔ⁵³én⁵	V;PROG;SG;3;FUT
 n⁵ndí⁵na³nkoʔ³⁴nchhi⁵³	na³nkoʔ³⁴nchhi⁵³	V;IPFV;SG;1;PRS
@@ -906,12 +906,12 @@ n⁵ndí⁵chhu⁵³	n⁵ngo³ndí⁵chhu⁵³hâ³¹	V;PROG;PL;1+EXCL;FUT
 n⁵ndí⁵só⁵ʔndyó⁵	bá⁵ndí⁵só⁵hndyué⁵oʔ³	V;IPFV;PL;3;PRS
 n⁵nchiuʔ³⁵	ki³chiuʔ³⁵	V;SBJV;SG;3
 n⁵ndui³⁴	n⁵ndui³⁴én⁵	V;IRR;SG;3;FUT
-n⁵ndí⁵baʔ³tʔeò¹ba³⁵	ti⁵baʔ³tʔeò¹mi³ʔo³	V;PFV;PL;3+INCL;PST
-n⁵ndɛ³⁴	hndɛ³⁴ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵baʔ³tʔeò¹ba³⁵	ti⁵baʔ³tʔeò¹mi³ʔo³	V;PFV;PL;3;PST
+n⁵ndɛ³⁴	hndɛ³⁴ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵ndyóʔ⁵ xtyoʔ³	n⁵ndí⁵ndyóʔ⁵xtyôʔ³¹	V;IRR;SG;2;FUT
 n⁵ndí⁵xio³	to³ndí⁵xio³oʔ³	V;PROG;PL;3;PST
 n⁵ndí⁵bʔiʔ³⁵ tzʔon³	n⁵ngo³ndí⁵bʔiʔ³⁵nʔô³¹	V;PROG;PL;1+EXCL;FUT
-n⁵ndí⁵saʔ¹²tzʔon³	tí⁵saʔ¹²nʔo³oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵saʔ¹²tzʔon³	tí⁵saʔ¹²nʔo³oʔ³	V;PFV;PL;3;PST
 n⁵ndyion³hndyè¹n⁵no³	ʔ⁵tyion³hndyè¹n⁵no³	V;IPFV;SG;3;PRS
 n⁵ndí⁵kí⁵nduàʔ¹	tí⁵kí⁵nduàʔ¹én⁵	V;PFV;SG;3;PST
 n⁵ndyòʔ¹yʔon³⁵	to³ndyo³yʔɔn¹²	V;PROG;PL;1+INCL;PST
@@ -968,7 +968,7 @@ n⁵nduí⁵na³ nho⁵³	n⁵nduí⁵na³nho⁵³ʔu³	V;IRR;SG;2;FUT
 n⁵ndí⁵tyià¹nchhi³⁵	tyià¹nchhiʔ⁵³	V;IPFV;SG;2;PRS
 n⁵ndí⁵tyà¹	n⁵ngo³ndí⁵tyà¹ʔo³	V;PROG;PL;3;FUT
 n⁵ndí⁵tenʔ³⁴	tên³¹	V;IPFV;PL;1+EXCL;PRS
-n⁵nduìʔ¹xhèn¹	hnduìʔ¹xhèn¹ʔo³	V;PFV;PL;3+INCL;PST
+n⁵nduìʔ¹xhèn¹	hnduìʔ¹xhèn¹ʔo³	V;PFV;PL;3;PST
 n⁵ndɛ³⁴	hndɛ³⁴ha³	V;PFV;SG;1;PST
 n⁵ndí⁵ñèʔ¹ki³tan³	n⁵ngo³ndí⁵ñèʔ¹ki⁵tanʔ³	V;PROG;SG;2;FUT
 n⁵ndyionʔ³⁵tzʔon³	ko³tyionʔ³⁵nʔô³¹	V;IPFV;PL;1+EXCL;PRS
@@ -978,7 +978,7 @@ n⁵ndí⁵ndyá⁵	kwí⁵ndyá⁵ʔo³	V;SBJV;PL;3
 n⁵ndí⁵kʔua³⁵ʔndyó⁵	kwí⁵kʔua³⁵hndyuê³¹	V;SBJV;PL;1+EXCL
 n⁵nchiuʔ³⁵	to³chiûʔ³¹	V;PROG;SG;2;PST
 n⁵ndí⁵ñèʔ¹ki³chiuʔ³⁵	n⁵ngo³ndí⁵ñèʔ¹ki³ndyʔiu³⁴	V;PROG;PL;1+INCL;FUT
-n⁵ndí⁵ñèʔ¹ kʔon³⁵	tí⁵ñèʔ¹kʔòn¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵ñèʔ¹ kʔon³⁵	tí⁵ñèʔ¹kʔòn¹oʔ³	V;PFV;PL;3;PST
 n⁵ndui¹²só⁵ xken³	n⁵ndui¹²só⁵nkèn¹oʔ³	V;IRR;PL;3;FUT
 n⁵ndí⁵xhénʔ⁵	tí⁵xhɛn⁵³	V;PFV;SG;1;PST
 n⁵ndyiaʔ³⁵nioʔ³⁴	n⁵ngo³hndyʔiâ³¹nʔiô³¹	V;PROG;PL;1+EXCL;FUT
@@ -990,7 +990,7 @@ n⁵ndí⁵tká⁵yoʔ¹²	n⁵ngo³ndí⁵tká⁵yòʔ¹	V;PROG;SG;2;FUT
 n⁵ndí⁵tykiaʔ¹²	tí⁵tykʔiâ³¹	V;PFV;PL;1+EXCL;PST
 n⁵ndyʔiù¹	n⁵ngo³tyʔiùʔ¹	V;PROG;SG;2;FUT
 n⁵ndí⁵ndye¹²	n⁵ndí⁵ndyɛ¹²é⁵	V;IRR;PL;1+INCL;FUT
-n⁵na³no³	hnàʔ¹nò¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵na³no³	hnàʔ¹nò¹oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵ki³nchʔà¹	to³ndí⁵ki³nchʔà¹ʔu³	V;PROG;SG;2;PST
 n⁵ndo³ndɛ³⁴	ki³ndòʔ¹ndê³¹	V;SBJV;PL;1+EXCL
 n⁵ndí⁵ʔnaʔ³⁴	n⁵ngo³ndí⁵ʔnaʔ³⁴	V;PROG;SG;3;FUT
@@ -1000,7 +1000,7 @@ n⁵ndí⁵hndye³ká⁵	tí⁵hndye³kʔâ³¹	V;PFV;PL;1+EXCL;PST
 n⁵ndí⁵tyèn¹	tyèn¹há⁵á⁵	V;IPFV;PL;1+INCL;PRS
 n⁵ndí⁵ ʔndáʔ⁵	kwí⁵ʔndáʔ⁵há⁵á⁵	V;SBJV;PL;1+INCL
 n⁵ndí⁵tzan¹²tzʔon³	n⁵ndí⁵tzan¹²tzan¹²tzʔɔn⁵³	V;IRR;SG;1;FUT
-n⁵ndí⁵yà¹tzʔan⁵³	tí⁵yà¹nʔa⁵³ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵yà¹tzʔan⁵³	tí⁵yà¹nʔa⁵³ʔo³	V;PFV;PL;3;PST
 n⁵ndí⁵ndye¹²	kwí⁵ndye¹²	V;SBJV;SG;3
 n⁵ndʔeo³⁵	to³tyuê³¹	V;PROG;PL;1+EXCL;PST
 n⁵ndí⁵hñeʔ⁵³	ti⁵hñeʔ⁵³hâ³¹	V;PFV;PL;1+EXCL;PST
@@ -1049,7 +1049,7 @@ n⁵ndyo³tzʔa³⁵	n⁵ndyòʔ¹tzʔá³⁵á⁵	V;IRR;PL;1+INCL;FUT
 n⁵ndí⁵kí⁵ ʔiónʔ⁵ ndìʔ¹nʔo³	to³ndí⁵kí⁵ʔiónʔ⁵ndìʔ¹nʔɔ¹²	V;PROG;PL;1+INCL;PST
 n⁵ndí⁵hmeʔ³	n⁵ngo³ndí³hmeʔ³ʔu³	V;PROG;SG;2;FUT
 n⁵ndí⁵nchhiʔ³⁵tzʔon³	n⁵ndí⁵nchhiʔ³⁵tzônʔ³¹	V;IRR;SG;2;FUT
-n⁵ndʔuà¹	tʔuà¹ʔo³	V;PFV;PL;3+INCL;PST
+n⁵ndʔuà¹	tʔuà¹ʔo³	V;PFV;PL;3;PST
 n⁵ndi³⁵	to³ndi³⁵ʔo³	V;PROG;PL;3;PST
 n⁵ndyion³ ntkón⁵ ngʔe³⁵	n⁵ndyiɔn³⁴ntkón⁵ngʔɛ¹²	V;IRR;PL;1+INCL;FUT
 m⁵mà¹	toanʔ⁵³	V;PFV;SG;2;PST
@@ -1150,7 +1150,7 @@ n⁵ndyi³xeʔ³⁴	ki³tyìʔ¹xʔɛ³⁴	V;SBJV;PL;1+INCL
 n⁵nduìʔ¹xʔon⁵³	n⁵nduiʔ³ngʔon⁵³há⁵á⁵	V;IRR;PL;1+INCL;FUT
 n⁵ndí⁵bìʔ¹tzʔan⁵³	tí⁵bìʔ¹tzʔan⁵³én⁵	V;PFV;SG;3;PST
 n⁵ndí⁵tyèn¹	to³ndí⁵tyèn¹ʔu³	V;PROG;SG;2;PST
-n⁵ndye¹²tzìʔ¹nʔo³	hndye¹²ndìʔ¹nʔò¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndye¹²tzìʔ¹nʔo³	hndye¹²ndìʔ¹nʔò¹oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵ñèʔ¹ kueʔ³	to³ndí⁵ñèʔ¹kwhɛ³⁴	V;PROG;PL;1+INCL;PST
 n⁵ndí⁵tʔoàn¹ tziáʔ⁵	tí⁵tʔoàn¹tziâ³¹	V;PFV;PL;1+EXCL;PST
 n⁵ndí⁵ndyiaʔ⁵³	tí⁵ndyiaʔ⁵³ʔu³	V;PFV;SG;2;PST
@@ -1190,7 +1190,7 @@ n⁵ndí⁵bè¹ká⁵	bè¹kʔâ³¹	V;IPFV;PL;1+EXCL;PRS
 n⁵ndyion³hndyè¹	ko³tyiôn³¹hndyè¹	V;IPFV;PL;1+EXCL;PRS
 n⁵ndí⁵kí⁵ ʔiónʔ⁵ ndìʔ¹nʔo³	tí⁵kí⁵ʔiónʔ⁵ndìʔ¹nʔô³¹	V;PFV;PL;1+EXCL;PST
 n⁵ndɛʔ³⁵	hndɛʔ³⁵	V;PFV;SG;3;PST
-n⁵ndí⁵ndyiaʔ⁵³tzʔon³	tí⁵ndyiaʔ⁵³nʔo³oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndí⁵ndyiaʔ⁵³tzʔon³	tí⁵ndyiaʔ⁵³nʔo³oʔ³	V;PFV;PL;3;PST
 n⁵ndí⁵kì¹chiʔ³	to³ndí⁵kì¹chiʔ³ʔo³	V;PROG;PL;3;PST
 n⁵ndí⁵yà¹tzʔan⁵³	n⁵ngo³ndí⁵yà¹nʔa⁵³há⁵á⁵	V;PROG;PL;1+INCL;FUT
 n⁵ndyo³tzʔa³⁵	hndyo³tzʔa³⁵	V;PFV;SG;3;PST
@@ -1207,7 +1207,7 @@ n⁵ndí⁵ndʔue³tzʔon³	kwí⁵ndʔue³nʔo³oʔ³	V;SBJV;PL;3
 n⁵ndí⁵yà¹hñʔo¹²	to³ndí⁵yà¹hñʔo¹²hâ³¹	V;PROG;PL;1+EXCL;PST
 n⁵ndí⁵ntykwiʔ¹²	n⁵ndí⁵ntykwʔi¹²oʔ³	V;IRR;PL;3;FUT
 n⁵ndyio³ hñò¹tzʔon⁵³	to³tyiɔ⁵³hñò¹tzʔon⁵³	V;PROG;SG;1;PST
-n⁵ndʔui³⁵	tʔuè¹oʔ³	V;PFV;PL;3+INCL;PST
+n⁵ndʔui³⁵	tʔuè¹oʔ³	V;PFV;PL;3;PST
 n⁵né⁵	kí⁵né⁵én⁵	V;SBJV;SG;3
 n⁵nchhe³	n⁵nchhê³¹	V;IRR;PL;1+EXCL;FUT
 n⁵ndí⁵kì¹ʔuà¹	n⁵ndí⁵kì¹ʔuà¹ʔo³	V;IRR;PL;3;FUT
