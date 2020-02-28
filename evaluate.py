@@ -49,7 +49,7 @@ def read_input(fname):
     return ignore
 
 def eval_form(gold, guess, ignore=set()):
-    """ compute average accuracy and edit distance for task 1 """
+    """ compute average accuracy and edit distance for task 0 """
     correct, dist, total = 0., 0., 0.
     for lemma, D in gold.items():
         for tag, str1 in D.items():
@@ -65,21 +65,7 @@ def eval_form(gold, guess, ignore=set()):
             total += 1
     return (round(correct/total*100, 2), round(dist/total, 2))
 
-def eval_paradigm(gold, guess):
-    """ compute the accuracy (form and paradigm) and edit distance (form) for task 2 """
-    correct, total = 0., 0.
-    for lemma, D in gold.items():
-        correct += 1
-        total += 1
-        for tag, str1 in D.items():
-            str2 = u"" # empty string if no guess
-            if lemma in guess and tag in guess[lemma]:
-                str2 = guess[lemma][tag]
-            if str1 != str2:
-                correct -= 1
-                break
-    return round(correct/total*100, 2)
-                
+
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description='SIGMORPHON 2020 Task 0 Evaluation')
