@@ -3,7 +3,7 @@
 This repository contains the Development languages for SIGMORPHON 2020 Task 0.  
 Surprise language data will be released here later during the Generalization Phase.  
 
-We additionally provide WALS features for those who choose to use them (allowed for both constrained and unconstrained submissions).  
+We additionally `provide' WALS features [here](https://wals.info/download) for those who choose to use them (allowed for both constrained and unconstrained submissions).
 
 
 ## Evaluation
