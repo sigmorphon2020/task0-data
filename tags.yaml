@@ -32,6 +32,9 @@ categories:
     - AC2P
     - AC3S
     - AC3P
+    - AC1
+    - AC2
+    - AC3
     - AB1S
     - AB1P
     - AB2S
@@ -56,7 +59,6 @@ categories:
     - BE2P
     - BE3S
     - BE3P
-    - ARGAC3S
   Aspect:
     - IPFV
     - PFV
@@ -64,7 +66,9 @@ categories:
     - PROG
     - PRF+PROG  
     - PROSP
+    - INCH
     - ITER
+    - INCH+ITER
     - HAB
     - HAB+PROG
     - HAB+PRF
@@ -215,6 +219,8 @@ categories:
   New:
     - LGSPEC_AMP
     - LGSPEC_MULT
+    - LGSPEC_ATTR
+    - LGSPEC_EMPH
   Interrogativity:
     - DECL
     - INT
@@ -228,6 +234,7 @@ categories:
     - AUNPRP
     - IMP
     - COND
+    - COND+IMP
     - PURP
     - INTEN
     - POT
@@ -283,6 +290,7 @@ categories:
     - INCL
     - 1+INCL
     - 1+EXCL
+    - 3+INCL
     - EXCL
     - PROXI
     - OBVI
