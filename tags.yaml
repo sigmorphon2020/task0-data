@@ -66,9 +66,6 @@ categories:
     - PROG
     - PRF+PROG  
     - PROSP
-    - INCH
-    - ITER
-    - INCH+ITER
     - HAB
     - HAB+PROG
     - HAB+PRF
@@ -123,7 +120,7 @@ categories:
     - CIRC
     - ANTE
     - APUD
-    - 'ON'
+    - ON
     - ONHR
     - ONVR
     - SUB

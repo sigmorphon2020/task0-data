@@ -13,7 +13,7 @@
 филармония	филармониянтень	N;IN+ALL;DEF;SG;LGSPEC1
 оршамс	оршавт	V;NEG;CAUS
 пештемс	пештевсь	V;SG;3;PST;PASS
-лавшомомс	лавшомкшнось	V;ITER;SG;3;PST
+лавшомомс	лавшомкшнось	V;SG;3;PST
 покурдамс	покурдыть	V;AC3P;SG;2;PST
 муюк	муюков	N;AT+ALL;SG
 юв	юван	N;SG;1
@@ -139,7 +139,7 @@
 коморо	коморокс	N;TRANS;SG
 лаксемс	лаксинь	V;AC3P;SG;1;PST
 симемка	симемка	N;NOM;SG
-пеедемс	пеедькшнить	V;ITER;PL;3
+пеедемс	пеедькшнить	V;PL;3
 дзинькадемс	дзинькадемс	V;NFIN
 театра	театрасо	N;IN+ESS;SG;LGSPEC1
 туемс	туезьгак	V.PTCP;LGSPEC_AMP;PST
@@ -170,7 +170,7 @@
 пинеме	пинеметь	N;NOM;SG;PSS2S
 комавтнемс	комавтнезь	V.PTCP;NOM;SG;PST
 велькс	вельксстэ	N;IN+ABL;SG
-одкстомомс	одкстомкшныть	V;AC3P;ITER;SG;2;PST
+одкстомомс	одкстомкшныть	V;AC3P;SG;2;PST
 леха	лехась	N;NOM;DEF;SG
 коцькерган	коцькерганось	N;NOM;DEF;SG
 мерькамс	мерькавсь	V;SG;3;PST;PASS
@@ -181,7 +181,7 @@
 лаз	лазсо	N;IN+ESS;SG
 толкун	толкундо	N;ABL;SG;LGSPEC1
 занятость	занятостень	N;GEN;LGSPEC1
-самс	сакшнылинь	V;ITER;SG;1;RMT
+самс	сакшнылинь	V;SG;1;RMT
 валморо	валморонтень	N;DAT;DEF;SG
 конфетка	конфеткат	N;NOM;PL;LGSPEC1
 апаро	апарост	ADJ;SG;PSS3P
@@ -225,7 +225,7 @@
 эсперанто	эсперанто	N;NOM;SG;LGSPEC1
 кирдаж	кирдажот	N;HUM;NOM;SG;PSS2S
 патефон	патефонсто	N;IN+ABL;SG;LGSPEC1
-чудемс	чудезевить	V;INCH;PL;3
+чудемс	чудезевить	V;PL;3
 печкемс	печкезель	V.PTCP;SG;3;PST
 киштемань	киштемань	ADJ;NOM;SG
 спасской	спасскойгак	ADJ;NOM;SG;LGSPEC_AMP;LGSPEC1
@@ -243,7 +243,7 @@
 резолюция	резолюциядонть	N;ABL;DEF;SG;LGSPEC1
 плуг	плугонть	N;GEN;DEF;SG;LGSPEC1
 автосамосвальной	автосамосвальной	ADJ;SG;LGSPEC1
-теемс	теевкшнинь	V;ITER;SG;1;PST;PASS
+теемс	теевкшнинь	V;SG;1;PST;PASS
 изнявкс	изнявксозон	N;IN+ALL;SG;PSS1S
 поладомс	поладовлинь	V;AC3P;SBJV;SG;1
 карбуж	карбуж	N;HUM;NOM;SG
@@ -259,7 +259,7 @@
 лак	лакт	N;NOM;PL;LGSPEC1
 сёлгадомс	сёлгадомс	V;NFIN
 каська	каськантень	N;DAT;DEF;SG
-каямс	каявкшность	V;ITER;PL;3;PST;PASS
+каямс	каявкшность	V;PL;3;PST;PASS
 рецензия	рецензияст	N;NOM;SG;PSS3P;LGSPEC1
 ванстомс	ванстт	V;AC3P;IMP;SG;2
 варчамс	варчадо	V;IMP;PL;2
@@ -296,7 +296,7 @@
 сравтнемс	сравтнят	V;SG;2
 эвтемс	эвтить	V;SG;2;PST
 ливтямс	ливтявлинек	V;AC3;SBJV;PL;1
-туемс	туевкшнить	V;ITER;SG;2;PST;PASS
+туемс	туевкшнить	V;SG;2;PST;PASS
 ДР	др	N;NOM;SG;LGSPEC1
 салавачи	салавачинзэ	N;NOM;PL;PSS3S
 якшамо	якшамо	ADJ;SG
@@ -319,7 +319,7 @@
 кустемс	кустизь	V;AC3;PL;3;PST
 толковамс	толковилизе	V;AC3S;SG;3;RMT;LGSPEC1
 калго	калгодот	N;ABL;SG;PSS2S
-пурнамс	пурнакшныньгак	V;ITER;SG;LGSPEC_AMP;1;PST
+пурнамс	пурнакшныньгак	V;SG;LGSPEC_AMP;1;PST
 канст	кансттомо	N;PRIV;SG
 алкиньгадомс	алкиньгавтозь	V.PTCP;NOM;SG;PST;CAUS
 содамочи	содамочизэст	N;IN+ALL;SG;PSS3P
@@ -346,12 +346,12 @@
 пондо	пондт	N;NOM;PL
 салтонь	салтонь	ADJ
 фотожурналист	фотожурналисттнэ	N;HUM;NOM;DEF;PL;LGSPEC1
-алыямс	алыякшныть	V;ITER;PL;3
+алыямс	алыякшныть	V;PL;3
 тердемс	тердьсамизь	V;AC1S;PL;2
 повесть	повестекс	N;TRANS;SG;LGSPEC1
 пижнемс	пижни	V;SG;3
 отряд	отрядось	N;NOM;DEF;SG;LGSPEC1
-отвечамс	отвечакшнось	V;ITER;SG;3;PST;LGSPEC1
+отвечамс	отвечакшнось	V;SG;3;PST;LGSPEC1
 келе	келеденть	N;ABL;DEF;SG
 шаштомс	шаштызь	V;AC3;PL;3;PST
 сэстамс	сэставтсынзе	V;AC3P;SG;3;CAUS
@@ -362,7 +362,7 @@
 чеерь	чеерентеньгак	N;HUM;DAT;DEF;SG;LGSPEC_AMP
 тешкстамс	тешкстатадо	V;PL;2
 кирваземс	кирваземскак	V;NFIN;LGSPEC_AMP
-пелькстамс	пелькстакшность	V;ITER;PL;3;PST
+пелькстамс	пелькстакшность	V;PL;3;PST
 престиж	престижест	N;NOM;SG;PSS3P;LGSPEC1
 кармамс	кармастькак	V;PL;LGSPEC_AMP;3;PST
 ацирьгадомс	ацирьгадозь	V.PTCP;PST
@@ -407,7 +407,7 @@
 урьвакстомс	урьвакстынек	V;AC3;PL;1;PST
 пейтеме	пейтеме	ADJ;SG
 кечкердемс	кечкерди	V;SG;3
-шлямс	шлякшность	V;ITER;PL;3;PST
+шлямс	шлякшность	V;PL;3;PST
 миллион	миллиондонть	N;ABL;DEF;SG;LGSPEC1
 неемс	неить	V;SG;2;PST
 баланс	балансонтень	N;IN+ALL;DEF;SG;LGSPEC1
@@ -430,8 +430,8 @@
 керямс	керизь	V;AC3;PL;3;PST
 чарамс	чарат	V;AC3P;IMP;SG;2
 гамзят	гамзят	N;NOM;SG;PSS2S
-кенярдомс	кенярдозевсь	V;INCH;SG;3;PST
-кочкамс	кочкакшнымизь	V;AC1P;ITER;PST
+кенярдомс	кенярдозевсь	V;SG;3;PST
+кочкамс	кочкакшнымизь	V;AC1P;PST
 раужосто	раужосто	ADJ
 потямс	потятанзат	V;AC2S;SG;3
 коськемс	коськильть	V;PL;3;RMT
@@ -442,7 +442,7 @@
 синтремс	синтринек	V;AC3;PL;1;PST
 оршавт	оршавтсо	N;IN+ESS;SG
 христианин	христианинэкс	N;HUM;TRANS;SG;LGSPEC1
-каванямс	каванякшны	V;ITER;SG;3
+каванямс	каванякшны	V;SG;3
 улема	улемасот	N;IN+ESS;SG;PSS2S
 томбалькс	томбалькссэ	N;IN+ESS;SG
 тоначи	тоначисэяк	N;IN+ESS;SG;LGSPEC_AMP
@@ -498,7 +498,7 @@
 чивалдо	чивалдодо	N;ABL;SG
 эрьгана	эрьгана	ADJ
 куринка	куринкатнева	N;PROL;DEF;PL
-нернемс	нернезевсь	V;INCH;SG;3;PST
+нернемс	нернезевсь	V;SG;3;PST
 душман	душман	N;HUM;NOM;SG;LGSPEC1
 ветнемс	ветнилизе	V;AC3S;SG;3;RMT
 сельме	сельме	N;NOM;SG
@@ -507,7 +507,7 @@
 келемемс	келеми	V;SG;3
 поладкс	поладксозо	N;NOM;SG;PSS3S
 паламс	палык	V;AC3S;SG;2;PST
-печтямс	печтякшнымизь	V;AC1P;ITER;PST
+печтямс	печтякшнымизь	V;AC1P;PST
 хардкор	хардкор	N;NOM;SG;LGSPEC1
 цеця	цецянтень	N;IN+ALL;DEF;SG
 поремс	порть	V;AC3P;IMP;SG;2
@@ -530,7 +530,7 @@
 сюрприз	сюрпризт	N;NOM;PL;LGSPEC1
 подклад	подкладов	N;AT+ALL;SG;LGSPEC1
 пия	пиянтень	N;DAT;DEF;SG
-сорномс	сорнозевинь	V;INCH;SG;1;PST
+сорномс	сорнозевинь	V;SG;1;PST
 сарай	сараентень	N;IN+ALL;DEF;SG;LGSPEC1
 аволямс	аволидизь	V;AC2P;PST
 кавтолдомс	кавтолдынек	V;PL;1;PST
@@ -565,7 +565,7 @@
 арсемс	арсеса	V;AC3S;SG;1
 кафе	кафеть	N;NOM;PL;LGSPEC1
 тапардамс	тапарды	V;SG;3
-эрямс	эрявкшнояк	V;ITER;LGSPEC_AMP;NEG;PASS
+эрямс	эрявкшнояк	V;LGSPEC_AMP;NEG;PASS
 азоравине	азоравинеть	N;HUM;NOM;PL
 розорямс	розоряви	V;SG;3;PASS;LGSPEC1
 вечкемс	вечкить	V;AC3P;SG;2;PST
@@ -577,7 +577,7 @@
 шешкемс	шешктядызь	V;AC2S;PL;3
 баня	банядо	N;ABL;SG;LGSPEC1
 казнемс	казневить	V;SG;2;PST;PASS
-чавномс	чавнокшныть	V;ITER;PL;3
+чавномс	чавнокшныть	V;PL;3
 кандомс	кандомак	V;AC1S;IMP;SG;2
 мекснемс	мекснить	V;PL;3
 очобамс	очоба	V;NEG
@@ -613,7 +613,7 @@
 понедельник	понедельникстэ	N;IN+ABL;SG;LGSPEC1
 ООН	оонсо	N;IN+ESS;SG;LGSPEC1
 ладямс	ладязекс	V.PTCP;TRANS;SG;PST;LGSPEC1
-печатамс	печатакшныть	V;AC3P;ITER;SG;2;PST;LGSPEC1
+печатамс	печатакшныть	V;AC3P;SG;2;PST;LGSPEC1
 сюпалгадомс	сюпалгавтынк	V;AC3;PL;2;PST;CAUS
 чалгсемс	чалгсезь	V.PTCP;NOM;SG;PST
 молемс	молезэ	V;OPT;SG;3
@@ -631,7 +631,7 @@
 сулей	сулейганзо	N;PROL;PL;PSS3S
 масторпрявт	масторпрявтонтень	N;HUM;IN+ALL;DEF;SG
 кровать	кроватесь	N;NOM;DEF;SG;LGSPEC1
-таштамс	таштакшнынек	V;AC3;ITER;PL;1;PST
+таштамс	таштакшнынек	V;AC3;PL;1;PST
 джип	джипсэ	N;IN+ESS;SG;LGSPEC1
 келемтемс	келемтеве	V;NEG;PASS
 минимум	минимумонть	N;GEN;DEF;SG;LGSPEC1
@@ -648,21 +648,21 @@
 подсобной	подсобной	ADJ;LGSPEC1
 максума	максумасонть	N;IN+ESS;DEF;SG
 сахарной	сахарной	ADJ;LGSPEC1
-дивамс	дивавтокшнымим	V;AC1S;ITER;SG;3;PST;CAUS;LGSPEC1
+дивамс	дивавтокшнымим	V;AC1S;SG;3;PST;CAUS;LGSPEC1
 замок	замоконть	N;GEN;DEF;SG;LGSPEC1
-спорямс	спорязевсть	V;INCH;PL;3;PST;LGSPEC1
+спорямс	спорязевсть	V;PL;3;PST;LGSPEC1
 судо	судодонок	N;ABL;SG;PSS1P
 древней	древней	ADJ;SG;LGSPEC1
 лытамс	лытазо	V;OPT;SG;3
 чачо	чачонтькак	N;GEN;DEF;SG;LGSPEC_AMP
 ютко	юткстост	N;IN+ABL;SG;PSS3P
 куншка	куншкас	N;IN+ALL
-самс	сакшно	V;ITER;NEG
+самс	сакшно	V;NEG
 квадрат	квадраттнэде	N;ABL;DEF;PL;LGSPEC1
 пейдемс	пейдевтить	V;AC3P;SG;2;PST;CAUS
 американской	американской	ADJ;SG;LGSPEC1
 налксемс	налксевсь	V;SG;3;PST;PASS
-путомс	путокшно	V;ITER;NEG
+путомс	путокшно	V;NEG
 антихристианской	антихристианской	ADJ;LGSPEC1
 автотранспортной	автотранспортной	ADJ;SG;LGSPEC1
 структура	структурасонть	N;IN+ESS;DEF;SG;LGSPEC1
@@ -670,7 +670,7 @@
 мариец	мариецтнэ	N;HUM;NOM;DEF;PL;LGSPEC1
 вечкевикс	вечкевиксэм	ADJ;NOM;SG;PSS1S
 човоргадомс	човоргавтымизь	V;AC1S;PL;3;PST;CAUS
-кайсемс	кайсекшнесь	V;ITER;SG;3;PST
+кайсемс	кайсекшнесь	V;SG;3;PST
 вардо	вардозо	N;HUM;NOM;SG;PSS3S
 пурнамс	пурныя	V;AC3S;SG;1;PST
 доклад	докладось	N;NOM;DEF;SG;LGSPEC1
@@ -690,7 +690,7 @@
 кепсемс	кепси	V;SG;3
 гайгстамс	гайгстак	V;AC3S;IMP;SG;2
 цяпамс	цяпавтынек	V;PL;1;PST;CAUS
-озномс	ознокшныть	V;AC3P;ITER;SG;2;PST
+озномс	ознокшныть	V;AC3P;SG;2;PST
 варчамс	варчатадызь	V;AC2P
 кевкстнемс	кевкстнетяно	V;PL;1
 больниця	больницясь	N;NOM;DEF;SG;LGSPEC1
@@ -750,7 +750,7 @@
 путомс	путозтядо	V.PTCP;PL;2;PST
 саема	саемасонзо	N;IN+ESS;PL;PSS3S
 самодеятельность	самодеятельностест	N;NOM;SG;PSS3P;LGSPEC1
-кенярдомс	кенярдозевить	V;INCH;SG;2;PST
+кенярдомс	кенярдозевить	V;SG;2;PST
 комната	комнататнева	N;PROL;DEF;PL;LGSPEC1
 панжомс	панжовияк	V;SG;LGSPEC_AMP;3;PASS
 республика	республикантеньгак	N;DAT;DEF;SG;LGSPEC_AMP;LGSPEC1
@@ -798,7 +798,7 @@
 витемс	витевест	V;OPT;PL;3;PASS
 морамс	морыяк	V;SG;LGSPEC_AMP;3
 норовпаз	норовпаз	N;NOM;SG
-ладямс	ладякшнызь	V;AC3;ITER;PL;3;PST;LGSPEC1
+ладямс	ладякшнызь	V;AC3;PL;3;PST;LGSPEC1
 топавтомс	топавтовлинь	V;SBJV;SG;1
 велиця	велиця	ADJ;SG
 тейтерьксчи	тейтерьксчинзэ	N;NOM;PL;PSS3S
@@ -816,7 +816,7 @@
 вексэмемс	вексэмезь	V.PTCP;NOM;SG;PST
 кедьёнкс	кедьёнксонк	N;NOM;SG;PSS2P
 медкомиссия	медкомиссия	N;NOM;SG;LGSPEC1
-тошнакадомс	тошнакадокшнось	V;ITER;SG;3;PST
+тошнакадомс	тошнакадокшнось	V;SG;3;PST
 питне	питнезэяк	N;IN+ALL;SG;LGSPEC_AMP
 пельие	пельиес	N;IN+ALL;SG
 восточной	восточной	ADJ;NOM;SG;LGSPEC1
@@ -831,7 +831,7 @@
 искусства	искусствасо	N;IN+ESS;SG;LGSPEC1
 каладо	каладо	ADJ;SG
 одксчи	одксчить	N;NOM;SG;PSS2S
-сюлмамс	сюлмавкшность	V;ITER;PL;3;PST;PASS
+сюлмамс	сюлмавкшность	V;PL;3;PST;PASS
 иредемс	иредезень	V.PTCP;GEN;PST
 карма	карматкак	N;NOM;PL;LGSPEC_AMP;LGSPEC1
 нурямс	нурить	V;SG;2;PST
@@ -850,7 +850,7 @@
 истожамс	истожинзе	V;AC3P;SG;3;PST
 пичой	пичой	N;NOM;SG
 бачка	бачкатнеде	N;HUM;ABL;DEF;PL
-меремс	мерезеват	V;INCH;SG;2
+меремс	мерезеват	V;SG;2
 авечкемс	авечксамизь	V;AC1P
 муцямс	муцявинь	V;SG;1;PST;PASS;LGSPEC1
 авиде	авиде	ADJ;SG
@@ -870,7 +870,7 @@
 передача	передачасонзо	N;IN+ESS;PL;PSS3S;LGSPEC1
 потлямс	потлямс	V;NFIN
 сэредькс	сэредькст	N;NOM;PL
-арсемс	арсезеве	V;INCH;NEG
+арсемс	арсезеве	V;NEG
 ушодкст	ушодкстнэнь	N;DAT
 контейнер	контейнер	N;NOM;SG;LGSPEC1
 пандя	пандяшка	N;COMPV;SG
@@ -894,7 +894,7 @@
 опровержения	опровержениясь	N;NOM;DEF;SG;LGSPEC1
 оровт	оровтс	N;IN+ALL;SG
 юрист	юристэнь	N;HUM;GEN;LGSPEC1
-янксемс	янксезеве	V;INCH;NEG
+янксемс	янксезеве	V;NEG
 милиционер	милиционертнэнень	N;HUM;IN+ALL;DEF;PL;LGSPEC1
 теевкс	теевкстнэнень	N;IN+ALL;DEF;PL
 кан	кантнэстэ	N;IN+ABL;DEF;PL
@@ -989,7 +989,7 @@
 подразделения	подразделениянтень	N;DAT;DEF;SG;LGSPEC1
 полицейской	полицейскоень	N;HUM;GEN;LGSPEC1
 ямксонь	ямксонь	ADJ
-пештямс	пештявкшныть	V;AC3P;ITER;SG;2;PST;PASS
+пештямс	пештявкшныть	V;AC3P;SG;2;PST;PASS
 буе	буеденть	N;ABL;DEF;SG
 вардо	вардотненень	N;HUM;IN+ALL;DEF;PL
 юбиляр	юбиляртнэнень	N;HUM;IN+ALL;DEF;PL;LGSPEC1
@@ -1109,13 +1109,13 @@
 примамс	приматадызь	V;AC2S;PL;1;LGSPEC1
 сад	садтнэ	N;NOM;DEF;PL;LGSPEC1
 бакулямс	бакулинек	V;AC3;PL;1;PST
-ацамс	ацазевсть	V;INCH;PL;3;PST
+ацамс	ацазевсть	V;PL;3;PST
 кемемс	кемевемс	V;NFIN;PASS
 автор	авторонть	N;HUM;GEN;DEF;SG;LGSPEC1
 алтамс	алтынек	V;PL;1;PST
 калмамс	калмамизь	V;AC1P;IMP;2
 семинар	семинарсонок	N;IN+ESS;SG;PSS1P;LGSPEC1
-чачомс	чачокшнояк	V;ITER;LGSPEC_AMP;NEG
+чачомс	чачокшнояк	V;LGSPEC_AMP;NEG
 диссертация	диссертациям	N;NOM;SG;PSS1S;LGSPEC1
 полпред	полпредэсь	N;HUM;NOM;DEF;SG;LGSPEC1
 бока	бокантень	N;IN+ALL;DEF;SG;LGSPEC1
@@ -1138,7 +1138,7 @@
 чирь	чиреть	ADJ;SG;PSS2S
 мускат	мускат	N;NOM;SG;LGSPEC1
 потмар	потмаркс	N;TRANS;SG
-кунсоломс	кунсолокшномс	V;ITER;NFIN
+кунсоломс	кунсолокшномс	V;NFIN
 режиссёр	режиссерос	N;HUM;IN+ALL;SG;LGSPEC1
 инегуй	инегуень	N;GEN
 кемикуро	кемикуросо	N;IN+ESS;SG
@@ -1158,7 +1158,7 @@
 менемс	меневемс	V;NFIN;PASS
 верце	верцетненень	ADJ;DAT;DEF;PL
 радиопрограмма	радиопрограмманть	N;GEN;DEF;SG;LGSPEC1
-панжомс	панжовкшнось	V;ITER;SG;3;PST;PASS
+панжомс	панжовкшнось	V;SG;3;PST;PASS
 ушмодей	ушмодеентень	N;HUM;IN+ALL;DEF;SG
 чаво	чавоткак	ADJ;SG;LGSPEC_AMP;PSS2S
 сёрма	сёрмась	N;NOM;DEF;SG
@@ -1230,7 +1230,7 @@
 кирьгапарь	кирьгапарезэ	N;NOM;SG;PSS3S
 пеле	пеледе	N;ABL;SG
 пильге	пильгентень	N;IN+ALL;DEF;SG
-явомс	явокшнынь	V;ITER;SG;1;PST
+явомс	явокшнынь	V;SG;1;PST
 крановщик	крановщикекскак	N;HUM;TRANS;SG;LGSPEC_AMP;LGSPEC1
 якшамо	якшамояк	ADJ;NOM;SG;LGSPEC_AMP
 тердемс	тердян	V;SG;1
@@ -1247,7 +1247,7 @@
 календарной	календарной	ADJ;NOM;SG;LGSPEC1
 ям	ямдояк	N;ABL;SG;LGSPEC_AMP
 пандомс	пандтядызь	V;AC2P
-эскельдямс	эскельдякшнынь	V;AC3P;ITER;SG;1;PST
+эскельдямс	эскельдякшнынь	V;AC3P;SG;1;PST
 верьгиз	верьгизтнэнень	N;HUM;IN+ALL;DEF;PL
 штанга	штанга	N;NOM;SG;LGSPEC1
 карвопанго	карвопанго	N;NOM;SG
@@ -1271,14 +1271,14 @@
 представитель	представительтненень	N;HUM;IN+ALL;DEF;PL;LGSPEC1
 чопача	чопачат	N;NOM;SG;PSS2S
 церкува	церкува	N;NOM;SG;LGSPEC1
-беряньгадомс	беряньгадокшнось	V;ITER;SG;3;PST
+беряньгадомс	беряньгадокшнось	V;SG;3;PST
 стака	стака	ADJ;NOM;SG
 кирдемс	кирдезэ	V;OPT;SG;3
 созвездие	созвездие	N;NOM;SG;LGSPEC1
 инзамс	инза	V;NEG
 вий	виеть	N;NOM;SG;PSS2S
-кирнявтомс	кирнявтокшнынек	V;ITER;PL;1;PST
-максомс	максокшнынек	V;ITER;PL;1;PST
+кирнявтомс	кирнявтокшнынек	V;PL;1;PST
+максомс	максокшнынек	V;PL;1;PST
 учнемс	учнилинек	V;AC3;PL;1;RMT
 муевкс	муевксэнь	N;GEN
 таштамс	таштынь	V;SG;1;PST
@@ -1289,7 +1289,7 @@
 гастроль	гастроленек	N;NOM;SG;PSS1P;LGSPEC1
 война	войнась	N;NOM;DEF;SG;LGSPEC1
 кустембе	кустембентень	N;DAT;DEF;SG
-пувамс	пувазевсть	V;INCH;PL;3;PST
+пувамс	пувазевсть	V;PL;3;PST
 давол	даволонтень	N;DAT;DEF;SG
 лось	лось	N;HUM;NOM;SG;LGSPEC1
 тувтал	тувталось	N;NOM;DEF;SG
@@ -1329,7 +1329,7 @@
 алтыма	алтымантень	N;DAT;DEF;SG
 тонавтнемс	тонавтнизе	V;AC3S;SG;3;PST
 зона	зонанть	N;GEN;DEF;SG;LGSPEC1
-витнемс	витнекшнызь	V;AC3;ITER;PL;3;PST
+витнемс	витнекшнызь	V;AC3;PL;3;PST
 справочной	справочной	ADJ;SG;LGSPEC1
 басня	басняст	N;NOM;SG;PSS3P;LGSPEC1
 срадомс	сравты	V;SG;3;CAUS
@@ -1397,24 +1397,24 @@
 тамаша	тамашадо	N;ABL;SG
 токамс	токавлинь	V;SBJV;SG;1
 химической	химической	ADJ;NOM;SG;LGSPEC1
-кенеремс	кенерькшне	V;ITER;NEG
+кенеремс	кенерькшне	V;NEG
 тяка	тякат	N;HUM;NOM;SG;PSS2S
 прамс	правтозьгак	V.PTCP;NOM;SG;LGSPEC_AMP;PST;CAUS
 сазор	сазортнэнень	N;HUM;DAT;DEF;PL
-пурнамс	пурнавкшнодо	V;ITER;IMP;PL;2;PASS
+пурнамс	пурнавкшнодо	V;IMP;PL;2;PASS
 пия	пиянтень	N;IN+ALL;DEF;SG
 сокамс	сокавить	V;SG;2;PST;PASS
 нежедемс	нежедьсызь	V;AC3;PL;3
 столба	столбась	N;NOM;DEF;SG;LGSPEC1
 сезевкс	сезевкс	N;NOM;SG
-неемс	некшневить	V;ITER;SG;2;PST;PASS
+неемс	некшневить	V;SG;2;PST;PASS
 библиотекарь	библиотекарест	N;HUM;NOM;SG;PSS3P;LGSPEC1
 условной	условной	ADJ;LGSPEC1
 трагедия	трагедиянь	N;GEN;LGSPEC1
 важо	важокс	N;TRANS;SG
 крестямс	крестизе	V;AC3S;SG;3;PST;LGSPEC1
 вастомс	вастындерятадызь	V;AC2S;COND;PL;1
-манямс	манявкшнынь	V;AC3P;ITER;SG;1;PST;PASS
+манямс	манявкшнынь	V;AC3P;SG;1;PST;PASS
 зепе	зепесь	N;NOM;DEF;SG
 ливчакадомс	ливчакадодо	V;IMP;PL;2
 няшной	няшной	ADJ;SG;LGSPEC1
@@ -1455,7 +1455,7 @@
 кекшемс	кекшевлик	V;AC3S;SBJV;SG;2
 финансирования	финансирования	N;NOM;SG;LGSPEC1
 цирнемс	цирнезь	V.PTCP;PST
-толгиямс	толгиякшнось	V;ITER;SG;3;PST
+толгиямс	толгиякшнось	V;SG;3;PST
 макснемс	максниль	V;SG;3;RMT
 почт	почтокс	N;TRANS;SG
 чурькапря	чурькапрят	N;NOM;PL
@@ -1469,7 +1469,7 @@
 тонавтнемс	тонавтни	V;SG;3
 привокзальной	привокзальной	ADJ;LGSPEC1
 муемс	муевиндеряй	V;COND;SG;3;PASS
-мернемс	мернекшнесь	V;ITER;SG;3;PST
+мернемс	мернекшнесь	V;SG;3;PST
 равтомс	равтозесь	V.PTCP;NOM;DEF;SG;PST
 депутат	депутаттнэнень	N;HUM;IN+ALL;DEF;PL;LGSPEC1
 цёрынька	цёрынькан	N;HUM;NOM;PL;PSS1S
@@ -1502,7 +1502,7 @@
 тердемс	тердия	V;AC3S;SG;1;PST
 дорномс	дорнозь	V.PTCP;NOM;SG;PST
 ажия	ажият	N;NOM;PL
-радувамс	радувакшнан	V;ITER;SG;1;LGSPEC1
+радувамс	радувакшнан	V;SG;1;LGSPEC1
 талан	талантнэнень	N;DAT;DEF;PL
 фасоль	фасоленть	N;GEN;DEF;SG;LGSPEC1
 фестиваль	фестивальть	N;NOM;PL;LGSPEC1
@@ -1526,7 +1526,7 @@
 мокшо	мокшонтень	N;HUM;DAT;DEF;SG
 тонадомс	тонавтыдизь	V;AC2S;PL;1;PST;CAUS
 венстемс	венстильть	V;PL;3;RMT
-кадомс	кадовкшны	V;ITER;SG;3;PASS
+кадомс	кадовкшны	V;SG;3;PASS
 грек	грекенть	N;HUM;GEN;DEF;SG;LGSPEC1
 одкстомтомс	одкстомтыть	V;AC3P;SG;2;PST
 косметика	косметика	N;NOM;SG;LGSPEC1
@@ -1554,7 +1554,7 @@
 арена	аренантень	N;DAT;DEF;SG;LGSPEC1
 вешнемс	вешни	V;SG;3
 наксадомс	наксадыть	V;PL;3
-манямс	манявкшныньгак	V;AC3P;ITER;SG;LGSPEC_AMP;1;PST;PASS
+манямс	манявкшныньгак	V;AC3P;SG;LGSPEC_AMP;1;PST;PASS
 мурнемс	мурнинь	V;AC3P;SG;1;PST
 доцент	доцентэнь	N;HUM;GEN;LGSPEC1
 сапонь	сапоньсэяк	N;IN+ESS;SG;LGSPEC_AMP
@@ -1575,7 +1575,7 @@
 пря	прястот	N;IN+ABL;SG;PSS2S
 панкс	панксстонть	N;IN+ABL;DEF;SG
 улемс	улевть	V;AC3P;IMP;SG;2;PASS
-киштемс	киштезевсь	V;INCH;SG;3;PST
+киштемс	киштезевсь	V;SG;3;PST
 марафон	марафон	N;NOM;SG;LGSPEC1
 экстремист	экстремист	N;HUM;NOM;SG;LGSPEC1
 эрямс	эрик	V;AC3S;SG;2;PST
@@ -1613,7 +1613,7 @@
 куломс	куловтынк	V;AC3;PL;2;PST;CAUS
 ёзамс	ёзави	V;SG;3;PASS
 аштемс	аштиде	V;PL;2;PST
-ускомс	ускокшнымизь	V;AC1S;ITER;PL;3;PST
+ускомс	ускокшнымизь	V;AC1S;PL;3;PST
 чуваш	чувашонь	N;HUM;GEN
 венстямс	венстят	V;AC3P;IMP;SG;2
 але	аленень	N;DAT
@@ -1763,7 +1763,7 @@
 царь	царенть	N;HUM;GEN;DEF;SG;LGSPEC1
 кедьёжо	кедьёжонок	N;NOM;SG;PSS1P
 учомс	учияк	V;SG;LGSPEC_AMP;3
-ушодомс	ушодокшнынек	V;AC3;ITER;PL;1;PST
+ушодомс	ушодокшнынек	V;AC3;PL;1;PST
 клетка	клеткань	N;GEN;LGSPEC1
 лиякстомань	лиякстомань	ADJ;SG
 алкс	алкстнэ	N;NOM;DEF;PL
@@ -1797,7 +1797,7 @@
 роль	рольсэнть	N;IN+ESS;DEF;SG;LGSPEC1
 уреава	уреава	N;HUM;NOM;SG
 удомс	удосынк	V;AC3;PL;2
-валномс	валнокшнозь	V.PTCP;ITER;NOM;SG;PST
+валномс	валнокшнозь	V.PTCP;NOM;SG;PST
 трактор	тракторт	N;NOM;PL;LGSPEC1
 район	район	N;NOM;SG;LGSPEC1
 сквер	скверэсь	N;NOM;DEF;SG;LGSPEC1
@@ -1821,8 +1821,8 @@
 округ	округонь	N;GEN;LGSPEC1
 кельме	кельмеяк	ADJ;NOM;SG;LGSPEC_AMP
 оляксчи	оляксчи	N;NOM;SG;LGSPEC1
-аштемс	аштекшнильть	V;ITER;PL;3;RMT
-прамс	пракшномс	V;ITER;NFIN
+аштемс	аштекшнильть	V;PL;3;RMT
+прамс	пракшномс	V;NFIN
 кудоракша	кудоракшань	N;HUM;GEN
 содамс	содавтыя	V;AC3S;SG;1;PST;CAUS
 лазномс	лазно	V;NEG
@@ -1836,7 +1836,7 @@
 промкс	промксстонзо	N;IN+ABL;PL;PSS3S
 рамамс	рамавлинь	V;SBJV;SG;1
 нолдамс	нолдызь	V;AC3;PL;3;PST
-ваямс	ваякшнозь	V.PTCP;ITER;PST
+ваямс	ваякшнозь	V.PTCP;PST
 соус	соуссо	N;IN+ESS;SG;LGSPEC1
 прибыль	прибыльденть	N;ABL;DEF;SG;LGSPEC1
 кутмордамс	кутмордазь	V.PTCP;NOM;SG;PST
@@ -1936,12 +1936,12 @@
 молемс	молевть	V;IMP;SG;2;PASS
 главной	главной	ADJ;SG;LGSPEC1
 тапамс	тапи	V;SG;3
-кунсоломс	кунсолокшно	V;ITER;NEG
+кунсоломс	кунсолокшно	V;NEG
 ламолгадомс	ламолгавтовить	V;AC3P;SG;2;PST;CAUS;PASS
 подвиг	подвигезэ	N;NOM;SG;PSS3S;LGSPEC1
 кокадемс	кокадемс	V;NFIN
 руз	рузонтень	ADJ;IN+ALL;DEF;SG
-кортамс	кортазеви	V;INCH;SG;3
+кортамс	кортазеви	V;SG;3
 басня	басня	N;NOM;SG;LGSPEC1
 ривезьлевкс	ривезьлевкст	N;HUM;NOM;PL
 касомс	кассы	V;AC3S;SG;3
@@ -1960,10 +1960,10 @@
 сазоронь	сазоронь	ADJ;NOM;SG
 начтомс	начтсынзе	V;AC3P;SG;3
 сиянь	сиянть	ADJ;NOM;PL
-виемс	викшневить	V;ITER;SG;2;PST;PASS
+виемс	викшневить	V;SG;2;PST;PASS
 проблема	проблемась	N;NOM;DEF;SG;LGSPEC1
 аудио	аудиосо	N;IN+ESS;SG;LGSPEC1
-маднемс	маднекшнесть	V;ITER;PL;3;PST
+маднемс	маднекшнесть	V;PL;3;PST
 ацирьгадомс	ацирьгавтымизь	V;AC1S;PL;2;PST;CAUS
 указ	указтнэсэ	N;IN+ESS;DEF;PL;LGSPEC1
 стомамс	стомазь	V.PTCP;NOM;SG;PST
@@ -1999,7 +1999,7 @@
 човарка	човаркат	N;HUM;NOM;PL
 содавиксчи	содавиксчиськак	N;NOM;DEF;SG;LGSPEC_AMP
 пивсэзь	пивсэзь	ADJ
-тешкстамс	тешкставкшнось	V;ITER;SG;3;PST;PASS
+тешкстамс	тешкставкшнось	V;SG;3;PST;PASS
 пандов	пандов	ADJ;NOM;SG
 столешник	столешник	N;NOM;SG;LGSPEC1
 ламоксчи	ламоксчизэ	N;NOM;SG;PSS3S
@@ -2015,7 +2015,7 @@
 недькст	недькстнэнь	N;DAT
 степень	степенень	N;GEN;LGSPEC1
 ведьпача	ведьпачань	N;HUM;GEN
-самс	савкшныяк	V;ITER;SG;LGSPEC_AMP;3;PASS
+самс	савкшныяк	V;SG;LGSPEC_AMP;3;PASS
 фабрика	фабрикастонть	N;IN+ABL;DEF;SG;LGSPEC1
 события	событиятне	N;NOM;DEF;PL;LGSPEC1
 эрзя	эрзятнестэ	N;HUM;IN+ABL;DEF;PL
@@ -2026,7 +2026,7 @@
 ливезькадомс	ливезькадсь	V;SG;3;PST
 сессия	сессиязо	N;IN+ALL;SG;LGSPEC1
 археология	археологиясо	N;IN+ESS;SG;LGSPEC1
-кенярдомс	кенярдкшнытькак	V;ITER;SG;LGSPEC_AMP;2;PST
+кенярдомс	кенярдкшнытькак	V;SG;LGSPEC_AMP;2;PST
 чиряз	чирязт	N;HUM;NOM;PL
 тамаша	тамашадонть	N;ABL;DEF;SG
 цех	цехтнес	N;IN+ALL;DEF;PL;LGSPEC1
@@ -2075,7 +2075,7 @@
 зыян	зыянтнэнень	N;DAT;DEF;PL;LGSPEC1
 вейсэндямс	вейсэндясынзе	V;AC3P;SG;3
 потямс	потявттано	V;PL;1;CAUS
-ильведемс	ильведевкшнынек	V;AC3;ITER;PL;1;PST;PASS
+ильведемс	ильведевкшнынек	V;AC3;PL;1;PST;PASS
 апаро	апародонть	ADJ;ABL;DEF;SG
 пола	полат	N;HUM;NOM;SG;PSS2S
 питнеде	питнеденть	ADJ;GEN;DEF;SG
@@ -2089,7 +2089,7 @@
 хакас	хакаска	N;HUM;PROL;SG;LGSPEC1
 сялдомс	сялдан	V;SG;1
 сурень	сурень	ADJ
-лоштямс	лоштякшнымизь	V;AC1S;ITER;PL;2;PST
+лоштямс	лоштякшнымизь	V;AC1S;PL;2;PST
 пиемс	пивтинь	V;AC3P;SG;1;PST;CAUS
 пакет	пакетстэнть	N;IN+ABL;DEF;SG;LGSPEC1
 лопа	лопастонть	N;IN+ABL;DEF;SG
@@ -2109,7 +2109,7 @@
 удалкс	удалкскан	N;PROL;SG;PSS1S
 меельце	меельцетненень	ADJ;DAT;DEF;PL
 жанра	жанрасо	N;IN+ESS;SG;LGSPEC1
-ладсемс	ладсекшнынзе	V;AC3P;ITER;SG;3;PST;LGSPEC1
+ладсемс	ладсекшнынзе	V;AC3P;SG;3;PST;LGSPEC1
 ланго	лангосткак	N;NOM;SG;LGSPEC_AMP;PSS3P
 отьма	отьмась	N;NOM;DEF;SG
 вал	валстояк	N;IN+ABL;SG;LGSPEC_AMP
@@ -2121,7 +2121,7 @@
 ёмавкс	ёмавкстомо	N;PRIV;SG
 чопода-пиже	чопода-пиже	ADJ
 луганар	луганарсо	N;HUM;IN+ESS;SG
-ёмамс	ёмакшнынь	V;ITER;SG;1;PST
+ёмамс	ёмакшнынь	V;SG;1;PST
 токамс	токатан	V;AC2S;SG;1
 киштемс	киштевтизе	V;AC3S;SG;3;PST;CAUS
 алтамс	алтасть	V;PL;3;PST
@@ -2141,7 +2141,7 @@
 лемдемс	лемдилизьгак	V;AC3;PL;LGSPEC_AMP;3;RMT
 вытянутой	вытянутой	ADJ;NOM;SG;LGSPEC1
 политика	политикаськак	N;NOM;DEF;SG;LGSPEC_AMP;LGSPEC1
-радувамс	радувакшнось	V;ITER;SG;3;PST;LGSPEC1
+радувамс	радувакшнось	V;SG;3;PST;LGSPEC1
 печтямс	печтят	V;SG;2
 токшемс	токшимизь	V;AC1P;PST
 источник	источниктнеде	N;ABL;DEF;PL;LGSPEC1
@@ -2211,7 +2211,7 @@
 пейдемс	пейдевтян	V;AC2S;SG;1;PASS
 урьва	урьванзо	N;HUM;NOM;PL;PSS3S
 янксемс	янксинек	V;PL;1;PST
-анокстамс	анокстакшнотано	V;ITER;PL;1
+анокстамс	анокстакшнотано	V;PL;1
 чикоркс	чикоркст	N;NOM;PL
 калонь	калонь	ADJ
 пиштямс	пиштиде	V;PL;2;PST
@@ -2236,7 +2236,7 @@
 керямс	керясынек	V;AC3;PL;1
 чев	чевентень	N;IN+ALL;DEF;SG
 кандомс	кандынь	V;AC3P;SG;1;PST
-роботамс	роботакшность	V;ITER;PL;3;PST;LGSPEC1
+роботамс	роботакшность	V;PL;3;PST;LGSPEC1
 покштянь	покштянтень	ADJ;DAT
 нолдамс	нолдатадо	V;PL;2
 репрессия	репрессиянь	N;GEN;LGSPEC1
@@ -2290,7 +2290,7 @@
 пряв	прявтнесэ	ADJ;IN+ESS;DEF;PL
 седеймель	седеймель	N;NOM;SG
 сусконемс	сусконить	V;SG;2;PST
-ледстямс	ледстявкшны	V;ITER;SG;3;PASS
+ледстямс	ледстявкшны	V;SG;3;PASS
 ям	ямов	N;AT+ALL;SG
 комплекс	комплекстнэнь	N;GEN;DEF;PL;LGSPEC1
 валямс	валязель	V.PTCP;SG;3;PST;LGSPEC1
@@ -2318,7 +2318,7 @@
 гайгемс	гайгезь	V.PTCP;PST
 эждемс	эждемс	V;NFIN
 монография	монографиязояк	N;NOM;SG;LGSPEC_AMP;PSS3S;LGSPEC1
-чавомс	чавокшнынде	V;AC3P;ITER;SG;3;PST
+чавомс	чавокшнынде	V;AC3P;SG;3;PST
 автяз	автязось	N;HUM;NOM;DEF;SG
 куйгорож	куйгорожось	N;NOM;DEF;SG
 фермер	фермерт	N;HUM;NOM;PL;LGSPEC1
@@ -2377,7 +2377,7 @@
 сэвемс	сэвсынзе	V;AC3P;SG;3
 клоун	клоунонь	N;HUM;GEN;LGSPEC1
 кудоюрт	кудоюрт	N;NOM;SG
-видькстамс	видькстакшномс	V;ITER;NFIN
+видькстамс	видькстакшномс	V;NFIN
 наследие	наследие	N;NOM;SG;LGSPEC1
 кубок	кубок	N;NOM;SG;LGSPEC1
 торама	торамасто	N;IN+ABL;SG
@@ -2449,7 +2449,7 @@
 эшкемс	эшкевсь	V;SG;3;PST;PASS
 кши-сал	кши-салсо	N;IN+ESS;SG
 театра	театраст	N;NOM;SG;PSS3P;LGSPEC1
-вечкемс	вечкевкшне	V;ITER;NEG;PASS
+вечкемс	вечкевкшне	V;NEG;PASS
 эрсемс	эрсе	V;NEG
 опыт	опыт	N;NOM;SG;LGSPEC1
 вальма	вальмазо	N;NOM;SG;PSS3S
@@ -2464,7 +2464,7 @@
 филиал	филиалтнэнь	N;GEN;DEF;PL;LGSPEC1
 муемс	муильть	V;PL;3;RMT
 цепь	цепесь	N;NOM;DEF;SG;LGSPEC1
-идемс	идекшны	V;ITER;SG;3
+идемс	идекшны	V;SG;3
 качамо	качамов	N;AT+ALL;SG
 бук	букан	N;SG;1;LGSPEC1
 донор	донорт	N;HUM;NOM;PL;LGSPEC1
@@ -2474,7 +2474,7 @@
 торт	тортось	N;NOM;DEF;SG;LGSPEC1
 кирькс	кирьксэнк	N;NOM;SG;PSS2P
 яксярго	яксяргост	N;HUM;NOM;SG;PSS3P
-арсемс	арсезеват	V;INCH;SG;2
+арсемс	арсезеват	V;SG;2
 кумажа	кумажазот	N;IN+ALL;SG;PSS2S
 пенсия	пенсиясь	N;NOM;DEF;SG;LGSPEC1
 эрямс	эрявик	V;AC3S;SG;2;PST;PASS
@@ -2482,7 +2482,7 @@
 мадемс	мадевть	V;NEG;CAUS
 ванськадомс	ванськавты	V;SG;3;CAUS
 соксонь	соксонть	ADJ;NOM;PL
-неемс	некшнезь	V.PTCP;ITER;NOM;SG;PST
+неемс	некшнезь	V.PTCP;NOM;SG;PST
 аштемков	аштемковсо	N;IN+ESS;SG
 федеративной	федеративной	ADJ;NOM;SG;LGSPEC1
 лапштаня	лапштанят	ADJ;SG;PSS2S
@@ -2493,7 +2493,7 @@
 азгондемс	азгондить	V;AC3P;SG;2;PST
 кузниця	кузницят	N;NOM;SG;PSS2S;LGSPEC1
 куринка	куринкав	N;AT+ALL;SG
-сёрмадомс	сёрмадокшнызеяк	V;AC3S;ITER;SG;LGSPEC_AMP;3;PST
+сёрмадомс	сёрмадокшнызеяк	V;AC3S;SG;LGSPEC_AMP;3;PST
 экскурсия	экскурсиясонть	N;IN+ESS;DEF;SG;LGSPEC1
 стямс	стинь	V;SG;1;PST
 нуцькине	нуцькинезэяк	N;HUM;NOM;SG;LGSPEC_AMP;PSS3S;LGSPEC1
@@ -2504,7 +2504,7 @@
 трямо	трямонзо	N;NOM;PL;PSS3S
 кевердемс	кевердилинек	V;PL;1;RMT
 идемс	идевинь	V;SG;1;PST;PASS
-пултамс	пултакшность	V;ITER;PL;3;PST
+пултамс	пултакшность	V;PL;3;PST
 пекше	пекшеть	N;NOM;PL
 библиотека	библиотекастонть	N;IN+ABL;DEF;SG;LGSPEC1
 ранкстамс	ранкстазь	V.PTCP;PST
@@ -2580,9 +2580,9 @@
 дивамс	дивавтынзе	V;AC3P;SG;3;PST;CAUS;LGSPEC1
 кандомс	кандсыть	V;AC3P;SG;2
 лексемс	лексезь	V.PTCP;PST
-кеверемс	кеверькшнить	V;ITER;SG;2;PST
-тешкстамс	тешкставкшныть	V;ITER;PL;3;PASS
-яжамс	яжавкшность	V;ITER;PL;3;PST;PASS
+кеверемс	кеверькшнить	V;SG;2;PST
+тешкстамс	тешкставкшныть	V;PL;3;PASS
+яжамс	яжавкшность	V;PL;3;PST;PASS
 кудоюрт	кудоюртозо	N;NOM;SG;PSS3S
 цёлак	цёлакт	ADJ;NOM;PL
 лескс	лесксэнь	N;GEN
@@ -2607,7 +2607,7 @@
 пежеть	пежетезэ	N;NOM;SG;PSS3S
 молевть	молевть	N;NOM;SG
 пуло	пулова	N;PROL;SG
-ваномс	ванкшнозь	V.PTCP;ITER;PST
+ваномс	ванкшнозь	V.PTCP;PST
 сеземс	сезевемс	V;NFIN;PASS
 пургондавкс	пургондавкст	N;NOM;PL
 лепштямс	лепштинь	V;AC3P;SG;1;PST
@@ -2684,7 +2684,7 @@
 венстямс	венстясы	V;AC3S;SG;3
 потмакс	потмаксонть	N;GEN;DEF;SG
 медь	медем	N;NOM;SG;PSS1S
-стувтомс	стувтокшно	V;ITER;NEG
+стувтомс	стувтокшно	V;NEG
 оршамс	оршавтызе	V;AC3S;SG;3;PST;CAUS
 райгазета	райгазетатнень	N;GEN;DEF;PL;LGSPEC1
 веле	велестэнк	N;IN+ABL;SG;PSS2P
@@ -2723,7 +2723,7 @@
 киска	кисказо	N;HUM;IN+ALL;SG
 полавтнемс	полавтнизь	V;AC3;PL;3;PST
 сормамс	сормавозь	V.PTCP;PST;PASS
-човиямс	човиякшныть	V;ITER;PL;3
+човиямс	човиякшныть	V;PL;3
 ведьбря	ведьбрянтень	N;DAT;DEF;SG
 аппарат	аппаратсо	N;IN+ESS;SG;LGSPEC1
 субботник	субботниктнес	N;IN+ALL;DEF;PL;LGSPEC1
@@ -2756,7 +2756,7 @@
 царской	царской	ADJ;NOM;SG;LGSPEC1
 сандей	сандей	ADJ
 сулика	суликазонзо	N;IN+ALL;PL;PSS3S
-сёрмадомс	сёрмадокшно	V;ITER;NEG
+сёрмадомс	сёрмадокшно	V;NEG
 тарькстамс	тарькстасть	V;PL;3;PST
 микшнемс	микшнинек	V;AC3;PL;1;PST
 лекшкадомс	лекшкадовлинь	V;AC3P;SBJV;SG;1
@@ -2844,13 +2844,13 @@
 ломанень	ломаненьгак	ADJ;SG;LGSPEC_AMP
 троюродной	троюродной	ADJ;NOM;SG;LGSPEC1
 базовой	базовой	ADJ;SG;LGSPEC1
-дивамс	дивазеви	V;INCH;SG;3;LGSPEC1
+дивамс	дивазеви	V;SG;3;LGSPEC1
 викшнемс	викшнезельть	V.PTCP;PL;3;PST
 чудиксчи	чудиксчи	N;NOM;SG
 он	онозот	ADJ;IN+ALL;SG;PSS2S
 клиент	клиенттнэнь	N;HUM;GEN;DEF;PL;LGSPEC1
 аволь	аволизеяк	V;AC3S;SG;LGSPEC_AMP;3;NEG;PST
-ёвтнемс	ёвтнекшния	V;AC3S;ITER;SG;1;PST
+ёвтнемс	ёвтнекшния	V;AC3S;SG;1;PST
 автобот	автоботтнэнь	N;GEN;DEF;PL;LGSPEC1
 азбука	азбуказонзо	N;IN+ALL;PL;PSS3S;LGSPEC1
 чарамс	чара	V;NEG
@@ -2873,7 +2873,7 @@
 перемена	перемена	N;NOM;SG;LGSPEC1
 ладямс	ладяса	V;AC3S;SG;1;LGSPEC1
 прамс	прыде	V;PL;2;PST
-тешкстамс	тешкставкшность	V;ITER;PL;3;PST;PASS
+тешкстамс	тешкставкшность	V;PL;3;PST;PASS
 купюра	купюратнень	N;GEN;DEF;PL;LGSPEC1
 фотокув	фотокувтнесэ	N;IN+ESS;DEF;PL;LGSPEC1
 арсевкс	арсевксэнть	N;GEN;DEF;SG
@@ -2899,7 +2899,7 @@
 асаты	асатыть	N;NOM;PL
 варчамс	варчат	V;SG;2
 дальней	дальней	ADJ;SG;LGSPEC1
-муемс	мукшнозь	V.PTCP;ITER;NOM;SG;PST
+муемс	мукшнозь	V.PTCP;NOM;SG;PST
 пенерьва	пенерьванзо	N;HUM;NOM;PL;PSS3S
 робота	роботанок	N;NOM;SG;PSS1P;LGSPEC1
 яжамс	яжинек	V;AC3;PL;1;PST
@@ -2919,7 +2919,7 @@
 ливти	ливтинк	ADJ;NOM;SG;PSS2P
 чапавтомс	чапавтозь	V.PTCP;PST
 провокация	провокация	N;NOM;SG;LGSPEC1
-ацамс	ацакшнось	V;ITER;SG;3;PST
+ацамс	ацакшнось	V;SG;3;PST
 штабель	штабельть	N;NOM;PL;LGSPEC1
 базовой	базовой	ADJ;LGSPEC1
 потенциал	потенциалось	N;NOM;DEF;SG;LGSPEC1
@@ -2930,7 +2930,7 @@
 пона	понантень	N;DAT;DEF;SG
 диссертация	диссертациянтькак	N;GEN;DEF;SG;LGSPEC_AMP;LGSPEC1
 ашопря	ашопрянь	N;GEN
-маштомс	маштокшнось	V;ITER;SG;3;PST
+маштомс	маштокшнось	V;SG;3;PST
 алтамс	алтавськак	V;SG;LGSPEC_AMP;3;PST;PASS
 обла	областеньгак	N;HUM;DAT;DEF;SG;LGSPEC_AMP;LGSPEC1
 умарьпире	умарьпирень	N;GEN
@@ -3103,9 +3103,9 @@
 апаро	апарот	ADJ;NOM;SG;PSS2S
 торо	торонок	N;NOM;SG;PSS1P
 царь	царень	N;HUM;GEN;LGSPEC1
-тонавтнемс	тонавтнекшнинек	V;ITER;PL;1;PST
+тонавтнемс	тонавтнекшнинек	V;PL;1;PST
 покшолгадомс	покшолгадыть	V;PL;3
-кортамс	кортазевсть	V;INCH;PL;3;PST
+кортамс	кортазевсть	V;PL;3;PST
 карусель	карусельсэ	N;IN+ESS;SG;LGSPEC1
 пежеть	пежеттензэ	N;ABL;PL;PSS3S
 сарай	сараентень	N;DAT;DEF;SG;LGSPEC1
@@ -3194,10 +3194,10 @@
 озамс	озавтозельть	V.PTCP;PL;3;PST;CAUS
 рамсемс	рамсевсть	V;PL;3;PST;PASS
 кандомс	кандызе	V;AC3S;SG;3;PST
-паролгадомс	паролгадокшнось	V;ITER;SG;3;PST
+паролгадомс	паролгадокшнось	V;SG;3;PST
 контузия	контузия	N;NOM;SG;LGSPEC1
 кирвазтемс	кирвазтилинек	V;PL;1;RMT
-печкемс	печкевкшнесть	V;ITER;PL;3;PST;PASS
+печкемс	печкевкшнесть	V;PL;3;PST;PASS
 мараля	маралятне	N;HUM;NOM;DEF;PL
 зэрнемс	зэрнесть	V;PL;3;PST
 видькстамс	видькстынь	V;AC3P;SG;1;PST
@@ -3218,13 +3218,13 @@
 кизэ	кизэяк	N;NOM;SG;LGSPEC_AMP
 попечитель	попечительтне	N;HUM;NOM;DEF;PL;LGSPEC1
 пря	прямок	N;NOM;PL;PSS1P
-ваномс	ванкшносынь	V;AC3P;ITER;SG;1
+ваномс	ванкшносынь	V;AC3P;SG;1
 эрямочи	эрямочизэ	N;NOM;SG;PSS3S
 комикс	комиксэнть	N;GEN;DEF;SG;LGSPEC1
 вирез	вирезэнть	N;HUM;GEN;DEF;SG
 тулапа	тулапа	N;HUM;NOM;SG
 човорямс	човорявить	V;SG;2;PST;PASS
-пувордамс	пувордакшнымим	V;AC1S;ITER;SG;3;PST
+пувордамс	пувордакшнымим	V;AC1S;SG;3;PST
 пиче	пичентень	N;IN+ALL;DEF;SG
 материальной	материальной	ADJ;LGSPEC1
 основа	основанть	N;GEN;DEF;SG;LGSPEC1
@@ -3232,7 +3232,7 @@
 неемс	неиде	V;PL;2;PST
 нолдамс	нолдымизь	V;AC1S;PL;3;PST
 пелемс	пелилитькак	V;AC3P;SG;LGSPEC_AMP;2;RMT
-цидярдомс	цидярдокшныльть	V;ITER;PL;3;RMT
+цидярдомс	цидярдокшныльть	V;PL;3;RMT
 чады	чадыть	ADJ;NOM;PL
 шаль	шальсэнзэ	N;IN+ESS;PL;PSS3S;LGSPEC1
 потмо	потмот	ADJ;NOM;SG;PSS2S
@@ -3270,7 +3270,7 @@
 бухгалтерия	бухгалтериянть	N;GEN;DEF;SG;LGSPEC1
 филология	филология	N;NOM;SG;LGSPEC1
 союзник	союзник	N;HUM;NOM;SG;LGSPEC1
-понгонемс	понгонекшне	V;ITER;NEG
+понгонемс	понгонекшне	V;NEG
 черьбуло	черьбулонзо	N;NOM;PL;PSS3S
 субботник	субботникс	N;IN+ALL;SG;LGSPEC1
 лётчик	лётчик	N;HUM;NOM;SG;LGSPEC1
@@ -3288,7 +3288,7 @@
 тонадомс	тонавтовить	V;SG;2;PST;CAUS;PASS
 чиямс	чиятадызь	V;AC2P
 пиципалакс	пиципалаксось	N;NOM;DEF;SG
-талномс	талнозевсть	V;INCH;PL;3;PST
+талномс	талнозевсть	V;PL;3;PST
 великой	великой	ADJ;SG;LGSPEC1
 ушо	ушолить	N;SG;2;PST
 раське	раськедест	N;ABL;SG;PSS3P
@@ -3319,13 +3319,13 @@
 ёжо	ёжоткак	N;NOM;PL;LGSPEC_AMP
 сёрмадомс	сёрмадост	V;OPT;PL;3
 ютамо	ютамот	N;NOM;SG;PSS2S
-касомс	касокшнось	V;ITER;SG;3;PST
+касомс	касокшнось	V;SG;3;PST
 крестямс	крестявтыть	V;SG;2;PST;CAUS;LGSPEC1
 седейризкс	седейризкс	N;NOM;SG
 нолго	нолгозо	N;IN+ALL;SG
-эрямс	эрявкшныть	V;ITER;SG;2;PST;PASS
+эрямс	эрявкшныть	V;SG;2;PST;PASS
 пристав	приставонтень	N;HUM;IN+ALL;DEF;SG;LGSPEC1
-пурнамс	пурнакшнынь	V;ITER;SG;1;PST
+пурнамс	пурнакшнынь	V;SG;1;PST
 отказамс	отказак	V;AC3S;IMP;SG;2;LGSPEC1
 томбалькс	томбалькстнэнь	N;GEN;DEF;PL
 покштяй	покштяесь	N;HUM;NOM;DEF;SG
@@ -3371,7 +3371,7 @@
 идеология	идеологияст	N;NOM;SG;PSS3P;LGSPEC1
 тонадомс	тонадовт	V;IMP;SG;2;PASS
 начальник	начальниктнень	N;HUM;GEN;DEF;PL;LGSPEC1
-кеждямс	кеждякшнось	V;ITER;SG;3;PST
+кеждямс	кеждякшнось	V;SG;3;PST
 пувамс	пувасы	V;AC3S;SG;3
 сулей	сулейде	N;ABL;SG
 драмкружок	драмкружоков	N;AT+ALL;SG;LGSPEC1
@@ -3383,8 +3383,8 @@
 династия	династиятнеяк	N;NOM;DEF;PL;LGSPEC_AMP;LGSPEC1
 товзюро	товзюрот	N;NOM;SG;PSS2S
 тантей	тантейденть	ADJ;ABL;DEF;SG
-ацамс	ацакшносы	V;AC3S;ITER;SG;3
-тонавтнемс	тонавтнекшныдизь	V;AC2S;ITER;PL;1;PST
+ацамс	ацакшносы	V;AC3S;SG;3
+тонавтнемс	тонавтнекшныдизь	V;AC2S;PL;1;PST
 эскелямс	эскелинь	V;AC3P;SG;1;PST
 мель	мелян	N;SG;1
 симемс	симевельть	V;SBJV;PL;3
@@ -3420,13 +3420,13 @@
 фанера	фанерась	N;NOM;DEF;SG;LGSPEC1
 симнемс	симнилинь	V;SG;1;RMT
 характеристика	характеристика	N;NOM;SG;LGSPEC1
-сюконямс	сюконякшнок	V;ITER;IMP;SG;2
+сюконямс	сюконякшнок	V;IMP;SG;2
 чарть	чартев	N;AT+ALL;SG
 объект	объектэкс	N;TRANS;SG;LGSPEC1
 возвратной	возвратной	ADJ;SG;LGSPEC1
 известной	известной	ADJ;SG;LGSPEC1
 лув	лувсояк	N;IN+ESS;SG;LGSPEC_AMP
-ардтнемс	артнекшнинь	V;AC3P;ITER;SG;1;PST
+ардтнемс	артнекшнинь	V;AC3P;SG;1;PST
 эй	эйс	N;IN+ALL;SG
 продовольственной	продовольственной	ADJ;NOM;SG;LGSPEC1
 жар	жарось	N;NOM;DEF;SG;LGSPEC1
@@ -3466,10 +3466,10 @@
 симемапель	симемапелентькак	N;GEN;DEF;SG;LGSPEC_AMP
 нагой	нагой	ADJ;LGSPEC1
 усксемс	усксиль	V;SG;3;RMT
-чатьмонемс	чатьмонезевинек	V;AC3;INCH;PL;1;PST
+чатьмонемс	чатьмонезевинек	V;AC3;PL;1;PST
 тарчкс	тарчксонзо	N;NOM;PL;PSS3S
 валдо-тюжа	валдо-тюжа	ADJ;NOM;SG
-каземс	казекшнесь	V;ITER;SG;3;PST
+каземс	казекшнесь	V;SG;3;PST
 кастомс-кепетемс	кастомс-кепетемс	V;NFIN
 секретарь	секретарезэ	N;HUM;NOM;SG;PSS3S;LGSPEC1
 тапарямс	тапари	V;SG;3
@@ -3527,7 +3527,7 @@
 лаймо	лаймонь	N;GEN
 прописка	прописказо	N;IN+ALL;SG;LGSPEC1
 лиснемс	лиснилинь	V;SG;1;RMT
-удомс	удокшнынь	V;ITER;SG;1;PST
+удомс	удокшнынь	V;SG;1;PST
 певтеме-келевтеме	певтеме-келевтеме	ADJ;NOM;SG
 основания	основаниятнень	N;GEN;DEF;PL;LGSPEC1
 пештемс	пештьсынь	V;AC3P;SG;1
@@ -3588,7 +3588,7 @@
 коткудав	коткудавось	N;HUM;NOM;DEF;SG
 стямс	стязтне	V.PTCP;NOM;DEF;PL;PST
 пупсемс	пупсесамизь	V;AC1S;PL;2
-эрямс	эрякшно	V;ITER;NEG
+эрямс	эрякшно	V;NEG
 долг	долгт	N;NOM;PL;LGSPEC1
 акирдевикс	акирдевикс	ADJ;NOM;SG
 кемикуро	кемикурос	N;IN+ALL
@@ -3602,7 +3602,7 @@
 полк	полконть	N;GEN;DEF;SG
 налкстамс	налкстават	V;SG;2;PASS
 кадомс	кадовтадо	V;PL;2;PASS
-кельмемс	кельмевтекшнинзе	V;AC3P;ITER;SG;3;PST;CAUS
+кельмемс	кельмевтекшнинзе	V;AC3P;SG;3;PST;CAUS
 меелькс	меелькст	N;NOM;PL
 результат	результатнэнь	N;DAT;LGSPEC1
 приют	приюттнэсэ	N;IN+ESS;DEF;PL;LGSPEC1
@@ -3717,7 +3717,7 @@
 бар	барозо	N;NOM;SG;PSS3S;LGSPEC1
 кекшемс	кекшинек	V;AC3;PL;1;PST
 пачколемс	пачколетяно	V;PL;1
-шлямс	шлякшносынек	V;AC3;ITER;PL;1
+шлямс	шлякшносынек	V;AC3;PL;1
 материя	материятне	N;NOM;DEF;PL;LGSPEC1
 лоткамс	лоткавт	V;IMP;SG;2;PASS
 вешнемс	вешнезь	V.PTCP;PST
@@ -3739,7 +3739,7 @@
 стямс	стявтовсь	V;SG;3;PST;CAUS;PASS
 лемень	леменьгак	ADJ;LGSPEC_AMP
 нарде	нарденек	ADJ;SG;PSS1P
-морамс	моразевияк	V;INCH;SG;LGSPEC_AMP;3
+морамс	моразевияк	V;SG;LGSPEC_AMP;3
 арамс	аравия	V;AC3S;SG;1;PST;PASS
 уло	улосо	N;IN+ESS;SG
 шумбракши	шумбракшитнень	N;GEN;DEF;PL
@@ -3757,7 +3757,7 @@
 сюлмамс	сюлмавсь	V;SG;3;PST;PASS
 уштом	уштом	N;NOM;SG
 очерк	очеркенть	N;GEN;DEF;SG;LGSPEC1
-сорномс	сорнозеви	V;INCH;SG;3
+сорномс	сорнозеви	V;SG;3
 норовава	норовавась	N;HUM;NOM;DEF;SG
 медьарво	медьарводо	N;ABL;SG
 автозавод	автозаводсо	N;IN+ESS;SG;LGSPEC1
@@ -3767,7 +3767,7 @@
 патриот	патриотт	N;HUM;NOM;PL;LGSPEC1
 яксяргонь	яксяргонтень	ADJ;DAT
 кедень	кеденем	ADJ;NOM;SG;PSS1S
-кевензамс	кевензакшныть	V;ITER;PL;3
+кевензамс	кевензакшныть	V;PL;3
 венстямс	венстявить	V;PL;3;PASS
 лавшочи	лавшочизэ	N;NOM;SG;PSS3S
 сыргоземс	сыргозтядо	V;PL;2
@@ -3787,7 +3787,7 @@
 стихотворения	стихотворениясонть	N;IN+ESS;DEF;SG;LGSPEC1
 буферной	буферной	ADJ;LGSPEC1
 сюро	сюров	N;AT+ALL;SG
-выжнэмс	выжнэкшны	V;ITER;SG;3
+выжнэмс	выжнэкшны	V;SG;3
 лемдямс	лемдимим	V;AC1S;SG;3;PST
 вырновтомс	вырновтымизь	V;AC1S;PL;3;PST
 вечкемс	вечкевлимик	V;AC1S;SBJV;SG;2
@@ -3817,7 +3817,7 @@
 выпускной	выпускной	ADJ;NOM;SG;LGSPEC1
 тешкс	тешксэм	N;NOM;SG;PSS1S
 учебник	учебник	N;NOM;SG;LGSPEC1
-кемемс	кемезеван	V;INCH;SG;1
+кемемс	кемезеван	V;SG;1
 урожай	урожаенть	N;GEN;DEF;SG;LGSPEC1
 духовка	духовканть	N;GEN;DEF;SG;LGSPEC1
 кукшун	кукшунонь	N;GEN;LGSPEC1
@@ -3828,7 +3828,7 @@
 симфонической	симфонической	ADJ;NOM;SG;LGSPEC1
 кежейгадомс	кежейгадынь	V;AC3P;SG;1;PST
 пелькстамс	пелькстазь	V.PTCP;NOM;SG;PST
-совсемс	совсекшнынь	V;AC3P;ITER;SG;1;PST
+совсемс	совсекшнынь	V;AC3P;SG;1;PST
 кеверемс	кеверить	V;PL;3
 пенч	пенчем	N;NOM;SG;PSS1S
 армян	армянонь	N;HUM;GEN;LGSPEC1
@@ -3961,7 +3961,7 @@
 седямопель	седямопелест	N;NOM;SG;PSS3P
 землячества	землячество	N;NOM;SG;LGSPEC1
 чавомс	чавия	V;AC3S;SG;1;PST
-самс	сакшныть	V;ITER;PL;3
+самс	сакшныть	V;PL;3
 молемс	молеван	V;SG;1;PASS
 пей	пейдеяк	N;ABL;SG;LGSPEC_AMP
 кокномс	кокнозь	V.PTCP;PST
@@ -3981,7 +3981,7 @@
 неемс	неевлинек	V;SBJV;PL;1
 студия	студиядонть	N;ABL;DEF;SG;LGSPEC1
 толковамс	толковазь	V.PTCP;NOM;SG;PST;LGSPEC1
-ёмамс	ёмавтокшнызе	V;AC3S;ITER;SG;3;PST;CAUS
+ёмамс	ёмавтокшнызе	V;AC3S;SG;3;PST;CAUS
 вановт	вановтозояк	N;NOM;SG;LGSPEC_AMP;PSS3S
 солдат	солдатось	N;HUM;NOM;DEF;SG;LGSPEC1
 путнемс	путневсь	V;SG;3;PST;PASS
@@ -4017,7 +4017,7 @@
 семилетка	семилетка	N;NOM;SG;LGSPEC1
 здания	зданиятне	N;NOM;DEF;PL;LGSPEC1
 явномс	явнозь	V.PTCP;PST
-ютамс	ютакшныть	V;ITER;PL;3
+ютамс	ютакшныть	V;PL;3
 ушмовий	ушмовийтнень	N;HUM;GEN;DEF;PL
 венчамонь	венчамонь	ADJ;SG;LGSPEC1
 викшневкс	викшневксэст	N;NOM;SG;PSS3P
@@ -4026,7 +4026,7 @@
 концерт	концерттнэнень	N;DAT;DEF;PL;LGSPEC1
 производства	производством	N;NOM;SG;PSS1S;LGSPEC1
 савтомс	савтсынзе	V;AC3P;SG;3
-трямс	трякшность	V;ITER;PL;3;PST
+трямс	трякшность	V;PL;3;PST
 судоваря	судоварянзо	N;NOM;PL;PSS3S
 ошкужо	ошкужотнестэ	N;IN+ABL;DEF;PL
 токсичной	токсичной	ADJ;NOM;SG;LGSPEC1
@@ -4065,7 +4065,7 @@
 звезда	звезда	N;NOM;SG;LGSPEC1
 метеостанция	метеостанциянь	N;GEN;LGSPEC1
 учреждения	учреждениянь	N;NOM;SG;PSS1S;LGSPEC1
-путомс	путокшнылинзе	V;AC3P;ITER;SG;3;RMT
+путомс	путокшнылинзе	V;AC3P;SG;3;RMT
 сёрмакель	сёрмакельсэ	N;IN+ESS;SG
 имения	имениянь	N;NOM;SG;PSS1S;LGSPEC1
 котельной	котельноесь	N;NOM;DEF;SG;LGSPEC1
@@ -4113,7 +4113,7 @@
 территория	территориясонть	N;IN+ESS;DEF;SG;LGSPEC1
 вера	верас	N;IN+ALL;LGSPEC1
 карксамс	карксыльть	V;PL;3;RMT
-печатамс	печатавкшныльть	V;ITER;PL;3;RMT;PASS;LGSPEC1
+печатамс	печатавкшныльть	V;PL;3;RMT;PASS;LGSPEC1
 сборочной	сборочной	ADJ;SG;LGSPEC1
 заведения	заведеният	N;NOM;PL;LGSPEC1
 телевизор	телевизордонть	N;ABL;DEF;SG;LGSPEC1
@@ -4127,14 +4127,14 @@
 святитель	святителенть	N;HUM;GEN;DEF;SG;LGSPEC1
 подход	подходтнэнь	N;GEN;DEF;PL;LGSPEC1
 клюкамс	клюкить	V;AC3P;SG;2;PST
-пульзямс	пульзякшны	V;ITER;SG;3
+пульзямс	пульзякшны	V;SG;3
 сюжет	сюжетэзэяк	N;IN+ALL;SG;LGSPEC_AMP;LGSPEC1
 азаргадомс	азаргавтозтне	V.PTCP;NOM;DEF;PL;PST;CAUS
 передовой	передовоентень	ADJ;DAT;DEF;SG;LGSPEC1
 продукт	продуктсонть	N;IN+ESS;DEF;SG;LGSPEC1
 кемикуро	кемикуротнесэ	N;IN+ESS;DEF;PL
 гавкстамс	гавкстак	V;IMP;SG;2
-ливтямс	ливтязевть	V;AC3P;INCH;IMP;SG;2
+ливтямс	ливтязевть	V;AC3P;IMP;SG;2
 сукс	суксоськак	N;HUM;NOM;DEF;SG;LGSPEC_AMP
 патрон	патронс	N;IN+ALL;SG;LGSPEC1
 командировка	командировкасот	N;IN+ESS;SG;PSS2S;LGSPEC1
@@ -4183,7 +4183,7 @@
 сокамс	сокить	V;AC3P;SG;2;PST
 клетка	клеткасто	N;IN+ABL;SG;LGSPEC1
 соракадомс	соракавтык	V;AC3S;SG;2;PST;CAUS
-сайнемс	сайнекшнить	V;AC3P;ITER;SG;2;PST
+сайнемс	сайнекшнить	V;AC3P;SG;2;PST
 вастамс	вастась	V;SG;3;PST
 семия	семиясонок	N;IN+ESS;SG;PSS1P;LGSPEC1
 сёксь	сёксте	N;ABL;SG
@@ -4291,11 +4291,11 @@
 корпус	корпусонтень	N;IN+ALL;DEF;SG;LGSPEC1
 аспирант	аспирантонь	N;HUM;GEN;LGSPEC1
 исследователь	исследователь	N;HUM;NOM;SG;LGSPEC1
-путомс	путокшнынзе	V;AC3P;ITER;SG;3;PST
+путомс	путокшнынзе	V;AC3P;SG;3;PST
 вьетнамец	вьетнамецт	N;HUM;NOM;PL;LGSPEC1
 аволямс	аволясызь	V;AC3;PL;3
 служамс	служат	V;SG;2;LGSPEC1
-саемс	саевкшнесть	V;ITER;PL;3;PST;PASS
+саемс	саевкшнесть	V;PL;3;PST;PASS
 ёзамс	ёза	V;NEG
 столь	столензэ	N;NOM;PL;PSS3S;LGSPEC1
 кежей	кежеельгак	ADJ;SG;LGSPEC_AMP;3;PST
@@ -4305,7 +4305,7 @@
 пине	пинетнеяк	N;HUM;NOM;DEF;PL;LGSPEC_AMP
 контрольной	контрольной	ADJ;LGSPEC1
 разряд	разрядонть	N;GEN;DEF;SG;LGSPEC1
-налксемс	налксекшнизе	V;AC3S;ITER;SG;3;PST
+налксемс	налксекшнизе	V;AC3S;SG;3;PST
 дивизия	дивизиянь	N;GEN;LGSPEC1
 сокавкс	сокавкст	N;NOM;PL
 превей	превеят	ADJ;SG;2
@@ -4320,8 +4320,8 @@
 поп	попонтень	N;HUM;DAT;DEF;SG;LGSPEC1
 океан	океансонть	N;IN+ESS;DEF;SG;LGSPEC1
 районка	районкатненень	N;DAT;DEF;PL;LGSPEC1
-видемс	видекшныть	V;ITER;SG;2;PST
-кардамс	кардакшно	V;ITER;NEG
+видемс	видекшныть	V;SG;2;PST
+кардамс	кардакшно	V;NEG
 жалямс	жалильть	V;PL;3;RMT;LGSPEC1
 телеканал	телеканалсто	N;IN+ABL;SG;LGSPEC1
 пола	поланстэнзэ	N;HUM;DAT;PSS3P
@@ -4349,7 +4349,7 @@
 коллекция	коллекциятнева	N;PROL;DEF;PL;LGSPEC1
 шлямочи	шлямочистэнть	N;IN+ABL;DEF;SG
 моцень	моцень	ADJ
-кандомс	кандокшныть	V;ITER;PL;3
+кандомс	кандокшныть	V;PL;3
 театра	театратне	N;NOM;DEF;PL;LGSPEC1
 лаз	лаздонть	N;ABL;DEF;SG
 сяворемс	сяворемс	V;NFIN
@@ -4359,7 +4359,7 @@
 асодавикс	асодавиксстэ	ADJ;IN+ABL;SG
 видемс	видеве	V;NEG;PASS
 човаля	човаля	N;NOM;SG
-пезнамс	пезнавкшность	V;ITER;PL;3;PST;PASS
+пезнамс	пезнавкшность	V;PL;3;PST;PASS
 артезианской	артезианской	ADJ;LGSPEC1
 сакшномс	сакшновлинь	V;AC3P;SBJV;SG;1
 тонна	тоннатне	N;NOM;DEF;PL;LGSPEC1
@@ -4442,7 +4442,7 @@
 седеймариця	седеймарицятне	ADJ;NOM;DEF;PL
 лоткамс	лотки	V;SG;3
 теемс	теимизь	V;AC1P;PST
-лытамс	лытакшномс	V;ITER;NFIN
+лытамс	лытакшномс	V;NFIN
 шарик	шарикень	N;GEN;LGSPEC1
 чернила	чернилатнес	N;IN+ALL;DEF;PL;LGSPEC1
 кадномс	каднынек	V;AC3;PL;1;PST
@@ -4551,7 +4551,7 @@
 кирякстнемс	кирякстнинек	V;AC3;PL;1;PST
 сёрмадстомс	сёрмадстоват	V;SG;2;PASS
 явшемс	явшевезь	V.PTCP;PST;PASS
-псилгадомс	псилгадокшныть	V;AC3P;ITER;SG;2;PST
+псилгадомс	псилгадокшныть	V;AC3P;SG;2;PST
 преподаватель	преподавательтненень	N;HUM;DAT;DEF;PL;LGSPEC1
 менталитет	менталитет	N;NOM;SG;LGSPEC1
 рота	ротат	N;HUM;NOM;SG;PSS2S;LGSPEC1
@@ -4596,7 +4596,7 @@
 география	географиянок	N;NOM;SG;PSS1P;LGSPEC1
 терюхан	терюхантнэнень	N;HUM;IN+ALL;DEF;PL
 брат	братан	N;HUM;SG;1;LGSPEC1
-эрявомс	эрявкшнояк	V;ITER;LGSPEC_AMP;NEG
+эрявомс	эрявкшнояк	V;LGSPEC_AMP;NEG
 лецтямс	лецтямс	V;NFIN
 казямо	казямо	ADJ
 оркестра	оркестрас	N;IN+ALL;LGSPEC1
@@ -4639,7 +4639,7 @@
 берякадомс	берякадат	V;SG;2
 лавка	лавказост	N;IN+ALL;SG;PSS3P;LGSPEC1
 этнополитика	этнополитикадонть	N;ABL;DEF;SG;LGSPEC1
-оймсемс	оймсекшнемс	V;ITER;NFIN
+оймсемс	оймсекшнемс	V;NFIN
 украинэнь	украинэнь	ADJ;NOM;SG
 ад	адонь	N;GEN;LGSPEC1
 изнямс	изнимизь	V;AC1S;PL;2;PST
@@ -4668,7 +4668,7 @@
 кор	корсонзо	N;IN+ESS;PL;PSS3S
 вастомс	вастозь	V.PTCP;NOM;SG;PST
 сундерькс	сундерьксэсь	N;NOM;DEF;SG
-ёвтамс	ёвтавкшныть	V;ITER;PL;3;PASS
+ёвтамс	ёвтавкшныть	V;PL;3;PASS
 порядка	порядкат	N;NOM;SG;PSS2S;LGSPEC1
 номинативной	номинативной	ADJ;SG;LGSPEC1
 пулт	пултокс	N;TRANS;SG
@@ -4692,8 +4692,8 @@
 совамс	совавт	V;IMP;SG;2;PASS
 энциклопедия	энциклопедиянь	N;GEN;LGSPEC1
 меморандум	меморандум	N;NOM;SG;LGSPEC1
-ловномс	ловнокшнок	V;ITER;IMP;SG;2
-нолдтнемс	нолдтнекшнить	V;ITER;PL;3
+ловномс	ловнокшнок	V;IMP;SG;2
+нолдтнемс	нолдтнекшнить	V;PL;3
 техникум	техникумт	N;NOM;PL;LGSPEC1
 визделгадомс	визделгадсь	V;SG;3;PST
 тапардамс	тапардан	V;SG;1
@@ -4703,7 +4703,7 @@
 ведомства	ведомстватненень	N;DAT;DEF;PL;LGSPEC1
 максомс	макссызь	V;AC3;PL;3
 фонограмма	фонограммантькак	N;GEN;DEF;SG;LGSPEC_AMP;LGSPEC1
-китордомс	китордозевсь	V;INCH;SG;3;PST
+китордомс	китордозевсь	V;SG;3;PST
 шумбрачи	шумбрачинень	N;DAT
 полицейской	полицейскойтненень	N;HUM;DAT;DEF;PL;LGSPEC1
 ям	ямозо	N;NOM;SG;PSS3S
@@ -4813,7 +4813,7 @@
 лийканя	лийканят	ADJ;NOM;SG;PSS2S
 цикнемс	цикнить	V;SG;2;PST
 вастомс	вастындерятадызь	V;AC2P;COND
-максомс	максокшность	V;ITER;PL;3;PST
+максомс	максокшность	V;PL;3;PST
 явномс	явныть	V;AC3P;SG;2;PST
 чинь	чинекс	ADJ;TRANS;SG
 судямс	судяк	V;IMP;SG;2;LGSPEC1
@@ -4824,7 +4824,7 @@
 аламолгадомс	аламолгавтовить	V;AC3P;SG;2;PST;CAUS;PASS
 спорткомплекс	спорткомплекссэнть	N;IN+ESS;DEF;SG;LGSPEC1
 республика	республикастонк	N;IN+ABL;SG;PSS2P;LGSPEC1
-кортамс	кортакшны	V;ITER;SG;3
+кортамс	кортакшны	V;SG;3
 сосуд	сосудтнэс	N;IN+ALL;DEF;PL;LGSPEC1
 инфракрасной	инфракрасной	ADJ;NOM;SG;LGSPEC1
 источник	источниктнес	N;IN+ALL;DEF;PL;LGSPEC1
@@ -4847,7 +4847,7 @@
 семейства	семействанзо	N;NOM;PL;PSS3S;LGSPEC1
 строямс	строиль	V;SG;3;RMT;LGSPEC1
 касовкс	касовкстнэнень	N;IN+ALL;DEF;PL
-миемс	миекшнить	V;ITER;PL;3
+миемс	миекшнить	V;PL;3
 ливтемс	ливтимизь	V;AC1P;PST
 фашист	фашистнэнь	N;HUM;DAT;LGSPEC1
 чевге	чевгеть	N;NOM;SG;PSS2S
@@ -4883,7 +4883,7 @@
 лоштямс	лоштясы	V;AC3S;SG;3
 травамс	травизь	V;AC3;PL;3;PST
 лимон	лимон	N;NOM;SG;LGSPEC1
-эрямс	эрявкшныть	V;ITER;PL;3;PASS
+эрямс	эрявкшныть	V;PL;3;PASS
 содамоёвкс	содамоёвксом	N;NOM;SG;PSS1S
 раштамс	раштыть	V;SG;2;PST
 кемемксчи	кемемксчи	N;NOM;SG
@@ -4927,7 +4927,7 @@
 сокардамс	сокардак	V;AC3S;IMP;SG;2
 овто	овтокс	N;HUM;TRANS;SG
 тракторист	трактористтнэнь	N;HUM;GEN;DEF;PL;LGSPEC1
-морамс	моразевсь	V;INCH;SG;3;PST
+морамс	моразевсь	V;SG;3;PST
 оршавт	оршавтось	N;NOM;DEF;SG
 инициатива	инициативась	N;NOM;DEF;SG;LGSPEC1
 верце	верцесэнть	ADJ;IN+ESS;DEF;SG
@@ -4987,7 +4987,7 @@
 газон	газонтнэс	N;IN+ALL;DEF;PL;LGSPEC1
 каменщик	каменщиктненень	N;HUM;DAT;DEF;PL;LGSPEC1
 урьвакстомс	урьвакстыть	V;AC3P;SG;2;PST
-цивтёрдомс	цивтёрдозевсь	V;INCH;SG;3;PST
+цивтёрдомс	цивтёрдозевсь	V;SG;3;PST
 шкинема	шкинемантень	N;DAT;DEF;SG
 оймамс	оймить	V;SG;2;PST
 путовкс	путовксонк	N;NOM;SG;PSS2P
@@ -5005,7 +5005,7 @@
 покшкавтнемс	покшкавтни	V;SG;3
 имперской	имперской	ADJ;NOM;SG;LGSPEC1
 лыкамс	лыкинь	V;SG;1;PST
-изнямс	изнявкшныть	V;ITER;SG;2;PST;PASS
+изнямс	изнявкшныть	V;SG;2;PST;PASS
 МИД	мидэнтень	N;IN+ALL;DEF;SG;LGSPEC1
 ёвкстамс	евкстасызь	V;AC3;PL;3
 ветькень	ветькень	ADJ;SG
@@ -5077,7 +5077,7 @@
 стена	стенасонть	N;IN+ESS;DEF;SG;LGSPEC1
 теемс	теевтить	V;AC3P;SG;2;PST;CAUS
 школа	школанзо	N;NOM;PL;PSS3S;LGSPEC1
-муемс	мукшнотано	V;ITER;PL;1
+муемс	мукшнотано	V;PL;1
 машина	машинасояк	N;IN+ESS;SG;LGSPEC_AMP;LGSPEC1
 пианист	пианистэнтень	N;HUM;DAT;DEF;SG;LGSPEC1
 порошок	порошок	N;NOM;SG;LGSPEC1
@@ -5085,7 +5085,7 @@
 рунго	рунгосост	N;IN+ESS;SG;PSS3P
 светофор	светофор	N;NOM;SG;LGSPEC1
 фламенко	фламенкось	N;NOM;DEF;SG;LGSPEC1
-марямс	марякшно	V;ITER;NEG
+марямс	марякшно	V;NEG
 пештнемс	пештнесть	V;PL;3;PST
 тешкставкс	тешкставксозо	N;NOM;SG;PSS3S
 престиж	престижезэ	N;NOM;SG;PSS3S;LGSPEC1
@@ -5247,7 +5247,7 @@
 очередь	очереденть	N;GEN;DEF;SG;LGSPEC1
 покштяй	покштяйтень	N;HUM;DAT
 архитектура	архитектурань	N;GEN;LGSPEC1
-сиземс	сизекшнинек	V;ITER;PL;1;PST
+сиземс	сизекшнинек	V;PL;1;PST
 сессия	сессиясь	N;NOM;DEF;SG;LGSPEC1
 кочкодыкень	кочкодыкень	ADJ;SG
 кекшемс	кекшевть	V;AC3P;IMP;SG;2;PASS
@@ -5262,7 +5262,7 @@
 обуця	обуцядонть	N;ABL;DEF;SG;LGSPEC1
 мирде	мирдемгак	N;HUM;NOM;SG;LGSPEC_AMP;PSS1S
 ульця	ульцязо	N;NOM;SG;PSS3S;LGSPEC1
-яжамс	яжавкшны	V;ITER;SG;3;PASS
+яжамс	яжавкшны	V;SG;3;PASS
 ледстнемс	ледстнить	V;AC3P;SG;2;PST
 амариця	амариця	N;HUM;NOM;SG
 нолдамс	нолдат	V;AC3P;IMP;SG;2
@@ -5310,7 +5310,7 @@
 буе	буесэть	N;IN+ESS;SG;PSS2S
 чувномс	чувно	V;NEG
 муемс	муинзеть	V;AC2S;SG;3;PST
-редямс	редякшнынь	V;AC3P;ITER;SG;1;PST
+редямс	редякшнынь	V;AC3P;SG;1;PST
 ундокс	ундокстнэде	N;ABL;DEF;PL
 пурдамс	пурдыть	V;AC3P;SG;2;PST
 импровизированной	импровизированной	ADJ;LGSPEC1
@@ -5330,10 +5330,10 @@
 ульма	ульмамгак	N;NOM;SG;LGSPEC_AMP;PSS1S
 кортамс	кортавлить	V;SBJV;SG;2
 кирдемс	кирдевить	V;SG;2;PST;PASS
-вечкемс	вечкекшнизе	V;AC3S;ITER;SG;3;PST
+вечкемс	вечкекшнизе	V;AC3S;SG;3;PST
 алаша	алашадояк	N;HUM;ABL;SG;LGSPEC_AMP
 човаля	човалянь	N;GEN
-музгордемс	музгордезевсь	V;INCH;SG;3;PST
+музгордемс	музгордезевсь	V;SG;3;PST
 теле	телеськак	N;NOM;DEF;SG;LGSPEC_AMP
 наволо	наволо	ADJ;SG
 рудазкадомс	рудазкавтыть	V;PL;3;CAUS
@@ -5360,7 +5360,7 @@
 начальник	начальниктнеде	N;HUM;ABL;DEF;PL;LGSPEC1
 комсомолец	комсомолец	N;HUM;NOM;SG;LGSPEC1
 согласной	согласнойть	ADJ;NOM;PL;LGSPEC1
-радувамс	радувакшномс	V;ITER;NFIN;LGSPEC1
+радувамс	радувакшномс	V;NFIN;LGSPEC1
 санинструктор	санинструкторокс	N;HUM;TRANS;SG;LGSPEC1
 виевчи	виевчи	N;NOM;SG
 сёксь	сёкстнень	N;GEN;DEF;PL
@@ -5411,7 +5411,7 @@
 сыргоземс	сыргозевти	V;SG;3;CAUS
 пуромкс	пуромксонь	N;GEN
 низельдемс	низельдезь	V.PTCP;NOM;SG;PST
-пачтямс	пачтявкшнось	V;ITER;SG;3;PST;PASS
+пачтямс	пачтявкшнось	V;SG;3;PST;PASS
 навамс	нававтынь	V;AC3P;SG;1;PST;CAUS
 манямс	маняк	V;IMP;SG;2
 запятой	запятой	N;NOM;SG;LGSPEC1
@@ -5421,7 +5421,7 @@
 ушодомс	ушодтадо	V;PL;2
 мифология	мифологиясто	N;IN+ABL;SG;LGSPEC1
 трофей	трофеень	N;GEN;LGSPEC1
-тукшномс	тукшнокшнось	V;ITER;SG;3;PST
+тукшномс	тукшнокшнось	V;SG;3;PST
 спектакля	спектаклянк	N;NOM;SG;PSS2P;LGSPEC1
 кортавкс	кортавксосткак	N;NOM;SG;LGSPEC_AMP;PSS3P
 офис	офис	N;NOM;SG;LGSPEC1
@@ -5453,7 +5453,7 @@
 сялдомс	сялдт	V;IMP;SG;2
 экипаж	экипажсонть	N;HUM;IN+ESS;DEF;SG;LGSPEC1
 кельгстямс	кельгстявт	V;IMP;SG;2;PASS
-пеедемс	пеедькшнезьгак	V.PTCP;ITER;LGSPEC_AMP;PST
+пеедемс	пеедькшнезьгак	V.PTCP;LGSPEC_AMP;PST
 чачтомс	чачтызь	V;AC3;PL;3;PST
 гараж	гаражгак	N;NOM;SG;LGSPEC_AMP;LGSPEC1
 таргамонь	таргамонь	ADJ
@@ -5544,8 +5544,8 @@
 основа	основакс	N;TRANS;SG;LGSPEC1
 фрукта	фруктась	N;NOM;DEF;SG;LGSPEC1
 диспансер	диспансер	N;NOM;SG;LGSPEC1
-сюкунямс	сюкунякшнок	V;ITER;IMP;SG;2
-кунсоломс	кунсолозевинь	V;INCH;SG;1;PST
+сюкунямс	сюкунякшнок	V;IMP;SG;2
+кунсоломс	кунсолозевинь	V;SG;1;PST
 варма	варматнеде	N;ABL;DEF;PL
 атякш	атякшозо	N;HUM;NOM;SG;PSS3S
 неямс	неимик	V;AC1S;SG;2;PST
@@ -5584,7 +5584,7 @@
 дух	духт	N;NOM;PL;LGSPEC1
 вейсэндямс	вейсэндизе	V;AC3S;SG;3;PST
 чартемс	чартть	V;IMP;SG;2
-неемс	некшневи	V;ITER;SG;3;PASS
+неемс	некшневи	V;SG;3;PASS
 грамматика	грамматикат	N;NOM;SG;PSS2S;LGSPEC1
 пильге	пильгстэнь	N;IN+ABL;SG;PSS1S
 лакамс	лакия	V;AC3S;SG;1;PST
@@ -5592,7 +5592,7 @@
 саламс	салавить	V;PL;3;PASS
 молемс	молиньдерян	V;COND;SG;1
 неке	неке	ADJ;NOM;SG
-пувамс	пувакшнызе	V;AC3S;ITER;SG;3;PST
+пувамс	пувакшнызе	V;AC3S;SG;3;PST
 перьгедемс	перьгедить	V;PL;3
 ушмодей	ушмодейтненень	ADJ;IN+ALL;DEF;PL;LGSPEC1
 поход	походт	N;NOM;PL;LGSPEC1
@@ -5604,7 +5604,7 @@
 аздамс	аздыть	V;AC3P;SG;2;PST
 совамс	совасынек	V;AC3;PL;1
 трон	трононь	N;GEN;LGSPEC1
-сёпомс	сёпокшнось	V;ITER;SG;3;PST
+сёпомс	сёпокшнось	V;SG;3;PST
 середемс	середить	V;PL;3
 ливтямс	ливтяво	V;NEG;PASS
 револьвер	револьверэнзэ	N;NOM;PL;PSS3S;LGSPEC1
@@ -5626,7 +5626,7 @@
 зэрнемс	зэрнезь	V.PTCP;PST
 театрал	театралтнэ	N;HUM;NOM;DEF;PL;LGSPEC1
 рота	ротанзо	N;HUM;NOM;PL;PSS3S;LGSPEC1
-яжамс	яжакшны	V;ITER;SG;3
+яжамс	яжакшны	V;SG;3
 покорямс	покорян	V;SG;1
 потомдамс	потомдасынзе	V;AC3P;SG;3
 вайгель	вайгельтненень	N;DAT;DEF;PL
@@ -5704,7 +5704,7 @@
 лутнемс	лутневить	V;PL;3;PASS
 неемс	неевлить	V;SBJV;SG;2
 сазорка	сазорка	N;HUM;NOM;SG
-менемс	менькшне	V;ITER;NEG
+менемс	менькшне	V;NEG
 приют	приютонь	N;GEN;LGSPEC1
 лезэпарго	лезэпаргось	N;NOM;DEF;SG
 сан	санганзо	N;PROL;PL;PSS3S
@@ -5752,7 +5752,7 @@
 диалект	диалект	N;NOM;SG;LGSPEC1
 яндава	яндаванть	N;GEN;DEF;SG
 кучомс	кучозтнеде	V.PTCP;ABL;DEF;PL;PST
-морамс	моразевить	V;AC3P;INCH;SG;2;PST
+морамс	моразевить	V;AC3P;SG;2;PST
 трасса	трассантень	N;DAT;DEF;SG;LGSPEC1
 чатьмонемс	чатьмонить	V;SG;2;PST
 жюри	жюри	N;NOM;SG;LGSPEC1
@@ -5824,7 +5824,7 @@
 кекшемс	кекши	V;SG;3
 офицер	офицерэнтень	N;HUM;IN+ALL;DEF;SG;LGSPEC1
 комиссия	комиссияв	N;AT+ALL;SG;LGSPEC1
-идемс	идекшнизе	V;AC3S;ITER;SG;3;PST
+идемс	идекшнизе	V;AC3S;SG;3;PST
 чудемс	чудть	V;IMP;SG;2
 репродуктор	репродуктор	N;NOM;SG;LGSPEC1
 мель	мельде	N;ABL;SG
@@ -5858,7 +5858,7 @@
 жажора	жажоратне	N;NOM;DEF;PL
 навола	навола	ADJ;SG
 полиция	полициянтень	N;IN+ALL;DEF;SG;LGSPEC1
-кадомс	кадокшныя	V;AC3S;ITER;SG;1;PST
+кадомс	кадокшныя	V;AC3S;SG;1;PST
 свадьба	свадьбаяк	N;NOM;SG;LGSPEC_AMP;LGSPEC1
 кардаз	кардазтнэва	N;PROL;DEF;PL
 училища	училищатнева	N;PROL;DEF;PL;LGSPEC1
@@ -5924,7 +5924,7 @@
 аволямс	аволяк	V;IMP;SG;2
 сооружения	сооружениясь	N;NOM;DEF;SG;LGSPEC1
 масторлангонь	масторлангонь	ADJ;NOM;SG
-прамс	пракшнодо	V;ITER;IMP;PL;2
+прамс	пракшнодо	V;IMP;PL;2
 пача	пачатнеде	N;HUM;ABL;DEF;PL
 оймамс	оймазь	V.PTCP;NOM;SG;PST
 потсемс	потсевтидизь	V;AC2P;PST;CAUS
@@ -5982,7 +5982,7 @@
 эрямс	эрясть	V;PL;3;PST
 кольнемс	кольневтемс	V;NFIN;CAUS
 свежа	свежа	ADJ;LGSPEC1
-меремс	мерекшнынь	V;AC3P;ITER;SG;1;PST
+меремс	мерекшнынь	V;AC3P;SG;1;PST
 мар	маронтень	N;DAT;DEF;SG
 технология	технологиясь	N;NOM;DEF;SG;LGSPEC1
 пособия	пособият	N;NOM;PL;LGSPEC1
@@ -5990,7 +5990,7 @@
 вариация	вариациятнестэ	N;IN+ABL;DEF;PL;LGSPEC1
 песок	песокс	N;IN+ALL;SG;LGSPEC1
 путомс	путымим	V;AC1S;SG;3;PST
-сатомс	сатокшныть	V;ITER;SG;2;PST
+сатомс	сатокшныть	V;SG;2;PST
 издательства	издательствантень	N;DAT;DEF;SG;LGSPEC1
 коз	козтадо	N;PL;2
 дорномс	дорны	V;SG;3
@@ -6065,7 +6065,7 @@
 арамс	аравтынь	V;AC3P;SG;1;PST;CAUS
 межкультурной	межкультурной	ADJ;LGSPEC1
 фото	фотосонть	N;IN+ESS;DEF;SG;LGSPEC1
-ёвтнемс	ёвтнекшнильть	V;ITER;PL;3;RMT
+ёвтнемс	ёвтнекшнильть	V;PL;3;RMT
 оршамо	оршамосонть	N;IN+ESS;DEF;SG
 потмургадомс	потмургадсь	V;SG;3;PST
 чире	чиресэнзэ	N;IN+ESS;PL;PSS3S
@@ -6086,15 +6086,15 @@
 кедьчелькев	кедьчелькевень	ADJ;GEN
 панжомс	панжсак	V;AC3S;SG;2
 комсомолец	комсомолецнэнь	N;HUM;DAT;LGSPEC1
-рузыямс	рузыякшныть	V;AC3P;ITER;SG;2;PST
+рузыямс	рузыякшныть	V;AC3P;SG;2;PST
 суро	суроткак	N;NOM;SG;LGSPEC_AMP;PSS2S
 кучнемс	кучнинек	V;AC3;PL;1;PST
 вармава	вармавантень	N;DAT;DEF;SG
 безграмотной	безграмотной	ADJ;LGSPEC1
-печатамс	печатавкшность	V;ITER;PL;3;PST;PASS;LGSPEC1
+печатамс	печатавкшность	V;PL;3;PST;PASS;LGSPEC1
 ливтямс	ливтимим	V;AC1S;SG;3;PST
 техникум	техникумсонть	N;IN+ESS;DEF;SG;LGSPEC1
-венемемс	венемкшнесь	V;ITER;SG;3;PST
+венемемс	венемкшнесь	V;SG;3;PST
 пештемс	пешттькак	V;IMP;SG;LGSPEC_AMP;2
 нолдтнемс	нолдтнинек	V;PL;1;PST
 кильдемат	кильдемат	N;NOM;SG
@@ -6106,14 +6106,14 @@
 асодамо	асодамотнеде	N;ABL;DEF;PL
 валдомгадомс	валдомгавтовлинзе	V;AC3P;SBJV;SG;3;CAUS
 юр	юртнэде	N;ABL;DEF;PL
-кельгстямс	кельгстякшнызе	V;AC3S;ITER;SG;3;PST
+кельгстямс	кельгстякшнызе	V;AC3S;SG;3;PST
 середемс	середть	V;AC3P;IMP;SG;2
 лоткамс	лоткавтован	V;SG;1;CAUS;PASS
 сэвемс	сэвсак	V;AC3S;SG;2
 эждямс	эждясак	V;AC3S;SG;2
 ялга	ялгаткак	N;HUM;NOM;SG;LGSPEC_AMP;PSS2S
 сема	семань	N;GEN;LGSPEC1
-кепедемс	кепедевкшнесь	V;ITER;SG;3;PST;PASS
+кепедемс	кепедевкшнесь	V;SG;3;PST;PASS
 ленге	ленгензэ	N;NOM;PL;PSS3S
 сур	сурозонзо	N;IN+ALL;PL;PSS3S
 сялдомс	сялдса	V;AC3S;SG;1
@@ -6134,7 +6134,7 @@
 лом	ломат	N;SG;2;LGSPEC1
 робота	роботатненень	N;IN+ALL;DEF;PL;LGSPEC1
 тор	тор	N;NOM;SG
-витькстамс	витькстакшнось	V;ITER;SG;3;PST
+витькстамс	витькстакшнось	V;SG;3;PST
 звания	званият	N;NOM;PL;LGSPEC1
 пурнамс	пурнавозь	V.PTCP;PST;PASS
 рангстамс	рангсты	V;SG;3
@@ -6182,7 +6182,7 @@
 цярадемс	цярадимим	V;AC1S;SG;3;PST
 композитор	композиторокс	N;HUM;TRANS;SG;LGSPEC1
 сертификат	сертификатось	N;NOM;DEF;SG;LGSPEC1
-явомс	явовкшнось	V;ITER;SG;3;PST;PASS
+явомс	явовкшнось	V;SG;3;PST;PASS
 панго	пангт	N;NOM;PL
 моткодемс	моткодемс	V;NFIN
 сабантуй	сабантуйстэяк	N;IN+ABL;SG;LGSPEC_AMP
@@ -6201,7 +6201,7 @@
 сакал	сакалонь	N;GEN
 повамс	повазь	V.PTCP;PST
 нурдо	нурдонтень	N;DAT;DEF;SG
-кундсемс	кундсекшнетяно	V;ITER;PL;1
+кундсемс	кундсекшнетяно	V;PL;1
 поэзия	поэзияс	N;IN+ALL;LGSPEC1
 ормалгадомс	ормалгадынь	V;AC3P;SG;1;PST
 шукшторов	шукшторовт	N;NOM;PL
@@ -6268,7 +6268,7 @@
 сюлмамс	сюлмасть	V;PL;3;PST
 эрямотарка	эрямотаркат	N;NOM;SG;PSS2S
 бронь	бронь	N;NOM;SG;LGSPEC1
-прядомс	прядовкшны	V;ITER;SG;3;PASS
+прядомс	прядовкшны	V;SG;3;PASS
 прявтвитниця	прявтвитницянтеньгак	N;HUM;IN+ALL;DEF;SG;LGSPEC_AMP
 оршамс	оршатадызь	V;AC2P
 човсемс	човсек	V;AC3S;IMP;SG;2
@@ -6344,7 +6344,7 @@
 вирь	вирентькак	N;GEN;DEF;SG;LGSPEC_AMP
 эрзянка	эрзянкадо	N;HUM;ABL;SG;LGSPEC1
 морокерькс	морокерькстнэ	N;NOM;DEF;PL
-валномс	валнокшнозь	V.PTCP;ITER;PST
+валномс	валнокшнозь	V.PTCP;PST
 пачка	пачкаск	N;NOM;PL;PSS3P;LGSPEC1
 кузьган	кузьганось	N;HUM;NOM;DEF;SG
 эриванмо	эриванмот	N;NOM;SG;PSS2S
@@ -6357,7 +6357,7 @@
 край	краест	N;NOM;SG;PSS3P;LGSPEC1
 прядомс	прядоткак	V;AC3P;IMP;SG;LGSPEC_AMP;2
 кельме	кельмень	N;GEN
-сиземс	сизекшнынь	V;AC3P;ITER;SG;1;PST
+сиземс	сизекшнынь	V;AC3P;SG;1;PST
 сыргоземс	сыргозилиньгак	V;AC3P;SG;LGSPEC_AMP;1;RMT
 коламс	колызь	V;AC3;PL;3;PST
 чумо	чумоян	ADJ;SG;1
@@ -6454,7 +6454,7 @@
 ярцамс	ярцавт	V;IMP;SG;2;PASS
 союз	союзсо	N;IN+ESS;SG;LGSPEC1
 кирпецень	кирпецень	ADJ;LGSPEC1
-вейсэндямс	вейсэндявкшны	V;ITER;SG;3;PASS
+вейсэндямс	вейсэндявкшны	V;SG;3;PASS
 сёлтке	сёлткетнень	N;GEN;DEF;PL
 теемс	теинек	V;PL;1;PST
 кевкстнемс	кевкстнить	V;PL;3
@@ -6475,7 +6475,7 @@
 лецтямс	лецтинек	V;AC3;PL;1;PST
 ванськадомс	ванськадыть	V;AC3P;SG;2;PST
 портфель	портфеленть	N;GEN;DEF;SG;LGSPEC1
-ловномс	ловнокшнылизь	V;AC3;ITER;PL;3;RMT
+ловномс	ловнокшнылизь	V;AC3;PL;3;RMT
 пшкадемс	пшкадеде	V;IMP;PL;2
 ламоксчи	ламоксчизэ	N;IN+ALL;SG
 ёкстамс	ёкстазь	V.PTCP;NOM;SG;PST
@@ -6490,7 +6490,7 @@
 варма	вармась	N;NOM;DEF;SG
 славянской	славянской	ADJ;SG;LGSPEC1
 сёксень	сёксенть	ADJ;NOM;PL
-лиснемс	лиснекшнить	V;ITER;PL;3
+лиснемс	лиснекшнить	V;PL;3
 комсомол	комсомолсто	N;IN+ABL;SG;LGSPEC1
 рунго	рунгтнэстэ	N;IN+ABL;DEF;PL
 герой	геройтненень	N;HUM;IN+ALL;DEF;PL;LGSPEC1
@@ -6499,7 +6499,7 @@
 киуло	киулонзо	N;NOM;PL;PSS3S
 фото	фотосон	N;IN+ESS;SG;PSS1S;LGSPEC1
 щупамс	щупизь	V;AC3;PL;3;PST;LGSPEC1
-лоткамс	лоткавтокшнымизь	V;AC1S;ITER;PL;2;PST;CAUS
+лоткамс	лоткавтокшнымизь	V;AC1S;PL;2;PST;CAUS
 вечкемс	вечкевильтькак	V;PL;LGSPEC_AMP;3;RMT;PASS
 назола	назола	ADJ;NOM;SG
 гайтьке	гайтькесэ	N;IN+ESS;SG
@@ -6507,7 +6507,7 @@
 студент	студентэкс	N;HUM;TRANS;SG;LGSPEC1
 берянь	беряндеяк	ADJ;ABL;SG;LGSPEC_AMP
 строитель	строителенть	N;HUM;GEN;DEF;SG;LGSPEC1
-понгомс	понгокшныть	V;ITER;PL;3
+понгомс	понгокшныть	V;PL;3
 лавшочи	лавшочидест	N;ABL;SG;PSS3P
 деликатес	деликатесэкс	N;TRANS;SG;LGSPEC1
 чапамо	чапамодонть	ADJ;ABL;DEF;SG
@@ -6538,7 +6538,7 @@
 шожда	шождаськак	ADJ;NOM;DEF;SG;LGSPEC_AMP
 озатя	озатясь	N;HUM;NOM;DEF;SG
 участия	участиядо	N;ABL;SG;LGSPEC1
-казнемс	казневкшныть	V;AC3P;ITER;SG;2;PST;PASS
+казнемс	казневкшныть	V;AC3P;SG;2;PST;PASS
 кашамс	кашить	V;PL;3
 сокамс	сокавить	V;AC3P;SG;2;PST;PASS
 лиякстомс	лиякстынь	V;SG;1;PST
@@ -6581,7 +6581,7 @@
 ушодома	ушодоманзо	ADJ;NOM;PL;PSS3S
 цитата	цитатакс	N;TRANS;SG;LGSPEC1
 рабочей	рабочеентень	N;HUM;IN+ALL;DEF;SG;LGSPEC1
-мелявтомс	мелявтозевинь	V;INCH;SG;1;PST
+мелявтомс	мелявтозевинь	V;SG;1;PST
 полк	полксо	N;IN+ESS;SG
 ёжовчи	ёжовчись	N;NOM;DEF;SG
 панемс	панизь	V;AC3;PL;3;PST
@@ -6687,7 +6687,7 @@
 поисковой	поисковой	ADJ;SG;LGSPEC1
 пичкамс	пичкавтовт	V;IMP;SG;2;CAUS;PASS
 маштомс	маштымизьгак	V;AC1S;PL;LGSPEC_AMP;3;PST
-улемс	ульнекшне	V;ITER;NEG
+улемс	ульнекшне	V;NEG
 содомс	содытинь	V;AC2S;SG;1;PST
 ормалгадомс	ормалгадозесь	V.PTCP;NOM;DEF;SG;PST
 стувтомс	стувттадо	V;PL;2
@@ -6697,9 +6697,9 @@
 центнер	центнер	N;NOM;SG;LGSPEC1
 кардо	кардонь	N;GEN
 чиямо	чиямот	N;NOM;SG;PSS2S
-ладямс	ладякшнызе	V;AC3S;ITER;SG;3;PST;LGSPEC1
+ладямс	ладякшнызе	V;AC3S;SG;3;PST;LGSPEC1
 сияждомс	сияждозь	V.PTCP;PST
-сёлномс	сёлнокшномс	V;ITER;NFIN
+сёлномс	сёлнокшномс	V;NFIN
 субъект	субъекттнэяк	N;NOM;DEF;PL;LGSPEC_AMP;LGSPEC1
 казахской	казахской	ADJ;SG;LGSPEC1
 шалаш	шалашонть	N;GEN;DEF;SG;LGSPEC1
@@ -6754,7 +6754,7 @@
 ве	вестэяк	N;IN+ABL;SG;LGSPEC_AMP
 витнемс	витни	V;SG;3
 чополгадомс	чополгадыть	V;PL;3
-явшемс	явшекшныть	V;AC3P;ITER;SG;2;PST
+явшемс	явшекшныть	V;AC3P;SG;2;PST
 токамс	токавсызь	V;AC3;PL;3;PASS
 ципака	ципакакс	N;HUM;TRANS;SG
 добровольной	добровольной	ADJ;SG;LGSPEC1
@@ -6789,7 +6789,7 @@
 самс	савтсынь	V;AC3P;SG;1;CAUS
 ёнкс	ёнксканзо	N;PROL;PL;PSS3S
 срадомс	срадынек	V;PL;1;PST
-маштомс	маштокшны	V;ITER;SG;3
+маштомс	маштокшны	V;SG;3
 урномс	урнозь	V.PTCP;NOM;SG;PST
 кавномс	кавныть	V;PL;3
 чамаумарь	чамаумарьсэнзэ	N;IN+ESS;PL;PSS3S
@@ -6804,7 +6804,7 @@
 середняк	середнякт	N;HUM;NOM;PL;LGSPEC1
 саранча	саранча	N;HUM;NOM;SG;LGSPEC1
 эрзява	эрзявань	N;HUM;GEN
-муемс	мукшнотадызь	V;AC2S;ITER;PL;1
+муемс	мукшнотадызь	V;AC2S;PL;1
 лазонь	лазонь	ADJ;SG
 чамань	чамантень	ADJ;DAT
 суверенной	суверенной	ADJ;NOM;SG;LGSPEC1
@@ -6816,7 +6816,7 @@
 изнямс	изнясынк	V;AC3;PL;2
 курка	куркат	N;HUM;NOM;PL
 эколог	экологтнень	N;HUM;GEN;DEF;PL;LGSPEC1
-сёлтамс	сёлтакшнызь	V;AC3;ITER;PL;3;PST
+сёлтамс	сёлтакшнызь	V;AC3;PL;3;PST
 совамс	совамскак	V;NFIN;LGSPEC_AMP
 кичкере	кичкереть	ADJ;SG;PSS2S
 модава	модава	N;NOM;SG
@@ -6845,9 +6845,9 @@
 кабинет	кабинетэнек	N;NOM;SG;PSS1P;LGSPEC1
 келейгадомс	келейгавтынк	V;AC3;PL;2;PST;CAUS
 рисовамс	рисовак	V;IMP;SG;2
-лыкамс	лыказевсь	V;INCH;SG;3;PST
+лыкамс	лыказевсь	V;SG;3;PST
 горнипов	горниповсо	N;IN+ESS;SG
-марямс	марязевить	V;AC3P;INCH;SG;2;PST
+марямс	марязевить	V;AC3P;SG;2;PST
 веер	вееркс	N;TRANS;SG;LGSPEC1
 ризкс	ризкснэнь	N;DAT
 файл	файлс	N;IN+ALL;SG;LGSPEC1
@@ -6895,7 +6895,7 @@
 вакс	вакстост	N;ABL;SG;PSS3P
 мелькужо	мелькужосомок	N;IN+ESS;PL;PSS1P
 кинжал	кинжалось	N;NOM;DEF;SG;LGSPEC1
-майсемс	майсевтекшни	V;ITER;SG;3;CAUS
+майсемс	майсевтекшни	V;SG;3;CAUS
 кандомс	кандозо	V;OPT;SG;3
 метра	метраяк	N;NOM;SG;LGSPEC_AMP;LGSPEC1
 пеелемс	пеельде	V;IMP;PL;2
@@ -6939,7 +6939,7 @@
 персонаж	персонаждо	N;HUM;ABL;SG;LGSPEC1
 оршамо	оршамотнеяк	N;NOM;DEF;PL;LGSPEC_AMP
 нона	нона	ADJ;SG
-тердемс	тердекшнить	V;AC3P;ITER;SG;2;PST
+тердемс	тердекшнить	V;AC3P;SG;2;PST
 час	частнэнень	N;DAT;DEF;PL;LGSPEC1
 куломс	куловтомизь	V;AC1P;IMP;2;CAUS
 редямс	редиде	V;PL;2;PST
@@ -6985,11 +6985,11 @@
 талномс	талновтыдизь	V;AC2P;PST;CAUS
 фаворит	фавориттнэнь	N;HUM;GEN;DEF;PL;LGSPEC1
 фестиваль	фестивалест	N;NOM;SG;PSS3P;LGSPEC1
-морамс	моразеван	V;INCH;SG;1
+морамс	моразеван	V;SG;1
 паломс	палытинь	V;AC2S;SG;1;PST
 пелямс	пелилитькак	V;AC3P;SG;LGSPEC_AMP;2;RMT
 калго	калгот	N;NOM;SG;PSS2S
-муемс	мукшнок	V;AC3S;ITER;IMP;SG;2
+муемс	мукшнок	V;AC3S;IMP;SG;2
 сюро	сюронк	N;NOM;SG;PSS2P
 ошкужо	ошкужов	N;AT+ALL;SG
 ловов	лововкс	ADJ;TRANS;SG
@@ -7012,7 +7012,7 @@
 лиядомс	лиядовт	V;NEG;CAUS
 пенсия	пенсиятнеяк	N;NOM;DEF;PL;LGSPEC_AMP;LGSPEC1
 модарька	модарьканть	N;HUM;GEN;DEF;SG
-сюкунямс	сюкунякшнозь	V.PTCP;ITER;PST
+сюкунямс	сюкунякшнозь	V.PTCP;PST
 токавкс	токавксонтень	N;IN+ALL;DEF;SG
 вачкотемс	вачкотинь	V;AC3P;SG;1;PST
 карсемапель	карсемапельде	N;ABL;SG
@@ -7037,11 +7037,11 @@
 утом	утомстонть	N;IN+ABL;DEF;SG
 меридиональной	меридиональной	ADJ;SG;LGSPEC1
 мешамс	мешамс	V;NFIN
-муемс	мукшносызь	V;AC3;ITER;PL;3
+муемс	мукшносызь	V;AC3;PL;3
 содамс	содась	V;SG;3;PST
 пе	певтеме	N;PRIV;SG
 азорксчи	азорксчиде	N;ABL;SG
-кукордомс	кукордозевиль	V;INCH;SG;3;RMT
+кукордомс	кукордозевиль	V;SG;3;RMT
 калмо	калмокс	N;TRANS;SG
 очко	очконть	N;GEN;DEF;SG;LGSPEC1
 пеедемс	пеедемскак	V;NFIN;LGSPEC_AMP
@@ -7064,7 +7064,7 @@
 вадрячи	вадрячись	N;NOM;DEF;SG
 театра	театрат	N;NOM;SG;PSS2S;LGSPEC1
 ваномс	ваныть	V;PL;3
-пижнемс	пижнекшни	V;ITER;SG;3
+пижнемс	пижнекшни	V;SG;3
 образ	образтнэ	N;NOM;DEF;PL;LGSPEC1
 чачомс	чачинек	V;PL;1;PST
 переводчик	переводчикть	N;HUM;NOM;PL;LGSPEC1
@@ -7085,7 +7085,7 @@
 сускомс	сускить	V;PL;3
 колхозник	колхозникненьгак	N;HUM;DAT;LGSPEC_AMP;LGSPEC1
 мор	моронок	N;NOM;SG;PSS1P
-соламс	солакшныть	V;ITER;SG;2;PST
+соламс	солакшныть	V;SG;2;PST
 кодамс	кодасынзе	V;AC3P;SG;3
 валвелявкс	валвелявкстнэсэ	N;IN+ESS;DEF;PL
 нарьгамс	нарьгазь	V.PTCP;NOM;SG;PST
@@ -7120,7 +7120,7 @@
 кев	кевев	N;AT+ALL;SG
 мазылгадомс	мазылгавтынк	V;AC3;PL;2;PST;CAUS
 араб	арабокс	N;HUM;TRANS;SG;LGSPEC1
-пизямомс	пизямкшно	V;ITER;NEG
+пизямомс	пизямкшно	V;NEG
 салтомс	салтт	V;AC3P;IMP;SG;2
 вень	вентькак	ADJ;NOM;PL;LGSPEC_AMP
 схема	схемат	N;NOM;SG;PSS2S;LGSPEC1
@@ -7158,7 +7158,7 @@
 ливчаня	ливчаня	ADJ
 соламс	солынь	V;SG;1;PST
 эцемс	эцест	V;OPT;PL;3
-пелькстамс	пелькстакшнынек	V;AC3;ITER;PL;1;PST
+пелькстамс	пелькстакшнынек	V;AC3;PL;1;PST
 повамс	повильть	V;PL;3;RMT
 кислород	кислородонь	N;GEN;LGSPEC1
 эжемс	эжан	V;SG;1
@@ -7184,12 +7184,12 @@
 сёлт	сёлтт	N;NOM;PL
 ливти	ливти	ADJ
 стена	стенава	N;PROL;SG;LGSPEC1
-кундамс	кундакшнынь	V;ITER;SG;1;PST
+кундамс	кундакшнынь	V;SG;1;PST
 минской	минской	ADJ;NOM;SG;LGSPEC1
 горобия	горобиятнесэ	N;IN+ESS;DEF;PL
 озамс	озатано	V;PL;1
 варчнемс	варчнить	V;AC3P;SG;2;PST
-пейдемс	пейдькшнемс	V;ITER;NFIN
+пейдемс	пейдькшнемс	V;NFIN
 тумо	тумодонть	N;ABL;DEF;SG
 проблема	проблематне	N;NOM;DEF;PL;LGSPEC1
 чокшне	чокшнезэ	N;NOM;SG;PSS3S
@@ -7239,11 +7239,11 @@
 валямс	валяса	V;AC3S;SG;1;LGSPEC1
 пидемс	пидян	V;SG;1
 голос	голосонк	N;NOM;SG;PSS2P;LGSPEC1
-стямс	стякшность	V;ITER;PL;3;PST
+стямс	стякшность	V;PL;3;PST
 религия	религиянк	N;NOM;SG;PSS2P;LGSPEC1
 якамс	якатан	V;AC2S;SG;1
 каба	кабан	N;NOM;PL;PSS1S
-пейдемс	пейдезевиксэль	V;INCH;OPT;SG;3
+пейдемс	пейдезевиксэль	V;OPT;SG;3
 заботливой	заботливой	ADJ;SG;LGSPEC1
 служамс	служавт	V;NEG;CAUS;LGSPEC1
 чиемс	чииксэль	V;OPT;SG;3
@@ -7263,7 +7263,7 @@
 пипка	пипканть	N;GEN;DEF;SG
 пачтямс	пачтясынзе	V;AC3P;SG;3
 кандомс	канды	V;SG;3
-эрявомс	эрявкшнынь	V;AC3P;ITER;SG;1;PST
+эрявомс	эрявкшнынь	V;AC3P;SG;1;PST
 ускомс	усковт	V;AC3P;IMP;SG;2;PASS
 питнейчи	питнейчинек	N;COM
 прядомс	прядовиндеряй	V;COND;SG;3;PASS
@@ -7275,7 +7275,7 @@
 фамилия	фамилиязояк	N;IN+ALL;SG;LGSPEC_AMP;LGSPEC1
 лавка	лавкань	N;GEN;LGSPEC1
 домка	домкасто	ADJ;IN+ABL;SG
-стамс	стакшнось	V;ITER;SG;3;PST
+стамс	стакшнось	V;SG;3;PST
 саламс	салат	V;AC3P;IMP;SG;2
 творчества	творчествасон	N;IN+ESS;SG;PSS1S;LGSPEC1
 учитель	учительтнеде	N;HUM;ABL;DEF;PL
@@ -7313,7 +7313,7 @@
 лембелгадомс	лембелгавты	V;SG;3;CAUS
 уличи	уличись	N;NOM;DEF;SG
 найманонь	найманонь	ADJ;NOM;SG
-ёвтнемс	ёвтнекшнизе	V;AC3S;ITER;SG;3;PST
+ёвтнемс	ёвтнекшнизе	V;AC3S;SG;3;PST
 дальней	дальней	ADJ;LGSPEC1
 рай	райга	N;PROL;SG;LGSPEC1
 авитевиця	авитевиця	ADJ
@@ -7333,7 +7333,7 @@
 мигрант	мигранттнэнень	N;HUM;IN+ALL;DEF;PL;LGSPEC1
 виемс	виевтькак	V;AC3P;IMP;SG;LGSPEC_AMP;2;PASS
 лечебница	лечебницатнень	N;GEN;DEF;PL;LGSPEC1
-казнемс	казневкшныть	V;ITER;SG;2;PST;PASS
+казнемс	казневкшныть	V;SG;2;PST;PASS
 ков	ковонтькак	N;GEN;DEF;SG;LGSPEC_AMP
 мелень	мелень	ADJ;SG
 цянака	цянакатне	N;HUM;NOM;DEF;PL
@@ -7380,7 +7380,7 @@
 ваднемс	вадневть	V;AC3P;IMP;SG;2;PASS
 тапаркс	тапарксстонть	N;IN+ABL;DEF;SG
 кирваземс	кирвазезэ	V;OPT;SG;3
-дивамс	дивазеват	V;INCH;SG;2;LGSPEC1
+дивамс	дивазеват	V;SG;2;LGSPEC1
 талан	таланов	N;AT+ALL;SG
 манявкс	манявкс	N;NOM;SG
 вельмемс	вельмемс	V;NFIN
@@ -7498,7 +7498,7 @@
 кельт	кельтсэ	N;HUM;IN+ESS;SG;LGSPEC1
 почта	почтанть	N;GEN;DEF;SG;LGSPEC1
 морокуро	морокуротнеде	N;ABL;DEF;PL
-лексемс	лексекшнынь	V;AC3P;ITER;SG;1;PST
+лексемс	лексекшнынь	V;AC3P;SG;1;PST
 иень	иенеть	ADJ;NOM;SG;PSS2S
 газета	газетазо	N;IN+ALL;SG;LGSPEC1
 кинига	кинигам	N;NOM;SG;PSS1S;LGSPEC1
@@ -7550,7 +7550,7 @@
 товзюро	товзюродо	N;ABL;SG
 вешемс	вешизь	V;AC3;PL;3;PST
 лецямс	леция	V;AC3S;SG;1;PST;LGSPEC1
-оймамс	оймакшны	V;ITER;SG;3
+оймамс	оймакшны	V;SG;3
 ильтямс	ильтявить	V;AC3P;SG;2;PST;PASS
 вачкамс	вачкадо	V;IMP;PL;2
 налов	наловт	ADJ;NOM;PL
@@ -7645,7 +7645,7 @@
 витемс	витевлизеяк	V;AC3S;SBJV;SG;LGSPEC_AMP;3
 ютамс	ютазев	V.PTCP;AT+ALL;SG;PST
 тол	толнэнь	N;DAT
-новолемс	новолькшнесть	V;ITER;PL;3;PST
+новолемс	новолькшнесть	V;PL;3;PST
 президентской	президентской	ADJ;LGSPEC1
 топонимика	топонимикась	N;NOM;DEF;SG;LGSPEC1
 сырькай	сырькаень	N;HUM;GEN
@@ -7690,7 +7690,7 @@
 леднемка	леднемкастонть	N;IN+ABL;DEF;SG
 пекстамс	пекстазель	V.PTCP;SG;3;PST
 ремикс	ремикст	N;NOM;PL;LGSPEC1
-таштомомс	таштомкшныть	V;ITER;PL;3
+таштомомс	таштомкшныть	V;PL;3
 лесной	лесной	ADJ;LGSPEC1
 точной	точнойстэ	ADJ;IN+ABL;SG;LGSPEC1
 пьеса	пьесасонть	N;IN+ESS;DEF;SG;LGSPEC1
@@ -7751,16 +7751,16 @@
 сельгев	сельгев	ADJ
 аспирант	аспиранттнэнь	N;HUM;GEN;DEF;PL;LGSPEC1
 кулямс	куляст	V;OPT;PL;3
-виемемс	виемкшнесь	V;ITER;SG;3;PST
+виемемс	виемкшнесь	V;SG;3;PST
 ловомс	лововитькак	V;SG;LGSPEC_AMP;2;PST;PASS
 майсемс	майсезь	V.PTCP;PST
 керсемс	керсинек	V;PL;1;PST
-рамамс	рамакшнызь	V;AC3;ITER;PL;3;PST
+рамамс	рамакшнызь	V;AC3;PL;3;PST
 пекарня	пекарнясо	N;IN+ESS;SG;LGSPEC1
 оймамс	оймавтомс	V;NFIN;CAUS
 керь	кернек	N;COM
 программа	программатнень	N;GEN;DEF;PL;LGSPEC1
-марямс	марякшнынь	V;AC3P;ITER;SG;1;PST
+марямс	марякшнынь	V;AC3P;SG;1;PST
 арсемс	арситькак	V;SG;LGSPEC_AMP;2;PST
 экоплакат	экоплакат	N;NOM;SG;LGSPEC1
 бригадир	бригадирэст	N;HUM;NOM;SG;PSS3P;LGSPEC1
@@ -7776,7 +7776,7 @@
 электричества	электричествавтомояк	N;PRIV;SG;LGSPEC_AMP;LGSPEC1
 ёвтамс	ёвтылить	V;SG;2;RMT
 коня	конякс	N;TRANS;SG
-марявомс	марявкшныть	V;ITER;PL;3
+марявомс	марявкшныть	V;PL;3
 приют	приютсто	N;IN+ABL;SG;LGSPEC1
 кецямс	кецявтсызь	V;AC3;PL;3;CAUS
 сатира	сатирантень	N;IN+ALL;DEF;SG;LGSPEC1
@@ -7862,10 +7862,10 @@
 важодевкс	важодевксэнтень	N;DAT;DEF;SG
 вельмемс	вельмить	V;SG;2;PST
 ассамблея	ассамблея	N;NOM;SG;LGSPEC1
-уставамс	уставакшнызе	V;AC3S;ITER;SG;3;PST
+уставамс	уставакшнызе	V;AC3S;SG;3;PST
 кужомастор	кужомасторт	N;NOM;PL
 информационной	информационной	ADJ;LGSPEC1
-важодемс	важодекшнесть	V;ITER;PL;3;PST
+важодемс	важодекшнесть	V;PL;3;PST
 важо	важозо	N;NOM;SG;PSS3S
 база	базазояк	N;IN+ALL;SG;LGSPEC_AMP;LGSPEC1
 валпарго	валпаргонть	N;GEN;DEF;SG
@@ -7884,7 +7884,7 @@
 сиведемс	сиведиль	V;SG;3;RMT
 ламо	ламолинек	N;PL;1;PST
 райсобес	райсобесэсь	N;NOM;DEF;SG;LGSPEC1
-каямс	каякшно	V;ITER;NEG
+каямс	каякшно	V;NEG
 чулгсетемс	чулгсети	V;SG;3
 сялго	сялго	N;NOM;SG
 кундамс	кундават	V;SG;2;PASS
@@ -7996,13 +7996,13 @@
 дипольной	дипольной	ADJ;SG;LGSPEC1
 контакт	контакттнэнь	N;GEN;DEF;PL;LGSPEC1
 идемс	идинек	V;AC3;PL;1;PST
-сёвномс	сёвнокшнат	V;ITER;SG;2
+сёвномс	сёвнокшнат	V;SG;2
 сорномс	сорныть	V;AC3P;SG;2;PST
 чачомс	чачськак	V;SG;LGSPEC_AMP;3;PST
 предприятия	предприятияткак	N;NOM;SG;LGSPEC_AMP;PSS2S;LGSPEC1
 кундамс	кундытькак	V;SG;LGSPEC_AMP;2;PST
 дидактической	дидактической	ADJ;NOM;SG;LGSPEC1
-мизолдомс	мизолдозевинь	V;AC3P;INCH;SG;1;PST
+мизолдомс	мизолдозевинь	V;AC3P;SG;1;PST
 токамс	токатано	V;PL;1
 эскельдямс	эскельдинь	V;SG;1;PST
 миемс	митядо	V;PL;2
@@ -8036,7 +8036,7 @@
 услой	услоензэ	N;NOM;PL;PSS3S;LGSPEC1
 вальма	вальмасонть	N;IN+ESS;DEF;SG
 лужа	лужанть	N;GEN;DEF;SG;LGSPEC1
-яжамс	яжавкшно	V;ITER;NEG;PASS
+яжамс	яжавкшно	V;NEG;PASS
 паром	паром	N;NOM;SG;LGSPEC1
 куля	кулякс	N;TRANS;SG
 викторина	викторинасо	N;IN+ESS;SG;LGSPEC1
@@ -8048,7 +8048,7 @@
 кадомс	кадымик	V;AC1S;SG;2;PST
 ванномс	ваннылинек	V;PL;1;RMT
 кочксемс	кочксить	V;PL;3
-лоткамс	лотказевинек	V;AC3;INCH;PL;1;PST
+лоткамс	лотказевинек	V;AC3;PL;1;PST
 сялгомс	сялги	V;SG;3
 панемс	паньсамак	V;AC1S;SG;2
 опаня	опаня	ADJ
@@ -8080,7 +8080,7 @@
 парямс	паринек	V;AC3;PL;1;PST;LGSPEC1
 орма	ормам	N;NOM;SG;PSS1S
 тев	тевстэ	N;IN+ABL;SG
-кемемс	кемезевсть	V;INCH;PL;3;PST
+кемемс	кемезевсть	V;PL;3;PST
 мероприятия	мероприятияв	N;AT+ALL;SG;LGSPEC1
 аздамс	аздатадызь	V;AC2S;PL;3
 диспансеризация	диспансеризациянтень	N;DAT;DEF;SG;LGSPEC1
@@ -8120,7 +8120,7 @@
 зрения	зрения	N;NOM;SG;LGSPEC1
 журналистика	журналистикантень	N;DAT;DEF;SG;LGSPEC1
 керьксамс	керьксынзе	V;AC3P;SG;3;PST
-стямс	стякшныть	V;ITER;PL;3
+стямс	стякшныть	V;PL;3
 грамота	грамотастонть	N;IN+ABL;DEF;SG;LGSPEC1
 молемс	молевсь	V;SG;3;PST;PASS
 конница	конницась	N;NOM;DEF;SG;LGSPEC1
@@ -8145,7 +8145,7 @@
 чаро	чаро	N;NOM;SG
 фломастер	фломастерэнтень	N;DAT;DEF;SG;LGSPEC1
 городок	городок	N;NOM;SG;LGSPEC1
-полавтомс	полавтовкшность	V;ITER;PL;3;PST;PASS
+полавтомс	полавтовкшность	V;PL;3;PST;PASS
 сеанс	сеанссонть	N;IN+ESS;DEF;SG;LGSPEC1
 неемс	неевлинк	V;AC3;SBJV;PL;2
 механизатор	механизатортнэ	N;HUM;NOM;DEF;PL;LGSPEC1
@@ -8202,7 +8202,7 @@
 чире	чирест	N;NOM;SG;PSS3P
 тапаркс	тапаркстнэнь	N;GEN;DEF;PL
 ария	ария	N;NOM;SG;LGSPEC1
-вастомс	вастозевсть	V;INCH;PL;3;PST
+вастомс	вастозевсть	V;PL;3;PST
 мазыйка	мазыйкатнень	N;HUM;GEN;DEF;PL
 стака	стакаль	ADJ;SG;3;PST
 пот	потмоваст	N;PROL;SG;PSS3P
@@ -8215,7 +8215,7 @@
 пол	полтнэнь	N;GEN;DEF;PL
 постройка	постройкат	N;NOM;SG;PSS2S;LGSPEC1
 ведьбача	ведьбачат	N;HUM;NOM;SG;PSS2S
-муемс	мукшнылинь	V;AC3P;ITER;SG;1;RMT
+муемс	мукшнылинь	V;AC3P;SG;1;RMT
 тесьмадемс	тесьмадевинь	V;AC3P;SG;1;PST;PASS;LGSPEC1
 лездамс	лездави	V;SG;3;PASS
 кепетемс	кепетевель	V;SBJV;SG;3
@@ -8232,8 +8232,8 @@
 валгомс	валгсть	V;PL;3;PST
 ватксемс	ватксевсь	V;SG;3;PST;PASS
 вановт	вановтсот	N;IN+ESS;SG;PSS2S
-нолдтнемс	нолдтнекшнить	V;ITER;SG;2;PST
-меремс	мерекшнезь	V.PTCP;ITER;PST
+нолдтнемс	нолдтнекшнить	V;SG;2;PST
+меремс	мерекшнезь	V.PTCP;PST
 теемс	теевемс	V;NFIN;PASS
 сорт	сортт	N;NOM;PL;LGSPEC1
 калгодо	калгодосто	ADJ;IN+ABL;SG
@@ -8261,7 +8261,7 @@
 лепекал	лепекал	N;HUM;NOM;SG
 пекстамс	пекстызе	V;AC3S;SG;3;PST
 тол	толонтень	N;IN+ALL;DEF;SG
-туемс	туевкшнесть	V;ITER;PL;3;PST;PASS
+туемс	туевкшнесть	V;PL;3;PST;PASS
 сюлмавкс	сюлмавксось	N;NOM;DEF;SG
 лембе	лембенек	ADJ;SG;PSS1P
 лютеранской	лютеранской	ADJ;NOM;SG;LGSPEC1
@@ -8342,14 +8342,14 @@
 чочко	чочктнеде	N;ABL;DEF;PL
 ведьчире	ведьчиресь	N;NOM;DEF;SG
 нолажа	нолажат	ADJ;NOM;PL
-сиведемс	сиведекшнинек	V;ITER;PL;1;PST
+сиведемс	сиведекшнинек	V;PL;1;PST
 каль	калекс	N;TRANS;SG
 сюлмавкс	сюлмавксом	N;NOM;SG;PSS1S
 оршнемс	оршнинк	V;AC3;PL;2;PST
 вакс	ваксто	N;ABL;SG
 речной	речной	ADJ;NOM;SG;LGSPEC1
 шка	шкатнестэ	N;IN+ABL;DEF;PL
-ракамс	раказевинь	V;INCH;SG;1;PST
+ракамс	раказевинь	V;SG;1;PST
 максомс	максомизь	V;AC1P;IMP;2
 лакиведь	лакиведьсэ	N;IN+ESS;SG
 кувалгадомс	кувалгадозо	V;OPT;SG;3
@@ -8436,9 +8436,9 @@
 сэтьмечи	сэтьмечист	N;NOM;SG;PSS3P
 ваномс	вановт	V;IMP;SG;2;PASS
 коммунизма	коммунизма	N;NOM;SG;LGSPEC1
-чалгамс	чалгавкшнынь	V;AC3P;ITER;SG;1;PST;PASS
+чалгамс	чалгавкшнынь	V;AC3P;SG;1;PST;PASS
 куломс	куловтсак	V;AC3S;SG;2;CAUS
-вельтямс	вельтявкшныть	V;ITER;PL;3;PASS
+вельтямс	вельтявкшныть	V;PL;3;PASS
 эряза	эряза	ADJ
 горилла	горилланть	N;HUM;GEN;DEF;SG;LGSPEC1
 топографической	топографической	ADJ;LGSPEC1
@@ -8463,7 +8463,7 @@
 глубокой	глубокой	ADJ;LGSPEC1
 цёра	цёрасояк	N;HUM;IN+ESS;SG;LGSPEC_AMP
 казнемс	казнесызь	V;AC3;PL;3
-шольнемс	шольнезеви	V;INCH;SG;3
+шольнемс	шольнезеви	V;SG;3
 ЦИК	цик-нь	N;NOM;SG;PSS1S;LGSPEC1
 ангел	ангелтнэнь	N;GEN;DEF;PL;LGSPEC1
 педучилища	педучилищатнеде	N;ABL;DEF;PL;LGSPEC1
@@ -8490,7 +8490,7 @@
 акциз	акцизэнь	N;GEN;LGSPEC1
 контракт	контрактост	N;NOM;SG;PSS3P;LGSPEC1
 чачи	чачи	ADJ;NOM;SG
-стямс	стякшнынь	V;ITER;SG;1;PST
+стямс	стякшнынь	V;SG;1;PST
 сырне	сырнестэ	N;IN+ABL;SG
 пешксе	пешксень	ADJ;SG;PSS1S
 рамамс	рамат	V;AC3P;IMP;SG;2
@@ -8536,7 +8536,7 @@
 предемс	предемс	V;NFIN
 духовка	духовкасо	N;IN+ESS;SG;LGSPEC1
 салдырькс	салдырьксэс	N;IN+ALL;SG
-матедевемс	матедевкшнэсь	V;ITER;SG;3;PST
+матедевемс	матедевкшнэсь	V;SG;3;PST
 тонгомс	тонго	V;NEG
 почодомс	почодсынек	V;AC3;PL;1
 кирашко	кирашксо	N;IN+ESS;SG
@@ -8564,7 +8564,7 @@
 сивемс	сивить	V;SG;2;PST
 питней	питнееть	ADJ;SG;PSS2S
 куя	куясонзо	ADJ;IN+ESS;PL;PSS3S
-совсемс	совсекшнильть	V;ITER;PL;3;RMT
+совсемс	совсекшнильть	V;PL;3;RMT
 нармунень	нармунень	ADJ;SG
 витемемс	витеме	V;NEG
 цитерь	цитерькс	ADJ;TRANS;SG
@@ -8579,7 +8579,7 @@
 цяпор	цяпорсо	N;IN+ESS;SG
 пазава	пазавастонть	N;IN+ABL;DEF;SG
 солдат	солдатонь	N;HUM;GEN;LGSPEC1
-кавтолдомс	кавтолдозевсть	V;INCH;PL;3;PST
+кавтолдомс	кавтолдозевсть	V;PL;3;PST
 карсемс	карсевлить	V;SBJV;SG;2
 куземс	кузиде	V;PL;2;PST
 сазорка	сазорказо	N;HUM;NOM;SG;PSS3S
@@ -8611,7 +8611,7 @@
 куншкавидь	куншкавидьга	N;PROL;SG
 сельгемс	сельгеви	V;SG;3;PASS
 нупоньчей	нупоньчей	N;NOM;SG
-ильсемс	ильсекшни	V;ITER;SG;3
+ильсемс	ильсекшни	V;SG;3
 касы	касыль	ADJ;SG;3;PST
 чольдердемс	чольдерди	V;SG;3
 единица	единицат	N;NOM;PL;LGSPEC1
@@ -8711,7 +8711,7 @@
 кирвастемс	кирвастизе	V;AC3S;SG;3;PST
 лазомс	лазовозь	V.PTCP;NOM;SG;PST;PASS
 рисьме	рисьметнесэ	N;IN+ESS;DEF;PL
-педямс	педякшны	V;ITER;SG;3
+педямс	педякшны	V;SG;3
 лато	латостонть	N;IN+ABL;DEF;SG
 строфа	строфантень	N;IN+ALL;DEF;SG;LGSPEC1
 брат	братонтень	N;HUM;DAT;DEF;SG;LGSPEC1
@@ -8763,7 +8763,7 @@
 переработка	переработкасонть	N;IN+ESS;DEF;SG;LGSPEC1
 толкун	толкунт	N;NOM;PL
 монгольской	монгольскойкс	ADJ;TRANS;SG;LGSPEC1
-сёрмадомс	сёрмадокшнозь	V.PTCP;ITER;PST
+сёрмадомс	сёрмадокшнозь	V.PTCP;PST
 талан	таланот	N;NOM;SG;PSS2S
 орма	ормасонть	N;IN+ESS;DEF;SG
 арневкс	арневкстэме	N;PRIV;SG
@@ -8778,7 +8778,7 @@
 вийтеме	вийтеметь	ADJ;SG;PSS2S
 кирькс	кирькска	N;PROL;SG
 ледстямс	ледстинь	V;SG;1;PST
-сезнемс	сезнекшнить	V;ITER;SG;2;PST
+сезнемс	сезнекшнить	V;SG;2;PST
 тердемс	тердевить	V;SG;2;PST;PASS
 нар	нарс	N;IN+ALL;SG
 лаковой	лаковой	ADJ;SG;LGSPEC1
@@ -8816,7 +8816,7 @@
 ламолгадомс	ламолгавтыть	V;AC3P;SG;2;PST;CAUS
 план	плантнэсэ	N;IN+ESS;DEF;PL;LGSPEC1
 манчемс	манчезь	V.PTCP;PST
-ботномс	ботнозевсь	V;INCH;SG;3;PST
+ботномс	ботнозевсь	V;SG;3;PST
 нищёй	нищёйнень	ADJ;DAT;LGSPEC1
 эфир	эфиртнэде	N;ABL;DEF;PL;LGSPEC1
 вышка	вышкат	N;NOM;SG;PSS2S;LGSPEC1
@@ -8829,7 +8829,7 @@
 рыбной	рыбной	ADJ;NOM;SG;LGSPEC1
 столовой	столовоевгак	N;AT+ALL;SG;LGSPEC_AMP;LGSPEC1
 стардомс	стардовить	V;AC3P;SG;2;PST;PASS
-томбамс	томбавкшнось	V;ITER;SG;3;PST;PASS
+томбамс	томбавкшнось	V;SG;3;PST;PASS
 ваямс	ваявтызь	V;AC3;PL;3;PST;CAUS
 фольклорист	фольклористтнэ	N;HUM;NOM;DEF;PL;LGSPEC1
 ласкс	ласксканть	N;PROL;DEF;SG
@@ -8922,7 +8922,7 @@
 мордвинизатор	мордвинизатортнэнь	N;HUM;GEN;DEF;PL;LGSPEC1
 тюжа	тюжат	ADJ;SG;PSS2S
 буддизма	буддизмань	N;GEN;LGSPEC1
-пурнамс	пурнавкшнозь	V.PTCP;ITER;PST;PASS
+пурнамс	пурнавкшнозь	V.PTCP;PST;PASS
 сормсевезь	сормсевезь	ADJ;SG
 нурдо	нурдсто	N;IN+ABL;SG
 шовинист	шовинистэнь	N;HUM;GEN;LGSPEC1
@@ -9040,7 +9040,7 @@
 вастомс	вастытькак	V;AC3P;SG;LGSPEC_AMP;2;PST
 ташто	таштоль	ADJ;SG;3;PST
 номер	номерсэнк	N;IN+ESS;SG;PSS2P;LGSPEC1
-кешнямс	кешнязевилть	V;INCH;PL;3;RMT
+кешнямс	кешнязевилть	V;PL;3;RMT
 чангамс	чангить	V;SG;2;PST
 сюжет	сюжетэзэяк	N;NOM;SG;LGSPEC_AMP;PSS3S;LGSPEC1
 автор	авторонзо	N;HUM;NOM;PL;PSS3S;LGSPEC1
@@ -9058,7 +9058,7 @@
 газет	газетэнтень	N;IN+ALL;DEF;SG;LGSPEC1
 кепетемс	кепетемс	V;NFIN
 термос	термостнэсэ	N;IN+ESS;DEF;PL;LGSPEC1
-чачомс	чачокшность	V;ITER;PL;3;PST
+чачомс	чачокшность	V;PL;3;PST
 наган	нагансо	N;IN+ESS;SG;LGSPEC1
 чека	чекас	N;IN+ALL
 нишкепаз	нишкепазось	N;NOM;DEF;SG
@@ -9077,7 +9077,7 @@
 оля	олясост	N;IN+ESS;SG;PSS3P;LGSPEC1
 гривна	гривнат	N;NOM;SG;PSS2S;LGSPEC1
 психолог	психологокс	N;HUM;TRANS;SG;LGSPEC1
-талномс	талнокшно	V;ITER;NEG
+талномс	талнокшно	V;NEG
 мор	морангак	N;SG;LGSPEC_AMP;1
 каштмолемс	каштмолевть	V;AC3P;IMP;SG;2;PASS
 стардомс	стардтадызь	V;AC2S;PL;3
@@ -9103,7 +9103,7 @@
 отель	отельсэнк	N;IN+ESS;SG;PSS2P;LGSPEC1
 лисемс	лисилинь	V;SG;1;RMT
 заслонка	заслонкасо	N;IN+ESS;SG;LGSPEC1
-морамс	моразевинь	V;AC3P;INCH;SG;1;PST
+морамс	моразевинь	V;AC3P;SG;1;PST
 невельдемс	невельдизь	V;AC3;PL;3;PST
 коллега	коллеган	N;HUM;NOM;PL;PSS1S;LGSPEC1
 идемка	идемкат	N;NOM;SG;PSS2S
@@ -9136,7 +9136,7 @@
 почодомс	почодовлизь	V;AC3;SBJV;PL;3
 ён	ёнозот	ADJ;IN+ALL;SG;PSS2S
 профком	профкомонь	N;GEN;LGSPEC1
-стямс	стякшнозо	V;ITER;OPT;SG;3
+стямс	стякшнозо	V;OPT;SG;3
 ченгемс	ченгсть	V;PL;3;PST
 обком	обкомсо	N;IN+ESS;SG;LGSPEC1
 чачо	чачом	N;NOM;SG;PSS1S
@@ -9163,7 +9163,7 @@
 туема	туемаст	N;NOM;SG;PSS3P
 ватксемс	ватксевить	V;PL;3;PASS
 идем	идемев	ADJ;AT+ALL;SG
-ливтямс	ливтязевсь	V;INCH;SG;3;PST
+ливтямс	ливтязевсь	V;SG;3;PST
 уштомс	уштат	V;SG;2
 марсемс	марсинь	V;AC3P;SG;1;PST
 тюремс	тюрезь	V.PTCP;NOM;SG;PST
@@ -9292,7 +9292,7 @@
 икнетемс	икнетезь	V.PTCP;PST
 кечкеремс	кечкерян	V;SG;1
 ёжов-важов	ёжов-важов	ADJ
-псилгадомс	псилгадокшность	V;ITER;PL;3;PST
+псилгадомс	псилгадокшность	V;PL;3;PST
 авейкетьксчи	авейкетьксчитнень	N;GEN;DEF;PL
 азаргадомс	азаргадозенть	V.PTCP;GEN;DEF;SG;PST
 топода-сэнь	топода-сэнь	ADJ;SG
@@ -9313,7 +9313,7 @@
 пенсионер	пенсионеран	N;HUM;SG;1;LGSPEC1
 организма	организмасонть	N;IN+ESS;DEF;SG;LGSPEC1
 чийнемс	чийнек	V;IMP;SG;2
-стямс	стякшнок	V;AC3S;ITER;IMP;SG;2
+стямс	стякшнок	V;AC3S;IMP;SG;2
 ветямс	ветятадызь	V;AC2P
 тулко	тулкат	N;SG;2
 сельмекерь	сельмекерть	N;NOM;PL
@@ -9526,7 +9526,7 @@
 строй	строй	N;NOM;SG;LGSPEC1
 вий	виемгак	N;NOM;SG;LGSPEC_AMP;PSS1S
 стямс	стясть	V;PL;3;PST
-арсемс	арсезевить	V;AC3P;INCH;SG;2;PST
+арсемс	арсезевить	V;AC3P;SG;2;PST
 ловномс	ловновитькак	V;SG;LGSPEC_AMP;2;PST;PASS
 подразделения	подразделениятнень	N;GEN;DEF;PL;LGSPEC1
 ловомс	ловаткак	V;SG;LGSPEC_AMP;2
@@ -9573,7 +9573,7 @@
 ки	кив	N;AT+ALL;SG
 потмовал	потмовалом	N;NOM;SG;PSS1S
 срок	срокс	N;IN+ALL;SG;LGSPEC1
-кунсоломс	кунсолозевсь	V;INCH;SG;3;PST
+кунсоломс	кунсолозевсь	V;SG;3;PST
 сквер	скверсэ	N;IN+ESS;SG;LGSPEC1
 совамс	совавтодо	V;IMP;PL;2;CAUS
 мазылгадомс	мазылгавтовить	V;AC3P;SG;2;PST;CAUS;PASS
@@ -9685,7 +9685,7 @@
 паролгадомс	паролгады	V;SG;3
 благотворительной	благотворительной	ADJ;SG;LGSPEC1
 лемдемс	лемдевсть	V;PL;3;PST;PASS
-лездамс	лездакшнан	V;ITER;SG;1
+лездамс	лездакшнан	V;SG;1
 мадстемс	мадстилизь	V;AC3;PL;3;RMT
 токамс	токаяк	V;LGSPEC_AMP;NEG
 мадемс	мадть	V;AC3P;IMP;SG;2
@@ -9708,7 +9708,7 @@
 этногенез	этногенезэнть	N;GEN;DEF;SG;LGSPEC1
 тун	тундот	N;ABL;SG;PSS2S
 мраморной	мраморной	ADJ;LGSPEC1
-топодемс	топодекшне	V;ITER;NEG
+топодемс	топодекшне	V;NEG
 пидемс	пидевтезь	V.PTCP;NOM;SG;PST;CAUS
 поводемс	поводинек	V;PL;1;PST
 оршамс-карсемс	оршамс-карсемс	V;NFIN
@@ -9734,7 +9734,7 @@
 уличи	уличисэ	N;IN+ESS;SG
 эрсемс	эрситькак	V;AC3P;SG;LGSPEC_AMP;2;PST
 превейне	превейне	ADJ;SG
-аволямс	аволязевсь	V;INCH;SG;3;PST
+аволямс	аволязевсь	V;SG;3;PST
 фотохудожник	фотохудожниктненень	N;HUM;DAT;DEF;PL;LGSPEC1
 рулевой	рулевой	N;HUM;NOM;SG;LGSPEC1
 чавомс	чавозь	V.PTCP;PST
@@ -9748,7 +9748,7 @@
 лотксемс	лотксемс	V;NFIN
 физкультурник	физкультурникень	N;HUM;GEN;LGSPEC1
 ёрокчи	ёрокчив	N;AT+ALL;SG
-тонгомс	тонгозевсь	V;INCH;SG;3;PST
+тонгомс	тонгозевсь	V;SG;3;PST
 кирвазтемс	кирвазтеви	V;SG;3;PASS
 топонь	топонь	ADJ;NOM;SG
 сёпомс	сёпт	V;IMP;SG;2
@@ -9864,7 +9864,7 @@
 клеямс	клеинк	V;AC3;PL;2;PST;LGSPEC1
 пе	песь	N;NOM;DEF;SG
 ливтемс	ливтезель	V.PTCP;SG;3;PST
-кецямс	кецякшнынек	V;AC3;ITER;PL;1;PST
+кецямс	кецякшнынек	V;AC3;PL;1;PST
 импровизация	импровизация	N;NOM;SG;LGSPEC1
 инексчи	инексчить	N;NOM;SG;PSS2S
 торама	торама	N;NOM;SG
@@ -9906,7 +9906,7 @@
 копордамс	копордадояк	V;IMP;PL;LGSPEC_AMP;2
 сертификат	сертификатозо	N;NOM;SG;PSS3S;LGSPEC1
 ашолгадомс	ашолгадыть	V;SG;2;PST
-кортамс	кортакшныть	V;ITER;SG;2;PST
+кортамс	кортакшныть	V;SG;2;PST
 история	историянзояк	N;NOM;PL;LGSPEC_AMP;PSS3S;LGSPEC1
 чиряз	чиряздонть	N;HUM;ABL;DEF;SG
 тевтопавтомакуро	тевтопавтомакурось	N;NOM;DEF;SG
@@ -9934,12 +9934,12 @@
 редямс	редясыть	V;AC3P;SG;2
 стихотворения	стихотворенияськак	N;NOM;DEF;SG;LGSPEC_AMP;LGSPEC1
 кал	калтнэнь	N;HUM;GEN;DEF;PL
-лутамс	лутавкшнось	V;ITER;SG;3;PST;PASS
+лутамс	лутавкшнось	V;SG;3;PST;PASS
 чемпионка	чемпионканть	N;HUM;GEN;DEF;SG;LGSPEC1
 питне	питнеть	N;NOM;SG;PSS2S
 инзэдемс	инзэдезь	V.PTCP;NOM;SG;PST
 якшамо	якшамотнестэ	ADJ;IN+ABL;DEF;PL
-ловномс	ловнокшныль	V;ITER;SG;3;RMT
+ловномс	ловнокшныль	V;SG;3;RMT
 эльде	эльдесь	N;HUM;NOM;DEF;SG
 стипендия	стипендияськак	N;NOM;DEF;SG;LGSPEC_AMP;LGSPEC1
 сэрьс	сэрьсэнк	ADJ;SG;PSS2P
@@ -10002,7 +10002,7 @@
 кончнемс	кончни	V;SG;3
 казнемс	казневлинь	V;SBJV;SG;1
 теемс	теиндерясызь	V;AC3;COND;PL;3
-рожодомомс	рожодомкшность	V;ITER;PL;3;PST
+рожодомомс	рожодомкшность	V;PL;3;PST
 виде-паронь	виде-паронь	ADJ
 вешемс	веши	V;SG;3
 шкаф	шкафось	N;NOM;DEF;SG;LGSPEC1
@@ -10064,12 +10064,12 @@
 эскелямс	эскелинек	V;AC3;PL;1;PST
 солдат	солдатокс	N;HUM;TRANS;SG;LGSPEC1
 няка	някатненень	N;IN+ALL;DEF;PL
-марсемс	марсекшнить	V;ITER;PL;3
+марсемс	марсекшнить	V;PL;3
 ветстанция	ветстанциянь	N;GEN;LGSPEC1
 болельщик	болельщикень	N;HUM;GEN;LGSPEC1
 идея	идеянь	N;GEN;LGSPEC1
 пенге	пенгензэ	N;NOM;PL;PSS3S
-эрямс	эрявкшно	V;ITER;NEG;PASS
+эрямс	эрявкшно	V;NEG;PASS
 атташе	атташетнень	N;HUM;GEN;DEF;PL;LGSPEC1
 баславамс	баславатан	V;AC2S;SG;1;LGSPEC1
 якстере	якстеретнень	ADJ;GEN;DEF;PL
@@ -10094,7 +10094,7 @@
 чиниямс	чиниявтыть	V;PL;3;CAUS
 сухопутной	сухопутной	ADJ;NOM;SG;LGSPEC1
 роботамс	роботат	V;AC3P;IMP;SG;2;LGSPEC1
-энялдомс	энялдозевсь	V;INCH;SG;3;PST
+энялдомс	энялдозевсь	V;SG;3;PST
 алкс	алкстнэс	N;IN+ALL;DEF;PL
 ролик	роликть	N;NOM;PL;LGSPEC1
 вырновтомс	вырновтса	V;AC3S;SG;1
@@ -10109,7 +10109,7 @@
 лаборатория	лабораториясонть	N;IN+ESS;DEF;SG;LGSPEC1
 гостиница	гостиницав	N;AT+ALL;SG;LGSPEC1
 каштан	каштант	N;NOM;PL;LGSPEC1
-сёвномс	сёвнозевсь	V;INCH;SG;3;PST
+сёвномс	сёвнозевсь	V;SG;3;PST
 вадрячи	вадрячинь	N;GEN
 пикс	пикссэяк	N;IN+ESS;SG;LGSPEC_AMP
 аржо	аржот	N;NOM;SG;PSS2S
@@ -10129,7 +10129,7 @@
 сфера	сфератнесэ	N;IN+ESS;DEF;PL;LGSPEC1
 ваднемс	вадневсь	V;SG;3;PST;PASS
 ускомс	ускозтнеяк	V.PTCP;NOM;DEF;PL;LGSPEC_AMP;PST
-кеждямс	кеждякшность	V;ITER;PL;3;PST
+кеждямс	кеждякшность	V;PL;3;PST
 кевев	кевев	ADJ;NOM;SG
 фронт	фронтонь	N;GEN;LGSPEC1
 кече	кечензэ	N;NOM;PL;PSS3S
@@ -10190,7 +10190,7 @@
 тавадомс	тавадызь	V;AC3;PL;3;PST
 пелемс	пелиде	V;PL;2;PST
 пурдтнемс	пурдтне	V;NEG
-отказамс	отказакшно	V;ITER;NEG;LGSPEC1
+отказамс	отказакшно	V;NEG;LGSPEC1
 баянист	баянисттнэ	N;HUM;NOM;DEF;PL;LGSPEC1
 подрядчик	подрядчикенть	N;HUM;GEN;DEF;SG;LGSPEC1
 сыремтемс	сыремти	V;SG;3
@@ -10200,7 +10200,7 @@
 газ	газсо	N;IN+ESS;SG;LGSPEC1
 ломаньмашый	ломаньмашыйтне	N;HUM;NOM;DEF;PL
 лемень	леменьгак	ADJ;NOM;SG;LGSPEC_AMP
-кучомс	кучокшнынек	V;AC3;ITER;PL;1;PST
+кучомс	кучокшнынек	V;AC3;PL;1;PST
 поладкс	поладксось	N;NOM;DEF;SG
 урок	уроконть	N;GEN;DEF;SG;LGSPEC1
 пижелдомс	пижелдыть	V;PL;3
@@ -10268,7 +10268,7 @@
 кажо	кажот	N;NOM;SG;PSS2S
 примамс	примамизь	V;AC1S;IMP;PL;2;LGSPEC1
 диалект	диалекттнэ	N;NOM;DEF;PL;LGSPEC1
-топавтомс	топавтокшнынзе	V;AC3P;ITER;SG;3;PST
+топавтомс	топавтокшнынзе	V;AC3P;SG;3;PST
 кить-янт	кить-янт	N;NOM;PL
 путомс	путовольть	V;SBJV;PL;3
 раса	расатненень	N;IN+ALL;DEF;PL;LGSPEC1
@@ -10281,10 +10281,10 @@
 саемс	саевезь	V.PTCP;NOM;SG;PST;PASS
 автоирония	автоирониясь	N;NOM;DEF;SG;LGSPEC1
 земства	земстватнень	N;GEN;DEF;PL;LGSPEC1
-тонадомс	тонадокшность	V;ITER;PL;3;PST
+тонадомс	тонадокшность	V;PL;3;PST
 рузава	рузавантеньгак	N;HUM;DAT;DEF;SG;LGSPEC_AMP;LGSPEC1
 валка	валкас	ADJ;IN+ALL
-моткодемс	моткодезевсь	V;INCH;SG;3;PST
+моткодемс	моткодезевсь	V;SG;3;PST
 сэрь	сэрьсэнк	N;IN+ESS;SG;PSS2P
 киргиз	киргизтнэ	N;HUM;NOM;DEF;PL;LGSPEC1
 кирдемс	кирдить	V;SG;2;PST
@@ -10325,7 +10325,7 @@
 сюлмамс	сюлмимизь	V;AC1S;PL;2;PST
 виде	видесь	N;NOM;DEF;SG
 аттракцион	аттракционось	N;NOM;DEF;SG;LGSPEC1
-лепштямс	лепштякшносызь	V;AC3;ITER;PL;3
+лепштямс	лепштякшносызь	V;AC3;PL;3
 лем	лемсэть	N;IN+ESS;SG;PSS2S
 сэредемс	сэредеви	V;SG;3;PASS
 чев	чевензэ	N;NOM;PL;PSS3S
@@ -10344,10 +10344,10 @@
 порксамс	порксатадызь	V;AC2S;PL;1
 социализма	социализмась	N;NOM;DEF;SG;LGSPEC1
 эй	эйстэнзэяк	N;IN+ABL;PL;LGSPEC_AMP;PSS3S
-алтамс	алтакшнынзе	V;AC3P;ITER;SG;3;PST
+алтамс	алтакшнынзе	V;AC3P;SG;3;PST
 ракша	ракшадо	N;HUM;ABL;SG
 козомс	козыя	V;AC3S;SG;1;PST
-прамс	пракшно	V;ITER;NEG
+прамс	пракшно	V;NEG
 пелемс	пельгак	V;LGSPEC_AMP;NEG
 сялгомс	сялгови	V;SG;3;PASS
 ОРВИ	орви-сь	N;NOM;DEF;SG;LGSPEC1
@@ -10363,7 +10363,7 @@
 коробка	коробка	N;NOM;SG;LGSPEC1
 десантник	десантникень	N;HUM;GEN;LGSPEC1
 сорямс	сорян	V;SG;1;LGSPEC1
-пулиямс	пулиякшны	V;ITER;SG;3
+пулиямс	пулиякшны	V;SG;3
 меню	менюсонть	N;IN+ESS;DEF;SG;LGSPEC1
 нардамс	нардазь	V.PTCP;NOM;SG;PST
 события	событият	N;NOM;SG;PSS2S;LGSPEC1
@@ -10391,10 +10391,10 @@
 царскосельской	царскосельской	ADJ;LGSPEC1
 пстидемс	пстидия	V;AC3S;SG;1;PST
 мель	мельдень	N;ABL;SG;PSS1S
-арамс	аравтокшнызь	V;AC3;ITER;PL;3;PST;CAUS
+арамс	аравтокшнызь	V;AC3;PL;3;PST;CAUS
 кесак	кесаксо	N;IN+ESS;SG
 калмамс	калматадо	V;PL;2
-лиякстомомс	лиякстомкшныть	V;ITER;SG;2;PST
+лиякстомомс	лиякстомкшныть	V;SG;2;PST
 маштомачи	маштомачись	N;NOM;DEF;SG
 кардамс	кардасынек	V;AC3;PL;1
 резервной	резервной	ADJ;SG;LGSPEC1
@@ -10431,7 +10431,7 @@
 тошнаямс	тошнаясть	V;PL;3;PST
 бюджет	бюджетнэнь	N;DAT;LGSPEC1
 керямс	керясынзе	V;AC3P;SG;3
-чикордомс	чикордозевсь	V;INCH;SG;3;PST
+чикордомс	чикордозевсь	V;SG;3;PST
 эвтемс	эвтинек	V;PL;1;PST
 ки	кистэнь	N;IN+ABL;SG;PSS1S
 кладовщик	кладовщикеськак	N;HUM;NOM;DEF;SG;LGSPEC_AMP;LGSPEC1
@@ -10460,7 +10460,7 @@
 авар	аварт	N;NOM;PL;LGSPEC1
 ладямс	ладян	V;SG;1;LGSPEC1
 ёроков	ёроковткак	ADJ;NOM;PL;LGSPEC_AMP
-пейдемс	пейдезевинек	V;AC3;INCH;PL;1;PST
+пейдемс	пейдезевинек	V;AC3;PL;1;PST
 робота	роботасто	N;IN+ABL;SG;LGSPEC1
 тоталитарной	тоталитарной	ADJ;NOM;SG;LGSPEC1
 свеча	свечакс	N;TRANS;SG;LGSPEC1
@@ -10471,7 +10471,7 @@
 парсемс	парсть	V;IMP;SG;2
 пезэмс	пезы	V;SG;3
 стрелка	стрелка	N;NOM;SG;LGSPEC1
-сорномс	сорнозевить	V;INCH;SG;2;PST
+сорномс	сорнозевить	V;SG;2;PST
 машинистка	машинисткасто	N;HUM;IN+ABL;SG;LGSPEC1
 плема	племантень	N;IN+ALL;DEF;SG;LGSPEC1
 робутамс	робутыть	V;PL;3;LGSPEC1
@@ -10499,7 +10499,7 @@
 сюконямс	сюконяяк	V;LGSPEC_AMP;NEG
 ассистент	ассистентэкс	N;HUM;TRANS;SG;LGSPEC1
 мель	мельсэнть	N;IN+ESS;DEF;SG
-кельмемс	кельмезевинь	V;INCH;SG;1;PST
+кельмемс	кельмезевинь	V;SG;1;PST
 глубокой	глубокой	ADJ;SG;LGSPEC1
 морго	моргонтень	N;DAT;DEF;SG
 столица	столицасо	N;IN+ESS;SG;LGSPEC1
@@ -10524,8 +10524,8 @@
 нул	нулкс	N;TRANS;SG
 сокамс	сокидизь	V;AC2S;PL;3;PST
 чентямс	чентясь	V;SG;3;PST
-хлопочамс	хлопочакшность	V;ITER;PL;3;PST;LGSPEC1
-мизолдомс	мизолдозевсь	V;INCH;SG;3;PST
+хлопочамс	хлопочакшность	V;PL;3;PST;LGSPEC1
+мизолдомс	мизолдозевсь	V;SG;3;PST
 виевгадомс	виевгады	V;SG;3
 кудоюрт	кудоюртозо	N;IN+ALL;SG
 леха	лехат	N;NOM;SG;PSS2S
@@ -10552,7 +10552,7 @@
 вирькал	вирькал	N;HUM;NOM;SG
 спикер	спикерэсь	N;HUM;NOM;DEF;SG;LGSPEC1
 фабрикант	фабрикантнэнь	N;HUM;DAT;LGSPEC1
-ваномс	ванкшновтык	V;AC3S;ITER;SG;2;PST;CAUS
+ваномс	ванкшновтык	V;AC3S;SG;2;PST;CAUS
 велямс	велявтовияк	V;SG;LGSPEC_AMP;3;CAUS;PASS
 скал	скалтнэ	N;HUM;NOM;DEF;PL
 виемс	виить	V;AC3P;SG;2;PST
@@ -10581,9 +10581,9 @@
 чарькодемс	чарькодевлинзе	V;AC3P;SBJV;SG;3
 фотоконкурс	фотоконкурстнэсэ	N;IN+ESS;DEF;PL;LGSPEC1
 книжка	книжкат	N;NOM;SG;PSS2S;LGSPEC1
-стямс	стякшновить	V;AC3P;ITER;SG;2;PST;PASS
+стямс	стякшновить	V;AC3P;SG;2;PST;PASS
 ульмамс	ульмаст	V;OPT;PL;3
-токномс	токнозевсь	V;INCH;SG;3;PST
+токномс	токнозевсь	V;SG;3;PST
 берянь	беряньсэ	ADJ;IN+ESS;SG
 техникум	техникумонь	N;GEN;LGSPEC1
 автономия	автономиятненень	N;IN+ALL;DEF;PL;LGSPEC1
@@ -10613,7 +10613,7 @@
 пандомс	пандытькак	V;AC3P;SG;LGSPEC_AMP;2;PST
 казне	казнест	N;NOM;SG;PSS3P
 стардомс	стардовлидизь	V;AC2P;SBJV
-сорномс	сорнозевильть	V;INCH;PL;3;RMT
+сорномс	сорнозевильть	V;PL;3;RMT
 шуряга	шуряга	N;HUM;NOM;SG
 футболка	футболка	N;NOM;SG;LGSPEC1
 заседания	заседанияв	N;AT+ALL;SG;LGSPEC1
@@ -10690,7 +10690,7 @@
 компания	компаният	N;NOM;SG;PSS2S;LGSPEC1
 пувтамс	пувтымик	V;AC1S;SG;2;PST
 таблетка	таблеткас	N;IN+ALL;LGSPEC1
-кемемс	кемекшнинь	V;AC3P;ITER;SG;1;PST
+кемемс	кемекшнинь	V;AC3P;SG;1;PST
 само	самом	N;NOM;SG;PSS1S
 кортамс	кортыть	V;SG;2;PST
 серька	серька	N;NOM;SG
@@ -10731,7 +10731,7 @@
 вастамс	вастыль	V;SG;3;RMT
 верьксэв	верьксэв	ADJ
 вечкевикс	вечкевиксэнк	ADJ;NOM;SG;PSS2P
-урядамс	урядакшномс	V;ITER;NFIN
+урядамс	урядакшномс	V;NFIN
 рузыявтомс	рузыявтсь	V;SG;3;PST
 прев	превтнеде	N;ABL;DEF;PL
 качадомс	качадсь	V;SG;3;PST
@@ -10745,6 +10745,6 @@
 плуг	плугтнэнень	N;IN+ALL;DEF;PL;LGSPEC1
 салтомс	салты	V;SG;3
 чумондомс	чумондан	V;SG;1
-анокстамс	анокстакшнынь	V;AC3P;ITER;SG;1;PST
+анокстамс	анокстакшнынь	V;AC3P;SG;1;PST
 козкстамс	козкстави	V;SG;3;PASS
 киякс	кияксов	N;AT+ALL;SG
