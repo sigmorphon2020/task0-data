@@ -1,1512 +1,1349 @@
-–he	ra²he¹n	V;PL;1+INCL;SS;LGSPEC1
-–ngwe	za¹ką²n	V;PL;2;SS;LGSPEC1
-–kun	siᵈ¹n ga²kun¹hų²	V;PL;1+EXCL;NEG;FUT
-–ʔi	nu¹ʔI²n	V;POT;PL;1+INCL;FUT
-–ha	gi²ha²s	V;DU;2;SS;LGSPEC1
-–te	ti²ter¹n	V;PL;1+INCL;PST+RMT
-–ga	ra¹ga²	V;SG;1;SS;LGSPEC1
-–tan	e²tan¹hų²	V;PL;1+EXCL;PRS
-–kun	ki²kun¹mᵖ	V;DU;1+EXCL;PST+RCT
-–se	ku²se¹	V;SG;1;PST+RCT
-–pi	siᵈ¹n ga¹pi²n	V;PL;1+INCL;NEG;FUT
-–tą	ki²tą¹	V;SG;2;PRS
-–tsa	siᵈ¹n ki¹tsa²	V;SG;2;NEG;FUT
-–no	ki²no¹n	V;PL;2;PST+RMT
-–to	ki¹to²n	V;IND;PL;2;FUT
-–seni	siᵈ¹n ki²seni¹n	V;PL;2;NEG;FUT
-–pon	nu²ngwon²n	V;POT;PL;1+INCL;FUT
-–ngwo	i²ngwo¹	V;SG;3;PRS
-–me	u²mhe¹	V;PL;3;PST+RMT
-–po	siᵈ¹n ga²po¹hų²	V;PL;1+EXCL;NEG;FUT
-–ʔets	su²ʔets¹s	V;DU;1+INCL;NEG
-–kun	si²kun¹mᵖ	V;DU;1+EXCL;NEG
-–ʔe	ki²te¹n	V;PL;2;PRS
-–rho	nu²rho¹mᵖ	V;POT;DU;1+EXCL;FUT
-–po	ku²mbo¹n	V;PL;1+INCL;PST+RCT
-–hü	e²hü¹n	V;PL;1+INCL;PRS
-–tets	ki¹tets²s	V;DU;2;PST+RMT
-–tan	siᵈ¹n ga²tan¹	V;SG;1;NEG;FUT
-–pon	u²ngwon²	V;SG;1;PST+IMMED
-–men	su¹men²s	V;DU;2;PST+RMT
-–paa	ra²paa¹s	V;DU;1+INCL;SS;LGSPEC1
-–po	ga²po¹n	V;IND;PL;1+INCL;FUT
-–sa	i²sa¹s	V;DU;2;PST+IMMED
-–pe	u²ngwe¹	V;SG;1;PST+IMMED
-–ʔü	su²rʔü¹	V;PL;3;NEG
-–tcon	u²tcon¹	V;SG;1;PST+IMMED
-–ndun	ki²ndun¹s	V;DU;2;PST+RCT
-–tcon	ku²zhon¹	V;PL;3;PST+RCT
-–tav	ra²tav¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–kun	siᵈ¹n ga²kun¹s	V;DU;1+INCL;NEG;FUT
-–tan	ki²ndan¹	V;SG;2;PST+RCT
-–tsoh	nu²tsoh¹n	V;POT;PL;1+INCL;FUT
-–tsoh	ku²tsoh¹n	V;PL;1+INCL;PST+RCT
-–mir	sa¹mir²s	V;DU;2;PST+RMT
-–ta	e²ta¹s	V;DU;1+INCL;PRS
-–aʔi	sa¹aʔi²n	V;PL;2;PST+RMT
-–ʔa	ga²rʔa²	V;IND;PL;3;FUT
-–ʔi	su¹ʔi²mᵖ	V;DU;1+EXCL;NEG
-–seʔn	ti¹seʔn²s	V;IND;DU;1+INCL;FUT
-–ko	ru²kho²	V;PL;3;SS;LGSPEC1
-–kun	ta²kun¹	V;SG;1;PST+RMT
-–tü	siᵈ¹n ga¹tü²mᵖ	V;DU;1+EXCL;NEG;FUT
-–rų/ndu	ki¹rų/ndu²s	V;DU;2;PST+RCT
-–nef	su²nef¹	V;SG;1;NEG
-–kun	i²kun¹	V;SG;2;PST+IMMED
-–ʔe	si²te¹n	V;PL;2;NEG
-–ha	ga²nha²	V;IND;SG;3;FUT
-–tę	su²tę¹	V;SG;1;NEG
-–ʔor	u²ʔor¹mᵖ	V;DU;1+EXCL;PST+IMMED
-–sa	nu²sa²	V;POT;SG;1;FUT
-–murf	u²mhurf²	V;PL;3;PST+RMT
-–aʔi	siᵈ¹n sa¹aʔi²s	V;DU;2;NEG;FUT
-–maf	ku¹maf²	V;SG;1;PST+RCT
-–ppo	i²ppo²	V;PL;3;PRS
-–tso	mi¹tsor²	V;POT;PL;3;FUT
-–ʔi	ra²ʔir²	V;PL;3;SS;LGSPEC1
-–ten	su¹ten²n	V;PL;1+INCL;NEG
-–tan	ga²tan¹n	V;IND;PL;1+INCL;FUT
-–tets	nu¹tets²	V;POT;SG;1;FUT
-–tun	su²tun¹n	V;PL;1+INCL;NEG
-–poo	siᵈ¹n ta¹nhür²	V;PL;3;NEG;FUT
-–tu	gi²tu¹	V;SG;2;SS;LGSPEC1
-–pen	ku²mben¹s	V;DU;1+INCL;PST+RCT
-–ho	si¹ho²s	V;DU;2;NEG
-–ser	sa²ser¹	V;SG;1;PST+RCT
-–her	su²her¹n	V;PL;1+INCL;NEG
-–tets	su²tets¹mᵖ	V;DU;1+EXCL;NEG
-–pof	u¹phof²	V;PL;3;PST+RMT
-–hu	siᵈ¹n ga²hu¹mᵖ	V;DU;1+EXCL;NEG;FUT
-–sa	tu²sa¹n	V;PL;1+INCL;PST+RMT
-–üts	ti²üts¹s	V;DU;1+INCL;PRS
-–pof	ra¹pof²n	V;PL;1+INCL;SS;LGSPEC1
-–tso	si¹tsor²	V;PL;3;NEG
-–ʔę	su²ʔę¹	V;SG;1;NEG
-–ngwa	siᵈ¹n ga¹ngwa²hų²	V;PL;1+EXCL;NEG;FUT
-–üts	si²üts¹	V;SG;3;NEG
-–pi	siᵈ¹n ga¹pi²mᵖ	V;DU;1+EXCL;NEG;FUT
-–tun	i²tun¹	V;SG;2;PST+IMMED
-–rho	siᵈ¹n gu²rho¹hų²	V;PL;1+EXCL;NEG;FUT
-–pą	tu¹pą²s	V;DU;1+INCL;PST+RMT
-–mę	ru¹mhę²	V;PL;3;SS;LGSPEC1
-–ta	u²rha²	V;PL;3;PST+RMT
-–tü	sa²tü¹	V;PL;3;PST+RCT
-–sa	ra²sa¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–tü	ki²tü¹s	V;DU;2;PST+RMT
-–ʔü	ta²ʔü¹	V;SG;3;PST+RMT
-–mą	ru²mą²	V;SG;3;SS;LGSPEC1
-–ʔor	tu²ʔor¹	V;SG;1;PRS
-–tav	siᵈ¹n ki²tav¹s	V;DU;2;NEG;FUT
-–hü	u²hü¹	V;SG;1;PST+IMMED
-–pe	ga²pe¹hų²	V;IND;PL;1+EXCL;FUT
-–tsa	ki²tca¹n	V;PL;2;PRS
-–tso	ma¹tso²mᵖ	V;POT;DU;1+EXCL;FUT
-–tą	si²tą¹	V;SG;2;NEG
-–tsa	mi²tsa¹	V;POT;SG;2;FUT
-–pii	u²ngwii¹s	V;DU;1+INCL;PST+IMMED
-–ker	u²ker¹n	V;PL;1+INCL;PST+IMMED
-–ngwa	ra¹ngwa²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–kuʔ	sa¹kuʔ²	V;IND;SG;2;FUT
-–pon	siᵈ¹n ki²ngwon²n	V;PL;2;NEG;FUT
-–sus	ga²sus¹n	V;IND;PL;1+INCL;FUT
-–men	siᵈ¹n ki¹men²s	V;DU;2;NEG;FUT
-–he	ru¹rhe²	V;PL;3;SS;LGSPEC1
-–no	siᵈ¹n ga²no¹	V;SG;3;NEG;FUT
-–tü	ti²tü¹n	V;IND;PL;1+INCL;FUT
-–ʔets	e²ʔets¹s	V;DU;1+INCL;PRS
-–ʔe	su²ʔe¹s	V;DU;1+INCL;NEG
-–pen	su²pen¹s	V;DU;1+INCL;NEG
-–hunts	i²hunts¹	V;SG;1;PST+IMMED
-–ʔan	tu¹ʔan²s	V;DU;1+INCL;PST+RMT
-–kun	ku²gun¹	V;SG;3;PST+RCT
-–tu	e²tu¹mᵖ	V;DU;1+EXCL;PRS
-–ʔi	siᵈ¹n gu²ʔi¹s	V;DU;1+INCL;NEG;FUT
-–hu	su²hu¹s	V;DU;1+INCL;NEG
-–pe	ki²ngwe²n	V;IND;PL;2;FUT
-–kets	nu²kets¹	V;POT;SG;1;FUT
-–ʔür	nu²ʔür¹	V;POT;SG;1;FUT
-–ta	u²ta²n	V;PL;1+INCL;PST+IMMED
-–tu	u²rhu¹	V;PL;3;PST+RMT
-–tun	siᵈ¹n ga²tun¹	V;PL;3;NEG;FUT
-–mą	ka²mą²n	V;IND;PL;2;FUT
-–ngwo	si²ngwo¹mᵖ	V;DU;1+EXCL;NEG
-–ga	ra¹ga²hų²	V;PL;1+EXCL;SS;LGSPEC1
-–ko	siᵈ¹n ki²ko²s	V;DU;2;NEG;FUT
-–hunts	sa²hunts¹s	V;DU;2;PST+RCT
-–ker	tu²ker¹n	V;PL;1+INCL;PST+RMT
-–üts	na²üts¹	V;SG;1;SS;LGSPEC1
-–mʔan	ki²mʔan¹n	V;PL;2;PRS
-–hu	u²hu¹hų²	V;PL;1+EXCL;PST+IMMED
-–po	tu²po¹	V;SG;1;PST+RMT
-–tuts	gi²tuts¹	V;SG;2;SS;LGSPEC1
-–ndü	e²ndü¹s	V;DU;1+INCL;PRS
-–ngwa	ku¹ngwa²n	V;PL;1+INCL;PST+RCT
-–ser	si²ser¹hų²	V;PL;1+EXCL;NEG
-–ko	u²ko²	V;SG;1;PST+IMMED
-–kaf	ki¹kaf²	V;SG;2;PST+RMT
-–tav	ki²tav¹s	V;DU;2;PRS
-–te	si²ter¹n	V;PL;1+INCL;PST+IMMED
-–sų	ra²sų²	V;SG;1;SS;LGSPEC1
-–seʔn	za¹seʔn²n	V;PL;2;SS;LGSPEC1
-–ʔets	ku²ʔets¹hų²	V;PL;1+EXCL;PST+RCT
-–sü	ra¹sü²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–tsa	gi²tca¹n	V;PL;2;SS;LGSPEC1
-–tun	ki²tun¹	V;SG;2;PST+RMT
-–kuʔ	ni¹kuʔ²hų²	V;POT;PL;1+EXCL;FUT
-–pii	ra²pii¹hų²	V;PL;1+EXCL;SS;LGSPEC1
-–ʔi	si²ʔi²mᵖ	V;DU;1+EXCL;NEG
-–men	siᵈ¹n gu¹men²	V;SG;1;NEG;FUT
-–ngwa¹as	tu¹ngwa¹as²hų²	V;PL;1+EXCL;PRS
-–kun	siᵈ¹n ki²kun¹	V;SG;2;NEG;FUT
-–nda	i²nda¹	V;SG;1;PST+IMMED
-–sus	ki²sus¹n	V;PL;2;PRS
-–mę	tu²mę²n	V;PL;1+INCL;PRS
-–tü	sa²tü¹	V;SG;1;NEG
-–te	sa¹ne²s	V;DU;2;NEG
-–tan	su²tan¹	V;SG;1;NEG
-–no	gi²no¹n	V;PL;2;SS;LGSPEC1
-–pof	tu¹pof²n	V;PL;1+INCL;PRS
-–tso	u¹tsor²hų²	V;PL;1+EXCL;PRS
-–hun	nu¹hun²	V;POT;SG;1;FUT
-–he	nu¹he²mᵖ	V;POT;DU;1+EXCL;FUT
-–khar	su²khar¹	V;SG;3;NEG
-–peʔn	u²ngweʔn¹mᵖ	V;DU;1+EXCL;PST+IMMED
-–tü	si¹tü²s	V;DU;2;NEG
-–ʔo	u²ʔo¹hų²	V;PL;1+EXCL;PST+IMMED
-–tsa	su¹tsa²hų²	V;PL;1+EXCL;NEG
-–se	gi¹se²n	V;PL;2;SS;LGSPEC1
-–hü	e²hü¹s	V;DU;1+INCL;PRS
-–kün	siᵈ¹n ga²kün¹mᵖ	V;DU;1+EXCL;NEG;FUT
-–ho	siᵈ¹n ga²ho¹	V;SG;1;NEG;FUT
-–kkü	ki²kkü¹s	V;IND;DU;2;FUT
-–kun	ki²kun¹s	V;IND;DU;2;FUT
-–tets	ki¹tets²	V;SG;2;PST+RMT
-–pąr	si¹par²s	V;DU;1+INCL;NEG
-–nef	siᵈ¹n ga²nef¹mᵖ	V;DU;1+EXCL;NEG;FUT
-–ha	si²ha²s	V;DU;2;NEG
-–maf	e¹paf²	V;PL;3;PRS
-–pi	ku²mi¹	V;SG;3;PST+RCT
-–tü	su²tür¹hų²	V;PL;1+EXCL;NEG
-–seʔn	sa¹seʔn²n	V;IND;PL;2;FUT
-–ʔi	tu¹ʔi²n	V;PL;1+INCL;PST+RMT
-–ga	gi¹ga²s	V;DU;2;SS;LGSPEC1
-–hü	nu²hü¹mᵖ	V;POT;DU;1+EXCL;FUT
-–hu	e²hu¹	V;SG;1;PRS
-–to	tu¹to²	V;SG;1;PST+RMT
-–tso	siᵈ¹n ki²tso¹s	V;DU;2;NEG;FUT
-–pof	siᵈ¹n gu¹pof²	V;SG;1;NEG;FUT
-–tsü	za²tsü¹n	V;PL;2;SS;LGSPEC1
-–pen	ga²pen¹s	V;IND;DU;1+INCL;FUT
-–pe	ki²ngwe¹n	V;PL;2;PST+RCT
-–tats	ku²ndats¹n	V;PL;1+INCL;PST+RCT
-–pe	zu²pe²	V;PL;3;PST+IMMED
-–ʔo	ku²ʔo¹s	V;DU;1+INCL;PST+RCT
-–tsa	tu¹tsa²	V;SG;1;PRS
-–ten	siᵈ¹n ga¹rʔen²	V;PL;3;NEG;FUT
-–sa	ra²sa¹s	V;DU;1+INCL;SS;LGSPEC1
-–ta	su²ta²hų²	V;PL;1+EXCL;NEG
-–ʔor	tu²ʔor¹hų²	V;PL;1+EXCL;PRS
-–kkü	ti²kkü¹mᵖ	V;DU;1+EXCL;PST+RMT
-–ta	e²ta¹mᵖ	V;DU;1+EXCL;PRS
-–ppar	siᵈ¹n ga²ppar¹hų²	V;PL;1+EXCL;NEG;FUT
-–sü	siᵈ¹n ti²sü¹n	V;PL;1+INCL;NEG;FUT
-–nef	u²nef¹	V;SG;1;PST+IMMED
-–maf	ru¹maf²	V;SG;3;SS;LGSPEC1
-–ker	ru²ker¹	V;SG;3;SS;LGSPEC1
-–pen	u¹ngwen²	V;SG;1;PST+IMMED
-–ngwa	siᵈ¹n ga¹ngwa²n	V;PL;1+INCL;NEG;FUT
-–tü	si¹tü²n	V;PL;2;NEG
-–nov	nu²nov¹hų²	V;POT;PL;1+EXCL;FUT
-–pąr	siᵈ¹n sa¹par²n	V;PL;2;NEG;FUT
-–ta	siᵈ¹n ga²rha²	V;PL;3;NEG;FUT
-–sa	siᵈ¹n ga¹sa²hų²	V;PL;1+EXCL;NEG;FUT
-–rho	ki²rho¹s	V;IND;DU;2;FUT
-–po	ga²po¹mᵖ	V;IND;DU;1+EXCL;FUT
-–tuts	su²rhuts¹	V;PL;3;NEG
-–ʔü	si²nʔü¹n	V;PL;2;NEG
-–tso	ma¹tso²	V;POT;SG;1;FUT
-–ʔi	ga²ʔi¹	V;IND;SG;3;FUT
-–ʔi	su²ʔi¹n	V;PL;2;PRS
-–pe	ra²pe²s	V;DU;1+INCL;SS;LGSPEC1
-–poo	i¹poo²	V;SG;2;PST+IMMED
-–pa	gi²pa¹	V;SG;2;SS;LGSPEC1
-–ʔe	ku²ʔe¹hų²	V;PL;1+EXCL;PST+RCT
-–pen	i²ngwe¹	V;SG;2;PST+IMMED
-–ʔor	gi²ʔor¹n	V;PL;2;SS;LGSPEC1
-–ʔer	su²ʔer¹hų²	V;PL;1+EXCL;NEG
-–hun	su²hun¹mᵖ	V;DU;1+EXCL;NEG
-–pen	zu²phen¹	V;PL;3;PST+IMMED
-–sa	na¹sa²	V;POT;SG;1;FUT
-–ndę	ti²ndę¹s	V;IND;DU;1+INCL;FUT
-–sü	i²sü¹	V;SG;1;PST+IMMED
-–kaf	ru¹gaf²	V;SG;3;SS;LGSPEC1
-–mą	e²mą²n	V;PL;2;PST+IMMED
-–pen	tu²pen¹n	V;PL;1+INCL;PST+RMT
-–tuts	ki²tuts¹s	V;IND;DU;2;FUT
-–ʔü	i²ʔü¹mᵖ	V;DU;1+EXCL;PST+IMMED
-–seʔn	sa¹seʔn²n	V;PL;2;PST+RCT
-–tü	siᵈ¹n gu¹tü²hų²	V;PL;1+EXCL;NEG;FUT
-–poo	i¹poo²n	V;PL;2;PST+IMMED
-–tun	gu²tun¹n	V;IND;PL;1+INCL;FUT
-–hü	su²hü¹	V;SG;3;NEG
-–tets	tu¹tets²hų²	V;PL;1+EXCL;PST+RMT
-–tso	ku²tso²mᵖ	V;DU;1+EXCL;PST+RCT
-–ʔor	su²ʔor¹	V;PL;3;NEG
-–to	mi¹to²	V;POT;SG;2;FUT
-–rų/ndu	sa¹rų/ndu²	V;SG;1;NEG
-–ngwin	u²ngwin¹hų²	V;PL;1+EXCL;PST+IMMED
-–ke	mu²k^e¹	V;POT;SG;3;FUT
-–mę	u¹mę²s	V;DU;1+INCL;PST+IMMED
-–to	ki¹to²	V;SG;2;PRS
-–tun	ti²tun¹mᵖ	V;IND;DU;1+EXCL;FUT
-–tsü	ti²tsü¹hų²	V;PL;1+EXCL;PRS
-–pon	ki²pon²	V;SG;2;PST+RMT
-–ʔan	ki¹ʔan²s	V;DU;2;PRS
-–ga	si¹ga²	V;SG;2;NEG
-–pii	siᵈ¹n ga²pii¹	V;SG;1;NEG;FUT
-–pe	ki²ngwe¹n	V;PL;2;PST+RCT
-–tsün	ti²tsün¹s	V;DU;1+INCL;PRS
-–to	siᵈ¹n ki¹to²n	V;PL;2;NEG;FUT
-–ku	siᵈ¹n ta²ku²	V;PL;3;NEG;FUT
-–ʔi	ga²ʔi¹	V;IND;PL;3;FUT
-–ko	gu²ko²	V;IND;SG;1;FUT
-–pii	ga²pii¹n	V;IND;PL;1+INCL;FUT
-–ha	e²rha²	V;PL;3;PRS
-–me	ti²me¹mᵖ	V;IND;DU;1+EXCL;FUT
-–tan	mi²rhan²	V;POT;PL;3;FUT
-–tan	ku²ndan¹s	V;DU;1+INCL;PST+RCT
-–ʔę	su²ʔę¹s	V;DU;2;PRS
-–po	siᵈ¹n ki²por²n	V;PL;2;NEG;FUT
-–ser	ni²ser¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–tsü	za²tsü¹	V;POT;SG;2;FUT
-–kun	gi²kun¹n	V;PL;2;SS;LGSPEC1
-–hą	ti¹hą²s	V;IND;DU;1+INCL;FUT
-–hu	si¹hu²s	V;DU;1+INCL;NEG
-–pen	ra²pen¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–ʔi	i¹ʔi²	V;SG;2;PST+IMMED
-–ngwe	su¹ngwe²n	V;PL;1+INCL;NEG
-–ha	mi²ha²	V;POT;SG;2;FUT
-–tcon	nu²tcon¹hų²	V;POT;PL;1+EXCL;FUT
-–ndun	e²ndun¹s	V;DU;1+INCL;PRS
-–ʔo	siᵈ¹n ga²ʔo¹s	V;DU;1+INCL;NEG;FUT
-–tü	i²tü¹	V;PL;3;PST+IMMED
-–pąr	si¹par²s	V;DU;2;PRS
-–tę	u²tę¹s	V;DU;1+INCL;PST+IMMED
-–sa	siᵈ¹n sa²sa¹n	V;PL;2;NEG;FUT
-–ʔo	u²ʔo¹n	V;PL;1+INCL;PST+IMMED
-–hunts	siᵈ¹n ta²hunts¹	V;SG;1;NEG;FUT
-–sa	ti¹sa²n	V;PL;1+INCL;PRS
-–kev	ru²gev¹	V;SG;3;SS;LGSPEC1
-–ką	ki²ką¹n	V;PL;2;PRS
-–tsü	siᵈ¹n ta²tshü¹	V;PL;3;NEG;FUT
-–sa	su¹sa²	V;SG;3;NEG
-–pii	nu²ngwii¹n	V;POT;PL;1+INCL;FUT
-–ser	si²ser¹	V;SG;2;PRS
-–rų/ndu	siᵈ¹n ga¹rųr²	V;PL;3;NEG;FUT
-–seni	siᵈ¹n gu²seni¹n	V;PL;1+INCL;NEG;FUT
-–pe	ku²mbe²n	V;PL;1+INCL;PST+RCT
-–pe	ku²mbe²hų²	V;PL;1+EXCL;PST+RCT
-–maf	gi¹maf²	V;SG;2;SS;LGSPEC1
-–ngwo	ti²ngwo¹s	V;DU;1+INCL;PRS
-–ngwo	si²ngwo¹n	V;PL;1+INCL;PST+RCT
-–tü	si²tü¹s	V;DU;2;PRS
-–pa	nu¹ngwa²s	V;POT;DU;1+INCL;FUT
-–ha	si²ha²	V;SG;2;NEG
-–sa	za¹sa²	V;POT;SG;2;FUT
-–ʔe	e²ʔe¹n	V;PL;1+INCL;PRS
-–me	ku²me¹n	V;PL;1+INCL;PST+RCT
-–ga	ki¹ga²n	V;PL;2;PST+RCT
-–kkü	ki²kkü¹s	V;DU;1+INCL;PST+IMMED
-–ʔü	ku²ʔü¹n	V;PL;1+INCL;PST+RCT
-–tets	ka²tets¹n	V;PL;2;PRS
-–pi	e²pi¹	V;SG;1;PRS
-–tun	ki²tun¹n	V;PL;2;PST+RCT
-–peʔn	ki²ngweʔn¹n	V;IND;PL;2;FUT
-–sa	u¹sa²	V;SG;1;PST+IMMED
-–ʔun	e²ʔun¹	V;SG;1;PRS
-–sü	mi¹shü²	V;POT;PL;3;FUT
-–tan	ga²tan¹hų²	V;IND;PL;1+EXCL;FUT
-–ga	i¹ga²	V;SG;2;PST+IMMED
-–ngwo	siᵈ¹n sa²ngwo¹n	V;PL;2;NEG;FUT
-–mę	ra²mę²	V;SG;1;SS;LGSPEC1
-–rų/ndu	mi¹rų/ndu²s	V;POT;DU;2;FUT
-–ʔę	su²ʔę¹s	V;DU;1+INCL;NEG
-–sü	siᵈ¹n ga¹sü²mᵖ	V;DU;1+EXCL;NEG;FUT
-–pen	ku²mbe¹n	V;PL;1+INCL;PST+RCT
-–tcon	ku²nzon¹hų²	V;PL;1+EXCL;PST+RCT
-–sa	ta¹sa²	V;IND;PL;3;FUT
-–rų/ndu	ki¹rų/ndu²	V;SG;2;PST+RMT
-–men	gu¹men²mᵖ	V;IND;DU;1+EXCL;FUT
-–pą	ki¹pą²n	V;PL;2;PRS
-–tu	mi²tu¹	V;POT;SG;2;FUT
-–por	ki¹por²n	V;PL;2;PST+RCT
-–tü	e²tü¹mᵖ	V;DU;1+EXCL;PRS
-–ppar	siᵈ¹n ga²ppar¹	V;SG;1;NEG;FUT
-–yuts	ti²yuts²hų²	V;PL;1+EXCL;PRS
-–kun	su²kun¹n	V;PL;1+INCL;NEG
-–po	ki²po¹	V;IND;SG;2;FUT
-–kets	siᵈ¹n ga²kets¹	V;SG;1;NEG;FUT
-–ha	ti²ha²hų²	V;PL;1+EXCL;PST+RMT
-–tso	ki²tso¹	V;SG;2;PST+RCT
-–sa	e²sa²s	V;DU;1+INCL;PRS
-–mben	su²mben¹s	V;DU;2;PST+RMT
-–ppar	ki²mbar¹	V;SG;2;PST+RCT
-–ppo	sa²ppo²s	V;DU;2;PST+RMT
-–ʔi	su²ʔi¹hų²	V;PL;1+EXCL;NEG
-–tu	ta²tu²	V;SG;3;PST+RMT
-–tę	su²tę¹hų²	V;PL;1+EXCL;NEG
-–sü	ni²sü¹s	V;POT;DU;1+INCL;FUT
-–tan	ga²rhan¹	V;IND;PL;3;FUT
-–tü	ti²tü¹	V;SG;1;PRS
-–tets	siᵈ¹n ki¹tets²s	V;DU;2;NEG;FUT
-–tav	ki²ndav¹s	V;DU;2;PST+RCT
-–te	na²te¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–peʔn	si²ngweʔn¹s	V;DU;2;NEG
-–kün	e²khün¹	V;PL;3;PRS
-–tu	siᵈ¹n ta²tu²	V;SG;3;NEG;FUT
-–ta	ki¹ta²s	V;DU;2;PST+RMT
-–ʔe	siᵈ¹n ga¹rʔe²	V;PL;3;NEG;FUT
-–mur	si²mur²	V;PL;3;NEG
-–ʔün	ka²ʔün¹	V;SG;1;PST+RCT
-–ngwe	si²ngwe¹	V;SG;1;NEG
-–kets	su²khets¹	V;PL;3;NEG
-–kkü	mi²kkü¹s	V;POT;DU;2;FUT
-–kun	tu²kun¹hų²	V;PL;1+EXCL;PST+RMT
-–ʔü	ti²ʔü¹s	V;DU;1+INCL;PRS
-–sus	siᵈ¹n ki²sus¹	V;SG;2;NEG;FUT
-–rų/ndu	e¹rų/ndu²	V;SG;3;PRS
-–rę	siᵈ¹n gu²rę¹mᵖ	V;DU;1+EXCL;NEG;FUT
-–pen	ku²mben¹mᵖ	V;DU;1+EXCL;PST+RCT
-–ʔi	ga²ʔi²	V;IND;SG;3;FUT
-–ten	ga¹ren²	V;IND;SG;3;FUT
-–ką	siᵈ¹n ga²ką¹n	V;PL;1+INCL;NEG;FUT
-–ta	siᵈ¹n ga²ta²n	V;PL;1+INCL;NEG;FUT
-–ter	ni¹ter²n	V;POT;PL;1+INCL;FUT
-–murf	i²murf²s	V;DU;2;PST+IMMED
-–tso	gi²tso¹	V;SG;2;SS;LGSPEC1
-–ką	tu²ką¹mᵖ	V;DU;1+EXCL;PST+RMT
-–ndü	gu²ndür¹n	V;IND;PL;1+INCL;FUT
-–mʔan	ki²mʔan¹	V;SG;2;PST+RCT
-–tsü	sa²tsü¹s	V;DU;2;PST+RCT
-–ho	su²ho¹hų²	V;PL;1+EXCL;NEG
-–hun	tu²hun¹	V;SG;1;PST+RMT
-–te	ka²te¹	V;SG;1;PST+IMMED
-–mer	si¹mer²	V;SG;2;PRS
-–ngwa¹as	ka¹ngwa¹as²n	V;IND;PL;2;FUT
-–ʔür	ku²ʔür¹n	V;PL;1+INCL;PST+RCT
-–tsen	siᵈ¹n ki²tsen¹	V;SG;2;NEG;FUT
-–po	ma²po²	V;POT;SG;3;FUT
-–ngweʔn	si¹ngweʔn²mᵖ	V;DU;1+EXCL;PST+RCT
-–ndę	si²ndę¹mᵖ	V;DU;1+EXCL;NEG
-–mer	ti¹mer²hų²	V;IND;PL;1+EXCL;FUT
-–hu	ra²hu¹s	V;DU;1+INCL;SS;LGSPEC1
-–maf	u¹maf²n	V;PL;1+INCL;PST+IMMED
-–ʔi	ta²ʔi²	V;SG;1;PST+RMT
-–tü	ti²tü¹s	V;DU;1+INCL;PST+RMT
-–ʔor	mi²ʔor¹s	V;POT;DU;2;FUT
-–ppi	ku²nbi¹s	V;DU;1+INCL;PST+RCT
-–poo	siᵈ¹n sa¹poo²s	V;DU;2;NEG;FUT
-–pe	ku²mbe¹n	V;PL;1+INCL;PST+RCT
-–ke	su²k^e¹	V;SG;1;NEG
-–ngwe	si¹ngwe²s	V;DU;1+INCL;PST+IMMED
-–mur	si²mur²hų²	V;PL;1+EXCL;NEG
-–sa	ka²sa²	V;SG;2;PST+RMT
-–mą	e²mą²n	V;PL;1+INCL;PRS
-–tę	ki²tę¹n	V;PL;2;PST+RCT
-–kev	tu²kev¹hų²	V;PL;1+EXCL;PST+RMT
-–ngwe	ni¹ką²n	V;PL;1+INCL;SS;LGSPEC1
-–mer	za¹mer²	V;POT;SG;2;FUT
-–tę	u²tę¹mᵖ	V;DU;1+EXCL;PST+IMMED
-–pon	su²ngwon²mᵖ	V;DU;1+EXCL;NEG
-–ngwe	e²mbe²	V;PL;3;PST+IMMED
-–ku	si²ku²mᵖ	V;DU;1+EXCL;PST+RCT
-–me	ki²me¹	V;SG;2;PRS
-–sa	ku²sa²	V;SG;1;PST+RCT
-–te	mi²te¹s	V;POT;DU;2;FUT
-–tę	su²tę¹n	V;PL;1+INCL;NEG
-–te	ni²te¹mᵖ	V;POT;DU;1+EXCL;FUT
-–po	ku²por²	V;PL;3;PST+IMMED
-–no	ku²no¹n	V;PL;1+INCL;PST+RCT
-–por	ga²por¹	V;IND;SG;1;FUT
-–hi	su²hi²n	V;PL;1+INCL;NEG
-–ʔę	su²ʔę¹	V;PL;3;NEG
-–sü	sa²sü¹	V;PL;3;PST+RCT
-–aʔi	ta¹aʔi²	V;IND;SG;3;FUT
-–hu	u¹hu²	V;PL;3;PST+RMT
-–ʔi	e²ʔir²	V;PL;3;PRS
-–hunts	i²hunts¹mᵖ	V;DU;1+EXCL;PST+IMMED
-–ʔür	ru²ndür¹	V;SG;3;SS;LGSPEC1
-–ha	u²ha²	V;SG;1;PST+IMMED
-–maf	ki¹maf²s	V;DU;2;PST+RMT
-–ter	ni¹ter²s	V;DU;1+INCL;SS;LGSPEC1
-–tü	ta²tü¹	V;IND;SG;1;FUT
-–ngwi¹ʔi	su¹ngwi¹ʔi²	V;SG;1;NEG
-–te	za²te¹s	V;POT;DU;2;FUT
-–ngwe	ra¹ngwe²	V;SG;1;SS;LGSPEC1
-–ngwe	siᵈ¹n ka¹ngwe²s	V;DU;2;NEG;FUT
-–po	nu²ngwo¹mᵖ	V;POT;DU;1+EXCL;FUT
-–pa	su¹ngwa²n	V;PL;1+INCL;NEG
-–se	ra²se¹hų²	V;PL;1+EXCL;SS;LGSPEC1
-–mir	ti¹mir²hų²	V;PL;1+EXCL;PRS
-–ʔün	siᵈ¹n gu²ʔün¹hų²	V;PL;1+EXCL;NEG;FUT
-–pen	e¹pen²s	V;DU;1+INCL;PRS
-–sa	si²sa¹hų²	V;PL;1+EXCL;NEG
-–ngwe	ti¹ką²hų²	V;PL;1+EXCL;PST+RMT
-–tso	ki²tso¹s	V;DU;2;PRS
-–ʔe	su²rʔe¹	V;PL;3;NEG
-–yuts	ti²yuts²hų²	V;PL;1+EXCL;PST+RMT
-–ker	u²ker¹hų²	V;PL;1+EXCL;PST+IMMED
-–ker	e²ker¹n	V;PL;1+INCL;PRS
-–ką	u²khą¹	V;PL;3;PST+RMT
-–tę	siᵈ¹n ki²tę¹n	V;PL;2;NEG;FUT
-–mę	u¹mę²hų²	V;PL;1+EXCL;PST+IMMED
-–po	mi²por²n	V;POT;PL;2;FUT
-–ʔe	e²ʔe¹	V;SG;3;PRS
-–sempf	su¹sempf²	V;SG;1;NEG
-–ʔü	i²nür¹	V;PL;3;PRS
-–tsün	i²tsün¹s	V;DU;1+INCL;PST+IMMED
-–sü	siᵈ¹n ti²sü¹hų²	V;PL;1+EXCL;NEG;FUT
-–tun	si²tun¹s	V;DU;2;NEG
-–tets	ki¹tets²n	V;PL;2;PST+RMT
-–tę	e²tę¹	V;SG;1;PRS
-–sa	na²sa¹	V;POT;PL;3;FUT
-–ngwo	ta²ngwo¹	V;IND;SG;3;FUT
-–kaf	nu¹kaf²	V;POT;SG;1;FUT
-–tun	su²tun¹n	V;PL;1+INCL;NEG
-–hu	ni¹hu²mᵖ	V;POT;DU;1+EXCL;FUT
-–ʔets	mi²rits¹	V;POT;PL;3;FUT
-–sa	ki²sa¹s	V;DU;2;PRS
-–tę	ra²tę¹n	V;PL;1+INCL;SS;LGSPEC1
-–kun	ga²kun¹s	V;IND;DU;1+INCL;FUT
-–tu	ku²ndu¹	V;SG;1;PST+RCT
-–ha	sa²ha²s	V;IND;DU;2;FUT
-–ngwe	ku¹ngwe²	V;SG;1;PST+RCT
-–ter	si¹ter²s	V;DU;2;PRS
-–tan	siᵈ¹n ki²tan¹	V;SG;2;NEG;FUT
-–tsen	ku²tsen¹hų²	V;PL;1+EXCL;PST+RCT
-–ngwin	ma²mbin²	V;POT;PL;3;FUT
-–tü	mi¹tü²n	V;POT;PL;2;FUT
-–por	su²por¹s	V;DU;1+INCL;NEG
-–he	e¹rhe²	V;PL;3;PRS
-–pof	ki¹pof²s	V;DU;2;PST+RCT
-–ʔi	ga¹ʔi²mᵖ	V;IND;DU;1+EXCL;FUT
-–tü	si²tür¹n	V;PL;2;NEG
-–ʔor	mi²ʔor¹n	V;POT;PL;2;FUT
-–pen	gi²pen¹	V;SG;2;SS;LGSPEC1
-–rų/ndu	mi¹rųr²	V;POT;PL;3;FUT
-–hi	siᵈ¹n ki²hi²	V;SG;2;NEG;FUT
-–he	u²he¹mᵖ	V;DU;1+EXCL;PST+IMMED
-–tsün	sa²tsün¹	V;IND;SG;2;FUT
-–ʔę	ku²ʔę¹	V;SG;1;PST+RCT
-–ndę	mu²ndęr¹hų²	V;POT;PL;1+EXCL;FUT
-–mur	na²mur²	V;POT;SG;3;FUT
-–hi	si²hi²s	V;DU;2;NEG
-–ku	za²ku²	V;SG;2;SS;LGSPEC1
-–sa	nu²sa¹s	V;POT;DU;1+INCL;FUT
-–tun	ti²tun¹s	V;IND;DU;1+INCL;FUT
-–pąr	siᵈ¹n sa¹par²s	V;DU;2;NEG;FUT
-–mben	ki²mben¹s	V;IND;DU;2;FUT
-–ngwa	ka²ngwa¹s	V;DU;2;PRS
-–ʔa	u²rʔa²	V;PL;3;PST+RMT
-–ngweʔn	ni¹ngweʔn²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–ngwa¹as	u¹pa¹as²	V;SG;3;PST+RMT
-–mben	mi²mben¹	V;POT;PL;3;FUT
-–hi	tu²hi²	V;SG;1;PST+RMT
-–ngwin	u²min²	V;SG;3;PST+RMT
-–rę	tu²rę¹mᵖ	V;DU;1+EXCL;PRS
-–ker	ku²nger¹mᵖ	V;DU;1+EXCL;PST+RCT
-–nda	na²nda¹	V;POT;PL;3;FUT
-–ʔi	su¹ʔi²n	V;PL;1+INCL;NEG
-–ter	ta¹ter²	V;IND;SG;1;FUT
-–sa	u²sa¹s	V;DU;1+INCL;PST+IMMED
-–peʔn	tu²peʔn¹hų²	V;PL;1+EXCL;PST+RMT
-–ser	si²ser¹s	V;DU;1+INCL;PST+RCT
-–nu	su¹nu²hų²	V;PL;1+EXCL;NEG
-–ʔe	si¹ʔe²n	V;PL;2;PRS
-–poo	i¹poo²s	V;DU;1+INCL;PST+IMMED
-–pe	siᵈ¹n ga²pe²mᵖ	V;DU;1+EXCL;NEG;FUT
-–ngwe	ga¹ngwe²s	V;IND;DU;1+INCL;FUT
-–ʔü	tu²ʔü¹hų²	V;PL;1+EXCL;PST+RMT
-–tu	ga²tu¹hų²	V;IND;PL;1+EXCL;FUT
-–pof	siᵈ¹n ki¹pof²s	V;DU;2;NEG;FUT
-–nda	siᵈ¹n ti²nda¹s	V;DU;1+INCL;NEG;FUT
-–pen	e²pen¹	V;PL;3;PRS
-–tcon	e²tcon¹n	V;PL;1+INCL;PRS
-–hun	gi¹nhin²n	V;PL;2;SS;LGSPEC1
-–ngwe	sa¹me²	V;SG;3;NEG
-–tu	siᵈ¹n ta²tu²	V;SG;1;NEG;FUT
-–ndę	siᵈ¹n ki²ndę¹	V;SG;2;NEG;FUT
-–ngwin	sa²min²	V;SG;3;NEG
-–sü	tu¹sü²s	V;DU;1+INCL;PST+RMT
-–kets	ki²kets¹n	V;IND;PL;2;FUT
-–ke	tu²k^e¹hų²	V;PL;1+EXCL;PST+RMT
-–ngwa¹as	ku¹ngwa¹as²mᵖ	V;DU;1+EXCL;PST+RCT
-–kaf	gi¹kaf²	V;SG;2;SS;LGSPEC1
-–pon	ki²pon²s	V;DU;2;PRS
-–kets	e²kets¹mᵖ	V;DU;1+EXCL;PRS
-–khar	gi²khar¹s	V;DU;2;SS;LGSPEC1
-–sų	gi²sų²s	V;DU;2;SS;LGSPEC1
-–ti	u²ti²	V;SG;1;PST+IMMED
-–sempf	e²tsempf²	V;PL;3;PRS
-–sa	siᵈ¹n ga¹sa²	V;SG;1;NEG;FUT
-–tso	nu²tso²hų²	V;POT;PL;1+EXCL;FUT
-–he	ki²he¹n	V;PL;2;PRS
-–por	su¹por²n	V;PL;2;PRS
-–ʔi	ra¹ʔi²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–sempf	e²sempf²	V;SG;1;PRS
-–peʔn	siᵈ¹n ga²meʔn¹	V;SG;3;NEG;FUT
-–sü	sa²sü¹	V;SG;3;PST+RCT
-–tsa	i²tsa¹	V;SG;2;PST+IMMED
-–pof	u¹pof²s	V;DU;1+INCL;PST+IMMED
-–tets	su¹tets²n	V;PL;1+INCL;NEG
-–hu	i¹hu²	V;SG;2;PST+IMMED
-–tsün	i²tsün¹	V;SG;1;PST+IMMED
-–tso	ki¹tso²s	V;DU;2;PST+IMMED
-–pen	ki²ngwe¹n	V;PL;2;PST+RCT
-–hą	e¹hą²	V;SG;3;PRS
-–tun	ti²tun¹s	V;DU;1+INCL;PST+RMT
-–pü	ni²pü¹hų²	V;POT;PL;1+EXCL;FUT
-–te	ta²ter¹	V;IND;PL;3;FUT
-–kün	ku²ngün¹hų²	V;PL;1+EXCL;PST+RCT
-–po	ru²po¹	V;SG;3;SS;LGSPEC1
-–pa	ra¹pa²	V;SG;1;SS;LGSPEC1
-–ppar	ru²ppar¹	V;SG;3;SS;LGSPEC1
-–ʔü	siᵈ¹n ga¹rʔü²	V;PL;3;NEG;FUT
-–kaf	ga¹khaf²	V;IND;PL;3;FUT
-–tę	mi²rhę¹	V;POT;PL;3;FUT
-–se	u²se¹	V;SG;1;PST+IMMED
-–mben	nu²mben¹n	V;POT;PL;1+INCL;FUT
-–pen	tu²pen¹n	V;PL;1+INCL;PST+RMT
-–ppo	sa²ppo²n	V;PL;2;PST+RMT
-–mer	ni¹mer²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–nef	e²nef¹	V;SG;3;PRS
-–ʔi	ki¹ti²n	V;IND;PL;2;FUT
-–tun	ki²ndun¹s	V;DU;2;PST+RCT
-–tu	ni²tur²n	V;PL;1+INCL;SS;LGSPEC1
-–tsü	ta²tsü¹	V;SG;3;PST+RMT
-–kun	ti²kun¹mᵖ	V;DU;1+EXCL;PST+RMT
-–sa	si¹sa²	V;SG;2;NEG
-–tun	siᵈ¹n ga²tun¹mᵖ	V;DU;1+EXCL;NEG;FUT
-–tats	nu²tats¹	V;POT;SG;1;FUT
-–tę	ra²tę¹hų²	V;PL;1+EXCL;SS;LGSPEC1
-–sų	ga²tshų²	V;IND;PL;3;FUT
-–mą	siᵈ¹n ga²mą²	V;SG;3;NEG;FUT
-–pon	mi²pon²	V;POT;PL;3;FUT
-–po	u²ngwo¹hų²	V;PL;1+EXCL;PST+IMMED
-–sa	ti¹sa²hų²	V;PL;1+EXCL;PST+RMT
-–mur	ti²mur²s	V;DU;1+INCL;PST+RMT
-–ndę	ki²ndę¹s	V;DU;2;PST+RCT
-–ʔi	ra¹ʔi²	V;SG;1;SS;LGSPEC1
-–pe	mu²ngwe¹	V;POT;SG;3;FUT
-–her	tu²her¹n	V;PL;1+INCL;PST+RMT
-–ppi	ga²ppi¹	V;IND;SG;1;FUT
-–tü	u¹tü²s	V;DU;1+INCL;PST+IMMED
-–pii	ga²pii¹hų²	V;IND;PL;1+EXCL;FUT
-–ngweʔn	ni¹ngweʔn²s	V;DU;1+INCL;SS;LGSPEC1
-–tuts	u²tuts¹	V;SG;1;PST+IMMED
-–tą	e²tą¹hų²	V;PL;1+EXCL;PRS
-–ʔü	ki²ʔü¹	V;SG;2;PST+RMT
-–pii	ki¹pii²n	V;PL;2;PRS
-–seʔn	i¹seʔn²hų²	V;PL;1+EXCL;PST+IMMED
-–ter	si¹ter²	V;SG;1;NEG
-–rę	ra²rę¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–hü	ra²hü¹n	V;PL;1+INCL;SS;LGSPEC1
-–te	ki²ter¹hų²	V;PL;1+EXCL;PST+RCT
-–pen	ga²pen¹mᵖ	V;IND;DU;1+EXCL;FUT
-–mir	ti¹mir²mᵖ	V;DU;1+EXCL;PST+RMT
-–ngwo	si²ngwo¹n	V;PL;2;NEG
-–tets	si¹tets²n	V;PL;2;NEG
-–sü	ku¹shü²	V;PL;3;PST+RCT
-–sempf	ra¹sempf²n	V;PL;1+INCL;SS;LGSPEC1
-–ker	tu²ker¹s	V;DU;1+INCL;PST+RMT
-–pan	zu²nban¹	V;SG;3;PST+IMMED
-–kaf	ku¹kaf²mᵖ	V;DU;1+EXCL;PST+RCT
-–ngweʔn	si¹ngweʔn²n	V;PL;1+INCL;NEG
-–sa	i²sa¹	V;SG;2;PST+IMMED
-–ʔę	siᵈ¹n gu²ʔę¹n	V;PL;1+INCL;NEG;FUT
-–sü	u¹sü²s	V;DU;1+INCL;PST+IMMED
-–pen	ki²mbe¹	V;SG;2;PST+RCT
-–ʔe	ki²ʔe¹	V;SG;2;PST+RMT
-–mer	i¹mer²	V;PL;3;PRS
-–sa	siᵈ¹n ki²sa¹s	V;DU;2;NEG;FUT
-–ngweʔn	siᵈ¹n ta¹peʔn²	V;PL;3;NEG;FUT
-–rę	gu²rę¹mᵖ	V;IND;DU;1+EXCL;FUT
-–ngwe	siᵈ¹n ka¹ngwe²n	V;PL;2;NEG;FUT
-–mur	si²mur²s	V;DU;1+INCL;NEG
-–ke	ga²kh^e¹	V;IND;PL;3;FUT
-–pi	e²pi¹s	V;DU;1+INCL;PRS
-–tsen	su²tsen¹	V;SG;1;NEG
-–men	su¹mben²	V;PL;3;NEG
-–ngwo	si²ngwo¹s	V;DU;2;NEG
-–ʔür	siᵈ¹n ki²tür¹n	V;PL;2;NEG;FUT
-–tav	ga²tav¹	V;IND;SG;1;FUT
-–ʔi	ra²ʔi¹n	V;PL;1+INCL;SS;LGSPEC1
-–tsa	e²tsa¹s	V;DU;1+INCL;PRS
-–te	sa²te¹	V;SG;3;PST+RCT
-–pii	u²ngwii¹hų²	V;PL;1+EXCL;PST+IMMED
-–ko	ku²ko²hų²	V;PL;1+EXCL;PST+RCT
-–kun	gi²kun¹	V;SG;2;SS;LGSPEC1
-–tso	ku¹tso²	V;SG;3;PST+IMMED
-–tsen	gu²tsen¹mᵖ	V;IND;DU;1+EXCL;FUT
-–tets	gi¹tets²n	V;PL;2;SS;LGSPEC1
-–pen	ki²pen¹n	V;PL;2;PRS
-–tsoh	ku²tsoh¹hų²	V;PL;1+EXCL;PST+RCT
-–tę	u²tę¹	V;SG;1;PST+IMMED
-–tso	ku¹tsor²	V;PL;3;PST+RCT
-–me	ku²mhe¹	V;PL;3;PST+RCT
-–ngwe	ki²me¹s	V;DU;2;PRS
-–te	sa¹ner²n	V;PL;2;NEG
-–ter	i¹ter²	V;SG;1;PST+IMMED
-–ʔi	ki¹ʔi²s	V;DU;2;PST+RCT
-–mę	siᵈ¹n ga¹mę²mᵖ	V;DU;1+EXCL;NEG;FUT
-–kkü	siᵈ¹n gu²kkür¹hų²	V;PL;1+EXCL;NEG;FUT
-–ʔe	su²ʔe¹	V;SG;1;NEG
-–ʔets	ku²ʔets¹s	V;DU;1+INCL;PST+RCT
-–ho	tu²ho¹s	V;DU;1+INCL;PST+RMT
-–tą	ga²tą¹s	V;IND;DU;1+INCL;FUT
-–tets	nu¹tets²n	V;POT;PL;1+INCL;FUT
-–ʔor	i²ʔor¹	V;SG;2;PST+IMMED
-–pen	mu²ngwen¹	V;POT;SG;3;FUT
-–tsü	si²tsü¹	V;SG;2;PRS
-–ter	siᵈ¹n sa¹ter²n	V;PL;2;NEG;FUT
-–pan	tu²pan¹hų²	V;PL;1+EXCL;PST+RMT
-–kkü	gu²kkür¹n	V;IND;PL;1+INCL;FUT
-–pen	ku²mbe¹mᵖ	V;DU;1+EXCL;PST+RCT
-–tsoh	ki²tcon¹n	V;PL;2;PST+RCT
-–no	su²no¹	V;SG;2;PRS
-–te	ta²te¹	V;IND;SG;1;FUT
-–no	tu²no¹hų²	V;PL;1+EXCL;PST+RMT
-–tę	ku²ndę¹mᵖ	V;DU;1+EXCL;PST+RCT
-–ʔe	ki¹ʔe²s	V;IND;DU;2;FUT
-–pii	su²pii¹	V;PL;3;NEG
-–ʔan	nu¹ʔan²hų²	V;POT;PL;1+EXCL;FUT
-–por	mi¹por²s	V;POT;DU;2;FUT
-–ngwi¹ʔi	ku¹pi¹ʔi²	V;SG;3;PST+RCT
-–seʔn	ni¹seʔn²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–ʔi	ra²ʔi¹s	V;DU;1+INCL;SS;LGSPEC1
-–me	siᵈ¹n ga²me¹s	V;DU;1+INCL;NEG;FUT
-–tets	ga²rets¹	V;IND;SG;3;FUT
-–pen	ku²mben¹	V;SG;1;PST+RCT
-–ʔer	ki²tir¹n	V;IND;PL;2;FUT
-–kaf	gi¹kaf²n	V;PL;2;SS;LGSPEC1
-–te	ni²te¹s	V;DU;1+INCL;SS;LGSPEC1
-–tu	ki²tu¹	V;SG;2;PST+RMT
-–to	siᵈ¹n ki¹to²s	V;DU;2;NEG;FUT
-–ser	i²ser¹hų²	V;PL;1+EXCL;PST+IMMED
-–tav	su²tav¹	V;SG;1;NEG
-–ʔi	siᵈ¹n ki²ʔi²s	V;DU;2;NEG;FUT
-–tsü	si²tsü¹s	V;DU;2;PRS
-–ʔor	siᵈ¹n gu²ʔor¹n	V;PL;1+INCL;NEG;FUT
-–khar	nu²khar¹	V;POT;SG;1;FUT
-–mer	si¹mer²	V;SG;3;NEG
-–pi	nu¹ngwi²hų²	V;POT;PL;1+EXCL;FUT
-–rę	u²ndę¹	V;SG;3;PRS
-–mir	ti¹mir²s	V;DU;1+INCL;PRS
-–pą	siᵈ¹n ki¹pą²n	V;PL;2;NEG;FUT
-–ta	su²ta¹	V;SG;3;NEG
-–ʔa	ra²ʔa²n	V;PL;1+INCL;SS;LGSPEC1
-–tets	ra¹tets²n	V;PL;1+INCL;SS;LGSPEC1
-–tav	su²tav¹n	V;PL;1+INCL;NEG
-–pii	tu²pii¹	V;SG;1;PST+RMT
-–pąr	ni¹par²s	V;DU;1+INCL;SS;LGSPEC1
-–ʔe	ra²ʔe¹n	V;PL;1+INCL;SS;LGSPEC1
-–ʔü	za²ʔü¹	V;SG;2;SS;LGSPEC1
-–ha	i²ha²n	V;PL;1+INCL;PST+IMMED
-–mʔan	nu²mʔan¹	V;POT;SG;1;FUT
-–ʔi	ka²ʔi²	V;SG;1;PST+RCT
-–nov	ku²nov¹hų²	V;PL;1+EXCL;PST+RCT
-–nef	i²nef¹n	V;PL;2;PST+IMMED
-–ʔa	ra²ʔa²s	V;DU;1+INCL;SS;LGSPEC1
-–ser	siᵈ¹n sa²ser¹	V;SG;2;NEG;FUT
-–pąr	ti¹par²n	V;IND;PL;1+INCL;FUT
-–ndze	na²ndze¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–hunts	ni²hunts¹hų²	V;PL;1+EXCL;SS;LGSPEC1
-–rho	u²tho¹	V;SG;3;PRS
-–nov	tu²nov¹mᵖ	V;DU;1+EXCL;PRS
-–pi	ga¹pi²n	V;IND;PL;1+INCL;FUT
-–ʔer	su²ʔer¹	V;SG;3;NEG
-–tats	siᵈ¹n ga²tats¹mᵖ	V;DU;1+EXCL;NEG;FUT
-–hi	u²hi²n	V;PL;1+INCL;PST+IMMED
-–mą	ki²mą²	V;IND;SG;2;FUT
-–ʔets	siᵈ¹n ga²ʔets¹mᵖ	V;DU;1+EXCL;NEG;FUT
-–pą	ki¹pą²	V;SG;2;PRS
-–peʔn	nu²ngweʔn¹	V;POT;SG;1;FUT
-–peʔn	siᵈ¹n ga²peʔn¹	V;SG;1;NEG;FUT
-–po	ki²po¹s	V;IND;DU;2;FUT
-–rę	u²rę¹s	V;DU;1+INCL;PST+IMMED
-–nda	za²nda¹s	V;DU;2;SS;LGSPEC1
-–ʔa	siᵈ¹n ga²ʔa²s	V;DU;1+INCL;NEG;FUT
-–ʔü	u¹rʔü²	V;PL;3;PST+RMT
-–sempf	ga¹sempf²n	V;IND;PL;1+INCL;FUT
-–poo	siᵈ¹n sa¹poo²	V;SG;2;NEG;FUT
-–tu	ki²ndu¹	V;SG;2;PST+RCT
-–ʔę	ru²ʔę¹	V;SG;3;SS;LGSPEC1
-–mę	su¹mę²	V;SG;1;NEG
-–sa	si²sa¹n	V;PL;1+INCL;PST+RCT
-–pen	ru²phen¹	V;PL;3;SS;LGSPEC1
-–hun	siᵈ¹n ki¹hun²	V;SG;2;NEG;FUT
-–sa	tu²sa²mᵖ	V;DU;1+EXCL;PST+RMT
-–her	e²her¹s	V;DU;1+INCL;PRS
-–ʔo	ku¹ndo²	V;SG;3;PST+RCT
-–ta	e²ta²n	V;PL;1+INCL;PRS
-–sü	ku¹sü²s	V;DU;1+INCL;PST+RCT
-–poo	si¹poo²	V;SG;2;PRS
-–pii	ki¹pii²	V;SG;2;PST+RMT
-–pii	siᵈ¹n ga²mii¹	V;SG;3;NEG;FUT
-–ngwe	siᵈ¹n ta¹ngwe²	V;SG;3;NEG;FUT
-–pe	ki²ngwe¹n	V;PL;2;PST+RMT
-–mer	siᵈ¹n ti¹mer²n	V;PL;1+INCL;NEG;FUT
-–tsün	ti²tsün¹mᵖ	V;IND;DU;1+EXCL;FUT
-–mur	ni²mur²n	V;POT;PL;1+INCL;FUT
-–khar	su²khar¹s	V;DU;2;PRS
-–tsę	gi¹tsę²	V;SG;2;SS;LGSPEC1
-–tets	tu²tets¹mᵖ	V;DU;1+EXCL;PST+RMT
-–tsa	ku¹tsa²s	V;DU;1+INCL;PST+RCT
-–nov	gi²nov¹n	V;PL;2;SS;LGSPEC1
-–ndze	ga²ndze¹	V;IND;SG;3;FUT
-–mir	sa¹mir²s	V;DU;2;PST+RCT
-–kkü	si²kkür¹n	V;PL;2;NEG
-–sa	si²sa¹s	V;DU;2;PRS
-–mę	si²mę¹s	V;DU;2;NEG
-–tso	gu¹tsor²hų²	V;IND;PL;1+EXCL;FUT
-–rų/ndu	siᵈ¹n ki¹rų/ndu²s	V;DU;2;NEG;FUT
-–po	i²ngwo¹	V;SG;2;PST+IMMED
-–ʔor	nu²ʔor¹mᵖ	V;POT;DU;1+EXCL;FUT
-–ngwe	sa¹ngwe²	V;SG;2;PST+RMT
-–paa	nu²ngwaa¹n	V;POT;PL;1+INCL;FUT
-–tu	ki²tu¹n	V;PL;2;PST+RCT
-–ʔi	su¹ʔi²s	V;DU;1+INCL;NEG
-–pii	mi²ngwii¹	V;POT;SG;2;FUT
-–ndü	mi²ndü¹	V;POT;SG;2;FUT
-–rę	mi²rę¹n	V;POT;PL;2;FUT
-–peʔn	tu²peʔn¹	V;SG;1;PST+RMT
-–pii	siᵈ¹n ga²pii¹s	V;DU;1+INCL;NEG;FUT
-–pin	siᵈ¹n ga¹pin²s	V;DU;1+INCL;NEG;FUT
-–pon	ki²pon²s	V;DU;2;PST+RMT
-–nda	si²nda¹	V;SG;1;NEG
-–mę	su²mę²mᵖ	V;DU;1+EXCL;NEG
-–tso	ti¹tso²mᵖ	V;IND;DU;1+EXCL;FUT
-–pen	e²pen¹mᵖ	V;DU;1+EXCL;PRS
-–pe	i²ngwe¹s	V;DU;2;PST+IMMED
-–pon	siᵈ¹n ki²pon²	V;SG;2;NEG;FUT
-–me	ti²me¹s	V;IND;DU;1+INCL;FUT
-–ʔü	si¹tü²n	V;PL;2;NEG
-–ʔe	ku²ʔe¹mᵖ	V;DU;1+EXCL;PST+RCT
-–pon	ra²pon²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–tsen	su²tsen¹s	V;DU;1+INCL;NEG
-–pe	nu²ngwe¹hų²	V;POT;PL;1+EXCL;FUT
-–pen	ru²pen¹	V;PL;3;SS;LGSPEC1
-–tun	ku²tun¹	V;SG;3;PST+IMMED
-–pan	gi²pan¹n	V;PL;2;SS;LGSPEC1
-–pen	i²pen¹s	V;DU;2;PST+IMMED
-–ppi	siᵈ¹n ga²ppi¹hų²	V;PL;1+EXCL;NEG;FUT
-–tu	si²tu²mᵖ	V;DU;1+EXCL;PST+RCT
-–mʔan	ki²mʔan¹n	V;PL;2;PST+RCT
-–ngwe	ga¹ngwe²s	V;DU;2;SS;LGSPEC1
-–mę	ki¹mę²	V;SG;2;PRS
-–ngweʔn	ti¹ngweʔn²n	V;PL;1+INCL;PST+RMT
-–ngwo	na²ngwo¹	V;SG;1;SS;LGSPEC1
-–ʔi	u²ʔi¹mᵖ	V;DU;1+EXCL;PST+IMMED
-–pü	ni²pü¹s	V;DU;1+INCL;SS;LGSPEC1
-–ta	siᵈ¹n ki¹ta²s	V;DU;2;NEG;FUT
-–tsę	ki¹tsę²s	V;DU;2;PST+RCT
-–seni	su²seni¹s	V;DU;2;PST+RMT
-–ta	ga²ta²s	V;IND;DU;1+INCL;FUT
-–ndze	siᵈ¹n ki²ndzer¹n	V;PL;2;NEG;FUT
-–tets	ga²tets¹mᵖ	V;IND;DU;1+EXCL;FUT
-–pii	mu²ngwii¹	V;POT;SG;3;FUT
-–ʔi	ki²ʔi¹s	V;DU;2;PST+RCT
-–mą	nu²mą²s	V;POT;DU;1+INCL;FUT
-–ppo	i²ppo²	V;SG;3;PST+IMMED
-–tsün	ni²tsün¹mᵖ	V;POT;DU;1+EXCL;FUT
-–tav	ki²tav¹	V;SG;2;PST+RMT
-–tets	ra²tets¹	V;SG;1;SS;LGSPEC1
-–maf	zu¹maf²	V;SG;3;PST+IMMED
-–por	ga²por¹s	V;DU;2;SS;LGSPEC1
-–sų	u²sų²	V;SG;1;PST+IMMED
-–ppo	siᵈ¹n ta²ppo²	V;SG;1;NEG;FUT
-–pe	ku²mbe¹	V;SG;1;PST+RCT
-–ʔo	zu¹rʔo²	V;PL;3;PST+IMMED
-–sü	nu¹sü²mᵖ	V;POT;DU;1+EXCL;FUT
-–ndü	siᵈ¹n gu²ndür¹hų²	V;PL;1+EXCL;NEG;FUT
-–pe	u¹ngwe²	V;SG;1;PST+IMMED
-–ʔan	ku¹ndan²	V;SG;3;PST+RCT
-–pii	ru²pii¹	V;SG;3;SS;LGSPEC1
-–ga	siᵈ¹n ki¹ga²s	V;DU;2;NEG;FUT
-–pii	ra²pii¹n	V;PL;1+INCL;SS;LGSPEC1
-–kün	gi²kün¹n	V;PL;2;SS;LGSPEC1
-–paa	ki¹paa²	V;SG;2;PST+RMT
-–tę	e²tę¹	V;SG;1;PRS
-–po	ku²por²	V;PL;3;PST+RCT
-–por	siᵈ¹n ga²phor¹	V;PL;3;NEG;FUT
-–mʔan	zu²mhan¹	V;PL;3;PST+IMMED
-–ngwe	u¹me²	V;SG;3;PRS
-–kun	ki²kun¹n	V;PL;2;PST+RMT
-–yuts	sa²yuts²	V;SG;2;PST+RCT
-–kun	gu²kun¹n	V;IND;PL;1+INCL;FUT
-–kun	siᵈ¹n gu²kun¹hų²	V;PL;1+EXCL;NEG;FUT
-–sü	si¹sü²	V;SG;2;NEG
 –seni	su²seni¹n	V;PL;1+INCL;NEG
-–ta	u²ra²	V;SG;3;PST+RMT
-–yuts	na²yuts²	V;PL;3;SS;LGSPEC1
-–tü	ni²tü¹hų²	V;POT;PL;1+EXCL;FUT
-–sü	u¹shü²	V;PL;3;PST+RMT
-–ha	gi²ha²	V;SG;2;SS;LGSPEC1
-–hą	ga¹hą²	V;IND;SG;3;FUT
-–ʔun	ga²ʔun¹	V;IND;SG;3;FUT
-–kun	siᵈ¹n ga²kun¹	V;SG;3;NEG;FUT
-–ʔür	su²ʔür¹s	V;DU;1+INCL;NEG
-–kün	su²kün¹hų²	V;PL;1+EXCL;NEG
-–ʔan	su¹ʔan²mᵖ	V;DU;1+EXCL;NEG
-–ʔer	mi²tir¹n	V;POT;PL;2;FUT
-–ʔü	i¹tü²n	V;PL;2;PST+IMMED
-–ʔets	mi²ʔets¹s	V;POT;DU;2;FUT
-–tsün	za²tsün¹s	V;DU;2;SS;LGSPEC1
-–tsa	tu¹tsa²n	V;PL;1+INCL;PST+RMT
-–ha	sa²ha²	V;SG;1;PST+RCT
-–pof	i¹pof²n	V;PL;2;PST+IMMED
-–sa	tu²sa¹s	V;DU;1+INCL;PST+RMT
-–kkü	e²kkü¹	V;SG;1;PRS
-–kuʔ	ta¹kuʔ²	V;PL;3;PST+RMT
-–sa	su²sa²mᵖ	V;DU;1+EXCL;NEG
-–rho	si²rho¹s	V;DU;2;NEG
-–tsoh	u²tsoh¹	V;SG;3;PRS
-–ʔer	ki²tir¹n	V;PL;2;PST+RCT
-–pe	siᵈ¹n ki²pe¹	V;SG;2;NEG;FUT
-–tcon	siᵈ¹n ki²tcon¹n	V;PL;2;NEG;FUT
-–tsa	gu¹tsa²hų²	V;IND;PL;1+EXCL;FUT
-–tats	siᵈ¹n ga²tats¹s	V;DU;1+INCL;NEG;FUT
-–te	e¹ner²n	V;PL;1+INCL;PRS
-–me	ku²me¹	V;SG;3;PST+RCT
-–mą	ki²mą²n	V;IND;PL;2;FUT
-–ser	i²ser¹	V;SG;3;PST+IMMED
-–to	ga¹to²hų²	V;IND;PL;1+EXCL;FUT
-–poo	siᵈ¹n ti¹poo²hų²	V;PL;1+EXCL;NEG;FUT
-–mę	siᵈ¹n gu²mę²mᵖ	V;DU;1+EXCL;NEG;FUT
-–tan	mi¹tan²n	V;POT;PL;2;FUT
-–no	su²no¹n	V;PL;2;PRS
-–mer	si¹mer²s	V;DU;1+INCL;NEG
-–hu	na¹hur²	V;POT;PL;3;FUT
-–üts	siᵈ¹n ta²üts¹	V;PL;3;NEG;FUT
-–tsę	ra¹tsę²	V;SG;1;SS;LGSPEC1
-–tę	nu²tę¹hų²	V;POT;PL;1+EXCL;FUT
-–pon	ku²pon²	V;PL;3;PST+RCT
-–her	ki¹her²s	V;IND;DU;2;FUT
-–kaf	e¹khaf²	V;PL;3;PRS
-–sü	ru¹shü²	V;PL;3;SS;LGSPEC1
-–paa	siᵈ¹n ki¹ngwaa²n	V;PL;2;NEG;FUT
-–tuts	ki²tuts¹s	V;DU;2;PST+RMT
-–hu	siᵈ¹n ti¹hu²s	V;DU;1+INCL;NEG;FUT
-–ngwe	ku¹ngwe²mᵖ	V;DU;1+EXCL;PST+RCT
-–pe	u²ngwe²	V;SG;1;PST+IMMED
-–kaf	ki¹kaf²s	V;DU;2;PRS
-–ʔi	u¹ndi²	V;SG;3;PST+RMT
-–ngwe	za¹ką²n	V;POT;PL;2;FUT
-–hü	ra²hü¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–kun	nu²kun¹	V;POT;SG;1;FUT
-–ppo	si²ppo²	V;SG;2;NEG
-–me	si²mer¹hų²	V;PL;1+EXCL;PST+RCT
-–paa	ku²mbaan¹	V;SG;1;PST+RCT
-–sų	su²sų²hų²	V;PL;1+EXCL;NEG
-–tü	tu¹tü²mᵖ	V;DU;1+EXCL;PRS
-–pen	e²pen¹	V;SG;3;PRS
-–tan	siᵈ¹n ki¹tan²	V;SG;2;NEG;FUT
-–rho	ru²ntho¹	V;PL;3;SS;LGSPEC1
-–ku	na²ku²	V;POT;PL;3;FUT
-–po	ku²po¹	V;PL;3;PST+RCT
-–ʔi	ku¹ʔi²	V;SG;1;PST+RCT
-–tsün	si²tsün¹mᵖ	V;DU;1+EXCL;PST+RCT
-–hu	i¹hu²	V;SG;3;PRS
-–po	siᵈ¹n ki²po²	V;SG;2;NEG;FUT
-–hą	ki¹hą²mᵖ	V;DU;1+EXCL;PST+IMMED
-–ką	ru²gą¹	V;SG;3;SS;LGSPEC1
-–pą	ki¹pą²n	V;PL;2;PST+RCT
-–sempf	i²sempf¹s	V;DU;2;PST+IMMED
-–kev	zu²khev¹	V;PL;3;PST+IMMED
-–tą	ra²tą¹hų²	V;PL;1+EXCL;SS;LGSPEC1
-–peʔn	siᵈ¹n ki²peʔn¹	V;SG;2;NEG;FUT
-–tą	ga²tą¹	V;IND;SG;3;FUT
-–mę	ku²mę²	V;SG;3;PST+RCT
-–me	ta²me¹	V;SG;3;PST+RMT
-–kun	e²gun¹	V;SG;3;PRS
-–ngwe	u²gą¹n	V;PL;1+INCL;PRS
-–men	su¹men²	V;SG;2;PST+RMT
-–he	ru²he¹	V;SG;3;SS;LGSPEC1
-–se	ku¹tshe²	V;PL;3;PST+RCT
-–ʔę	su²ʔę¹	V;SG;2;PRS
-–tą	ki²tą¹s	V;DU;2;PRS
-–mę	su¹mę²s	V;DU;1+INCL;NEG
-–ku	sa²ku²	V;PL;3;PST+RCT
-–ʔa	i¹ʔa²s	V;DU;2;PST+IMMED
-–ngwo	sa²vo¹	V;PL;3;PST+RCT
-–ką	ku²ką¹	V;SG;1;PST+RCT
-–mą	sa²mhą²	V;PL;3;NEG
-–ʔe	siᵈ¹n ga²ʔe¹s	V;DU;1+INCL;NEG;FUT
-–ten	u¹ten²mᵖ	V;DU;1+EXCL;PST+IMMED
-–hü	siᵈ¹n ki²hü¹	V;SG;2;NEG;FUT
-–khar	mu²khar¹	V;POT;SG;3;FUT
-–ndun	siᵈ¹n ga²ndun¹n	V;PL;1+INCL;NEG;FUT
-–mę	u²mę²hų²	V;PL;1+EXCL;PST+IMMED
-–pin	e¹pin²mᵖ	V;DU;1+EXCL;PRS
-–ngwi¹ʔi	sa¹ngwi¹ʔi²s	V;DU;2;NEG
-–hą	ti¹hą²mᵖ	V;IND;DU;1+EXCL;FUT
-–pą	ra¹pą²s	V;DU;1+INCL;SS;LGSPEC1
-–hun	ku²hun¹s	V;DU;1+INCL;PST+RCT
-–ha	si²ha²n	V;PL;1+INCL;NEG
-–rho	su²rho¹	V;SG;1;NEG
-–ngwi¹ʔi	mu¹ngwi¹ʔi²hų²	V;POT;PL;1+EXCL;FUT
-–to	su¹to²	V;SG;3;NEG
-–ngwe	siᵈ¹n sa¹ngwe²	V;SG;2;NEG;FUT
-–tuts	ki²tuts¹	V;SG;2;PRS
-–pen	siᵈ¹n ki²pen¹s	V;DU;2;NEG;FUT
-–ku	si²ku²	V;SG;3;NEG
-–tsü	siᵈ¹n ti²tsü¹s	V;DU;1+INCL;NEG;FUT
-–pü	sa²pü¹	V;SG;1;PST+RCT
-–mą	ki²mą²	V;SG;2;PRS
-–ti	mi²ti²	V;POT;SG;2;FUT
-–tę	si²tę¹	V;SG;2;NEG
-–ʔor	ku²ʔor¹	V;SG;3;PST+RCT
-–kev	e²kev¹n	V;PL;1+INCL;PRS
-–ʔi	gi¹ʔi²	V;SG;2;SS;LGSPEC1
-–me	nu²me¹n	V;POT;PL;1+INCL;FUT
-–ker	ga²ker¹mᵖ	V;IND;DU;1+EXCL;FUT
-–tets	ga¹tets²	V;IND;SG;1;FUT
-–ʔi	tu¹ʔi²hų²	V;PL;1+EXCL;PRS
-–hu	sa¹hu²s	V;IND;DU;2;FUT
-–tav	gi²tav¹s	V;DU;2;SS;LGSPEC1
-–tats	ku²ndats¹mᵖ	V;DU;1+EXCL;PST+RCT
-–ker	ra²ker¹hų²	V;PL;1+EXCL;SS;LGSPEC1
-–hi	nu²hi²mᵖ	V;POT;DU;1+EXCL;FUT
-–tan	tu²tan¹hų²	V;PL;1+EXCL;PST+RMT
-–ngwe	ra¹ngwe²s	V;DU;1+INCL;SS;LGSPEC1
-–kün	siᵈ¹n ga²khün¹	V;PL;3;NEG;FUT
-–ʔer	ru²rʔer¹	V;PL;3;SS;LGSPEC1
-–tę	ki²tę¹s	V;DU;2;PRS
-–tu	sa¹tu²s	V;DU;2;PST+IMMED
-–ko	nu²ko²n	V;POT;PL;1+INCL;FUT
-–hunts	ti²hunts¹	V;SG;1;PRS
-–ʔi	ti²ʔir²hų²	V;PL;1+EXCL;PST+RMT
-–ʔun	si²ʔun¹mᵖ	V;DU;1+EXCL;NEG
-–kuʔ	ti¹kuʔ²	V;SG;1;PRS
-–ko	ku²ko²s	V;DU;1+INCL;PST+RCT
-–pof	gi¹pof²	V;SG;2;SS;LGSPEC1
-–ppo	ta²ppo²	V;PL;3;PST+RMT
-–peʔn	su²ngweʔn¹	V;SG;3;NEG
-–ga	gi¹ga²	V;SG;2;SS;LGSPEC1
-–tü	nu¹tü²mᵖ	V;POT;DU;1+EXCL;FUT
-–ngwa	su¹ngwa²mᵖ	V;DU;1+EXCL;NEG
-–seni	ki²seni¹n	V;PL;2;PST+RCT
-–pi	siᵈ¹n ki²pi¹	V;SG;2;NEG;FUT
-–ʔe	ki¹ʔe²	V;SG;2;PST+RCT
-–hunts	siᵈ¹n sa²hunts¹s	V;DU;2;NEG;FUT
-–sa	ni²sa¹n	V;POT;PL;1+INCL;FUT
-–ha	tu²ha²n	V;PL;1+INCL;PST+RMT
-–ʔę	mi²ʔę¹	V;POT;SG;2;FUT
-–tu	ki²tu¹	V;SG;2;PRS
-–pen	zu²ngwe¹	V;SG;3;PST+IMMED
-–mben	ra²mben¹	V;SG;1;SS;LGSPEC1
-–ker	e²ker¹	V;SG;3;PRS
-–pen	ki¹pen²s	V;DU;2;PST+RMT
-–pen	gi²ngwen¹n	V;PL;2;SS;LGSPEC1
-–kev	mi²khev¹	V;POT;PL;3;FUT
-–ndę	ki²ndę¹s	V;DU;2;PST+IMMED
-–tav	ku²ndav¹mᵖ	V;DU;1+EXCL;PST+RCT
-–nda	siᵈ¹n ta²nda¹	V;SG;3;NEG;FUT
-–pin	nu¹ngwin²mᵖ	V;POT;DU;1+EXCL;FUT
-–tsę	siᵈ¹n gu¹tsę²hų²	V;PL;1+EXCL;NEG;FUT
-–ke	siᵈ¹n ki²k^e¹	V;SG;2;NEG;FUT
-–se	ga²se¹n	V;IND;PL;1+INCL;FUT
-–tcon	su²tcon¹hų²	V;PL;1+EXCL;NEG
-–tü	ga²tür¹	V;IND;PL;3;FUT
-–tü	siᵈ¹n ki²tür¹n	V;PL;2;NEG;FUT
-–poo	ti¹poo²n	V;IND;PL;1+INCL;FUT
-–ʔun	si²ʔun¹s	V;DU;2;NEG
-–pe	i²ngwe¹	V;SG;2;PST+IMMED
-–sa	i¹sa²	V;SG;3;PRS
-–po	ki²mbo¹s	V;DU;2;PST+RCT
-–sa	siᵈ¹n ga¹sa²n	V;PL;1+INCL;NEG;FUT
-–tso	siᵈ¹n ki²tso¹	V;SG;2;NEG;FUT
-–mben	u²mben¹	V;SG;1;PST+IMMED
-–khar	ki²khar¹s	V;DU;2;PST+RCT
-–mę	ku¹mę²	V;SG;1;PST+RCT
-–ngwa	ra¹ngwa²	V;SG;1;SS;LGSPEC1
-–sa	siᵈ¹n ta¹sa²	V;SG;3;NEG;FUT
-–ʔi	gi²ʔi¹s	V;DU;2;SS;LGSPEC1
-–por	ku¹por²	V;SG;3;PST+RCT
-–sa	u¹sa²n	V;PL;1+INCL;PST+IMMED
-–sus	ki²sus¹s	V;DU;2;PST+RMT
-–tü	za²tü¹s	V;DU;2;SS;LGSPEC1
-–te	si²ter¹hų²	V;PL;1+EXCL;PST+RCT
-–kun	mi²kun¹s	V;POT;DU;2;FUT
-–ta	i²ta²s	V;DU;2;PST+IMMED
-–ʔets	nu²ʔets¹mᵖ	V;POT;DU;1+EXCL;FUT
-–po	siᵈ¹n gu²por²hų²	V;PL;1+EXCL;NEG;FUT
-–kets	u²kets¹n	V;PL;1+INCL;PST+IMMED
-–sa	si¹sa²	V;SG;1;NEG
-–tę	ga²rę¹	V;IND;SG;3;FUT
-–tuts	su²tuts¹	V;SG;1;NEG
-–ʔa	tu²ʔa²hų²	V;PL;1+EXCL;PST+RMT
-–tę	su²tę¹mᵖ	V;DU;1+EXCL;NEG
-–ngwi¹ʔi	ka¹ngwi¹ʔi²s	V;DU;2;PST+RCT
-–pa	ga¹ma²	V;IND;SG;3;FUT
-–ser	ni²ser¹n	V;POT;PL;1+INCL;FUT
-–tsa	gi²tsa¹	V;SG;2;SS;LGSPEC1
-–no	nu²no¹mᵖ	V;POT;DU;1+EXCL;FUT
-–pon	e²pon²n	V;PL;1+INCL;PRS
-–por	siᵈ¹n gu¹por²mᵖ	V;DU;1+EXCL;NEG;FUT
-–aʔi	i¹aʔi²mᵖ	V;DU;1+EXCL;PST+IMMED
-–ta	e²rha²	V;PL;3;PRS
-–tu	sa¹tur²n	V;IND;PL;2;FUT
-–nov	ra²nov¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–sa	ki²sa¹n	V;PL;2;PST+RMT
-–tun	u²run¹	V;SG;3;PST+RMT
-–men	mi¹men²n	V;POT;PL;2;FUT
-–se	e²se¹n	V;PL;1+INCL;PRS
-–ngwe	tu¹ngwe²mᵖ	V;DU;1+EXCL;PRS
-–ką	siᵈ¹n ki²ką¹s	V;DU;2;NEG;FUT
-–pii	ku²piin¹	V;SG;3;PST+RCT
-–rę	su²rę¹s	V;DU;2;PRS
-–tsü	ni²tsü¹s	V;POT;DU;1+INCL;FUT
-–sempf	siᵈ¹n ga¹sempf²hų²	V;PL;1+EXCL;NEG;FUT
-–mą	ru²mhą²	V;PL;3;SS;LGSPEC1
-–me	mi²mhe¹	V;POT;PL;3;FUT
-–maf	ru¹paf²	V;PL;3;SS;LGSPEC1
-–ndü	si²ndü¹	V;SG;2;NEG
-–pin	gi¹pin²	V;SG;2;SS;LGSPEC1
-–pe	u²mbe¹	V;PL;3;PST+RMT
-–tun	ra²tun¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–men	ki¹men²n	V;PL;2;PST+RCT
-–ho	ku¹nhi²	V;SG;3;PST+RCT
-–me	si²me¹	V;SG;1;NEG
-–kün	ku²gün¹	V;SG;3;PST+RCT
-–maf	ki¹maf²n	V;PL;2;PRS
-–kkü	ki²kkü¹	V;IND;SG;2;FUT
-–pon	u²ngwon²n	V;PL;1+INCL;PST+IMMED
-–ngwi¹ʔi	mu¹ngwi¹ʔi²	V;POT;SG;1;FUT
-–ʔe	na¹ʔe²	V;SG;1;SS;LGSPEC1
-–hü	mi²rhü¹	V;POT;PL;3;FUT
-–ppar	tu²ppar¹hų²	V;PL;1+EXCL;PST+RMT
-–me	si²me¹	V;SG;2;NEG
-–ʔür	si²tür¹n	V;PL;2;NEG
-–ngwa¹as	ku¹ngwa¹as²	V;SG;1;PST+RCT
-–me	siᵈ¹n ta²mer¹	V;PL;3;NEG;FUT
-–ndun	tu²ndun¹s	V;DU;1+INCL;PST+RMT
-–tsa	ki²tca¹n	V;IND;PL;2;FUT
-–maf	mi¹maf²s	V;POT;DU;2;FUT
-–nda	siᵈ¹n ta²nda¹	V;SG;1;NEG;FUT
-–ku	ti²ku²n	V;PL;1+INCL;PST+RMT
-–ʔi	tu¹ʔi²s	V;DU;1+INCL;PRS
-–pof	u¹phof²	V;PL;3;PRS
-–pe	ga¹pe²mᵖ	V;IND;DU;1+EXCL;FUT
-–ʔun	siᵈ¹n gu²ʔun¹hų²	V;PL;1+EXCL;NEG;FUT
-–khar	mi²khar¹	V;POT;PL;3;FUT
-–pen	su²ngwe¹	V;SG;3;NEG
-–hi	u²hi²mᵖ	V;DU;1+EXCL;PST+IMMED
-–mą	u²mą²hų²	V;PL;1+EXCL;PST+IMMED
-–hunts	si²hunts¹mᵖ	V;DU;1+EXCL;NEG
-–tu	siᵈ¹n ti²tu²mᵖ	V;DU;1+EXCL;NEG;FUT
-–ta	gi¹ta²	V;SG;2;SS;LGSPEC1
-–pąr	ti¹par²hų²	V;PL;1+EXCL;PST+RMT
-–mę	e¹mę²	V;SG;1;PRS
-–tan	zu²rhan¹	V;PL;3;PST+IMMED
-–mʔan	u²mʔan¹	V;SG;1;PST+IMMED
-–sü	tu¹sü²mᵖ	V;DU;1+EXCL;PST+RMT
-–mę	tu¹mę²hų²	V;PL;1+EXCL;PST+RMT
-–pin	ra¹pin²s	V;DU;1+INCL;SS;LGSPEC1
-–tu	su²tats¹	V;SG;3;NEG
-–ndę	siᵈ¹n gu²ndęr¹hų²	V;PL;1+EXCL;NEG;FUT
-–ha	za²ha²	V;SG;2;SS;LGSPEC1
-–kkü	e²kkü¹mᵖ	V;DU;1+EXCL;PRS
-–pi	ra¹pi²s	V;DU;1+INCL;SS;LGSPEC1
-–sų	gi²sų²n	V;PL;2;SS;LGSPEC1
-–men	u¹men²s	V;DU;1+INCL;PST+IMMED
-–seni	gu²seni¹mᵖ	V;IND;DU;1+EXCL;FUT
-–ʔor	ku²ʔor¹s	V;DU;1+INCL;PST+RCT
-–tsę	tu¹tsę²mᵖ	V;DU;1+EXCL;PST+RMT
-–hunts	ti²hunts¹mᵖ	V;DU;1+EXCL;PST+RMT
-–üts	i²üts¹n	V;PL;2;PST+IMMED
-–ke	ki²k^e¹n	V;PL;2;PRS
-–pin	ra¹pin²hų²	V;PL;1+EXCL;SS;LGSPEC1
-–ʔün	ma²ʔün¹	V;POT;SG;1;FUT
-–nef	e²nef¹	V;SG;1;PRS
-–tsa	mu²tsa²	V;POT;SG;3;FUT
-–hą	ma¹hą²s	V;POT;DU;1+INCL;FUT
-–ngwa¹as	tu¹ngwa¹as²s	V;DU;1+INCL;PST+RMT
-–ngwa¹as	ku¹ngwa¹as²hų²	V;PL;1+EXCL;PST+RCT
-–pü	si²pü¹s	V;DU;2;PRS
-–ngwe	ni¹ką²hų²	V;POT;PL;1+EXCL;FUT
-–kuʔ	si¹kuʔ²	V;SG;2;PRS
-–ngwa¹as	sa¹pa¹as²	V;SG;3;NEG
-–ndü	ki²ndür¹n	V;PL;2;PRS
-–tu	ku²ndu¹s	V;DU;1+INCL;PST+RCT
-–ta	ki²ta²n	V;PL;2;PST+RCT
-–seʔn	ti¹seʔn²hų²	V;PL;1+EXCL;PST+RMT
-–hü	siᵈ¹n ga²hü¹hų²	V;PL;1+EXCL;NEG;FUT
-–hu	i¹hu²mᵖ	V;DU;1+EXCL;PST+IMMED
-–kkü	e²kkü¹s	V;DU;1+INCL;PRS
-–to	nu¹to²s	V;POT;DU;1+INCL;FUT
-–rho	gi²rho¹	V;SG;2;SS;LGSPEC1
-–tav	u²rʔav¹	V;PL;3;PST+RMT
-–ti	ku²ndi²n	V;PL;1+INCL;PST+RCT
-–ppar	zu²ngwar¹	V;SG;3;PST+IMMED
-–pü	sa²pü¹s	V;IND;DU;2;FUT
-–ʔer	siᵈ¹n ga²ʔer¹hų²	V;PL;1+EXCL;NEG;FUT
-–ngwin	ga²min²	V;IND;SG;3;FUT
-–tsę	tu¹tsę²mᵖ	V;DU;1+EXCL;PRS
-–se	mu¹se²	V;POT;SG;3;FUT
-–ndze	na²ndze¹	V;SG;1;SS;LGSPEC1
-–sa	i¹sa²	V;PL;3;PST+IMMED
-–pąr	na¹par²	V;SG;1;SS;LGSPEC1
-–ga	u¹nga²	V;SG;3;PST+RMT
-–sa	ku²tsha²	V;PL;3;PST+RCT
-–ngwa	u¹ngwa²hų²	V;PL;1+EXCL;PST+IMMED
-–ha	siᵈ¹n ta²ha²	V;SG;3;NEG;FUT
-–sa	ka²sa²s	V;DU;2;PRS
-–me	e²me¹	V;SG;1;PRS
-–ngwo	za²ngwo¹s	V;DU;2;SS;LGSPEC1
-–ta	si¹ta²	V;SG;2;NEG
-–ʔe	su²ʔe¹n	V;PL;1+INCL;NEG
-–pon	e²pon²	V;SG;3;PRS
-–mur	sa²mur²s	V;DU;2;PST+RCT
-–sa	ki²sa¹s	V;DU;2;PST+RMT
-–ʔor	nu²ʔor¹s	V;POT;DU;1+INCL;FUT
-–tę	ki²tę¹	V;SG;2;PRS
-–pof	ga¹pof²	V;IND;SG;3;FUT
-–ngwo	na²vo¹	V;PL;3;SS;LGSPEC1
-–poo	ti¹poo²hų²	V;PL;1+EXCL;PST+RMT
-–hun	ga²hun¹mᵖ	V;IND;DU;1+EXCL;FUT
-–kev	gi²kev¹	V;SG;2;SS;LGSPEC1
-–murf	u²murf²	V;SG;3;PST+RMT
-–kkü	si²kkü¹	V;SG;3;NEG
-–pon	ki²mbon²	V;SG;2;PST+RCT
-–ha	e²ha²	V;SG;1;PRS
-–tso	siᵈ¹n ki¹tsor²n	V;PL;2;NEG;FUT
-–pan	ku²pan¹mᵖ	V;DU;1+EXCL;PST+RCT
-–tsün	sa²tsün¹s	V;IND;DU;2;FUT
-–mur	siᵈ¹n sa²mur²	V;SG;2;NEG;FUT
-–pąr	na¹par²	V;POT;SG;3;FUT
-–paa	siᵈ¹n ga¹paan²	V;SG;3;NEG;FUT
-–hą	si¹hą²	V;SG;3;NEG
-–mą	sa²mą²	V;SG;2;NEG
-–ngwe	siᵈ¹n ga²mbe²	V;PL;3;NEG;FUT
-–tü	u¹tü²	V;SG;3;PRS
-–ʔi	tu²ʔi¹	V;SG;1;PST+RMT
-–sų	ga²sų²n	V;IND;PL;1+INCL;FUT
-–tun	ra²tun¹	V;SG;3;SS;LGSPEC1
-–pü	na²pü¹	V;POT;SG;3;FUT
-–kun	ga²kun¹	V;IND;SG;3;FUT
-–tets	ga¹tets²hų²	V;IND;PL;1+EXCL;FUT
-–tsa	u¹tsha²	V;PL;3;PST+RMT
-–poo	si¹poo²s	V;DU;2;NEG
-–pen	ra¹pen²s	V;DU;1+INCL;SS;LGSPEC1
-–ʔo	ki¹ʔo²	V;SG;2;PST+RCT
-–mę	e¹mę²mᵖ	V;DU;1+EXCL;PRS
-–pen	ga¹men²	V;IND;SG;3;FUT
-–ʔer	tu²ʔer¹n	V;PL;1+INCL;PST+RMT
-–ter	sa¹ter²s	V;DU;2;PST+RMT
-–ngwo	si²ngwo¹	V;SG;3;NEG
-–ngwe	ku¹ngwe²hų²	V;PL;1+EXCL;PST+RCT
-–poo	na¹poo²	V;POT;SG;3;FUT
-–tets	tu¹tets²	V;SG;1;PST+RMT
-–tsa	e²tsa²	V;SG;1;PRS
-–ʔe	siᵈ¹n ti¹ʔe²hų²	V;PL;1+EXCL;NEG;FUT
-–mir	si¹mir²	V;SG;2;NEG
-–ngwa¹as	u¹ngwa¹as²hų²	V;PL;1+EXCL;PST+IMMED
-–ʔor	ra²ʔor¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–tsa	siᵈ¹n gu¹tsa²	V;SG;1;NEG;FUT
-–ngwa	ra¹ngwa²s	V;DU;1+INCL;SS;LGSPEC1
-–ʔi	nu²ʔi¹	V;POT;SG;1;FUT
-–ʔür	ku²ʔür¹mᵖ	V;DU;1+EXCL;PST+RCT
-–te	ki²te¹s	V;DU;2;PST+RMT
-–tu	ki²tu¹	V;SG;2;PRS
-–ngwe	u¹ngwe²	V;SG;1;PST+IMMED
-–sa	sa²sa¹	V;SG;2;PST+RCT
-–ngwe	ga¹me²	V;IND;SG;3;FUT
-–nu	su¹nu²	V;SG;3;NEG
-–hu	si¹hu²mᵖ	V;DU;1+EXCL;NEG
-–tu	gi²tur²n	V;IND;PL;1+INCL;FUT
-–hunts	i²hunts¹	V;SG;3;PST+IMMED
-–ʔer	ga²ʔer¹mᵖ	V;IND;DU;1+EXCL;FUT
-–yuts	si²yuts²	V;SG;1;NEG
-–yuts	i²yuts²	V;PL;3;PRS
-–kun	ma²kun¹mᵖ	V;POT;DU;1+EXCL;FUT
-–mę	gi²mę¹n	V;PL;2;SS;LGSPEC1
-–hu	ki¹hu²s	V;DU;2;PST+RCT
-–ʔer	e²rʔer¹	V;PL;3;PRS
-–pon	u²ngwon²hų²	V;PL;1+EXCL;PST+IMMED
-–tso	mi¹tsor²n	V;POT;PL;2;FUT
-–men	u¹men²n	V;PL;1+INCL;PST+IMMED
-–ʔi	u¹ti²	V;PL;3;PST+RMT
-–hü	ki²hü¹	V;SG;2;PST+RMT
-–tą	tu²tą¹mᵖ	V;DU;1+EXCL;PST+RMT
-–tso	e²tso²mᵖ	V;DU;1+EXCL;PRS
-–mur	ti²mur²hų²	V;IND;PL;1+EXCL;FUT
-–pii	su²ngwii¹	V;SG;1;NEG
-–tsę	u¹tsę²hų²	V;PL;1+EXCL;PST+IMMED
-–ʔo	mi¹ʔo²	V;POT;SG;2;FUT
-–ʔets	gi²ʔets¹	V;SG;2;SS;LGSPEC1
-–por	tu¹por²mᵖ	V;DU;1+EXCL;PST+RMT
-–ten	siᵈ¹n ga¹ten²hų²	V;PL;1+EXCL;NEG;FUT
-–tso	mi¹tso²s	V;POT;DU;2;FUT
-–te	siᵈ¹n ti²te¹s	V;DU;1+INCL;NEG;FUT
-–hu	za¹hu²	V;SG;2;SS;LGSPEC1
-–ndę	u²ndęr¹hų²	V;PL;1+EXCL;PRS
-–murf	mi²murf²	V;POT;SG;2;FUT
-–ngwa	ka²ngwa¹s	V;IND;DU;2;FUT
-–kun	ki²kun¹	V;IND;SG;2;FUT
-–ndze	ki²ndzer¹n	V;PL;1+INCL;PST+IMMED
-–ʔo	u²ʔo¹s	V;DU;1+INCL;PST+IMMED
-–pi	mi²ngwi¹s	V;POT;DU;2;FUT
-–pen	ga²pen¹	V;IND;SG;1;FUT
-–ppi	ra²ppi¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–sa	ti¹sa²hų²	V;PL;1+EXCL;PRS
-–ʔür	tu²ʔür¹mᵖ	V;DU;1+EXCL;PST+RMT
-–mę	ku¹mę²n	V;PL;1+INCL;PST+RCT
-–seʔn	siᵈ¹n ti¹seʔn²hų²	V;PL;1+EXCL;NEG;FUT
-–hi	u²rhi²	V;PL;3;PST+RMT
-–ʔun	siᵈ¹n gu²ʔun¹n	V;PL;1+INCL;NEG;FUT
-–pe	ki²pe¹s	V;DU;2;PST+RMT
-–me	ti²mer¹n	V;PL;1+INCL;PST+RMT
-–po	e²po²mᵖ	V;DU;1+EXCL;PRS
-–üts	za²üts¹s	V;POT;DU;2;FUT
-–ʔun	na²ʔun¹	V;SG;1;SS;LGSPEC1
-–mą	su²mą²n	V;PL;1+INCL;NEG
-–ʔi	ki²ʔi¹s	V;DU;2;PST+RMT
-–me	e²me¹	V;SG;3;PRS
-–sus	tu²sus¹n	V;PL;1+INCL;PST+RMT
-–ngwin	tu²ngwin¹mᵖ	V;DU;1+EXCL;PST+RMT
-–tan	ki²tan¹n	V;PL;2;PST+RMT
-–ʔe	ki¹te²n	V;PL;2;PST+RMT
-–hu	ti¹hu²hų²	V;IND;PL;1+EXCL;FUT
-–sa	e²sa¹	V;SG;1;PRS
-–ʔün	mu²ʔün¹hų²	V;POT;PL;1+EXCL;FUT
-–ngwe	ru²me²	V;SG;3;SS;LGSPEC1
-–tav	nu²tav¹hų²	V;POT;PL;1+EXCL;FUT
-–ngwa	siᵈ¹n ka²ngwa¹	V;SG;2;NEG;FUT
-–tets	gi¹tets²s	V;DU;2;SS;LGSPEC1
-–sa	ra²sa²	V;SG;1;SS;LGSPEC1
-–tę	ga²tę¹	V;IND;SG;1;FUT
-–pü	sa²pü¹	V;SG;2;PST+RMT
-–tun	ki²tun¹n	V;IND;PL;2;FUT
-–tsün	ti²tsün¹hų²	V;IND;PL;1+EXCL;FUT
-–hun	siᵈ¹n ki¹nhin²n	V;PL;2;NEG;FUT
-–pąr	i¹par²	V;PL;3;PRS
-–pan	ki²pan¹	V;SG;2;PST+RMT
-–ngwa¹as	ka¹ngwa¹as²s	V;DU;2;PST+RCT
-–mą	tu²mą²hų²	V;PL;1+EXCL;PRS
-–ʔi	mi²ʔi¹	V;POT;PL;3;FUT
-–ʔü	mi¹ʔü²s	V;POT;DU;2;FUT
-–nda	sa²nda¹	V;SG;2;PST+RMT
-–sa	siᵈ¹n ti²sa¹hų²	V;PL;1+EXCL;NEG;FUT
-–hą	u¹hąr²n	V;PL;1+INCL;PRS
-–te	sa²te¹	V;SG;1;PST+RCT
-–tsoh	su²tsoh¹s	V;DU;2;PRS
-–pą	ki¹pą²s	V;DU;2;PRS
-–poo	ta¹nhür²	V;PL;3;PST+RMT
-–mur	si²mur²	V;SG;2;PRS
-–ʔür	ku²ʔür¹s	V;DU;1+INCL;PST+RCT
-–tsa	ki²tsa¹s	V;DU;2;PRS
-–pen	mu²ngwe¹	V;POT;SG;3;FUT
-–ʔo	nu¹ʔo²mᵖ	V;POT;DU;1+EXCL;FUT
-–sa	siᵈ¹n ga²tsha²	V;PL;3;NEG;FUT
-–tets	tu¹tets²s	V;DU;1+INCL;PST+RMT
-–ʔer	mi²ʔer¹s	V;POT;DU;2;FUT
-–ngwo	si²ngwo¹n	V;PL;2;PRS
-–hü	ki²hü¹s	V;DU;2;PST+RCT
-–ngweʔn	sa¹ngweʔn²	V;SG;2;PST+RCT
-–ti	siᵈ¹n ga²rhi²	V;PL;3;NEG;FUT
-–pą	e¹mbą²	V;PL;3;PRS
-–ʔe	su²ʔe¹mᵖ	V;DU;1+EXCL;NEG
-–ngweʔn	siᵈ¹n ta¹ngweʔn²	V;SG;3;NEG;FUT
-–hu	ti¹hu²n	V;PL;1+INCL;PST+RMT
-–pii	u¹piin²	V;SG;3;PST+RMT
-–me	siᵈ¹n gi²mer¹n	V;PL;1+INCL;NEG;FUT
-–khar	nu²khar¹hų²	V;POT;PL;1+EXCL;FUT
-–tsa	siᵈ¹n ki²tsa¹	V;SG;2;NEG;FUT
-–ʔi	mi²ʔi¹n	V;POT;PL;2;FUT
-–ngweʔn	sa¹ngweʔn²s	V;DU;2;PST+RCT
-–peʔn	ku²mbeʔn¹s	V;DU;1+INCL;PST+RCT
-–ʔi	ki²ʔi¹n	V;IND;PL;2;FUT
-–ngwo	si²ngwo¹s	V;DU;1+INCL;PST+RCT
-–se	siᵈ¹n ki¹se²s	V;DU;2;NEG;FUT
-–ʔi	zu¹rʔi²	V;PL;3;PST+IMMED
-–hi	ra²hi²s	V;DU;1+INCL;SS;LGSPEC1
-–ko	su²ko²mᵖ	V;DU;1+EXCL;NEG
-–pen	u²mbe¹	V;PL;3;PST+RMT
-–nov	su²nov¹	V;SG;2;PRS
-–mir	si¹mir²mᵖ	V;DU;1+EXCL;NEG
-–ha	ra²ha²	V;SG;1;SS;LGSPEC1
-–ppo	siᵈ¹n ta²ppo²	V;PL;3;NEG;FUT
-–ga	siᵈ¹n gu¹ga²s	V;DU;1+INCL;NEG;FUT
-–seni	ga²seni¹	V;IND;SG;3;FUT
-–tü	si²tü¹n	V;PL;1+INCL;PST+RCT
-–mben	gu²mben¹n	V;IND;PL;1+INCL;FUT
-–mę	ki²mę²	V;IND;SG;2;FUT
-–hą	ki¹hąr²hų²	V;PL;1+EXCL;PST+RCT
-–sus	ku²sus¹n	V;PL;1+INCL;PST+RCT
-–tun	nu²tun¹n	V;PL;1+INCL;SS;LGSPEC1
-–ʔi	ku²ʔir²	V;PL;3;PST+RCT
-–sü	ga¹sü²	V;IND;SG;3;FUT
-–pe	ga²pe¹mᵖ	V;IND;DU;1+EXCL;FUT
-–tu	si¹nu²mᵖ	V;DU;1+EXCL;NEG
-–ngwe	siᵈ¹n ka¹ngwe²	V;SG;2;NEG;FUT
-–ʔi	siᵈ¹n gu²ʔi¹hų²	V;PL;1+EXCL;NEG;FUT
-–tets	ki¹tets²	V;IND;SG;2;FUT
-–ʔi	su²ʔi¹s	V;DU;1+INCL;NEG
-–ker	siᵈ¹n ga²ker¹hų²	V;PL;1+EXCL;NEG;FUT
-–ser	i²ser¹	V;PL;3;PST+IMMED
-–ʔer	siᵈ¹n ki²ʔer¹	V;SG;2;NEG;FUT
-–kün	e²kün¹s	V;DU;1+INCL;PRS
-–men	nu¹men²s	V;POT;DU;1+INCL;FUT
-–ʔets	ki²ʔets¹s	V;DU;2;PST+RMT
-–por	ga²por¹hų²	V;IND;PL;1+EXCL;FUT
-–no	ki²no¹s	V;IND;DU;2;FUT
-–po	nu²ngwo¹	V;POT;SG;1;FUT
+–hu	ni¹hu²mᵖ	V;POT;DU;1+EXCL;FUT
+–kun	ga²kun¹s	V;IND;DU;1+INCL;FUT
+–ke	su²k^e¹	V;SG;1;NEG
+–ko	u²ko²	V;SG;1;PST+IMMED
 –pa	u¹ngwa²	V;SG;1;PST+IMMED
-–pen	tu²pen¹n	V;PL;1+INCL;PST+RMT
-–pen	u²ngwe¹mᵖ	V;DU;1+EXCL;PST+IMMED
-–mʔan	ga²mʔan¹	V;IND;SG;1;FUT
-–tu	ni²tu²s	V;DU;1+INCL;SS;LGSPEC1
-–mir	ta¹mir²	V;IND;SG;1;FUT
-–ngwa	ga²ngwa¹	V;SG;2;SS;LGSPEC1
-–po	su²ngwo¹s	V;DU;1+INCL;NEG
-–ppi	e²ppi¹	V;SG;1;PRS
-–tuts	siᵈ¹n ga²tuts¹hų²	V;PL;1+EXCL;NEG;FUT
-–pen	nu²ngwen¹n	V;POT;PL;1+INCL;FUT
-–ʔi	ki²ʔi²	V;IND;SG;2;FUT
-–ta	u²ta²	V;SG;1;PST+IMMED
-–tü	ma²tü¹	V;POT;SG;1;FUT
-–mę	ki²mę²	V;SG;2;PST+RMT
-–ta	e²ta¹	V;SG;3;PRS
-–hu	siᵈ¹n ga²hu¹s	V;DU;1+INCL;NEG;FUT
-–pii	gi¹ngwii²n	V;PL;2;SS;LGSPEC1
-–pi	u¹ngwi²s	V;DU;1+INCL;PST+IMMED
-–sa	u²sa²mᵖ	V;DU;1+EXCL;PST+IMMED
-–no	su²no¹	V;SG;3;NEG
-–po	su²ngwo¹	V;SG;1;NEG
-–tę	ga²tę¹n	V;IND;PL;1+INCL;FUT
-–ter	ti¹ter²hų²	V;PL;1+EXCL;PRS
-–sa	e²tsha¹	V;PL;3;PRS
-–tü	siᵈ¹n ga¹tü²	V;PL;3;NEG;FUT
-–ką	ki²ką¹	V;SG;2;PST+RCT
-–ʔo	ga¹rʔo²	V;IND;PL;3;FUT
-–tso	si¹tsor²n	V;PL;2;NEG
-–tą	ra²tą¹	V;SG;1;SS;LGSPEC1
-–hu	na¹hu²	V;SG;3;SS;LGSPEC1
-–tan	ga¹ran²	V;IND;SG;3;FUT
-–ʔü	ga²nʔü¹	V;IND;SG;3;FUT
-–seʔn	siᵈ¹n ti¹seʔn²s	V;DU;1+INCL;NEG;FUT
-–he	e²he¹mᵖ	V;DU;1+EXCL;PRS
-–tun	si²tun¹s	V;DU;1+INCL;NEG
-–ngwe	ka¹ngwe²s	V;DU;2;PST+RMT
-–ker	gi¹ker²n	V;PL;2;SS;LGSPEC1
-–murf	ki²murf²n	V;PL;2;PRS
-–no	ra²no¹n	V;PL;1+INCL;SS;LGSPEC1
-–por	ru²phor¹	V;PL;3;SS;LGSPEC1
-–ʔi	siᵈ¹n ga²ʔi¹	V;PL;3;NEG;FUT
-–ha	nu²ha²s	V;POT;DU;1+INCL;FUT
-–hą	ta¹hą²	V;SG;1;PST+RMT
-–ter	i¹ter²s	V;DU;2;PST+IMMED
-–mur	siᵈ¹n ta²mur²	V;PL;3;NEG;FUT
-–ga	ga¹nga²	V;IND;PL;3;FUT
-–tav	mi²tav¹	V;POT;SG;2;FUT
-–tuts	nu²tuts¹n	V;POT;PL;1+INCL;FUT
-–aʔi	si¹aʔi²	V;SG;2;PRS
-–mir	ni¹mir²n	V;POT;PL;1+INCL;FUT
-–nov	ki²nov¹	V;SG;2;PST+RCT
-–tü	e²tü¹s	V;DU;1+INCL;PRS
-–ter	si¹ter²s	V;DU;1+INCL;NEG
-–sü	ta²sü¹	V;IND;PL;3;FUT
-–pen	su²ngwe¹hų²	V;PL;1+EXCL;NEG
-–hą	ku¹hąr²	V;PL;3;PST+RCT
-–üts	si²üts¹	V;PL;3;NEG
-–ʔan	ku¹ʔan²s	V;DU;1+INCL;PST+RCT
-–tü	ra¹tü²s	V;DU;1+INCL;SS;LGSPEC1
-–ke	siᵈ¹n ga²k^e¹hų²	V;PL;1+EXCL;NEG;FUT
-–pąr	ta¹par²	V;IND;SG;1;FUT
-–nef	siᵈ¹n ki²nef¹s	V;DU;2;NEG;FUT
-–murf	ki²murf²n	V;IND;PL;2;FUT
+–no	ku²no¹n	V;PL;1+INCL;PST+RCT
+–se	ga²se¹n	V;IND;PL;1+INCL;FUT
+–nef	i²nef¹n	V;PL;2;PST+IMMED
+–poo	ta¹nhür²	V;PL;3;PST+RMT
+–pü	ni²pü¹hų²	V;POT;PL;1+EXCL;FUT
 –pa	ki²pa¹n	V;PL;2;PRS
-–ngwin	ga²ngwin¹	V;IND;SG;1;FUT
-–pii	u²ngwii¹n	V;PL;1+INCL;PST+IMMED
-–kets	ki²kets¹n	V;PL;2;PRS
-–sus	ru²sus¹	V;SG;3;SS;LGSPEC1
-–rho	u²rho¹n	V;PL;1+INCL;PST+IMMED
-–mę	nu²mę²	V;POT;SG;1;FUT
-–he	siᵈ¹n ga²he¹n	V;PL;1+INCL;NEG;FUT
-–mą	siᵈ¹n ki²mą²s	V;DU;2;NEG;FUT
-–sempf	nu²sempf²hų²	V;POT;PL;1+EXCL;FUT
-–sa	ni²sa¹hų²	V;POT;PL;1+EXCL;FUT
-–aʔi	na¹ati²	V;PL;3;SS;LGSPEC1
-–aʔi	ni¹aʔi²mᵖ	V;POT;DU;1+EXCL;FUT
-–üts	na²üts¹	V;POT;PL;3;FUT
-–tats	tu²tats¹n	V;PL;1+INCL;PST+RMT
-–hu	ga²hu¹mᵖ	V;IND;DU;1+EXCL;FUT
-–pe	ga²mbe¹	V;IND;PL;3;FUT
-–tun	gi²tun¹s	V;DU;2;SS;LGSPEC1
-–pof	ki¹pof²s	V;IND;DU;2;FUT
-–nov	su²nov¹n	V;PL;1+INCL;NEG
-–tę	ku²ndę¹mᵖ	V;DU;1+EXCL;PST+RCT
-–por	ka²por¹n	V;IND;PL;2;FUT
-–sa	ka²sa²	V;IND;SG;2;FUT
-–ʔe	u²ʔe¹s	V;DU;1+INCL;PST+IMMED
-–mben	gu²mben¹hų²	V;IND;PL;1+EXCL;FUT
-–tu	ti²tur²hų²	V;PL;1+EXCL;PST+RMT
-–kets	nu²kets¹hų²	V;POT;PL;1+EXCL;FUT
-–rę	i²rę¹n	V;PL;2;PST+IMMED
-–ha	mi²rha²	V;POT;PL;3;FUT
-–to	zu¹rho²	V;PL;3;PST+IMMED
-–ʔets	ku²ʔets¹mᵖ	V;DU;1+EXCL;PST+RCT
-–mą	ru²mą²	V;SG;3;SS;LGSPEC1
-–mur	sa²mur²	V;SG;2;PST+RMT
-–ʔa	ga²ʔa²s	V;IND;DU;1+INCL;FUT
-–pi	ki²pi¹s	V;IND;DU;2;FUT
-–murf	siᵈ¹n ga²murf²s	V;DU;1+INCL;NEG;FUT
-–tan	mi¹tan²	V;POT;SG;2;FUT
-–sü	na²sü¹	V;POT;PL;3;FUT
-–pąr	si¹par²hų²	V;PL;1+EXCL;NEG
-–ndü	mi²ndür¹	V;POT;PL;3;FUT
-–tav	ra²tav¹n	V;PL;1+INCL;SS;LGSPEC1
-–ʔü	ki²ʔü¹	V;SG;2;PRS
-–ngwi¹ʔi	ga¹phi¹ʔi²	V;IND;PL;3;FUT
-–ta	ki²ta²s	V;DU;2;PRS
-–ʔer	tu²ʔer¹	V;SG;1;PST+RMT
-–kun	u²kun¹	V;SG;1;PST+IMMED
-–ndun	nu²ndun¹hų²	V;POT;PL;1+EXCL;FUT
-–tę	ra²tę¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–pii	tu²pii¹n	V;PL;1+INCL;PST+RMT
-–ku	i²ku²	V;SG;3;PST+IMMED
-–ngwi¹ʔi	ka¹ngwi¹ʔi²n	V;IND;PL;2;FUT
-–seʔn	sa¹seʔn²	V;PL;3;PST+RCT
-–üts	siᵈ¹n ta²üts¹	V;SG;1;NEG;FUT
-–ppo	sa²ppo²	V;SG;1;PST+RCT
-–her	ki¹nher²n	V;PL;2;PST+RMT
-–ndze	nu²ndzer¹n	V;PL;1+INCL;SS;LGSPEC1
-–ʔü	ki²ʔü¹	V;SG;2;PRS
-–ke	gi²k^e¹s	V;DU;2;SS;LGSPEC1
-–üts	za²üts¹	V;SG;2;SS;LGSPEC1
-–hu	ra²hu¹hų²	V;PL;1+EXCL;SS;LGSPEC1
-–ʔün	siᵈ¹n ki²ʔün¹s	V;DU;2;NEG;FUT
-–ʔor	zu²ʔor¹	V;SG;3;PST+IMMED
-–sa	e²sa²	V;SG;1;PRS
-–kun	na²kun¹	V;SG;1;SS;LGSPEC1
-–mę	u²mhę²	V;PL;3;PST+RMT
-–kev	ru²khev¹	V;PL;3;SS;LGSPEC1
-–sa	ni¹sa²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
-–poo	i¹poo²s	V;DU;2;PST+IMMED
-–ʔür	ku²ʔür¹hų²	V;PL;1+EXCL;PST+RCT
-–ter	i¹ter²	V;PL;3;PRS
-–hun	su²hun¹	V;SG;3;NEG
-–pan	ga²pan¹s	V;IND;DU;1+INCL;FUT
-–te	i²te¹	V;SG;3;PRS
-–ku	siᵈ¹n sa²ku²	V;SG;2;NEG;FUT
-–ter	ta¹ter²	V;PL;3;PST+RMT
-–peʔn	nu²ngweʔn¹s	V;POT;DU;1+INCL;FUT
-–pii	ki¹pii²s	V;IND;DU;2;FUT
-–ppo	siᵈ¹n ti²ppo²mᵖ	V;DU;1+EXCL;NEG;FUT
-–pon	e²pon²mᵖ	V;DU;1+EXCL;PRS
-–ʔun	ki²ʔun¹	V;SG;2;PST+RMT
-–tets	nu¹tets²mᵖ	V;POT;DU;1+EXCL;FUT
+–tso	gu¹tsor²hų²	V;IND;PL;1+EXCL;FUT
+–ʔür	tu²ʔür¹mᵖ	V;DU;1+EXCL;PST+RMT
+–sa	u²sa¹s	V;DU;1+INCL;PST+IMMED
+–he	ru¹rhe²	V;PL;3;SS;LGSPEC1
+–kaf	ga¹khaf²	V;IND;PL;3;FUT
+–sa	i¹sa²	V;PL;3;PST+IMMED
+–sempf	e²tsempf²	V;PL;3;PRS
+–ngwa	ga²ngwa¹	V;SG;2;SS;LGSPEC1
+–her	ki¹her²s	V;IND;DU;2;FUT
+–pon	e²pon²n	V;PL;1+INCL;PRS
 –ppi	u²vi¹	V;SG;3;PST+RMT
-–tsün	ti²tsün¹n	V;IND;PL;1+INCL;FUT
+–sus	ku²sus¹n	V;PL;1+INCL;PST+RCT
+–khar	nu²khar¹	V;POT;SG;1;FUT
+–ngwe	ki²me¹s	V;DU;2;PRS
+–pen	ru²pen¹	V;PL;3;SS;LGSPEC1
+–pi	siᵈ¹n ga¹pi²n	V;PL;1+INCL;NEG;FUT
+–hu	siᵈ¹n ga²hu¹s	V;DU;1+INCL;NEG;FUT
+–hu	u¹hu²	V;PL;3;PST+RMT
+–ngwa	siᵈ¹n ga¹ngwa²n	V;PL;1+INCL;NEG;FUT
+–pon	e²pon²	V;SG;3;PRS
+–tso	mi¹tsor²n	V;POT;PL;2;FUT
+–tso	ti¹tso²mᵖ	V;IND;DU;1+EXCL;FUT
+–me	siᵈ¹n ta²mer¹	V;PL;3;NEG;FUT
+–ngwa¹as	ku¹ngwa¹as²hų²	V;PL;1+EXCL;PST+RCT
+–mę	si²mę¹s	V;DU;2;NEG
+–mʔan	zu²mhan¹	V;PL;3;PST+IMMED
+–tsoh	ku²tsoh¹hų²	V;PL;1+EXCL;PST+RCT
+–ser	i²ser¹hų²	V;PL;1+EXCL;PST+IMMED
 –ppo	sa²ppo²	V;PL;3;PST+RCT
+–sa	siᵈ¹n ga¹sa²n	V;PL;1+INCL;NEG;FUT
+–tsa	i²tsa¹	V;SG;2;PST+IMMED
+–sü	na²sü¹	V;POT;PL;3;FUT
+–mʔan	ki²mʔan¹n	V;PL;2;PRS
+–hi	ra²hi²s	V;DU;1+INCL;SS;LGSPEC1
+–sü	u¹shü²	V;PL;3;PST+RMT
+–to	su¹to²	V;SG;3;NEG
+–mer	si¹mer²	V;SG;3;NEG
+–to	siᵈ¹n ki¹to²n	V;PL;2;NEG;FUT
+–ppar	tu²ppar¹hų²	V;PL;1+EXCL;PST+RMT
+–no	su²no¹	V;SG;2;PRS
+–hą	ku¹hąr²	V;PL;3;PST+RCT
+–tü	si²tü¹n	V;PL;1+INCL;PST+RCT
+–kün	gi²kün¹n	V;PL;2;SS;LGSPEC1
+–kaf	ru¹gaf²	V;SG;3;SS;LGSPEC1
+–tso	ki²tso¹	V;SG;2;PST+RCT
+–ʔa	u²rʔa²	V;PL;3;PST+RMT
+–sa	e²sa²s	V;DU;1+INCL;PRS
+–ʔor	u²ʔor¹mᵖ	V;DU;1+EXCL;PST+IMMED
+–tsün	si²tsün¹mᵖ	V;DU;1+EXCL;PST+RCT
+–hi	u²rhi²	V;PL;3;PST+RMT
+–kkü	ki²kkü¹	V;IND;SG;2;FUT
+–ʔe	ki²ʔe¹	V;SG;2;PST+RMT
+–to	tu¹to²	V;SG;1;PST+RMT
+–me	mi²mhe¹	V;POT;PL;3;FUT
+–ʔü	ga²nʔü¹	V;IND;SG;3;FUT
+–sa	nu²sa²	V;POT;SG;1;FUT
+–poo	ti¹poo²n	V;IND;PL;1+INCL;FUT
+–ti	mi²ti²	V;POT;SG;2;FUT
+–po	ma²po²	V;POT;SG;3;FUT
+–nef	e²nef¹	V;SG;1;PRS
+–ngweʔn	si¹ngweʔn²n	V;PL;1+INCL;NEG
+–ta	su²ta²hų²	V;PL;1+EXCL;NEG
+–pe	ku²mbe²hų²	V;PL;1+EXCL;PST+RCT
+–aʔi	na¹ati²	V;PL;3;SS;LGSPEC1
+–kun	tu²kun¹hų²	V;PL;1+EXCL;PST+RMT
+–kkü	gu²kkür¹n	V;IND;PL;1+INCL;FUT
+–pen	i²pen¹s	V;DU;2;PST+IMMED
+–rų/ndu	e¹rų/ndu²	V;SG;3;PRS
+–ʔi	siᵈ¹n ki²ʔi²s	V;DU;2;NEG;FUT
+–mę	su¹mę²	V;SG;1;NEG
+–hu	u²hu¹hų²	V;PL;1+EXCL;PST+IMMED
+–tats	ku²ndats¹mᵖ	V;DU;1+EXCL;PST+RCT
+–ko	siᵈ¹n ki²ko²s	V;DU;2;NEG;FUT
+–tuts	ki²tuts¹s	V;IND;DU;2;FUT
+–ndun	e²ndun¹s	V;DU;1+INCL;PRS
+–tcon	siᵈ¹n ki²tcon¹n	V;PL;2;NEG;FUT
+–maf	ki¹maf²s	V;DU;2;PST+RMT
+–rho	ki²rho¹s	V;IND;DU;2;FUT
+–ʔi	ki²ʔi¹n	V;IND;PL;2;FUT
+–seni	su²seni¹s	V;DU;2;PST+RMT
+–ga	gi¹ga²	V;SG;2;SS;LGSPEC1
+–tsę	ki¹tsę²s	V;DU;2;PST+RCT
+–ke	siᵈ¹n ga²k^e¹hų²	V;PL;1+EXCL;NEG;FUT
+–tun	su²tun¹n	V;PL;1+INCL;NEG
+–tsoh	ki²tcon¹n	V;PL;2;PST+RCT
+–ʔün	mu²ʔün¹hų²	V;POT;PL;1+EXCL;FUT
+–mę	u¹mę²s	V;DU;1+INCL;PST+IMMED
+–ga	ra¹ga²hų²	V;PL;1+EXCL;SS;LGSPEC1
+–pof	u¹phof²	V;PL;3;PST+RMT
+–tun	siᵈ¹n ga²tun¹	V;PL;3;NEG;FUT
+–paa	ku²mbaan¹	V;SG;1;PST+RCT
+–pof	gi¹pof²	V;SG;2;SS;LGSPEC1
+–ha	sa²ha²	V;SG;1;PST+RCT
+–pa	gi²pa¹	V;SG;2;SS;LGSPEC1
+–kuʔ	ti¹kuʔ²	V;SG;1;PRS
+–ʔa	siᵈ¹n ga²ʔa²s	V;DU;1+INCL;NEG;FUT
+–hunts	i²hunts¹	V;SG;1;PST+IMMED
+–mur	ni²mur²n	V;POT;PL;1+INCL;FUT
+–pa	nu¹ngwa²s	V;POT;DU;1+INCL;FUT
+–mą	e²mą²n	V;PL;2;PST+IMMED
+–ʔi	ki¹ti²n	V;IND;PL;2;FUT
+–ngwin	tu²ngwin¹mᵖ	V;DU;1+EXCL;PST+RMT
+–ha	ra²ha²	V;SG;1;SS;LGSPEC1
+–to	nu¹to²s	V;POT;DU;1+INCL;FUT
+–tą	ra²tą¹	V;SG;1;SS;LGSPEC1
+–por	ga²por¹s	V;DU;2;SS;LGSPEC1
+–tav	mi²tav¹	V;POT;SG;2;FUT
+–pii	ki¹pii²s	V;IND;DU;2;FUT
+–kev	mi²khev¹	V;POT;PL;3;FUT
+–ppo	siᵈ¹n ti²ppo²mᵖ	V;DU;1+EXCL;NEG;FUT
+–nda	i²nda¹	V;SG;1;PST+IMMED
+–peʔn	u²ngweʔn¹mᵖ	V;DU;1+EXCL;PST+IMMED
+–ʔets	su²ʔets¹s	V;DU;1+INCL;NEG
+–ha	ga²nha²	V;IND;SG;3;FUT
+–pii	siᵈ¹n ga²pii¹	V;SG;1;NEG;FUT
+–sü	u¹sü²s	V;DU;1+INCL;PST+IMMED
+–mę	su¹mę²s	V;DU;1+INCL;NEG
+–mer	ti¹mer²hų²	V;IND;PL;1+EXCL;FUT
+–ʔe	ki¹ʔe²	V;SG;2;PST+RCT
+–tę	ga²tę¹	V;IND;SG;1;FUT
+–ʔür	ru²ndür¹	V;SG;3;SS;LGSPEC1
+–pan	ku²pan¹mᵖ	V;DU;1+EXCL;PST+RCT
+–ga	i¹ga²	V;SG;2;PST+IMMED
+–no	siᵈ¹n ga²no¹	V;SG;3;NEG;FUT
+–pe	ga¹pe²mᵖ	V;IND;DU;1+EXCL;FUT
+–tu	ki²ndu¹	V;SG;2;PST+RCT
+–tü	e²tü¹s	V;DU;1+INCL;PRS
+–mʔan	ga²mʔan¹	V;IND;SG;1;FUT
+–seni	gu²seni¹mᵖ	V;IND;DU;1+EXCL;FUT
+–ppar	siᵈ¹n ga²ppar¹hų²	V;PL;1+EXCL;NEG;FUT
+–ʔü	ki²ʔü¹	V;SG;2;PST+RMT
+–pąr	ta¹par²	V;IND;SG;1;FUT
+–her	tu²her¹n	V;PL;1+INCL;PST+RMT
+–ką	siᵈ¹n ki²ką¹s	V;DU;2;NEG;FUT
+–mą	ka²mą²n	V;IND;PL;2;FUT
+–ta	i²ta²s	V;DU;2;PST+IMMED
+–kets	ki²kets¹n	V;PL;2;PRS
+–poo	siᵈ¹n sa¹poo²	V;SG;2;NEG;FUT
+–hü	nu²hü¹mᵖ	V;POT;DU;1+EXCL;FUT
+–hą	e¹hą²	V;SG;3;PRS
+–pi	ku²mi¹	V;SG;3;PST+RCT
+–ʔer	ki²tir¹n	V;PL;2;PST+RCT
+–pin	e¹pin²mᵖ	V;DU;1+EXCL;PRS
+–rę	mi²rę¹n	V;POT;PL;2;FUT
+–hun	tu²hun¹	V;SG;1;PST+RMT
+–ko	ru²kho²	V;PL;3;SS;LGSPEC1
+–no	su²no¹	V;SG;3;NEG
+–nov	ki²nov¹	V;SG;2;PST+RCT
+–me	nu²me¹n	V;POT;PL;1+INCL;FUT
+–tso	siᵈ¹n ki¹tsor²n	V;PL;2;NEG;FUT
+–ndze	ga²ndze¹	V;IND;SG;3;FUT
+–ngwi¹ʔi	ka¹ngwi¹ʔi²s	V;DU;2;PST+RCT
+–kün	siᵈ¹n ga²kün¹mᵖ	V;DU;1+EXCL;NEG;FUT
+–ser	si²ser¹hų²	V;PL;1+EXCL;NEG
+–rho	gi²rho¹	V;SG;2;SS;LGSPEC1
+–rų/ndu	ki¹rų/ndu²	V;SG;2;PST+RMT
+–tcon	u²tcon¹	V;SG;1;PST+IMMED
+–hi	su²hi²n	V;PL;1+INCL;NEG
+–nu	su¹nu²	V;SG;3;NEG
+–mur	ti²mur²hų²	V;IND;PL;1+EXCL;FUT
+–kun	ki²kun¹mᵖ	V;DU;1+EXCL;PST+RCT
+–ngwe	siᵈ¹n ta¹ngwe²	V;SG;3;NEG;FUT
+–pen	mu²ngwe¹	V;POT;SG;3;FUT
+–pon	nu²ngwon²n	V;POT;PL;1+INCL;FUT
+–sa	e²sa¹	V;SG;1;PRS
+–mur	na²mur²	V;POT;SG;3;FUT
+–sa	e²sa²	V;SG;1;PRS
+–pąr	ni¹par²s	V;DU;1+INCL;SS;LGSPEC1
+–ha	nu²ha²s	V;POT;DU;1+INCL;FUT
+–hi	u²hi²mᵖ	V;DU;1+EXCL;PST+IMMED
+–kkü	ki²kkü¹s	V;IND;DU;2;FUT
+–mer	ni¹mer²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–tun	ra²tun¹	V;SG;3;SS;LGSPEC1
+–poo	si¹poo²	V;SG;2;PRS
+–hą	u¹hąr²n	V;PL;1+INCL;PRS
+–sa	ka²sa²	V;SG;2;PST+RMT
+–hu	ra²hu¹s	V;DU;1+INCL;SS;LGSPEC1
+–ga	siᵈ¹n ki¹ga²s	V;DU;2;NEG;FUT
+–he	nu¹he²mᵖ	V;POT;DU;1+EXCL;FUT
+–ʔi	si²ʔi²mᵖ	V;DU;1+EXCL;NEG
+–peʔn	siᵈ¹n ki²peʔn¹	V;SG;2;NEG;FUT
+–ker	ra²ker¹hų²	V;PL;1+EXCL;SS;LGSPEC1
+–peʔn	ku²mbeʔn¹s	V;DU;1+INCL;PST+RCT
+–kün	ku²ngün¹hų²	V;PL;1+EXCL;PST+RCT
+–ngwo	na²vo¹	V;PL;3;SS;LGSPEC1
+–ʔi	mi²ʔi¹n	V;POT;PL;2;FUT
+–sa	u¹sa²n	V;PL;1+INCL;PST+IMMED
+–kev	gi²kev¹	V;SG;2;SS;LGSPEC1
+–hunts	ni²hunts¹hų²	V;PL;1+EXCL;SS;LGSPEC1
+–sa	ka²sa²	V;IND;SG;2;FUT
+–rho	u²tho¹	V;SG;3;PRS
+–seʔn	ti¹seʔn²hų²	V;PL;1+EXCL;PST+RMT
+–me	ku²me¹	V;SG;3;PST+RCT
+–ʔun	siᵈ¹n gu²ʔun¹hų²	V;PL;1+EXCL;NEG;FUT
+–pi	ra¹pi²s	V;DU;1+INCL;SS;LGSPEC1
+–ke	tu²k^e¹hų²	V;PL;1+EXCL;PST+RMT
+–ta	ki²ta²s	V;DU;2;PRS
+–tets	tu²tets¹mᵖ	V;DU;1+EXCL;PST+RMT
+–ker	u²ker¹hų²	V;PL;1+EXCL;PST+IMMED
+–sa	ku²tsha²	V;PL;3;PST+RCT
+–tü	si¹tü²n	V;PL;2;NEG
+–ʔe	si¹ʔe²n	V;PL;2;PRS
+–tsoh	ku²tsoh¹n	V;PL;1+INCL;PST+RCT
+–kaf	ki¹kaf²	V;SG;2;PST+RMT
+–ta	e²ta¹s	V;DU;1+INCL;PRS
+–ʔi	zu¹rʔi²	V;PL;3;PST+IMMED
+–sa	tu²sa²mᵖ	V;DU;1+EXCL;PST+RMT
+–ga	ga¹nga²	V;IND;PL;3;FUT
+–mą	ru²mą²	V;SG;3;SS;LGSPEC1
+–tsoh	nu²tsoh¹n	V;POT;PL;1+INCL;FUT
+–hü	ki²hü¹s	V;DU;2;PST+RCT
+–tsü	si²tsü¹	V;SG;2;PRS
+–paa	ki¹paa²	V;SG;2;PST+RMT
+–pi	ga¹pi²n	V;IND;PL;1+INCL;FUT
+–ho	ku¹nhi²	V;SG;3;PST+RCT
+–ke	gi²k^e¹s	V;DU;2;SS;LGSPEC1
+–ʔo	u²ʔo¹n	V;PL;1+INCL;PST+IMMED
+–ndun	siᵈ¹n ga²ndun¹n	V;PL;1+INCL;NEG;FUT
+–nef	siᵈ¹n ga²nef¹mᵖ	V;DU;1+EXCL;NEG;FUT
+–kun	siᵈ¹n ki²kun¹	V;SG;2;NEG;FUT
+–hu	si¹hu²mᵖ	V;DU;1+EXCL;NEG
+–ngwa¹as	ku¹ngwa¹as²mᵖ	V;DU;1+EXCL;PST+RCT
+–pof	u¹pof²s	V;DU;1+INCL;PST+IMMED
+–ti	ku²ndi²n	V;PL;1+INCL;PST+RCT
+–kev	ru²gev¹	V;SG;3;SS;LGSPEC1
+–tso	ma¹tso²	V;POT;SG;1;FUT
+–hą	ti¹hą²mᵖ	V;IND;DU;1+EXCL;FUT
+–tuts	ki²tuts¹s	V;DU;2;PST+RMT
+–tu	ki²tu¹	V;SG;2;PRS
+–hu	siᵈ¹n ti¹hu²s	V;DU;1+INCL;NEG;FUT
+–ngwin	ga²min²	V;IND;SG;3;FUT
+–ʔi	tu¹ʔi²n	V;PL;1+INCL;PST+RMT
+–pii	ra²pii¹n	V;PL;1+INCL;SS;LGSPEC1
+–tsę	tu¹tsę²mᵖ	V;DU;1+EXCL;PST+RMT
+–pin	ra¹pin²hų²	V;PL;1+EXCL;SS;LGSPEC1
+–ngwa	ra¹ngwa²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–tav	ki²tav¹s	V;DU;2;PRS
+–seni	siᵈ¹n ki²seni¹n	V;PL;2;NEG;FUT
+–murf	i²murf²s	V;DU;2;PST+IMMED
+–mben	mi²mben¹	V;POT;PL;3;FUT
+–tü	ki²tü¹s	V;DU;2;PST+RMT
+–ngwe	ku¹ngwe²hų²	V;PL;1+EXCL;PST+RCT
+–pe	ki²ngwe²n	V;IND;PL;2;FUT
+–ppi	ga²ppi¹	V;IND;SG;1;FUT
+–tu	si²tu²mᵖ	V;DU;1+EXCL;PST+RCT
+–ʔer	mi²tir¹n	V;POT;PL;2;FUT
+–ʔor	siᵈ¹n gu²ʔor¹n	V;PL;1+INCL;NEG;FUT
+–tü	tu¹tü²mᵖ	V;DU;1+EXCL;PRS
+–tsen	ku²tsen¹hų²	V;PL;1+EXCL;PST+RCT
+–ʔor	zu²ʔor¹	V;SG;3;PST+IMMED
+–te	ta²ter¹	V;IND;PL;3;FUT
+–ser	siᵈ¹n sa²ser¹	V;SG;2;NEG;FUT
+–tu	sa¹tur²n	V;IND;PL;2;FUT
+–pü	sa²pü¹	V;SG;1;PST+RCT
+–sa	ti¹sa²hų²	V;PL;1+EXCL;PRS
+–hi	nu²hi²mᵖ	V;POT;DU;1+EXCL;FUT
+–poo	i¹poo²s	V;DU;1+INCL;PST+IMMED
+–mir	ta¹mir²	V;IND;SG;1;FUT
+–pa	ra¹pa²	V;SG;1;SS;LGSPEC1
+–nef	e²nef¹	V;SG;3;PRS
+–yuts	na²yuts²	V;PL;3;SS;LGSPEC1
+–paa	siᵈ¹n ki¹ngwaa²n	V;PL;2;NEG;FUT
+–ʔę	ru²ʔę¹	V;SG;3;SS;LGSPEC1
+–ʔü	si²nʔü¹n	V;PL;2;NEG
+–pen	mu²ngwen¹	V;POT;SG;3;FUT
+–se	mu¹se²	V;POT;SG;3;FUT
+–men	su¹men²	V;SG;2;PST+RMT
+–mę	tu²mę²n	V;PL;1+INCL;PRS
+–mę	ku¹mę²n	V;PL;1+INCL;PST+RCT
+–ʔor	mi²ʔor¹n	V;POT;PL;2;FUT
+–pen	tu²pen¹n	V;PL;1+INCL;PST+RMT
+–tcon	su²tcon¹hų²	V;PL;1+EXCL;NEG
+–aʔi	ni¹aʔi²mᵖ	V;POT;DU;1+EXCL;FUT
+–tan	mi²rhan²	V;POT;PL;3;FUT
+–mę	su²mę²mᵖ	V;DU;1+EXCL;NEG
+–he	ki²he¹n	V;PL;2;PRS
+–tso	mi¹tso²s	V;POT;DU;2;FUT
+–tu	ni²tu²s	V;DU;1+INCL;SS;LGSPEC1
+–kkü	si²kkü¹	V;SG;3;NEG
+–hu	ti¹hu²hų²	V;IND;PL;1+EXCL;FUT
+–nda	sa²nda¹	V;SG;2;PST+RMT
+–ką	ru²gą¹	V;SG;3;SS;LGSPEC1
+–pii	mi²ngwii¹	V;POT;SG;2;FUT
+–tso	gi²tso¹	V;SG;2;SS;LGSPEC1
+–nda	siᵈ¹n ti²nda¹s	V;DU;1+INCL;NEG;FUT
+–sa	ra²sa¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–ʔa	tu²ʔa²hų²	V;PL;1+EXCL;PST+RMT
+–tą	ra²tą¹hų²	V;PL;1+EXCL;SS;LGSPEC1
+–sus	ga²sus¹n	V;IND;PL;1+INCL;FUT
+–sü	sa²sü¹	V;PL;3;PST+RCT
+–kaf	ki¹kaf²s	V;DU;2;PRS
+–tu	gi²tur²n	V;IND;PL;1+INCL;FUT
+–ke	ga²kh^e¹	V;IND;PL;3;FUT
+–por	ga²por¹	V;IND;SG;1;FUT
+–mur	sa²mur²	V;SG;2;PST+RMT
+–rų/ndu	sa¹rų/ndu²	V;SG;1;NEG
+–tsen	su²tsen¹	V;SG;1;NEG
+–pen	e²pen¹	V;PL;3;PRS
+–tu	ni²tur²n	V;PL;1+INCL;SS;LGSPEC1
+–ʔets	ku²ʔets¹hų²	V;PL;1+EXCL;PST+RCT
+–rho	su²rho¹	V;SG;1;NEG
+–pon	su²ngwon²mᵖ	V;DU;1+EXCL;NEG
+–ʔo	siᵈ¹n ga²ʔo¹s	V;DU;1+INCL;NEG;FUT
+–her	su²her¹n	V;PL;1+INCL;NEG
+–pąr	siᵈ¹n sa¹par²n	V;PL;2;NEG;FUT
+–poo	i¹poo²	V;SG;2;PST+IMMED
+–kev	tu²kev¹hų²	V;PL;1+EXCL;PST+RMT
+–maf	zu¹maf²	V;SG;3;PST+IMMED
+–pe	ga²pe¹mᵖ	V;IND;DU;1+EXCL;FUT
+–pą	e¹mbą²	V;PL;3;PRS
+–ser	ni²ser¹n	V;POT;PL;1+INCL;FUT
+–he	ra²he¹n	V;PL;1+INCL;SS;LGSPEC1
+–ʔer	siᵈ¹n ki²ʔer¹	V;SG;2;NEG;FUT
+–sü	ru¹shü²	V;PL;3;SS;LGSPEC1
+–mʔan	nu²mʔan¹	V;POT;SG;1;FUT
+–ką	ku²ką¹	V;SG;1;PST+RCT
+–pof	u¹phof²	V;PL;3;PRS
+–tę	e²tę¹	V;SG;1;PRS
+–pą	ra¹pą²s	V;DU;1+INCL;SS;LGSPEC1
+–ngwa	ku¹ngwa²n	V;PL;1+INCL;PST+RCT
+–sa	su²sa²mᵖ	V;DU;1+EXCL;NEG
+–por	ka²por¹n	V;IND;PL;2;FUT
+–pa	su¹ngwa²n	V;PL;1+INCL;NEG
+–ppar	ki²mbar¹	V;SG;2;PST+RCT
+–hun	su²hun¹	V;SG;3;NEG
+–tcon	nu²tcon¹hų²	V;POT;PL;1+EXCL;FUT
+–ʔür	nu²ʔür¹	V;POT;SG;1;FUT
+–ʔür	ku²ʔür¹mᵖ	V;DU;1+EXCL;PST+RCT
+–kkü	ti²kkü¹mᵖ	V;DU;1+EXCL;PST+RMT
+–kun	na²kun¹	V;SG;1;SS;LGSPEC1
+–ʔi	ki²ʔi¹s	V;DU;2;PST+RMT
+–nov	su²nov¹	V;SG;2;PRS
+–tsa	siᵈ¹n gu¹tsa²	V;SG;1;NEG;FUT
+–te	sa¹ner²n	V;PL;2;NEG
+–tan	zu²rhan¹	V;PL;3;PST+IMMED
+–ndę	si²ndę¹mᵖ	V;DU;1+EXCL;NEG
+–mir	ti¹mir²s	V;DU;1+INCL;PRS
+–po	nu²ngwo¹	V;POT;SG;1;FUT
+–kun	nu²kun¹	V;POT;SG;1;FUT
+–kaf	ku¹kaf²mᵖ	V;DU;1+EXCL;PST+RCT
+–ndü	si²ndü¹	V;SG;2;NEG
+–ho	siᵈ¹n ga²ho¹	V;SG;1;NEG;FUT
+–murf	mi²murf²	V;POT;SG;2;FUT
+–aʔi	si¹aʔi²	V;SG;2;PRS
+–ʔi	tu¹ʔi²hų²	V;PL;1+EXCL;PRS
+–ngwa¹as	u¹pa¹as²	V;SG;3;PST+RMT
+–sü	siᵈ¹n ga¹sü²mᵖ	V;DU;1+EXCL;NEG;FUT
+–tu	siᵈ¹n ta²tu²	V;SG;3;NEG;FUT
+–ʔor	nu²ʔor¹s	V;POT;DU;1+INCL;FUT
+–ker	gi¹ker²n	V;PL;2;SS;LGSPEC1
+–ta	siᵈ¹n ki¹ta²s	V;DU;2;NEG;FUT
+–ʔę	su²ʔę¹s	V;DU;2;PRS
+–por	su²por¹s	V;DU;1+INCL;NEG
+–ʔa	i¹ʔa²s	V;DU;2;PST+IMMED
+–ta	e²ta¹	V;SG;3;PRS
+–khar	mu²khar¹	V;POT;SG;3;FUT
+–ngwe	si¹ngwe²s	V;DU;1+INCL;PST+IMMED
+–ʔor	mi²ʔor¹s	V;POT;DU;2;FUT
+–mę	ki²mę²	V;SG;2;PST+RMT
+–tsa	ku¹tsa²s	V;DU;1+INCL;PST+RCT
+–ndze	siᵈ¹n ki²ndzer¹n	V;PL;2;NEG;FUT
+–tuts	su²tuts¹	V;SG;1;NEG
+–se	ra²se¹hų²	V;PL;1+EXCL;SS;LGSPEC1
+–ʔür	ku²ʔür¹s	V;DU;1+INCL;PST+RCT
+–po	ku²por²	V;PL;3;PST+RCT
+–ngwe	ka¹ngwe²s	V;DU;2;PST+RMT
+–sü	nu¹sü²mᵖ	V;POT;DU;1+EXCL;FUT
+–ʔan	su¹ʔan²mᵖ	V;DU;1+EXCL;NEG
+–nda	si²nda¹	V;SG;1;NEG
+–te	si²ter¹n	V;PL;1+INCL;PST+IMMED
+–tuts	su²rhuts¹	V;PL;3;NEG
+–seni	ga²seni¹	V;IND;SG;3;FUT
+–tats	siᵈ¹n ga²tats¹mᵖ	V;DU;1+EXCL;NEG;FUT
+–ʔi	ga²ʔi¹	V;IND;PL;3;FUT
+–ke	mu²k^e¹	V;POT;SG;3;FUT
+–aʔi	ta¹aʔi²	V;IND;SG;3;FUT
+–ʔi	su¹ʔi²n	V;PL;1+INCL;NEG
+–peʔn	si²ngweʔn¹s	V;DU;2;NEG
+–ʔa	ga²ʔa²s	V;IND;DU;1+INCL;FUT
+–tats	ku²ndats¹n	V;PL;1+INCL;PST+RCT
+–pen	ru²phen¹	V;PL;3;SS;LGSPEC1
+–mę	ru¹mhę²	V;PL;3;SS;LGSPEC1
+–ʔü	ta²ʔü¹	V;SG;3;PST+RMT
+–tą	e²tą¹hų²	V;PL;1+EXCL;PRS
+–me	u²mhe¹	V;PL;3;PST+RMT
+–pe	ra²pe²s	V;DU;1+INCL;SS;LGSPEC1
+–ʔi	ti²ʔir²hų²	V;PL;1+EXCL;PST+RMT
+–tun	i²tun¹	V;SG;2;PST+IMMED
+–ha	i²ha²n	V;PL;1+INCL;PST+IMMED
+–ga	siᵈ¹n gu¹ga²s	V;DU;1+INCL;NEG;FUT
+–mer	za¹mer²	V;POT;SG;2;FUT
+–ʔun	ki²ʔun¹	V;SG;2;PST+RMT
+–tso	mi¹tsor²	V;POT;PL;3;FUT
+–sa	siᵈ¹n ta¹sa²	V;SG;3;NEG;FUT
+–ha	si²ha²	V;SG;2;NEG
+–ko	ku²ko²hų²	V;PL;1+EXCL;PST+RCT
+–ngwo	si²ngwo¹s	V;DU;1+INCL;PST+RCT
+–peʔn	nu²ngweʔn¹s	V;POT;DU;1+INCL;FUT
+–ʔi	ki²ʔi²	V;IND;SG;2;FUT
+–nef	su²nef¹	V;SG;1;NEG
+–ten	siᵈ¹n ga¹rʔen²	V;PL;3;NEG;FUT
+–ngwin	sa²min²	V;SG;3;NEG
+–kaf	nu¹kaf²	V;POT;SG;1;FUT
+–mir	ti¹mir²hų²	V;PL;1+EXCL;PRS
+–pon	ra²pon²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–tu	sa¹tu²s	V;DU;2;PST+IMMED
+–hunts	i²hunts¹mᵖ	V;DU;1+EXCL;PST+IMMED
+–ngwe	siᵈ¹n ga²mbe²	V;PL;3;NEG;FUT
+–ten	u¹ten²mᵖ	V;DU;1+EXCL;PST+IMMED
+–tan	siᵈ¹n ga²tan¹	V;SG;1;NEG;FUT
+–tun	gi²tun¹s	V;DU;2;SS;LGSPEC1
+–ta	ga²ta²s	V;IND;DU;1+INCL;FUT
+–ker	u²ker¹n	V;PL;1+INCL;PST+IMMED
+–ʔan	ku¹ndan²	V;SG;3;PST+RCT
+–ʔor	su²ʔor¹	V;PL;3;NEG
+–po	mi²por²n	V;POT;PL;2;FUT
+–ppo	siᵈ¹n ta²ppo²	V;SG;1;NEG;FUT
+–tav	ku²ndav¹mᵖ	V;DU;1+EXCL;PST+RCT
+–ser	i²ser¹	V;SG;3;PST+IMMED
+–ʔür	si²tür¹n	V;PL;2;NEG
+–kun	siᵈ¹n ga²kun¹s	V;DU;1+INCL;NEG;FUT
+–tsü	ni²tsü¹s	V;POT;DU;1+INCL;FUT
+–sü	siᵈ¹n ti²sü¹hų²	V;PL;1+EXCL;NEG;FUT
+–tav	nu²tav¹hų²	V;POT;PL;1+EXCL;FUT
+–ti	siᵈ¹n ga²rhi²	V;PL;3;NEG;FUT
+–tets	nu¹tets²n	V;POT;PL;1+INCL;FUT
+–me	ti²mer¹n	V;PL;1+INCL;PST+RMT
+–rho	u²rho¹n	V;PL;1+INCL;PST+IMMED
+–hun	siᵈ¹n ki¹hun²	V;SG;2;NEG;FUT
+–tun	ku²tun¹	V;SG;3;PST+IMMED
+–se	u²se¹	V;SG;1;PST+IMMED
+–kun	gi²kun¹	V;SG;2;SS;LGSPEC1
+–tu	mi²tu¹	V;POT;SG;2;FUT
+–hi	si²hi²s	V;DU;2;NEG
+–hu	i¹hu²mᵖ	V;DU;1+EXCL;PST+IMMED
+–hu	si¹hu²s	V;DU;1+INCL;NEG
+–tats	siᵈ¹n ga²tats¹s	V;DU;1+INCL;NEG;FUT
+–ta	u²ra²	V;SG;3;PST+RMT
+–ndü	mi²ndür¹	V;POT;PL;3;FUT
+–po	ki²mbo¹s	V;DU;2;PST+RCT
+–ser	sa²ser¹	V;SG;1;PST+RCT
+–ngwe	ga¹ngwe²s	V;DU;2;SS;LGSPEC1
+–tsa	e²tsa¹s	V;DU;1+INCL;PRS
+–ʔets	ku²ʔets¹s	V;DU;1+INCL;PST+RCT
+–tę	ga²rę¹	V;IND;SG;3;FUT
+–mę	ki¹mę²	V;SG;2;PRS
+–peʔn	ki²ngweʔn¹n	V;IND;PL;2;FUT
+–pon	u²ngwon²	V;SG;1;PST+IMMED
+–sü	ku¹shü²	V;PL;3;PST+RCT
+–hü	e²hü¹n	V;PL;1+INCL;PRS
+–tsün	ti²tsün¹hų²	V;IND;PL;1+EXCL;FUT
+–ʔa	ra²ʔa²s	V;DU;1+INCL;SS;LGSPEC1
+–tso	e²tso²mᵖ	V;DU;1+EXCL;PRS
+–ndun	tu²ndun¹s	V;DU;1+INCL;PST+RMT
+–kuʔ	sa¹kuʔ²	V;IND;SG;2;FUT
+–tü	mi¹tü²n	V;POT;PL;2;FUT
+–ʔer	ki²tir¹n	V;IND;PL;2;FUT
+–ʔę	su²ʔę¹	V;SG;2;PRS
+–mę	siᵈ¹n ga¹mę²mᵖ	V;DU;1+EXCL;NEG;FUT
+–kuʔ	ni¹kuʔ²hų²	V;POT;PL;1+EXCL;FUT
+–no	su²no¹n	V;PL;2;PRS
+–ʔor	ku²ʔor¹s	V;DU;1+INCL;PST+RCT
+–peʔn	siᵈ¹n ga²peʔn¹	V;SG;1;NEG;FUT
+–nda	za²nda¹s	V;DU;2;SS;LGSPEC1
+–tso	ki¹tso²s	V;DU;2;PST+IMMED
+–ha	e²rha²	V;PL;3;PRS
+–mę	ku²mę²	V;SG;3;PST+RCT
+–kev	e²kev¹n	V;PL;1+INCL;PRS
+–ndze	na²ndze¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–tso	ma¹tso²mᵖ	V;POT;DU;1+EXCL;FUT
+–seni	ki²seni¹n	V;PL;2;PST+RCT
+–ʔan	ki¹ʔan²s	V;DU;2;PRS
+–me	si²mer¹hų²	V;PL;1+EXCL;PST+RCT
+–ngwa¹as	ka¹ngwa¹as²s	V;DU;2;PST+RCT
+–mur	siᵈ¹n sa²mur²	V;SG;2;NEG;FUT
+–mur	si²mur²s	V;DU;1+INCL;NEG
+–pi	e²pi¹s	V;DU;1+INCL;PRS
+–ti	u²ti²	V;SG;1;PST+IMMED
+–ngwo	sa²vo¹	V;PL;3;PST+RCT
+–tsün	ti²tsün¹mᵖ	V;IND;DU;1+EXCL;FUT
+–sų	ga²sų²n	V;IND;PL;1+INCL;FUT
+–tü	siᵈ¹n ga¹tü²	V;PL;3;NEG;FUT
+–hü	mi²rhü¹	V;POT;PL;3;FUT
+–mą	tu²mą²hų²	V;PL;1+EXCL;PRS
+–pen	su²ngwe¹hų²	V;PL;1+EXCL;NEG
+–ta	si¹ta²	V;SG;2;NEG
+–ʔi	siᵈ¹n gu²ʔi¹s	V;DU;1+INCL;NEG;FUT
+–ngweʔn	ni¹ngweʔn²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–pii	gi¹ngwii²n	V;PL;2;SS;LGSPEC1
+–he	siᵈ¹n ga²he¹n	V;PL;1+INCL;NEG;FUT
+–ga	si¹ga²	V;SG;2;NEG
+–tets	ga²tets¹mᵖ	V;IND;DU;1+EXCL;FUT
+–me	si²me¹	V;SG;1;NEG
+–khar	ki²khar¹s	V;DU;2;PST+RCT
+–ʔü	i²ʔü¹mᵖ	V;DU;1+EXCL;PST+IMMED
+–tun	ti²tun¹s	V;DU;1+INCL;PST+RMT
+–ʔan	nu¹ʔan²hų²	V;POT;PL;1+EXCL;FUT
+–khar	su²khar¹	V;SG;3;NEG
+–pąr	ti¹par²n	V;IND;PL;1+INCL;FUT
+–ʔa	ra²ʔa²n	V;PL;1+INCL;SS;LGSPEC1
+–kets	nu²kets¹	V;POT;SG;1;FUT
+–pof	siᵈ¹n ki¹pof²s	V;DU;2;NEG;FUT
+–ką	ki²ką¹	V;SG;2;PST+RCT
+–tü	ra¹tü²s	V;DU;1+INCL;SS;LGSPEC1
+–murf	ki²murf²n	V;PL;2;PRS
+–ppar	ru²ppar¹	V;SG;3;SS;LGSPEC1
+–paa	ra²paa¹s	V;DU;1+INCL;SS;LGSPEC1
+–ʔi	su¹ʔi²mᵖ	V;DU;1+EXCL;NEG
+–yuts	si²yuts²	V;SG;1;NEG
+–kün	ku²gün¹	V;SG;3;PST+RCT
+–tuts	u²tuts¹	V;SG;1;PST+IMMED
+–pon	ki²pon²s	V;DU;2;PST+RMT
+–ten	ga¹ren²	V;IND;SG;3;FUT
+–sü	tu¹sü²mᵖ	V;DU;1+EXCL;PST+RMT
+–kkü	ki²kkü¹s	V;DU;1+INCL;PST+IMMED
+–ʔün	ka²ʔün¹	V;SG;1;PST+RCT
+–khar	su²khar¹s	V;DU;2;PRS
+–sempf	su¹sempf²	V;SG;1;NEG
+–ʔü	siᵈ¹n ga¹rʔü²	V;PL;3;NEG;FUT
+–sų	ga²tshų²	V;IND;PL;3;FUT
+–kev	ru²khev¹	V;PL;3;SS;LGSPEC1
+–ʔi	ga¹ʔi²mᵖ	V;IND;DU;1+EXCL;FUT
+–sa	si²sa¹s	V;DU;2;PRS
+–nef	u²nef¹	V;SG;1;PST+IMMED
+–ʔe	su²rʔe¹	V;PL;3;NEG
+–poo	siᵈ¹n sa¹poo²s	V;DU;2;NEG;FUT
+–sa	ni²sa¹hų²	V;POT;PL;1+EXCL;FUT
+–ʔü	ti²ʔü¹s	V;DU;1+INCL;PRS
+–pof	tu¹pof²n	V;PL;1+INCL;PRS
+–ku	siᵈ¹n ta²ku²	V;PL;3;NEG;FUT
+–seʔn	i¹seʔn²hų²	V;PL;1+EXCL;PST+IMMED
+–ku	i²ku²	V;SG;3;PST+IMMED
+–ngwin	u²min²	V;SG;3;PST+RMT
+–ndę	u²ndęr¹hų²	V;PL;1+EXCL;PRS
+–ngwe	sa¹me²	V;SG;3;NEG
+–ʔür	ku²ʔür¹n	V;PL;1+INCL;PST+RCT
+–he	e¹rhe²	V;PL;3;PRS
+–pü	na²pü¹	V;POT;SG;3;FUT
+–mir	si¹mir²mᵖ	V;DU;1+EXCL;NEG
+–ppo	ta²ppo²	V;PL;3;PST+RMT
+–mę	u²mę²hų²	V;PL;1+EXCL;PST+IMMED
+–tun	ti²tun¹s	V;IND;DU;1+INCL;FUT
+–tü	siᵈ¹n gu¹tü²hų²	V;PL;1+EXCL;NEG;FUT
+–ʔor	tu²ʔor¹	V;SG;1;PRS
+–rę	tu²rę¹mᵖ	V;DU;1+EXCL;PRS
+–tso	ku¹tso²	V;SG;3;PST+IMMED
+–seni	siᵈ¹n gu²seni¹n	V;PL;1+INCL;NEG;FUT
+–ʔi	siᵈ¹n ga²ʔi¹	V;PL;3;NEG;FUT
+–ngwa	ka²ngwa¹s	V;IND;DU;2;FUT
+–maf	e¹paf²	V;PL;3;PRS
+–tę	u²tę¹mᵖ	V;DU;1+EXCL;PST+IMMED
+–tun	siᵈ¹n ga²tun¹mᵖ	V;DU;1+EXCL;NEG;FUT
+–üts	si²üts¹	V;PL;3;NEG
+–ta	ki²ta²n	V;PL;2;PST+RCT
+–tü	siᵈ¹n ga¹tü²mᵖ	V;DU;1+EXCL;NEG;FUT
+–kün	su²kün¹hų²	V;PL;1+EXCL;NEG
+–ngwe	siᵈ¹n ka¹ngwe²s	V;DU;2;NEG;FUT
+–ndę	ki²ndę¹s	V;DU;2;PST+IMMED
+–pin	nu¹ngwin²mᵖ	V;POT;DU;1+EXCL;FUT
+–tsü	ta²tsü¹	V;SG;3;PST+RMT
+–pen	zu²phen¹	V;PL;3;PST+IMMED
+–rų/ndu	siᵈ¹n ga¹rųr²	V;PL;3;NEG;FUT
+–ʔü	za²ʔü¹	V;SG;2;SS;LGSPEC1
+–mʔan	ki²mʔan¹n	V;PL;2;PST+RCT
+–tę	ku²ndę¹mᵖ	V;DU;1+EXCL;PST+RCT
+–mę	u²mhę²	V;PL;3;PST+RMT
+–ngwa	ka²ngwa¹s	V;DU;2;PRS
+–pąr	si¹par²s	V;DU;1+INCL;NEG
+–sų	gi²sų²n	V;PL;2;SS;LGSPEC1
+–tso	si¹tsor²	V;PL;3;NEG
+–ʔür	su²ʔür¹s	V;DU;1+INCL;NEG
+–kkü	e²kkü¹mᵖ	V;DU;1+EXCL;PRS
+–sa	u¹sa²	V;SG;1;PST+IMMED
+–ngwa¹as	ku¹ngwa¹as²	V;SG;1;PST+RCT
+–ʔo	ki¹ʔo²	V;SG;2;PST+RCT
+–me	ti²me¹s	V;IND;DU;1+INCL;FUT
+–tü	ga²tür¹	V;IND;PL;3;FUT
+–hü	ra²hü¹n	V;PL;1+INCL;SS;LGSPEC1
+–mą	e²mą²n	V;PL;1+INCL;PRS
+–seʔn	za¹seʔn²n	V;PL;2;SS;LGSPEC1
+–mben	ra²mben¹	V;SG;1;SS;LGSPEC1
+–hunts	si²hunts¹mᵖ	V;DU;1+EXCL;NEG
+–hu	e²hu¹	V;SG;1;PRS
+–tets	su²tets¹mᵖ	V;DU;1+EXCL;NEG
+–tü	si²tür¹n	V;PL;2;NEG
+–te	mi²te¹s	V;POT;DU;2;FUT
+–hun	ga²hun¹mᵖ	V;IND;DU;1+EXCL;FUT
+–pąr	na¹par²	V;SG;1;SS;LGSPEC1
+–po	ku²mbo¹n	V;PL;1+INCL;PST+RCT
+–ke	siᵈ¹n ki²k^e¹	V;SG;2;NEG;FUT
+–peʔn	siᵈ¹n ga²meʔn¹	V;SG;3;NEG;FUT
+–poo	siᵈ¹n ta¹nhür²	V;PL;3;NEG;FUT
+–ppar	zu²ngwar¹	V;SG;3;PST+IMMED
+–pen	zu²ngwe¹	V;SG;3;PST+IMMED
+–ʔi	ga²ʔi²	V;IND;SG;3;FUT
+–sü	ta²sü¹	V;IND;PL;3;FUT
+–tsün	ti²tsün¹s	V;DU;1+INCL;PRS
+–pe	u²mbe¹	V;PL;3;PST+RMT
+–tsa	gi²tsa¹	V;SG;2;SS;LGSPEC1
+–ʔer	tu²ʔer¹n	V;PL;1+INCL;PST+RMT
+–pon	mi²pon²	V;POT;PL;3;FUT
+–ho	si¹ho²s	V;DU;2;NEG
+–ʔi	siᵈ¹n gu²ʔi¹hų²	V;PL;1+EXCL;NEG;FUT
+–hu	na¹hur²	V;POT;PL;3;FUT
+–pąr	na¹par²	V;POT;SG;3;FUT
+–pen	u¹ngwen²	V;SG;1;PST+IMMED
+–tan	ga¹ran²	V;IND;SG;3;FUT
+–ʔi	ga²ʔi¹	V;IND;SG;3;FUT
+–üts	i²üts¹n	V;PL;2;PST+IMMED
+–no	ki²no¹s	V;IND;DU;2;FUT
+–ker	e²ker¹n	V;PL;1+INCL;PRS
+–to	zu¹rho²	V;PL;3;PST+IMMED
+–tso	ki²tso¹s	V;DU;2;PRS
+–ʔo	u²ʔo¹hų²	V;PL;1+EXCL;PST+IMMED
+–tü	ti²tü¹n	V;IND;PL;1+INCL;FUT
+–ta	e²ta²n	V;PL;1+INCL;PRS
+–sempf	i²sempf¹s	V;DU;2;PST+IMMED
+–tso	u¹tsor²hų²	V;PL;1+EXCL;PRS
+–sus	siᵈ¹n ki²sus¹	V;SG;2;NEG;FUT
+–ʔi	su²ʔi¹hų²	V;PL;1+EXCL;NEG
+–tats	tu²tats¹n	V;PL;1+INCL;PST+RMT
+–ngwe	ni¹ką²hų²	V;POT;PL;1+EXCL;FUT
+–peʔn	tu²peʔn¹	V;SG;1;PST+RMT
+–tsen	siᵈ¹n ki²tsen¹	V;SG;2;NEG;FUT
+–tü	za²tü¹s	V;DU;2;SS;LGSPEC1
+–ha	si²ha²n	V;PL;1+INCL;NEG
+–mę	ra²mę²	V;SG;1;SS;LGSPEC1
+–ndę	siᵈ¹n gu²ndęr¹hų²	V;PL;1+EXCL;NEG;FUT
+–pii	ku²piin¹	V;SG;3;PST+RCT
+–ta	gi¹ta²	V;SG;2;SS;LGSPEC1
+–khar	mi²khar¹	V;POT;PL;3;FUT
+–no	ra²no¹n	V;PL;1+INCL;SS;LGSPEC1
+–no	ki²no¹n	V;PL;2;PST+RMT
+–tę	mi²rhę¹	V;POT;PL;3;FUT
+–sa	ki²sa¹s	V;DU;2;PRS
+–hi	tu²hi²	V;SG;1;PST+RMT
+–se	ku¹tshe²	V;PL;3;PST+RCT
+–pii	ki¹pii²n	V;PL;2;PRS
+–tsa	mu²tsa²	V;POT;SG;3;FUT
+–ppi	e²ppi¹	V;SG;1;PRS
+–tso	siᵈ¹n ki²tso¹s	V;DU;2;NEG;FUT
+–tets	ga²rets¹	V;IND;SG;3;FUT
+–por	mi¹por²s	V;POT;DU;2;FUT
+–ngwi¹ʔi	ka¹ngwi¹ʔi²n	V;IND;PL;2;FUT
+–ʔi	u¹ndi²	V;SG;3;PST+RMT
+–men	siᵈ¹n gu¹men²	V;SG;1;NEG;FUT
+–ga	ki¹ga²n	V;PL;2;PST+RCT
+–tsę	siᵈ¹n gu¹tsę²hų²	V;PL;1+EXCL;NEG;FUT
+–hu	sa¹hu²s	V;IND;DU;2;FUT
+–mer	i¹mer²	V;PL;3;PRS
+–hun	gi¹nhin²n	V;PL;2;SS;LGSPEC1
+–ta	e²ta¹mᵖ	V;DU;1+EXCL;PRS
+–pii	ga²pii¹hų²	V;IND;PL;1+EXCL;FUT
+–ʔi	ra²ʔi¹n	V;PL;1+INCL;SS;LGSPEC1
+–mben	gu²mben¹hų²	V;IND;PL;1+EXCL;FUT
+–ʔi	u¹ti²	V;PL;3;PST+RMT
+–sa	e²tsha¹	V;PL;3;PRS
+–he	u²he¹mᵖ	V;DU;1+EXCL;PST+IMMED
+–ʔę	su²ʔę¹	V;SG;1;NEG
+–hu	ra²hu¹hų²	V;PL;1+EXCL;SS;LGSPEC1
+–por	ga²por¹hų²	V;IND;PL;1+EXCL;FUT
+–ngwe	sa¹ngwe²	V;SG;2;PST+RMT
+–tsa	e²tsa²	V;SG;1;PRS
+–kun	siᵈ¹n ga²kun¹	V;SG;3;NEG;FUT
+–ko	nu²ko²n	V;POT;PL;1+INCL;FUT
+–ʔan	tu¹ʔan²s	V;DU;1+INCL;PST+RMT
+–tav	siᵈ¹n ki²tav¹s	V;DU;2;NEG;FUT
+–pen	ra¹pen²s	V;DU;1+INCL;SS;LGSPEC1
+–tą	si²tą¹	V;SG;2;NEG
+–tan	ki²ndan¹	V;SG;2;PST+RCT
+–men	gu¹men²mᵖ	V;IND;DU;1+EXCL;FUT
+–por	ru²phor¹	V;PL;3;SS;LGSPEC1
+–pą	ki¹pą²n	V;PL;2;PST+RCT
+–pof	ga¹pof²	V;IND;SG;3;FUT
+–ha	e²ha²	V;SG;1;PRS
+–ndę	ti²ndę¹s	V;IND;DU;1+INCL;FUT
+–hü	u²hü¹	V;SG;1;PST+IMMED
+–ngweʔn	sa¹ngweʔn²	V;SG;2;PST+RCT
+–tan	ga²rhan¹	V;IND;PL;3;FUT
+–tü	siᵈ¹n ki²tür¹n	V;PL;2;NEG;FUT
+–po	siᵈ¹n ga²po¹hų²	V;PL;1+EXCL;NEG;FUT
+–kev	zu²khev¹	V;PL;3;PST+IMMED
+–no	nu²no¹mᵖ	V;POT;DU;1+EXCL;FUT
+–hą	ki¹hąr²hų²	V;PL;1+EXCL;PST+RCT
+–ʔe	na¹ʔe²	V;SG;1;SS;LGSPEC1
+–pa	ga¹ma²	V;IND;SG;3;FUT
+–poo	si¹poo²s	V;DU;2;NEG
+–ʔets	gi²ʔets¹	V;SG;2;SS;LGSPEC1
+–ppo	i²ppo²	V;PL;3;PRS
+–se	gi¹se²n	V;PL;2;SS;LGSPEC1
+–tü	sa²tü¹	V;PL;3;PST+RCT
+–sü	si¹sü²	V;SG;2;NEG
+–po	nu²ngwo¹mᵖ	V;POT;DU;1+EXCL;FUT
+–pon	e²pon²mᵖ	V;DU;1+EXCL;PRS
+–murf	ki²murf²n	V;IND;PL;2;FUT
+–te	e¹ner²n	V;PL;1+INCL;PRS
+–ten	siᵈ¹n ga¹ten²hų²	V;PL;1+EXCL;NEG;FUT
+–ko	gu²ko²	V;IND;SG;1;FUT
+–yuts	i²yuts²	V;PL;3;PRS
+–ndze	na²ndze¹	V;SG;1;SS;LGSPEC1
+–ppi	ra²ppi¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–po	siᵈ¹n ki²po²	V;SG;2;NEG;FUT
+–ʔer	tu²ʔer¹	V;SG;1;PST+RMT
+–sü	mi¹shü²	V;POT;PL;3;FUT
+–ser	i²ser¹	V;PL;3;PST+IMMED
+–tu	gi²tu¹	V;SG;2;SS;LGSPEC1
+–sa	siᵈ¹n sa²sa¹n	V;PL;2;NEG;FUT
+–mę	e¹mę²	V;SG;1;PRS
+–sempf	nu²sempf²hų²	V;POT;PL;1+EXCL;FUT
+–pü	ni²pü¹s	V;DU;1+INCL;SS;LGSPEC1
+–ngwa	ra¹ngwa²	V;SG;1;SS;LGSPEC1
+–tun	ki²ndun¹s	V;DU;2;PST+RCT
+–men	u¹men²n	V;PL;1+INCL;PST+IMMED
+–pan	tu²pan¹hų²	V;PL;1+EXCL;PST+RMT
+–ko	ku²ko²s	V;DU;1+INCL;PST+RCT
+–ngwe	ni¹ką²n	V;PL;1+INCL;SS;LGSPEC1
+–hun	su²hun¹mᵖ	V;DU;1+EXCL;NEG
+–tu	ki²tu¹	V;SG;2;PST+RMT
+–po	u²ngwo¹hų²	V;PL;1+EXCL;PST+IMMED
+–te	ka²te¹	V;SG;1;PST+IMMED
+–pon	ki²pon²s	V;DU;2;PRS
+–hü	siᵈ¹n ki²hü¹	V;SG;2;NEG;FUT
+–maf	ru¹paf²	V;PL;3;SS;LGSPEC1
+–tav	u²rʔav¹	V;PL;3;PST+RMT
+–kun	i²kun¹	V;SG;2;PST+IMMED
+–mir	sa¹mir²s	V;DU;2;PST+RCT
+–kets	siᵈ¹n ga²kets¹	V;SG;1;NEG;FUT
+–sü	ni²sü¹s	V;POT;DU;1+INCL;FUT
+–nov	su²nov¹n	V;PL;1+INCL;NEG
+–tcon	e²tcon¹n	V;PL;1+INCL;PRS
+–nov	nu²nov¹hų²	V;POT;PL;1+EXCL;FUT
+–sempf	ra¹sempf²n	V;PL;1+INCL;SS;LGSPEC1
+–hu	ti¹hu²n	V;PL;1+INCL;PST+RMT
+–hu	ki¹hu²s	V;DU;2;PST+RCT
+–rę	i²rę¹n	V;PL;2;PST+IMMED
+–sa	ni²sa¹n	V;POT;PL;1+INCL;FUT
+–üts	si²üts¹	V;SG;3;NEG
+–ku	na²ku²	V;POT;PL;3;FUT
+–tsün	i²tsün¹s	V;DU;1+INCL;PST+IMMED
+–ngwe	ku¹ngwe²mᵖ	V;DU;1+EXCL;PST+RCT
+–ʔi	ra¹ʔi²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–to	ki¹to²n	V;IND;PL;2;FUT
+–ʔi	ra¹ʔi²	V;SG;1;SS;LGSPEC1
+–tcon	ku²zhon¹	V;PL;3;PST+RCT
+–ʔer	ga²ʔer¹mᵖ	V;IND;DU;1+EXCL;FUT
+–her	e²her¹s	V;DU;1+INCL;PRS
+–tets	ka²tets¹n	V;PL;2;PRS
+–men	su¹mben²	V;PL;3;NEG
+–me	siᵈ¹n ga²me¹s	V;DU;1+INCL;NEG;FUT
+–kün	e²kün¹s	V;DU;1+INCL;PRS
+–tü	su²tür¹hų²	V;PL;1+EXCL;NEG
+–peʔn	tu²peʔn¹hų²	V;PL;1+EXCL;PST+RMT
+–ngwe	za¹ką²n	V;PL;2;SS;LGSPEC1
+–peʔn	nu²ngweʔn¹	V;POT;SG;1;FUT
+–ndę	siᵈ¹n ki²ndę¹	V;SG;2;NEG;FUT
+–ga	u¹nga²	V;SG;3;PST+RMT
+–hi	u²hi²n	V;PL;1+INCL;PST+IMMED
+–ta	siᵈ¹n ga²ta²n	V;PL;1+INCL;NEG;FUT
+–ku	siᵈ¹n sa²ku²	V;SG;2;NEG;FUT
+–tü	ni²tü¹hų²	V;POT;PL;1+EXCL;FUT
+–mer	siᵈ¹n ti¹mer²n	V;PL;1+INCL;NEG;FUT
+–tsün	ti²tsün¹n	V;IND;PL;1+INCL;FUT
+–ʔü	si¹tü²n	V;PL;2;NEG
+–mę	ki²mę²	V;IND;SG;2;FUT
+–se	e²se¹n	V;PL;1+INCL;PRS
+–tso	ku²tso²mᵖ	V;DU;1+EXCL;PST+RCT
+–ngwe	u²gą¹n	V;PL;1+INCL;PRS
+–ha	gi²ha²	V;SG;2;SS;LGSPEC1
+–ʔür	siᵈ¹n ki²tür¹n	V;PL;2;NEG;FUT
+–mę	tu¹mę²hų²	V;PL;1+EXCL;PST+RMT
+–kun	ti²kun¹mᵖ	V;DU;1+EXCL;PST+RMT
+–tav	ra²tav¹n	V;PL;1+INCL;SS;LGSPEC1
+–me	ta²me¹	V;SG;3;PST+RMT
+–tav	ra²tav¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–tü	si²tü¹s	V;DU;2;PRS
+–tsen	su²tsen¹s	V;DU;1+INCL;NEG
+–ga	gi¹ga²s	V;DU;2;SS;LGSPEC1
+–tcon	ku²nzon¹hų²	V;PL;1+EXCL;PST+RCT
+–ta	u²ta²	V;SG;1;PST+IMMED
+–por	siᵈ¹n ga²phor¹	V;PL;3;NEG;FUT
+–po	ga²po¹n	V;IND;PL;1+INCL;FUT
+–ter	ti¹ter²hų²	V;PL;1+EXCL;PRS
+–ʔi	ka²ʔi²	V;SG;1;PST+RCT
+–mą	ki²mą²	V;SG;2;PRS
+–ʔi	e²ʔir²	V;PL;3;PRS
+–peʔn	su²ngweʔn¹	V;SG;3;NEG
+–ʔi	nu²ʔi¹	V;POT;SG;1;FUT
+–hunts	ti²hunts¹mᵖ	V;DU;1+EXCL;PST+RMT
+–ppo	sa²ppo²	V;SG;1;PST+RCT
+–ʔor	gi²ʔor¹n	V;PL;2;SS;LGSPEC1
+–po	ki²po¹	V;IND;SG;2;FUT
+–ʔets	e²ʔets¹s	V;DU;1+INCL;PRS
+–ʔi	su¹ʔi²s	V;DU;1+INCL;NEG
+–tsę	u¹tsę²hų²	V;PL;1+EXCL;PST+IMMED
+–tso	ku¹tsor²	V;PL;3;PST+RCT
+–kün	e²khün¹	V;PL;3;PRS
+–tav	ga²tav¹	V;IND;SG;1;FUT
+–seʔn	sa¹seʔn²n	V;IND;PL;2;FUT
+–ʔe	siᵈ¹n ti¹ʔe²hų²	V;PL;1+EXCL;NEG;FUT
+–rho	si²rho¹s	V;DU;2;NEG
+–mą	ki²mą²	V;IND;SG;2;FUT
+–tan	mi¹tan²n	V;POT;PL;2;FUT
+–ku	si²ku²mᵖ	V;DU;1+EXCL;PST+RCT
+–mę	ku¹mę²	V;SG;1;PST+RCT
+–pen	su²pen¹s	V;DU;1+INCL;NEG
+–sa	na¹sa²	V;POT;SG;1;FUT
+–ʔun	na²ʔun¹	V;SG;1;SS;LGSPEC1
+–ʔe	e²ʔe¹	V;SG;3;PRS
+–pe	u¹ngwe²	V;SG;1;PST+IMMED
+–pi	u¹ngwi²s	V;DU;1+INCL;PST+IMMED
+–ppo	i²ppo²	V;SG;3;PST+IMMED
+–sų	ra²sų²	V;SG;1;SS;LGSPEC1
+–pon	u²ngwon²hų²	V;PL;1+EXCL;PST+IMMED
+–te	i²te¹	V;SG;3;PRS
+–tą	ki²tą¹	V;SG;2;PRS
+–tun	ra²tun¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–ʔi	ku²ʔir²	V;PL;3;PST+RCT
+–mę	gi²mę¹n	V;PL;2;SS;LGSPEC1
+–por	tu¹por²mᵖ	V;DU;1+EXCL;PST+RMT
+–ndü	gu²ndür¹n	V;IND;PL;1+INCL;FUT
+–poo	ti¹poo²hų²	V;PL;1+EXCL;PST+RMT
+–pan	zu²nban¹	V;SG;3;PST+IMMED
+–ngwa¹as	tu¹ngwa¹as²hų²	V;PL;1+EXCL;PRS
+–te	ki²te¹s	V;DU;2;PST+RMT
+–te	na²te¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–sa	su¹sa²	V;SG;3;NEG
+–mur	ti²mur²s	V;DU;1+INCL;PST+RMT
+–tets	nu¹tets²mᵖ	V;POT;DU;1+EXCL;FUT
+–aʔi	i¹aʔi²mᵖ	V;DU;1+EXCL;PST+IMMED
+–hunts	sa²hunts¹s	V;DU;2;PST+RCT
+–pi	mi²ngwi¹s	V;POT;DU;2;FUT
+–murf	siᵈ¹n ga²murf²s	V;DU;1+INCL;NEG;FUT
+–ker	tu²ker¹s	V;DU;1+INCL;PST+RMT
+–pą	ki¹pą²	V;SG;2;PRS
+–ʔü	ki²ʔü¹	V;SG;2;PRS
+–nef	siᵈ¹n ki²nef¹s	V;DU;2;NEG;FUT
+–ku	si²ku²	V;SG;3;NEG
+–tsün	za²tsün¹s	V;DU;2;SS;LGSPEC1
+–ʔi	nu¹ʔI²n	V;POT;PL;1+INCL;FUT
+–ho	tu²ho¹s	V;DU;1+INCL;PST+RMT
+–ʔets	ku²ʔets¹mᵖ	V;DU;1+EXCL;PST+RCT
+–pii	u¹piin²	V;SG;3;PST+RMT
+–ngwi¹ʔi	sa¹ngwi¹ʔi²s	V;DU;2;NEG
+–kaf	gi¹kaf²	V;SG;2;SS;LGSPEC1
+–tav	gi²tav¹s	V;DU;2;SS;LGSPEC1
+–tuts	ki²tuts¹	V;SG;2;PRS
+–mur	sa²mur²s	V;DU;2;PST+RCT
+–ʔün	siᵈ¹n gu²ʔün¹hų²	V;PL;1+EXCL;NEG;FUT
+–tsü	ti²tsü¹hų²	V;PL;1+EXCL;PRS
+–sa	ka²sa²s	V;DU;2;PRS
+–ʔo	u²ʔo¹s	V;DU;1+INCL;PST+IMMED
+–ʔor	ku²ʔor¹	V;SG;3;PST+RCT
+–tu	e²tu¹mᵖ	V;DU;1+EXCL;PRS
+–ta	e²rha²	V;PL;3;PRS
+–sü	i²sü¹	V;SG;1;PST+IMMED
+–pi	ki²pi¹s	V;IND;DU;2;FUT
+–pi	siᵈ¹n ki²pi¹	V;SG;2;NEG;FUT
+–men	u¹men²s	V;DU;1+INCL;PST+IMMED
+–ngwa	siᵈ¹n ka²ngwa¹	V;SG;2;NEG;FUT
+–ser	si²ser¹s	V;DU;1+INCL;PST+RCT
+–pon	siᵈ¹n ki²pon²	V;SG;2;NEG;FUT
+–po	ku²po¹	V;PL;3;PST+RCT
+–seʔn	siᵈ¹n ti¹seʔn²s	V;DU;1+INCL;NEG;FUT
+–ndze	nu²ndzer¹n	V;PL;1+INCL;SS;LGSPEC1
+–pen	ki²mbe¹	V;SG;2;PST+RCT
+–kets	e²kets¹mᵖ	V;DU;1+EXCL;PRS
+–mer	si¹mer²	V;SG;2;PRS
+–nda	na²nda¹	V;POT;PL;3;FUT
+–ngwi¹ʔi	ku¹pi¹ʔi²	V;SG;3;PST+RCT
+–pon	ku²pon²	V;PL;3;PST+RCT
+–tav	ki²ndav¹s	V;DU;2;PST+RCT
+–seʔn	ni¹seʔn²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–tav	su²tav¹	V;SG;1;NEG
+–rę	siᵈ¹n gu²rę¹mᵖ	V;DU;1+EXCL;NEG;FUT
+–hunts	ti²hunts¹	V;SG;1;PRS
+–mę	e¹mę²mᵖ	V;DU;1+EXCL;PRS
+–ʔo	ku¹ndo²	V;SG;3;PST+RCT
+–hu	za¹hu²	V;SG;2;SS;LGSPEC1
+–tsü	siᵈ¹n ti²tsü¹s	V;DU;1+INCL;NEG;FUT
+–ʔets	siᵈ¹n ga²ʔets¹mᵖ	V;DU;1+EXCL;NEG;FUT
+–po	ku²por²	V;PL;3;PST+IMMED
+–ʔun	e²ʔun¹	V;SG;1;PRS
+–ngwa¹as	u¹ngwa¹as²hų²	V;PL;1+EXCL;PST+IMMED
+–rę	u²rę¹s	V;DU;1+INCL;PST+IMMED
+–ndę	ki²ndę¹s	V;DU;2;PST+RCT
+–ʔi	gi²ʔi¹s	V;DU;2;SS;LGSPEC1
+–tsę	ra¹tsę²	V;SG;1;SS;LGSPEC1
+–rę	ra²rę¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–ngwi¹ʔi	mu¹ngwi¹ʔi²hų²	V;POT;PL;1+EXCL;FUT
+–ʔe	ki¹ʔe²s	V;IND;DU;2;FUT
+–ngwa	u¹ngwa²hų²	V;PL;1+EXCL;PST+IMMED
+–seʔn	ti¹seʔn²s	V;IND;DU;1+INCL;FUT
+–pü	sa²pü¹	V;SG;2;PST+RMT
+–ʔun	siᵈ¹n gu²ʔun¹n	V;PL;1+INCL;NEG;FUT
+–ʔę	ku²ʔę¹	V;SG;1;PST+RCT
+–ʔü	mi¹ʔü²s	V;POT;DU;2;FUT
+–tuts	siᵈ¹n ga²tuts¹hų²	V;PL;1+EXCL;NEG;FUT
+–men	mi¹men²n	V;POT;PL;2;FUT
+–ta	su²ta¹	V;SG;3;NEG
+–ʔe	siᵈ¹n ga¹rʔe²	V;PL;3;NEG;FUT
+–por	ku¹por²	V;SG;3;PST+RCT
+–me	siᵈ¹n gi²mer¹n	V;PL;1+INCL;NEG;FUT
+–tets	ra²tets¹	V;SG;1;SS;LGSPEC1
+–ppo	sa²ppo²s	V;DU;2;PST+RMT
+–hu	i¹hu²	V;SG;3;PRS
+–ndun	ki²ndun¹s	V;DU;2;PST+RCT
+–ʔi	u²ʔi¹mᵖ	V;DU;1+EXCL;PST+IMMED
+–nov	tu²nov¹mᵖ	V;DU;1+EXCL;PRS
+–pąr	i¹par²	V;PL;3;PRS
+–mur	si²mur²hų²	V;PL;1+EXCL;NEG
+–pe	zu²pe²	V;PL;3;PST+IMMED
+–ha	za²ha²	V;SG;2;SS;LGSPEC1
+–tun	ti²tun¹mᵖ	V;IND;DU;1+EXCL;FUT
+–tu	su²tats¹	V;SG;3;NEG
+–to	siᵈ¹n ki¹to²s	V;DU;2;NEG;FUT
+–hü	siᵈ¹n ga²hü¹hų²	V;PL;1+EXCL;NEG;FUT
+–üts	siᵈ¹n ta²üts¹	V;SG;1;NEG;FUT
+–ʔor	i²ʔor¹	V;SG;2;PST+IMMED
+–mben	u²mben¹	V;SG;1;PST+IMMED
+–to	ga¹to²hų²	V;IND;PL;1+EXCL;FUT
+–ʔets	nu²ʔets¹mᵖ	V;POT;DU;1+EXCL;FUT
+–ker	ru²ker¹	V;SG;3;SS;LGSPEC1
+–ngwin	ma²mbin²	V;POT;PL;3;FUT
+–ʔor	ra²ʔor¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–ʔę	su²ʔę¹	V;PL;3;NEG
+–pe	ki²ngwe¹n	V;PL;2;PST+RCT
+–pą	ki¹pą²n	V;PL;2;PRS
+–pof	ki¹pof²s	V;DU;2;PST+RCT
+–mer	si¹mer²s	V;DU;1+INCL;NEG
+–ʔets	ki²ʔets¹s	V;DU;2;PST+RMT
+–kkü	mi²kkü¹s	V;POT;DU;2;FUT
+–kkü	e²kkü¹s	V;DU;1+INCL;PRS
+–poo	na¹poo²	V;POT;SG;3;FUT
+–tsę	gi¹tsę²	V;SG;2;SS;LGSPEC1
+–kun	gu²kun¹n	V;IND;PL;1+INCL;FUT
+–kkü	e²kkü¹	V;SG;1;PRS
+–he	ru²he¹	V;SG;3;SS;LGSPEC1
+–por	su¹por²n	V;PL;2;PRS
+–maf	ki¹maf²n	V;PL;2;PRS
+–pe	mu²ngwe¹	V;POT;SG;3;FUT
+–ʔi	ra²ʔir²	V;PL;3;SS;LGSPEC1
+–ngwe	ra¹ngwe²	V;SG;1;SS;LGSPEC1
+–ngwe	u¹me²	V;SG;3;PRS
+–ʔi	ki²ʔi¹s	V;DU;2;PST+RCT
+–mʔan	u²mʔan¹	V;SG;1;PST+IMMED
+–ką	ki²ką¹n	V;PL;2;PRS
+–sa	ni¹sa²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–kuʔ	ta¹kuʔ²	V;PL;3;PST+RMT
+–ndę	mu²ndęr¹hų²	V;POT;PL;1+EXCL;FUT
+–her	ki¹nher²n	V;PL;2;PST+RMT
+–por	siᵈ¹n gu¹por²mᵖ	V;DU;1+EXCL;NEG;FUT
+–ʔor	nu²ʔor¹mᵖ	V;POT;DU;1+EXCL;FUT
+–ngwe	ga¹me²	V;IND;SG;3;FUT
+–mir	ni¹mir²n	V;POT;PL;1+INCL;FUT
+–maf	gi¹maf²	V;SG;2;SS;LGSPEC1
+–khar	nu²khar¹hų²	V;POT;PL;1+EXCL;FUT
+–pof	siᵈ¹n gu¹pof²	V;SG;1;NEG;FUT
+–ʔi	ku¹ʔi²	V;SG;1;PST+RCT
+–tats	nu²tats¹	V;POT;SG;1;FUT
+–hą	ga¹hą²	V;IND;SG;3;FUT
+–sa	ti¹sa²n	V;PL;1+INCL;PRS
+–men	su¹men²s	V;DU;2;PST+RMT
+–tu	ki²tu¹n	V;PL;2;PST+RCT
+–rę	u²ndę¹	V;SG;3;PRS
+–ʔa	ga²rʔa²	V;IND;PL;3;FUT
+–kun	e²gun¹	V;SG;3;PRS
+–pen	nu²ngwen¹n	V;POT;PL;1+INCL;FUT
+–ʔo	nu¹ʔo²mᵖ	V;POT;DU;1+EXCL;FUT
+–hą	ki¹hą²mᵖ	V;DU;1+EXCL;PST+IMMED
+–pe	ku²mbe²n	V;PL;1+INCL;PST+RCT
+–kets	su²khets¹	V;PL;3;NEG
+–tu	u²rhu¹	V;PL;3;PST+RMT
+–sü	sa²sü¹	V;SG;3;PST+RCT
+–sü	tu¹sü²s	V;DU;1+INCL;PST+RMT
+–pi	e²pi¹	V;SG;1;PRS
+–ndü	mi²ndü¹	V;POT;SG;2;FUT
+–po	siᵈ¹n gu²por²hų²	V;PL;1+EXCL;NEG;FUT
+–ngwe	ru²me²	V;SG;3;SS;LGSPEC1
+–kets	nu²kets¹hų²	V;POT;PL;1+EXCL;FUT
+–ʔun	si²ʔun¹s	V;DU;2;NEG
+–poo	siᵈ¹n ti¹poo²hų²	V;PL;1+EXCL;NEG;FUT
+–tu	siᵈ¹n ta²tu²	V;SG;1;NEG;FUT
+–tan	ki²tan¹n	V;PL;2;PST+RMT
+–sü	ra¹sü²mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–ha	mi²ha²	V;POT;SG;2;FUT
+–sų	gi²sų²s	V;DU;2;SS;LGSPEC1
+–ʔo	mi¹ʔo²	V;POT;SG;2;FUT
+–paa	nu²ngwaa¹n	V;POT;PL;1+INCL;FUT
+–üts	siᵈ¹n ta²üts¹	V;PL;3;NEG;FUT
+–kun	gi²kun¹n	V;PL;2;SS;LGSPEC1
+–te	sa¹ne²s	V;DU;2;NEG
+–hi	siᵈ¹n ki²hi²	V;SG;2;NEG;FUT
+–mben	ki²mben¹s	V;IND;DU;2;FUT
+–ngwin	u²ngwin¹hų²	V;PL;1+EXCL;PST+IMMED
+–sus	ru²sus¹	V;SG;3;SS;LGSPEC1
+–mą	nu²mą²s	V;POT;DU;1+INCL;FUT
+–kun	si²kun¹mᵖ	V;DU;1+EXCL;NEG
+–murf	u²murf²	V;SG;3;PST+RMT
+–ndü	siᵈ¹n gu²ndür¹hų²	V;PL;1+EXCL;NEG;FUT
+–tu	siᵈ¹n ti²tu²mᵖ	V;DU;1+EXCL;NEG;FUT
+–ga	ra¹ga²	V;SG;1;SS;LGSPEC1
+–pon	siᵈ¹n ki²ngwon²n	V;PL;2;NEG;FUT
+–tü	ti²tü¹	V;SG;1;PRS
+–ʔo	zu¹rʔo²	V;PL;3;PST+IMMED
+–pon	ki²mbon²	V;SG;2;PST+RCT
+–me	ku²me¹n	V;PL;1+INCL;PST+RCT
+–ndun	nu²ndun¹hų²	V;POT;PL;1+EXCL;FUT
+–pe	ga²pe¹hų²	V;IND;PL;1+EXCL;FUT
+–tsün	sa²tsün¹s	V;IND;DU;2;FUT
+–hą	ti¹hą²s	V;IND;DU;1+INCL;FUT
+–sempf	siᵈ¹n ga¹sempf²hų²	V;PL;1+EXCL;NEG;FUT
+–yuts	ti²yuts²hų²	V;PL;1+EXCL;PRS
+–mę	siᵈ¹n gu²mę²mᵖ	V;DU;1+EXCL;NEG;FUT
+–hu	na¹hu²	V;SG;3;SS;LGSPEC1
+–hunts	siᵈ¹n sa²hunts¹s	V;DU;2;NEG;FUT
+–ʔę	su²ʔę¹s	V;DU;1+INCL;NEG
+–ʔi	gi¹ʔi²	V;SG;2;SS;LGSPEC1
+–ʔü	i¹tü²n	V;PL;2;PST+IMMED
+–tav	ki²tav¹	V;SG;2;PST+RMT
+–tsün	sa²tsün¹	V;IND;SG;2;FUT
+–ser	si²ser¹	V;SG;2;PRS
+–ha	sa²ha²s	V;IND;DU;2;FUT
+–po	ru²po¹	V;SG;3;SS;LGSPEC1
+–sü	ga¹sü²	V;IND;SG;3;FUT
+–hą	ta¹hą²	V;SG;1;PST+RMT
+–tsę	tu¹tsę²mᵖ	V;DU;1+EXCL;PRS
+–ta	u²ta²n	V;PL;1+INCL;PST+IMMED
+–kun	ta²kun¹	V;SG;1;PST+RMT
+–tu	ku²ndu¹	V;SG;1;PST+RCT
+–ngwo	i²ngwo¹	V;SG;3;PRS
+–mur	si²mur²	V;PL;3;NEG
+–pąr	si¹par²s	V;DU;2;PRS
+–sü	siᵈ¹n ti²sü¹n	V;PL;1+INCL;NEG;FUT
+–po	i²ngwo¹	V;SG;2;PST+IMMED
+–pin	gi¹pin²	V;SG;2;SS;LGSPEC1
+–ker	tu²ker¹n	V;PL;1+INCL;PST+RMT
+–tsü	za²tsü¹n	V;PL;2;SS;LGSPEC1
+–sų	u²sų²	V;SG;1;PST+IMMED
+–ker	e²ker¹	V;SG;3;PRS
+–rho	nu²rho¹mᵖ	V;POT;DU;1+EXCL;FUT
+–pąr	ti¹par²hų²	V;PL;1+EXCL;PST+RMT
+–tso	siᵈ¹n ki²tso¹	V;SG;2;NEG;FUT
+–ngwe	siᵈ¹n ka¹ngwe²n	V;PL;2;NEG;FUT
+–mą	siᵈ¹n ki²mą²s	V;DU;2;NEG;FUT
+–no	gi²no¹n	V;PL;2;SS;LGSPEC1
+–pen	ki¹pen²s	V;DU;2;PST+RMT
+–aʔi	sa¹aʔi²n	V;PL;2;PST+RMT
+–ʔi	su²ʔi¹n	V;PL;2;PRS
+–ngweʔn	siᵈ¹n ta¹ngweʔn²	V;SG;3;NEG;FUT
+–hunts	siᵈ¹n ta²hunts¹	V;SG;1;NEG;FUT
+–tun	nu²tun¹n	V;PL;1+INCL;SS;LGSPEC1
+–ngwa¹as	tu¹ngwa¹as²s	V;DU;1+INCL;PST+RMT
+–seʔn	siᵈ¹n ti¹seʔn²hų²	V;PL;1+EXCL;NEG;FUT
+–tsa	tu¹tsa²	V;SG;1;PRS
+–pof	i¹pof²n	V;PL;2;PST+IMMED
+–poo	i¹poo²s	V;DU;2;PST+IMMED
+–po	ga²po¹mᵖ	V;IND;DU;1+EXCL;FUT
+–tuts	nu²tuts¹n	V;POT;PL;1+INCL;FUT
+–ha	ti²ha²hų²	V;PL;1+EXCL;PST+RMT
+–mę	nu²mę²	V;POT;SG;1;FUT
+–hu	su²hu¹s	V;DU;1+INCL;NEG
+–ker	ku²nger¹mᵖ	V;DU;1+EXCL;PST+RCT
+–tsen	gu²tsen¹mᵖ	V;IND;DU;1+EXCL;FUT
+–sus	ki²sus¹s	V;DU;2;PST+RMT
+–sa	za¹sa²	V;POT;SG;2;FUT
+–nov	gi²nov¹n	V;PL;2;SS;LGSPEC1
+–tan	mi¹tan²	V;POT;SG;2;FUT
+–pen	u²mbe¹	V;PL;3;PST+RMT
+–sa	tu²sa¹n	V;PL;1+INCL;PST+RMT
+–rų/ndu	mi¹rų/ndu²s	V;POT;DU;2;FUT
+–ppo	sa²ppo²n	V;PL;2;PST+RMT
+–pe	u²ngwe¹	V;SG;1;PST+IMMED
+–üts	na²üts¹	V;POT;PL;3;FUT
+–ʔan	ku¹ʔan²s	V;DU;1+INCL;PST+RCT
+–sempf	ga¹sempf²n	V;IND;PL;1+INCL;FUT
+–pan	ga²pan¹s	V;IND;DU;1+INCL;FUT
+–mę	u¹mę²hų²	V;PL;1+EXCL;PST+IMMED
+–kets	ki²kets¹n	V;IND;PL;2;FUT
+–ngwa	siᵈ¹n ga¹ngwa²hų²	V;PL;1+EXCL;NEG;FUT
+–ʔę	siᵈ¹n gu²ʔę¹n	V;PL;1+INCL;NEG;FUT
+–mur	si²mur²	V;SG;2;PRS
+–por	ki¹por²n	V;PL;2;PST+RCT
+–pii	ki¹pii²	V;SG;2;PST+RMT
+–kun	ku²gun¹	V;SG;3;PST+RCT
+–ʔer	mi²ʔer¹s	V;POT;DU;2;FUT
+–tsoh	u²tsoh¹	V;SG;3;PRS
+–ʔi	tu¹ʔi²s	V;DU;1+INCL;PRS
+–nov	ku²nov¹hų²	V;PL;1+EXCL;PST+RCT
+–ʔer	ru²rʔer¹	V;PL;3;SS;LGSPEC1
+–pe	siᵈ¹n ga²pe²mᵖ	V;DU;1+EXCL;NEG;FUT
+–tsa	siᵈ¹n ki¹tsa²	V;SG;2;NEG;FUT
+–sa	nu²sa¹s	V;POT;DU;1+INCL;FUT
+–ten	su¹ten²n	V;PL;1+INCL;NEG
+–ker	siᵈ¹n ga²ker¹hų²	V;PL;1+EXCL;NEG;FUT
+–ha	u²ha²	V;SG;1;PST+IMMED
+–pą	ki¹pą²s	V;DU;2;PRS
+–pen	ku²mbe¹mᵖ	V;DU;1+EXCL;PST+RCT
+–ngweʔn	si¹ngweʔn²mᵖ	V;DU;1+EXCL;PST+RCT
+–he	e²he¹mᵖ	V;DU;1+EXCL;PRS
+–aʔi	siᵈ¹n sa¹aʔi²s	V;DU;2;NEG;FUT
+–ʔo	ku²ʔo¹s	V;DU;1+INCL;PST+RCT
+–seʔn	sa¹seʔn²n	V;PL;2;PST+RCT
+–ho	su²ho¹hų²	V;PL;1+EXCL;NEG
+–pe	ku²mbe¹	V;SG;1;PST+RCT
+–pe	nu²ngwe¹hų²	V;POT;PL;1+EXCL;FUT
+–tą	tu²tą¹mᵖ	V;DU;1+EXCL;PST+RMT
+–tu	si¹nu²mᵖ	V;DU;1+EXCL;NEG
+–tsü	si²tsü¹s	V;DU;2;PRS
+–ngwa¹as	ka¹ngwa¹as²n	V;IND;PL;2;FUT
+–hu	ga²hu¹mᵖ	V;IND;DU;1+EXCL;FUT
+–pen	gi²ngwen¹n	V;PL;2;SS;LGSPEC1
+–ngwi¹ʔi	su¹ngwi¹ʔi²	V;SG;1;NEG
+–ndü	ki²ndür¹n	V;PL;2;PRS
+–tą	ga²tą¹s	V;IND;DU;1+INCL;FUT
+–pan	ki²pan¹	V;SG;2;PST+RMT
+–pon	u²ngwon²n	V;PL;1+INCL;PST+IMMED
+–pen	e¹pen²s	V;DU;1+INCL;PRS
+–ʔer	su²ʔer¹	V;SG;3;NEG
+–pü	si²pü¹s	V;DU;2;PRS
+–kuʔ	si¹kuʔ²	V;SG;2;PRS
+–mʔan	ki²mʔan¹	V;SG;2;PST+RCT
+–ngwe	siᵈ¹n ka¹ngwe²	V;SG;2;NEG;FUT
+–ngwi¹ʔi	ga¹phi¹ʔi²	V;IND;PL;3;FUT
+–sa	ra²sa²	V;SG;1;SS;LGSPEC1
+–rų/ndu	ki¹rų/ndu²s	V;DU;2;PST+RCT
+–tun	si²tun¹s	V;DU;1+INCL;NEG
+–se	ku²se¹	V;SG;1;PST+RCT
+–sa	siᵈ¹n ti²sa¹hų²	V;PL;1+EXCL;NEG;FUT
+–me	si²me¹	V;SG;2;NEG
+–ta	ki¹ta²s	V;DU;2;PST+RMT
+–ką	u²khą¹	V;PL;3;PST+RMT
+–üts	za²üts¹	V;SG;2;SS;LGSPEC1
+–tę	u²tę¹	V;SG;1;PST+IMMED
+–mir	sa¹mir²s	V;DU;2;PST+RMT
+–sa	ra²sa¹s	V;DU;1+INCL;SS;LGSPEC1
+–ku	ti²ku²n	V;PL;1+INCL;PST+RMT
+–rę	su²rę¹s	V;DU;2;PRS
+–üts	za²üts¹s	V;POT;DU;2;FUT
+–ʔi	ta²ʔi²	V;SG;1;PST+RMT
+–ngwa	su¹ngwa²mᵖ	V;DU;1+EXCL;NEG
+–pi	nu¹ngwi²hų²	V;POT;PL;1+EXCL;FUT
+–pon	ki²pon²	V;SG;2;PST+RMT
+–me	ku²mhe¹	V;PL;3;PST+RCT
+–ngwe	ti¹ką²hų²	V;PL;1+EXCL;PST+RMT
+–ʔi	i¹ʔi²	V;SG;2;PST+IMMED
+–pin	ra¹pin²s	V;DU;1+INCL;SS;LGSPEC1
+–tsün	i²tsün¹	V;SG;1;PST+IMMED
+–pe	ga²mbe¹	V;IND;PL;3;FUT
+–tan	tu²tan¹hų²	V;PL;1+EXCL;PST+RMT
+–tsa	gu¹tsa²hų²	V;IND;PL;1+EXCL;FUT
+–ʔün	siᵈ¹n ki²ʔün¹s	V;DU;2;NEG;FUT
+–yuts	sa²yuts²	V;SG;2;PST+RCT
+–ngwi¹ʔi	mu¹ngwi¹ʔi²	V;POT;SG;1;FUT
+–tü	e²tü¹mᵖ	V;DU;1+EXCL;PRS
+–ngwa	ra¹ngwa²s	V;DU;1+INCL;SS;LGSPEC1
+–ʔun	ga²ʔun¹	V;IND;SG;3;FUT
+–sempf	e²sempf²	V;SG;1;PRS
+–men	ki¹men²n	V;PL;2;PST+RCT
+–tu	ku²ndu¹s	V;DU;1+INCL;PST+RCT
+–kun	u²kun¹	V;SG;1;PST+IMMED
+–tü	sa²tü¹	V;SG;1;NEG
+–pą	tu¹pą²s	V;DU;1+INCL;PST+RMT
+–sa	si²sa¹hų²	V;PL;1+EXCL;NEG
+–khar	gi²khar¹s	V;DU;2;SS;LGSPEC1
+–tsoh	su²tsoh¹s	V;DU;2;PRS
+–tsü	siᵈ¹n ta²tshü¹	V;PL;3;NEG;FUT
+–ʔi	mi²ʔi¹	V;POT;PL;3;FUT
+–ʔun	si²ʔun¹mᵖ	V;DU;1+EXCL;NEG
+–yuts	ti²yuts²hų²	V;PL;1+EXCL;PST+RMT
+–hü	ra²hü¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–ʔür	ku²ʔür¹hų²	V;PL;1+EXCL;PST+RCT
+–ngwe	za¹ką²n	V;POT;PL;2;FUT
+–tu	ti²tur²hų²	V;PL;1+EXCL;PST+RMT
+–po	su²ngwo¹s	V;DU;1+INCL;NEG
+–to	mi¹to²	V;POT;SG;2;FUT
+–pen	ku²mbe¹n	V;PL;1+INCL;PST+RCT
+–ʔe	ki¹te²n	V;PL;2;PST+RMT
+–ha	gi²ha²s	V;DU;2;SS;LGSPEC1
+–kaf	e¹khaf²	V;PL;3;PRS
+–ppo	si²ppo²	V;SG;2;NEG
+–tsü	sa²tsü¹s	V;DU;2;PST+RCT
+–ngwin	ga²ngwin¹	V;IND;SG;1;FUT
+–üts	na²üts¹	V;SG;1;SS;LGSPEC1
+–to	ki¹to²	V;SG;2;PRS
+–hü	ki²hü¹	V;SG;2;PST+RMT
+–kaf	gi¹kaf²n	V;PL;2;SS;LGSPEC1
+–mą	sa²mą²	V;SG;2;NEG
+–rho	ru²ntho¹	V;PL;3;SS;LGSPEC1
+–men	siᵈ¹n ki¹men²s	V;DU;2;NEG;FUT
+–sa	si²sa¹n	V;PL;1+INCL;PST+RCT
+–ʔe	ki²te¹n	V;PL;2;PRS
+–po	e²po²mᵖ	V;DU;1+EXCL;PRS
+–no	tu²no¹hų²	V;PL;1+EXCL;PST+RMT
+–po	tu²po¹	V;SG;1;PST+RMT
+–mą	sa²mhą²	V;PL;3;NEG
+–ha	mi²rha²	V;POT;PL;3;FUT
+–mben	gu²mben¹n	V;IND;PL;1+INCL;FUT
+–tun	u²run¹	V;SG;3;PST+RMT
+–ʔets	mi²rits¹	V;POT;PL;3;FUT
+–maf	ku¹maf²	V;SG;1;PST+RCT
+–paa	siᵈ¹n ga¹paan²	V;SG;3;NEG;FUT
+–sü	ku¹sü²s	V;DU;1+INCL;PST+RCT
+–pü	sa²pü¹s	V;IND;DU;2;FUT
+–kun	ga²kun¹	V;IND;SG;3;FUT
+–te	si²ter¹hų²	V;PL;1+EXCL;PST+RCT
+–rho	siᵈ¹n gu²rho¹hų²	V;PL;1+EXCL;NEG;FUT
+–pan	gi²pan¹n	V;PL;2;SS;LGSPEC1
+–pen	u²ngwe¹mᵖ	V;DU;1+EXCL;PST+IMMED
+–ʔün	ma²ʔün¹	V;POT;SG;1;FUT
+–ser	ni²ser¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–seʔn	sa¹seʔn²	V;PL;3;PST+RCT
+–pąr	siᵈ¹n sa¹par²s	V;DU;2;NEG;FUT
+–tą	ga²tą¹	V;IND;SG;3;FUT
+–kkü	siᵈ¹n gu²kkür¹hų²	V;PL;1+EXCL;NEG;FUT
+–maf	ru¹maf²	V;SG;3;SS;LGSPEC1
+–po	su²ngwo¹	V;SG;1;NEG
+–hu	siᵈ¹n ga²hu¹mᵖ	V;DU;1+EXCL;NEG;FUT
+–ʔets	mi²ʔets¹s	V;POT;DU;2;FUT
+–pof	ki¹pof²s	V;IND;DU;2;FUT
+–mą	ki²mą²n	V;IND;PL;2;FUT
+–kets	u²kets¹n	V;PL;1+INCL;PST+IMMED
+–sa	sa²sa¹	V;SG;2;PST+RCT
+–maf	mi¹maf²s	V;POT;DU;2;FUT
+–ʔü	u¹rʔü²	V;PL;3;PST+RMT
+–tsün	ni²tsün¹mᵖ	V;POT;DU;1+EXCL;FUT
+–pin	siᵈ¹n ga¹pin²s	V;DU;1+INCL;NEG;FUT
+–ʔę	mi²ʔę¹	V;POT;SG;2;FUT
+–sa	i¹sa²	V;SG;3;PRS
+–ʔe	si²te¹n	V;PL;2;NEG
+–rę	gu²rę¹mᵖ	V;IND;DU;1+EXCL;FUT
+–kkü	si²kkür¹n	V;PL;2;NEG
+–tuts	gi²tuts¹	V;SG;2;SS;LGSPEC1
+–hun	siᵈ¹n ki¹nhin²n	V;PL;2;NEG;FUT
+–sa	si¹sa²	V;SG;1;NEG
+–nda	siᵈ¹n ta²nda¹	V;SG;1;NEG;FUT
+–pof	ra¹pof²n	V;PL;1+INCL;SS;LGSPEC1
+–ʔer	su²ʔer¹hų²	V;PL;1+EXCL;NEG
+–pąr	si¹par²hų²	V;PL;1+EXCL;NEG
+–ngweʔn	ni¹ngweʔn²s	V;DU;1+INCL;SS;LGSPEC1
+–tü	u¹tü²	V;SG;3;PRS
+–sa	na²sa¹	V;POT;PL;3;FUT
+–sų	su²sų²hų²	V;PL;1+EXCL;NEG
+–pe	i²ngwe¹s	V;DU;2;PST+IMMED
+–ndze	ki²ndzer¹n	V;PL;1+INCL;PST+IMMED
+–ter	ni¹ter²n	V;POT;PL;1+INCL;FUT
+–tun	gu²tun¹n	V;IND;PL;1+INCL;FUT
+–te	ki²ter¹hų²	V;PL;1+EXCL;PST+RCT
+–tets	ki¹tets²	V;IND;SG;2;FUT
+–sa	si¹sa²	V;SG;2;NEG
+–ngwo	si²ngwo¹s	V;DU;2;NEG
+–pe	u²ngwe²	V;SG;1;PST+IMMED
+–tan	siᵈ¹n ki¹tan²	V;SG;2;NEG;FUT
+–ngwe	siᵈ¹n sa¹ngwe²	V;SG;2;NEG;FUT
+–ppi	siᵈ¹n ga²ppi¹hų²	V;PL;1+EXCL;NEG;FUT
+–ku	za²ku²	V;SG;2;SS;LGSPEC1
+–sa	u²sa²mᵖ	V;DU;1+EXCL;PST+IMMED
+–ngwe	si²ngwe¹	V;SG;1;NEG
+–pą	siᵈ¹n ki¹pą²n	V;PL;2;NEG;FUT
+–ko	su²ko²mᵖ	V;DU;1+EXCL;NEG
+–hunts	i²hunts¹	V;SG;3;PST+IMMED
+–ʔe	siᵈ¹n ga²ʔe¹s	V;DU;1+INCL;NEG;FUT
+–tu	ta²tu²	V;SG;3;PST+RMT
+–ndü	e²ndü¹s	V;DU;1+INCL;PRS
+–pen	su²ngwe¹	V;SG;3;NEG
+–tan	siᵈ¹n ki²tan¹	V;SG;2;NEG;FUT
+–ʔer	siᵈ¹n ga²ʔer¹hų²	V;PL;1+EXCL;NEG;FUT
+–kun	ma²kun¹mᵖ	V;POT;DU;1+EXCL;FUT
+–hun	nu¹hun²	V;POT;SG;1;FUT
+–mir	si¹mir²	V;SG;2;NEG
+–tsü	za²tsü¹	V;POT;SG;2;FUT
+–rų/ndu	mi¹rųr²	V;POT;PL;3;FUT
+–men	nu¹men²s	V;POT;DU;1+INCL;FUT
+–kun	siᵈ¹n gu²kun¹hų²	V;PL;1+EXCL;NEG;FUT
+–tso	nu²tso²hų²	V;POT;PL;1+EXCL;FUT
+–ke	ki²k^e¹n	V;PL;2;PRS
+–ʔor	tu²ʔor¹hų²	V;PL;1+EXCL;PRS
+–tu	ga²tu¹hų²	V;IND;PL;1+EXCL;FUT
+–ku	sa²ku²	V;PL;3;PST+RCT
+–ha	tu²ha²n	V;PL;1+INCL;PST+RMT
+–sa	tu²sa¹s	V;DU;1+INCL;PST+RMT
+–me	ti²me¹mᵖ	V;IND;DU;1+EXCL;FUT
+–se	siᵈ¹n ki¹se²s	V;DU;2;NEG;FUT
+–kun	siᵈ¹n ga²kun¹hų²	V;PL;1+EXCL;NEG;FUT
+–nu	su¹nu²hų²	V;PL;1+EXCL;NEG
+–sus	ki²sus¹n	V;PL;2;PRS
+–ʔer	e²rʔer¹	V;PL;3;PRS
+–sa	siᵈ¹n ga¹sa²	V;SG;1;NEG;FUT
+–ką	siᵈ¹n ga²ką¹n	V;PL;1+INCL;NEG;FUT
+–tav	su²tav¹n	V;PL;1+INCL;NEG
+–nov	ra²nov¹mᵖ	V;DU;1+EXCL;SS;LGSPEC1
+–üts	ti²üts¹s	V;DU;1+INCL;PRS
+–hun	ku²hun¹s	V;DU;1+INCL;PST+RCT
+–sa	siᵈ¹n ga²tsha²	V;PL;3;NEG;FUT
+–po	siᵈ¹n ki²por²n	V;PL;2;NEG;FUT
+–ppo	siᵈ¹n ta²ppo²	V;PL;3;NEG;FUT
+–mir	ti¹mir²mᵖ	V;DU;1+EXCL;PST+RMT
+–hą	si¹hą²	V;SG;3;NEG
+–mben	su²mben¹s	V;DU;2;PST+RMT
+–ppar	siᵈ¹n ga²ppar¹	V;SG;1;NEG;FUT
+–poo	i¹poo²n	V;PL;2;PST+IMMED
+–ʔi	ki¹ʔi²s	V;DU;2;PST+RCT
+–po	ki²po¹s	V;IND;DU;2;FUT
+–tso	si¹tsor²n	V;PL;2;NEG
+–ʔo	ga¹rʔo²	V;IND;PL;3;FUT
+–sa	siᵈ¹n ga¹sa²hų²	V;PL;1+EXCL;NEG;FUT
+–ha	siᵈ¹n ta²ha²	V;SG;3;NEG;FUT
+–pen	ki²ngwe¹n	V;PL;2;PST+RCT
+–ppi	ku²nbi¹s	V;DU;1+INCL;PST+RCT
+–mur	siᵈ¹n ta²mur²	V;PL;3;NEG;FUT
+–kün	siᵈ¹n ga²khün¹	V;PL;3;NEG;FUT
+–hü	e²hü¹s	V;DU;1+INCL;PRS
+–ngweʔn	ti¹ngweʔn²n	V;PL;1+INCL;PST+RMT
+–ką	tu²ką¹mᵖ	V;DU;1+EXCL;PST+RMT
+–ngwa¹as	sa¹pa¹as²	V;SG;3;NEG
+–tü	ma²tü¹	V;POT;SG;1;FUT
+–sa	ti¹sa²hų²	V;PL;1+EXCL;PST+RMT
+–pen	i²ngwe¹	V;SG;2;PST+IMMED
+–ker	ga²ker¹mᵖ	V;IND;DU;1+EXCL;FUT
+–tan	su²tan¹	V;SG;1;NEG
+–sa	ta¹sa²	V;IND;PL;3;FUT
+–nda	siᵈ¹n ta²nda¹	V;SG;3;NEG;FUT
+–tą	ki²tą¹s	V;DU;2;PRS
+–tü	i²tü¹	V;PL;3;PST+IMMED
+–hü	su²hü¹	V;SG;3;NEG
+–ngweʔn	siᵈ¹n ta¹peʔn²	V;PL;3;NEG;FUT
+–mben	nu²mben¹n	V;POT;PL;1+INCL;FUT
+–pi	siᵈ¹n ga¹pi²mᵖ	V;DU;1+EXCL;NEG;FUT
+–rų/ndu	siᵈ¹n ki¹rų/ndu²s	V;DU;2;NEG;FUT
+–pii	siᵈ¹n ga²mii¹	V;SG;3;NEG;FUT
+–ngwe	e²mbe²	V;PL;3;PST+IMMED
+–ngweʔn	sa¹ngweʔn²s	V;DU;2;PST+RCT
+–ʔü	su²rʔü¹	V;PL;3;NEG
+–murf	u²mhurf²	V;PL;3;PST+RMT
+–sus	tu²sus¹n	V;PL;1+INCL;PST+RMT
+–ʔü	i²nür¹	V;PL;3;PRS
+–maf	u¹maf²n	V;PL;1+INCL;PST+IMMED
+–hą	ma¹hą²s	V;POT;DU;1+INCL;FUT

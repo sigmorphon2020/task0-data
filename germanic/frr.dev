@@ -1,321 +1,224 @@
-pluuge	pluuget	V;PFV;IND;DU;1;PST
-skriiw	skrewen	V.PTCP;PST
-mååge	mååget	V;IND;SG;3;PRS
-weese	is	V;IND;SG;3;PRS
-faal	faal	V;IND;DU;2;PRS
-heewe	wal heewe	V;IND;SG;3;FUT;LGSPEC2
-breege	hääst bräägen	V;PRF;IND;SG;2;PST
-bring	skääl bring	V;IND;SG;2;FUT;LGSPEC1
-baag	tu baagen	V;NFIN
-baag	wal baag	V;IND;SG;3;FUT;LGSPEC2
-heewe	schal heewe	V;IND;SG;3;FUT;LGSPEC1
-lees	hed leesen	V;PRF;IND;SG;3;PST+RMT
-greewe	greew	V;IND;SG;1;PRS
-du	ded	V;PFV;IND;PL;3;PST
-heelpe	häist hülpen	V;PRF;IND;SG;2;PST+RMT
-stridj	hed streden	V;PRF;IND;SG;3;PST+RMT
-mååge	mååget	V;IND;SG;3;PRS
-pluuge	pluuget	V;PFV;IND;DU;2;PST
-ferliise	ferliise	V;IND;PL;1;PRS
-breeg	skal breeg	V;IND;SG;3;FUT;LGSPEC1
-ferjeese	häin ferjin	V;PRF;IND;PL;1;PST+RMT
-koone	hääw kööt	V;PRF;IND;SG;1;PST
-jiiw	hee jewen	V;PRF;IND;SG;3;PST
-skriiw	skriiw	V;IND;PL;1;PRS
-breege	breeg	V;IMP;PL
-bliwe	än bliw	V.PTCP;PST
-haa	wel haa	V;IND;DU;1;FUT;LGSPEC2
-faal	san feelen	V;PRF;IND;PL;3;PST
-stridj	stridj	V;IND;PL;1;PRS
-baag	haa beegen	V;PRF;IND;PL;3;PST
-maage	hed maaget	V;PRF;IND;PL;3;PST+RMT
-weese	wus	V;PFV;IND;SG;3;PST
-heewe	hääwe	V;IND;PL;2;PRS
-jiiw	hed jewen	V;PRF;IND;SG;3;PST+RMT
-koone	häist kööt	V;PRF;IND;SG;2;PST+RMT
-haa	skel haa	V;IND;PL;2;FUT;LGSPEC1
-faal	wal faal	V;IND;SG;3;FUT;LGSPEC2
-gunge	wårst gunge	V;IND;SG;2;FUT;LGSPEC1
-bine	häin bünen	V;PRF;IND;PL;2;PST+RMT
-heelpe	häi hülpen	V;PRF;IND;SG;3;PST+RMT
-fraage	hee fraaget	V;PRF;IND;SG;3;PST
-bååge	bååget	V;IND;SG;3;PRS
-bååge	wårde bååge	V;IND;DU;1;FUT;LGSPEC1
-ferliise	ferlüüs	V;PFV;IND;SG;1;PST
-spreege	spräken	V;PFV;IND;PL;1;PST
-teenk	skal teenk	V;IND;SG;3;FUT;LGSPEC1
-bliwe	bliw	V;IND;SG;1;PRS
-mötj	hääwe muurst	V;PRF;IND;DU;1;PST
-bååge	båågeden	V;PFV;IND;DU;2;PST
-kaame	san kiimen	V;PRF;IND;DU;2;PST
-nem	naam	V;PFV;IND;PL;2;PST
-mötj	mötj	V;IND;SG;3;PRS
-wel	wääl	V;IND;SG;2;PRS
-fraage	hed fraaget	V;PRF;IND;PL;3;PST+RMT
-greew	gruf	V;PFV;IND;SG;3;PST
-röp	haa rööpen	V;IND;DU;1;PRS
-teenk	teenkt	V;IND;SG;3;PRS
-greew	gruf	V;PFV;IND;SG;3;PST
-teenk	haa toocht	V;PRF;IND;DU;2;PST
-ferjeese	wårde forjeese	V;IND;PL;1;FUT;LGSPEC1
-gunge	gunge	V;IND;DU;2;PRS
-wan	woon	V;PFV;IND;PL;3;PST
-wees	skel wees	V;IND;PL;3;FUT;LGSPEC1
-heewe	häi	V;PFV;IND;SG;3;PST
-fu	hed fingen	V;PRF;IND;SG;1;PST+RMT
-spreege	hääwe spräägen	V;PRF;IND;PL;2;PST
-lees	leest	V;IND;SG;3;PRS
-weese	wårst weese	V;IND;SG;2;FUT
-fu	skel fu	V;IND;DU;1;FUT;LGSPEC1
-dreege	dröich	V;PFV;IND;SG;3;PST
+jooge	än joog	V.PTCP;PST
 jiiw	jeew	V;PFV;IND;PL;3;PST
-bliiw	bliiw	V;IND;PL;3;PRS
-wel	hee wulen	V;PRF;IND;SG;3;PST
-ferliise	wårt ferliise	V;IND;SG;3;FUT;LGSPEC1
+drainke	häin drunken	V;PRF;IND;DU;2;PST+RMT
+greew	heest greewen	V;PRF;IND;SG;2;PST
+wel	skel wel	V;IND;DU;1;FUT;LGSPEC1
+kaame	san kiimen	V;PRF;IND;DU;2;PST
+wees	wiar	V;PFV;IND;PL;2;PST
+gripe	wård gripe	V;IND;SG;1;FUT;LGSPEC1
+drainke	wårde drainke	V;IND;PL;3;FUT;LGSPEC1
+breege	breechst	V;IND;SG;2;PRS
+maage	maaget	V;PFV;IND;PL;2;PST
+drank	haa dronken	V;PRF;IND;SG;1;PST
 kem	wiar kimen	V;PRF;IND;SG;3;PST+RMT
-breeg	wal breeg	V;IND;SG;3;FUT;LGSPEC2
-spreege	spräk	V;PFV;IND;SG;3;PST
 lees	haa leesen	V;PRF;IND;DU;2;PST
-bliiw	blaft	V;IND;SG;3;PRS
-jooge	wårst jooge	V;IND;SG;2;FUT;LGSPEC1
-jiiw	jaft	V;IND;SG;3;PRS
-stridj	haa streden	V;PRF;IND;SG;1;PST
+baag	haa beegen	V;PRF;IND;PL;3;PST
+kem	wiar kimen	V;PRF;IND;SG;1;PST+RMT
+drank	haa dronken	V;PRF;IND;PL;2;PST
+wan	hed wonen	V;PRF;IND;SG;1;PST+RMT
+frååge	wård frååge	V;IND;SG;1;FUT;LGSPEC1
+röp	haa rööpen	V;IND;DU;3;PRS
+frååge	fråågeden	V;PFV;IND;PL;2;PST
+jeewe	wårde jeewe	V;IND;PL;2;FUT;LGSPEC1
+greewe	häi grääwen	V;PRF;IND;SG;1;PST+RMT
+bring	hed broocht	V;PRF;IND;DU;2;PST+RMT
+drank	droonk	V;PFV;IND;PL;1;PST
+drank	hedst dronken	V;PRF;IND;SG;2;PST+RMT
+dreeg	skel dreeg	V;IND;DU;1;FUT;LGSPEC1
+wees	skel wees	V;IND;PL;3;FUT;LGSPEC1
+röp	skel röp	V;IND;PL;3;FUT;LGSPEC1
+breeg	breecht	V;IND;SG;3;PRS
+lees	wel lees	V;IND;PL;2;FUT;LGSPEC2
+düünj	düünj	V;IND;DU;2;PRS
+beskriiw	beskriiw'em	V;IMP;PL
+koone	hääwe kööt	V;PRF;IND;PL;2;PST
+bine	häin bünen	V;PRF;IND;PL;2;PST+RMT
+stridj	hed streden	V;PRF;IND;DU;2;PST+RMT
+koone	hääw kööt	V;PRF;IND;SG;1;PST
+gripe	häi gram	V;PRF;IND;SG;1;PST+RMT
+spreege	hääwe spräägen	V;PRF;IND;PL;1;PST
+gunge	wårst gunge	V;IND;SG;2;FUT;LGSPEC1
+heelpe	heelpe	V;NFIN
+bine	bin	V;IND;SG;1;PRS
+heewe	hääwe	V;IND;PL;2;PRS
+ferliise	ferlüüs	V;PFV;IND;SG;1;PST
+teenk	teenk	V;IMP;SG
+pluuge	hed pluuget	V;PRF;IND;SG;1;PST+RMT
+ferliise	ferlüüst	V;PFV;IND;SG;2;PST
+heewe	schin heewe	V;IND;PL;2;FUT;LGSPEC1
+haa	wel haa	V;IND;DU;1;FUT;LGSPEC2
+röp	haa rööpen	V;IND;DU;1;PRS
+bine	bünen	V;PFV;IND;DU;1;PST
+bine	bünen	V;PFV;IND;PL;2;PST
+breeg	breeg	V;IND;PL;3;PRS
+skriiw	skrewen	V.PTCP;PST
+spreege	hääwe spräägen	V;PRF;IND;PL;2;PST
+heewe	heet	V.PTCP;PST
+faal	wiar feelen	V;PRF;IND;PL;2;PST+RMT
+maage	hed maaget	V;PRF;IND;PL;3;PST+RMT
+wel	wel	V;IND;PL;1;PRS
+breeg	bruch	V;PFV;IND;PL;3;PST
+greewe	hääwe grääwen	V;PRF;IND;PL;2;PST
+beskriiw	hed beskrewen	V;PRF;IND;SG;1;PST+RMT
+röp	her rööpen	V;PFV;IND;SG;1;PST
+maage	skääl maage	V;IND;SG;2;FUT;LGSPEC1
+ferjeese	wårde forjeese	V;IND;PL;1;FUT;LGSPEC1
+fu	wääl fu	V;IND;SG;2;FUT;LGSPEC2
+kaame	kaame	V;IND;PL;3;PRS
+teenk	hed toocht	V;PRF;IND;PL;3;PST+RMT
+wees	wees	V;NFIN
+ferjeese	häin ferjin	V;PRF;IND;PL;1;PST+RMT
+gunge	gängen	V;IMP;SG
+jiiw	juf	V;PFV;IND;PL;2;PST
+mötj	hääwe muurst	V;PRF;IND;DU;1;PST
+fine	fünen	V;PFV;IND;PL;3;PST
+heewe	wårde heewe	V;IND;DU;2;FUT
+heewe	heest heet	V;PRF;IND;SG;2;PST+RMT
+ferliise	ferlüüsen	V;PFV;IND;PL;1;PST
+wel	wääl	V;IND;SG;2;PRS
+fu	wel fu	V;IND;DU;2;FUT;LGSPEC2
+bring	skääl bring	V;IND;SG;2;FUT;LGSPEC1
+ferjeese	wårst forjeese	V;IND;SG;2;FUT;LGSPEC1
+nem	wal nem	V;IND;SG;1;FUT;LGSPEC2
+greewe	wårde greewe	V;IND;PL;1;FUT;LGSPEC1
+stridj	stridj	V;IND;PL;1;PRS
+faal	wel faal	V;IND;PL;2;FUT;LGSPEC2
+wan	wonen	V.PTCP;PST
+stridj	stridj	V;IND;PL;3;PRS
+greewe	greew	V;IND;SG;1;PRS
+ferliise	ferliise	V;IND;PL;3;PRS
+fu	fu	V;IND;DU;1;PRS
+breeg	hed breegen	V;PRF;IND;SG;1;PST+RMT
+teenk	teenk	V;IND;PL;2;PRS
+baag	heest beegen	V;PRF;IND;SG;2;PST
+pluuge	pluuget	V;PFV;IND;DU;2;PST
+fu	hed fingen	V;PRF;IND;SG;1;PST+RMT
+dreeg	wääl dreeg	V;IND;SG;2;FUT;LGSPEC2
+gunge	wårde gunge	V;IND;DU;2;FUT;LGSPEC1
+röp	wet röp	V;IND;SG;2;FUT;LGSPEC2
+weese	wårst weese	V;IND;SG;2;FUT
+heewe	häin hädj	V;PRF;IND;PL;2;PST+RMT
+kem	kaam	V;PFV;IND;SG;1;PST
+jeewe	wård jeewe	V;IND;SG;1;FUT;LGSPEC1
+mötj	hääwe muurst	V;PRF;IND;PL;3;PST
+breeg	tu breegen	V;NFIN
+ferjeese	hääwe ferjin	V;PRF;IND;PL;3;PST
+frååge	wårst frååge	V;IND;SG;2;FUT;LGSPEC1
+du	wal du	V;IND;SG;1;FUT;LGSPEC2
 drank	hed dronken	V;PRF;IND;DU;1;PST+RMT
-du	diad	V;PFV;IND;SG;3;PST
-bliiw	bliiw	V;IND;SG;1;PRS
+drainke	häin drunken	V;PRF;IND;PL;2;PST+RMT
+drank	drank	V;IND;PL;2;PRS
+bååge	tu båågen	V;NFIN
+booge	boogeden	V;PFV;IND;PL;2;PST
+wan	woon	V;PFV;IND;PL;3;PST
+bååge	wårde bååge	V;IND;DU;1;FUT;LGSPEC1
+ferliise	än ferliis	V.PTCP;PST
+dreeg	dreeg	V;IMP;SG
+ferliise	hääst ferlääsen	V;PRF;IND;SG;2;PST
+röp	herst rööpen	V;PFV;IND;SG;2;PST
+greewe	wårde greewe	V;IND;DU;2;FUT;LGSPEC1
+gripe	grip	V;IND;SG;1;PRS
+bliiw	bliiw	V;IND;PL;3;PRS
+weese	wääl weese	V;IND;SG;2;FUT;LGSPEC2
+bliiw	tu bliiwen	V;NFIN
+weese	wjarst wään	V;PRF;IND;SG;2;PST+RMT
+teenk	haa toocht	V;PRF;IND;DU;2;PST
+breege	breeg	V;IMP;PL
+wan	hed wonen	V;PRF;IND;DU;2;PST+RMT
+teenk	hed toocht	V;PRF;IND;PL;1;PST+RMT
+bring	wel bring	V;IND;PL;3;FUT;LGSPEC2
+mötj	mönje	V;IND;DU;1;PRS
+haa	hedst hed	V;PRF;IND;SG;2;PST+RMT
+lees	haa leesen	V;PRF;IND;DU;1;PST
+wees	wiar	V;PFV;IND;DU;2;PST
+faal	faal	V;IND;DU;2;PRS
+mååge	wårde mååge	V;IND;PL;2;FUT;LGSPEC1
+du	ded	V;PFV;IND;PL;3;PST
+stridj	haa streden	V;PRF;IND;SG;1;PST
+beskriiw	beskriiw	V;IND;PL;2;PRS
+du	deest	V;IND;SG;2;PRS
+bååge	än bååg	V.PTCP;PST
+heewe	heen	V;PFV;IND;PL;1;PST
+dreeg	druchst	V;PFV;IND;SG;2;PST
+fine	hääw fünen	V;PRF;IND;SG;1;PST
+heelpe	heelpe	V;IND;DU;2;PRS
+gripe	griipen	V;PFV;IND;DU;2;PST
+skriiw	hed skrewen	V;PRF;IND;SG;1;PST+RMT
+heelpe	häist hülpen	V;PRF;IND;SG;2;PST+RMT
+jooge	wårst jooge	V;IND;SG;2;FUT;LGSPEC1
+heewe	hääw	V;IND;PL;3;PRS
+mååge	mååge	V;IND;DU;1;PRS
+kem	tu kemen	V;NFIN
+haa	skel haa	V;IND;PL;2;FUT;LGSPEC1
+jooge	häi läägen	V;PRF;IND;SG;1;PST+RMT
+röp	her rööpen	V;PFV;IND;DU;1;PST
+wees	wees	V;IMP;SG
+kem	san kimen	V;PRF;IND;PL;2;PST
+weese	ban wään	V;PRF;IND;SG;1;PST
 bååge	bååg	V;IMP;PL
+heelpe	hülpen	V;PFV;IND;DU;1;PST
+dreeg	hed draanjen	V;PRF;IND;PL;1;PST+RMT
+baag	tu baagen	V;NFIN
+maage	tu maagin	V;NFIN
+faal	san feelen	V;PRF;IND;PL;3;PST
+pluuge	pluuget	V;PFV;IND;DU;1;PST
+koone	wårde koone	V;IND;PL;3;FUT;LGSPEC1
+bliiw	bliiw	V;IND;SG;1;PRS
+fraage	hed fraaget	V;PRF;IND;PL;3;PST+RMT
+gunge	wårde gunge	V;IND;PL;2;FUT;LGSPEC1
+bååge	båågedst	V;PFV;IND;SG;2;PST
+röp	haa rööpen	V;IND;PL;2;PRS
 kaame	san kiimen	V;PRF;IND;PL;2;PST
 bring	heest broocht	V;PRF;IND;SG;2;PST
-weese	wään	V.PTCP;PST
-booge	hääwe booged	V;PRF;IND;DU;1;PST
-drainke	drunk	V;PFV;IND;SG;3;PST
-fine	heet fünen	V;PRF;IND;SG;3;PST
-breeg	breeg	V;IND;PL;3;PRS
-pluuge	hed pluuget	V;PRF;IND;SG;1;PST+RMT
-gripe	griipen	V;PFV;IND;DU;2;PST
-breeg	bruch	V;PFV;IND;SG;3;PST
-ferliise	ferlüüsen	V;PFV;IND;PL;1;PST
-bliwe	wus blaawen	V;PRF;IND;SG;3;PST+RMT
-ferjeese	hääwe ferjin	V;PRF;IND;PL;3;PST
-dreege	tu dreegen	V;NFIN
-spreege	wårt spreege	V;IND;SG;3;FUT;LGSPEC1
-maage	tu maagin	V;NFIN
-jeewe	wård jeewe	V;IND;SG;1;FUT;LGSPEC1
-heewe	häin hädj	V;PRF;IND;PL;2;PST+RMT
-röp	skel röp	V;IND;SG;3;FUT;LGSPEC1
-du	wal du	V;IND;SG;3;FUT;LGSPEC2
-bååge	bååge	V;IND;PL;1;PRS
-spreege	spräk	V;PFV;IND;SG;3;PST
-kaame	kaame	V;IND;PL;3;PRS
-heewe	schin heewe	V;IND;PL;2;FUT;LGSPEC1
-beskriiw	hee beskrewen	V;PRF;IND;SG;3;PST
-spreege	heet spräägen	V;PRF;IND;SG;3;PST
-drainke	wårde drainke	V;IND;PL;3;FUT;LGSPEC1
-fine	fünen	V;PFV;IND;PL;3;PST
-jiiw	juf	V;PFV;IND;SG;3;PST
-dreege	wårt dreege	V;IND;SG;3;FUT;LGSPEC1
-wees	wiar	V;PFV;IND;PL;2;PST
-skriiw	skal skriiw	V;IND;SG;3;FUT;LGSPEC1
-nem	namt	V;IND;SG;3;PRS
-dreeg	dreeg	V;IMP;SG
-weese	ban wään	V;PRF;IND;SG;1;PST
-heewe	heet	V.PTCP;PST
-koone	häi kööt	V;PRF;IND;SG;3;PST+RMT
-beskriiw	beskreew	V;PFV;IND;PL;3;PST
-breeg	hed breegen	V;PRF;IND;SG;3;PST+RMT
-röp	her rööpen	V;PFV;IND;DU;1;PST
-röp	herst rööpen	V;PFV;IND;SG;2;PST
-gripe	grip	V;IND;SG;1;PRS
-ferjeese	ferjätj	V;PFV;IND;SG;3;PST
-kem	tu kemen	V;NFIN
-dreeg	skel dreeg	V;IND;DU;1;FUT;LGSPEC1
-maage	maaget	V;PFV;IND;PL;2;PST
-wees	wees	V;IMP;SG
-bååge	bååged	V;PFV;IND;SG;3;PST
-wel	wal wel	V;IND;SG;3;FUT;LGSPEC2
-pluuge	hed pluuget	V;PRF;IND;SG;3;PST+RMT
-mötj	hääwe muurst	V;PRF;IND;PL;3;PST
-jeewe	jäif	V;PFV;IND;SG;3;PST
-teenk	hed toocht	V;PRF;IND;PL;3;PST+RMT
-wees	san weesen	V;PRF;IND;PL;2;PST
-stridj	strat	V;IND;SG;3;PRS
-gripe	heet gram	V;PRF;IND;SG;3;PST
-skriiw	skal skriiw	V;IND;SG;3;FUT;LGSPEC1
-drainke	häin drunken	V;PRF;IND;PL;2;PST+RMT
-teenk	hed toocht	V;PRF;IND;PL;1;PST+RMT
-wan	wonen	V.PTCP;PST
-teenk	toocht	V;PFV;IND;SG;3;PST
-fraage	fraaget	V;IND;SG;3;PRS
-lees	skal lees	V;IND;SG;3;FUT;LGSPEC1
-bine	bünen	V;PFV;IND;DU;1;PST
-jooge	än joog	V.PTCP;PST
-fu	hed fingen	V;PRF;IND;SG;3;PST+RMT
-ferliise	än ferliis	V.PTCP;PST
-mötj	mötj	V;IND;SG;1;PRS
-heewe	heest heet	V;PRF;IND;SG;2;PST+RMT
-mååge	mååg	V;IMP;PL
-wees	as	V;IND;SG;3;PRS
-greew	heest greewen	V;PRF;IND;SG;2;PST
-heelpe	heelpe	V;IND;DU;2;PRS
-pluuge	pluuget	V;PFV;IND;SG;3;PST
-gunge	gäng	V;PFV;IND;SG;3;PST
-drank	droonk	V;PFV;IND;PL;1;PST
-bliwe	wårde bliwe	V;IND;DU;2;FUT;LGSPEC1
-gunge	gängen	V;IMP;SG
-weese	wjarst wään	V;PRF;IND;SG;2;PST+RMT
-gunge	wjarst gängen	V;PRF;IND;SG;2;PST+RMT
-röp	wet röp	V;IND;SG;2;FUT;LGSPEC2
-bring	hed broocht	V;PRF;IND;SG;3;PST+RMT
-breege	bräken	V;PFV;IND;DU;1;PST
-jeewe	jäifen	V;PFV;IND;DU;2;PST
-stridj	stridj	V;IND;PL;3;PRS
-fu	wel fu	V;IND;PL;2;FUT;LGSPEC2
-röp	rööp	V;PFV;IND;SG;3;PST
-fu	skel fu	V;IND;DU;2;FUT;LGSPEC1
-weese	is	V;IND;SG;3;PRS
-maage	skääl maage	V;IND;SG;2;FUT;LGSPEC1
-röp	her rööpen	V;PFV;IND;SG;1;PST
-stridj	skal stridj	V;IND;SG;3;FUT;LGSPEC1
-heelpe	heelpe	V;NFIN
-haa	hee	V;IND;SG;3;PRS
-breege	heet bräägen	V;PRF;IND;SG;3;PST
-frååge	wårst frååge	V;IND;SG;2;FUT;LGSPEC1
-wan	hed wonen	V;PRF;IND;DU;2;PST+RMT
-fu	fu	V;IND;DU;1;PRS
-bååge	båågeden	V;PFV;IND;PL;1;PST
-haa	skal haa	V;IND;SG;3;FUT;LGSPEC1
-mååge	mååge	V;IND;DU;1;PRS
-nem	wel nem	V;IND;PL;3;FUT;LGSPEC2
-kem	wiar kimen	V;PRF;IND;SG;3;PST+RMT
-heewe	wårde heewe	V;IND;DU;2;FUT
-gripe	grapt	V;IND;SG;3;PRS
-mååge	mååget	V;IND;SG;3;PRS
-heelpe	hülpen	V;PFV;IND;DU;1;PST
-mötj	mönje	V;IND;DU;1;PRS
-kem	kaam	V;PFV;IND;SG;1;PST
-heewe	heen	V;PFV;IND;PL;1;PST
-beskriiw	beskriiw	V;IND;SG;1;PRS
-wel	skel wel	V;IND;DU;1;FUT;LGSPEC1
-fu	wel fu	V;IND;DU;2;FUT;LGSPEC2
-lees	haa leesen	V;PRF;IND;DU;1;PST
-greewe	häi grääwen	V;PRF;IND;SG;3;PST+RMT
-ferliise	ferliise	V;IND;PL;3;PRS
-bååge	än bååg	V.PTCP;PST
-du	wal du	V;IND;SG;1;FUT;LGSPEC2
-du	deest	V;IND;SG;2;PRS
-drank	haa dronken	V;PRF;IND;PL;2;PST
-kem	skal kem	V;IND;SG;1;FUT;LGSPEC1
-beskriiw	beskriiw'em	V;IMP;PL
-kaame	wjarn kiimen	V;PRF;IND;DU;1;PST+RMT
-wan	want	V;IND;SG;3;PRS
-frååge	fråågeden	V;PFV;IND;PL;2;PST
-fraage	fraaget	V;PFV;IND;SG;3;PST
-fu	hed fingen	V;PRF;IND;PL;2;PST+RMT
-koone	koon	V;IND;SG;3;PRS
-bring	hed broocht	V;PRF;IND;DU;2;PST+RMT
-wees	wiar	V;PFV;IND;DU;2;PST
-fine	hääw fünen	V;PRF;IND;SG;1;PST
-breeg	tu breegen	V;NFIN
-breeg	breecht	V;IND;SG;3;PRS
-dreeg	druchst	V;PFV;IND;SG;2;PST
-bine	bünen	V;PFV;IND;PL;2;PST
-booge	boogeden	V;PFV;IND;PL;2;PST
-stridj	haa streden	V;PRF;IND;DU;1;PST
-jeewe	heet jääwen	V;PRF;IND;SG;3;PST
-haa	haa	V;IND;DU;2;PRS
-wel	wel	V;IND;PL;1;PRS
-faal	wel faal	V;IND;DU;2;FUT;LGSPEC2
-teenk	hed toocht	V;PRF;IND;SG;3;PST+RMT
-skriiw	hed skrewen	V;PRF;IND;SG;1;PST+RMT
-gripe	wård gripe	V;IND;SG;1;FUT;LGSPEC1
-greewe	häi grääwen	V;PRF;IND;SG;1;PST+RMT
-maage	haa maaget	V;PRF;IND;PL;3;PST
-gripe	häi gram	V;PRF;IND;SG;1;PST+RMT
-jiiw	hee jewen	V;PRF;IND;SG;3;PST
-booge	booged	V;PFV;IND;SG;3;PST
-ferliise	ferlüst	V;IND;SG;3;PRS
-heewe	hääw	V;IND;PL;3;PRS
-koone	häin kööt	V;PRF;IND;PL;3;PST+RMT
-heewe	heet heet	V;PRF;IND;SG;3;PST
-wees	wees	V;NFIN
-baag	buch	V;PFV;IND;SG;3;PST
-frååge	wård frååge	V;IND;SG;1;FUT;LGSPEC1
-jeewe	jäif	V;PFV;IND;SG;3;PST
-koone	wårde koone	V;IND;PL;3;FUT;LGSPEC1
-bine	bünen	V;PFV;IND;PL;1;PST
-jooge	häi läägen	V;PRF;IND;SG;1;PST+RMT
-bliwe	ban blaawen	V;PRF;IND;SG;1;PST
-spreege	häi spräägen	V;PRF;IND;SG;3;PST+RMT
-wees	wiar	V;PFV;IND;SG;3;PST
-fu	wääl fu	V;IND;SG;2;FUT;LGSPEC2
-bring	wel bring	V;IND;PL;3;FUT;LGSPEC2
-ferjeese	wårst forjeese	V;IND;SG;2;FUT;LGSPEC1
-greew	skal greew	V;IND;SG;3;FUT;LGSPEC1
-heelpe	heelpt	V;IND;SG;3;PRS
-gunge	wårde gunge	V;IND;DU;2;FUT;LGSPEC1
-stridj	tu stridjen	V;NFIN
-breeg	hed breegen	V;PRF;IND;SG;1;PST+RMT
-nem	wal nem	V;IND;SG;1;FUT;LGSPEC2
-bine	bin	V;IND;SG;1;PRS
 bine	häin bünen	V;PRF;IND;DU;2;PST+RMT
-bliiw	wal bliiw	V;IND;SG;3;FUT;LGSPEC2
-bliiw	skal bliiw	V;IND;SG;3;FUT;LGSPEC1
-drainke	drainke	V;IND;PL;2;PRS
-breeg	bruch	V;PFV;IND;PL;3;PST
-bååge	tu båågen	V;NFIN
-jiiw	juf	V;PFV;IND;PL;2;PST
-düünj	düünj	V;IND;DU;2;PRS
-drainke	häin drunken	V;PRF;IND;DU;2;PST+RMT
-maage	skal maage	V;IND;SG;3;FUT;LGSPEC1
-stridj	hed streden	V;PRF;IND;DU;2;PST+RMT
-pluuge	wääl pluuge	V;IND;SG;2;FUT;LGSPEC2
-greewe	hääwe grääwen	V;PRF;IND;PL;2;PST
-röp	haa rööpen	V;IND;PL;2;PRS
-fine	fanst	V;IND;SG;2;PRS
-greewe	wårde greewe	V;IND;PL;1;FUT;LGSPEC1
-bååge	båågedst	V;PFV;IND;SG;2;PST
-haa	hedst hed	V;PRF;IND;SG;2;PST+RMT
-jooge	heet läägen	V;PRF;IND;SG;3;PST
-fine	fant	V;IND;SG;3;PRS
-pluuge	hed pluuget	V;PRF;IND;PL;2;PST+RMT
-bliiw	tu bliiwen	V;NFIN
-gripe	häi gram	V;PRF;IND;SG;3;PST+RMT
-gunge	wårde gunge	V;IND;PL;2;FUT;LGSPEC1
-jooge	wårt jooge	V;IND;SG;3;FUT;LGSPEC1
-weese	waos	V;PFV;IND;SG;3;PST
-breeg	wel breeg	V;IND;PL;3;FUT;LGSPEC2
-weese	wääl weese	V;IND;SG;2;FUT;LGSPEC2
-dreeg	wääl dreeg	V;IND;SG;2;FUT;LGSPEC2
-bine	bant	V;IND;SG;3;PRS
-fu	hee fingen	V;PRF;IND;SG;3;PST
-mååge	wårde mååge	V;IND;PL;2;FUT;LGSPEC1
-teenk	teenk	V;IND;PL;2;PRS
-koone	hääwe kööt	V;PRF;IND;PL;2;PST
-kem	wiar kimen	V;PRF;IND;SG;1;PST+RMT
-beskriiw	hed beskrewen	V;PRF;IND;SG;1;PST+RMT
-kem	san kimen	V;PRF;IND;PL;2;PST
-greewe	wårde greewe	V;IND;DU;2;FUT;LGSPEC1
-jeewe	wårde jeewe	V;IND;PL;2;FUT;LGSPEC1
-lees	wel lees	V;IND;PL;2;FUT;LGSPEC2
-frååge	häin frååged	V;PRF;IND;DU;2;PST+RMT
-breege	breechst	V;IND;SG;2;PRS
-wan	hed wonen	V;PRF;IND;SG;1;PST+RMT
-drank	droonk	V;PFV;IND;SG;3;PST
-teenk	teenk	V;IMP;SG
-stridj	hed streden	V;PRF;IND;SG;1;PST+RMT
-beskriiw	beskriiw	V;IND;PL;2;PRS
-drank	hedst dronken	V;PRF;IND;SG;2;PST+RMT
-röp	haa rööpen	V;IND;DU;3;PRS
-ferliise	hääst ferlääsen	V;PRF;IND;SG;2;PST
-ferjeese	ferjeet	V;IND;SG;3;PRS
-spreege	hääwe spräägen	V;PRF;IND;PL;1;PST
-faal	wiar feelen	V;PRF;IND;PL;2;PST+RMT
-stridj	wel stridj	V;IND;DU;2;FUT;LGSPEC2
-baag	heest beegen	V;PRF;IND;SG;2;PST
+koone	häist kööt	V;PRF;IND;SG;2;PST+RMT
+fu	skel fu	V;IND;DU;1;FUT;LGSPEC1
+bååge	bååge	V;IND;PL;1;PRS
+spreege	spräken	V;PFV;IND;PL;1;PST
+kem	skal kem	V;IND;SG;1;FUT;LGSPEC1
+ferliise	ferliise	V;IND;PL;1;PRS
 fraage	hed fraaget	V;PRF;IND;PL;2;PST+RMT
-drank	haa dronken	V;PRF;IND;SG;1;PST
-dreeg	hed draanjen	V;PRF;IND;PL;1;PST+RMT
-drank	drank	V;IND;PL;2;PRS
-faal	wel faal	V;IND;PL;2;FUT;LGSPEC2
-ferliise	ferlüüst	V;PFV;IND;SG;2;PST
-röp	skel röp	V;IND;PL;3;FUT;LGSPEC1
+wees	san weesen	V;PRF;IND;PL;2;PST
+beskriiw	beskriiw	V;IND;SG;1;PRS
+booge	hääwe booged	V;PRF;IND;DU;1;PST
+bååge	båågeden	V;PFV;IND;DU;2;PST
+breege	bräken	V;PFV;IND;DU;1;PST
+gunge	gunge	V;IND;DU;2;PRS
+weese	wään	V.PTCP;PST
+stridj	haa streden	V;PRF;IND;DU;1;PST
+gunge	wjarst gängen	V;PRF;IND;SG;2;PST+RMT
+bine	bünen	V;PFV;IND;PL;1;PST
+bååge	båågeden	V;PFV;IND;PL;1;PST
+kaame	wjarn kiimen	V;PRF;IND;DU;1;PST+RMT
+fine	fanst	V;IND;SG;2;PRS
+fu	hed fingen	V;PRF;IND;PL;2;PST+RMT
+nem	wel nem	V;IND;PL;3;FUT;LGSPEC2
+jeewe	jäifen	V;PFV;IND;DU;2;PST
+dreege	tu dreegen	V;NFIN
+bliwe	bliw	V;IND;SG;1;PRS
+maage	haa maaget	V;PRF;IND;PL;3;PST
+bliwe	wårde bliwe	V;IND;DU;2;FUT;LGSPEC1
+stridj	wel stridj	V;IND;DU;2;FUT;LGSPEC2
+pluuge	hed pluuget	V;PRF;IND;PL;2;PST+RMT
+breege	hääst bräägen	V;PRF;IND;SG;2;PST
+bliiw	skal bliiw	V;IND;SG;3;FUT;LGSPEC1
+stridj	tu stridjen	V;NFIN
+fu	hed fingen	V;PRF;IND;SG;3;PST+RMT
+mötj	mötj	V;IND;SG;1;PRS
+koone	häin kööt	V;PRF;IND;PL;3;PST+RMT
+nem	naam	V;PFV;IND;PL;2;PST
+haa	haa	V;IND;DU;2;PRS
+faal	wel faal	V;IND;DU;2;FUT;LGSPEC2
+stridj	hed streden	V;PRF;IND;SG;1;PST+RMT
+beskriiw	beskreew	V;PFV;IND;PL;3;PST
+pluuge	wääl pluuge	V;IND;SG;2;FUT;LGSPEC2
+fu	skel fu	V;IND;DU;2;FUT;LGSPEC1
+bliwe	ban blaawen	V;PRF;IND;SG;1;PST
+drainke	drainke	V;IND;PL;2;PRS
+skriiw	skriiw	V;IND;PL;1;PRS
+fu	wel fu	V;IND;PL;2;FUT;LGSPEC2
+bliwe	än bliw	V.PTCP;PST
+breeg	wel breeg	V;IND;PL;3;FUT;LGSPEC2
+mååge	mååget	V;IND;SG;3;PRS
+frååge	häin frååged	V;PRF;IND;DU;2;PST+RMT
+mååge	mååg	V;IMP;PL
