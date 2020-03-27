@@ -1,0 +1,162 @@
+## Possible characters (from train/dev/test)
+#
+#echo "AUSTRONESIAN"
+#
+#for lan in 'ceb' 'hil' 'mao' 'mlg' 'tgl'
+#	do
+#		echo "   "
+#		echo $lan
+#		echo "  "		
+#		cat austronesian/$lan.trn austronesian/$lan.dev | cut -f1,2 -d'	' | grep -o . | sort | uniq | awk '{printf("%s ",$0)}END {print ""}'
+#	done
+##
+##
+
+AUSTRONESIAN
+
+ceb
+  -   a b d e g h i k l m n o p r s t u w y 
+--
+hil
+  - /   a b d e g h i k l m n o p r s t u w y 
+--
+mao
+  a ā e ē g h i ī k m n o ō p r t u ū w 
+--
+mlg
+  a à b d e f g h i j k l m n o p r s t v y z 
+--
+tgl
+  - '   a á b d e g h i í k l m n o ó p r s t u ú w y 
+--
+
+URALIC
+
+est
+    a ä b d e f g h i j k l m n o ö õ p r s š t u ü v ž 
+--
+fin
+- '   a ä b c C d D e E é f g h i j J k K l m M n o O ö p q r R s š t u ü v V w x X y z ž 
+--
+izh
+'   a ä d e h i j k l m n o ö p r s š t u ü v z 
+--
+krl
+  ; ’ ʼ   a ä Ä b c č d e f g h i j k l m n o ö p r s š Š t u v y z ž о 
+--
+liv
+  !   a ä ǟ ā b d ḑ e ē f g i ī j k l ļ m n ņ o õ ȭ ȯ ȱ ō p r ŗ s š t ț u ū v z ž 
+--
+mdf
+-   а А б Б в В г Г д Д е Е ё ж Ж з З и И й к К л м М н Н о О п П р Р с С т Т у У ф Ф х Х ц Ц ч Ч ш щ ъ ы ь э Э ю я 
+--
+mhr
+_ - ᵊ   а А ӓ б Б в В г Г д Д е Е ё ж Ж з З и И й к К л м М н Н ҥ о О ӧ п П р Р с С т Т у У ӱ ф Ф х Х ц Ц ч Ч ш Ш щ ъ ы ӹ ь э Э ю я 
+--
+myv
+-   а А б Б в В г Г д Д е Е ё ж Ж з З и И й к К л м М н Н о О п П р Р с С т Т у У ф Ф х Х ц Ц ч Ч ш щ ъ ы ь э Э ю я 
+--
+sme
+'   a á b c č d đ e f g h i j k l m n ŋ o p r s š t ŧ u v y z ž 
+--
+vep
+- ’   a ä Ä b c č d e f g h i j k l m n o ö p r s š Š t u ü v z ž 
+--
+vot
+  a ä b d ď e g h i j k l m n o ö õ p r s š t u ü v z ź 
+--
+
+GERMANIC
+
+ang
+    a ā æ ǣ Æ b B c C ċ d D ð e E ē f F g G ġ h i ī l m M n N o ō p P r s S t u ū v w W ƿ x y ȳ z þ 
+--
+dan
+  - ' ’   3 6 9 a A å æ b B c C d D e é f F g h i j k l m M n o ø p q r s t T u v V w W x y z 
+--
+deu
+- . '   a A à ä Ä b B c C d D e E é è ë f F g G h H i I j J k K l L m M n N o O ö Ö p P q Q r R s S ß t T u U ü Ü v V w W x X y Y z Z 
+--
+eng
+- / . ' ’ ) @ *   1 3 6 8 9 a A ä æ b B c C d D e E é ë f F g G h H i I ï j J k K l L m M n N o O ô ö œ p P q Q r R s S t T u U v V w W x X y Y z Z 
+--
+frr
+  '   a å ä b c d e f g h i j k l m n o ö p r s t u ü w 
+--
+gmh
+  a â b c d e ë f g h i k l m n o ô ö p r s t u ü v w z 
+--
+isl
+  -   a A á æ b B c d ð e E é f F g G h i I í Í j J k K l L m M n N o O ó ö p P r R s S t T u ú v V x X y ý z þ Þ 
+--
+nld
+  -   a A b B c C d D e E é ê ë f F g G h H i I ï j J k K l L m M n N o O ö p P q r R s S t T u ü v V w W x y z Z 
+--
+nob
+  -   a A å æ b B c d e é f g h H i j k l m n N o ø p q r s S t T u U ü v w x y z 
+--
+swe
+  - :   0 1 2 3 5 a å ä b c C d D e E é f F g h H i I j k l L m M n N o ô ö p P q r R s S t T u U v V w W x X y Y z Z þ 
+--
+
+NIGER-CONGO
+
+aka
+  .   a b d e ɛ f g h i k m n o ɔ p r s t u w y 
+--
+gaa
+    a b d e ɛ f g h i j k l m n ŋ o ɔ p s t u w y 
+--
+kon
+    a b d e f g i k l m n o p s t u v w z 
+--
+lin
+  a b d e f g i k l m n o p s t u v w y z 
+--
+lug
+  '   a b d e f g i j k l m n ŋ o p r s t u v w y z 
+--
+nya
+'   a b c d e f g h i j k l m n o p r s t u v w y z 
+--
+sot
+  a b e f g h i j k l m n o p q r s t u w y z 
+--
+swa
+  a b c d e f g h i j k l m n o p r s t u v w y z 
+--
+zul
+    a b c d e f g h i j k l m n o p q s t u v w y z 
+--
+
+OTO-MANGUEAN
+
+azg
+´ |   ? . ' ʔ   ¹ ² ³ ⁴ ⁵ 6 a á à â ậ ä b c d e é è ê ệ ɛ g h i í ì î ï k l m n ñ o ó ò ô ộ ɔ p s t u ú ù û w x y z ί 
+--
+xty
+=   - , / ( ) ʔ –   ¹ ² ³ ⁴ a b c d e h i j k l m n ñ o p s t u w x y 
+--
+cpa
+  - ( ) + Ɂ   ¹ 2 ² ³ a á b c d e é ē ḗ g h i í k l m n o ó ø ǿ p r s t u ú 
+--
+ote
+  - ’ ( ) ʔ   ¹ ² a á ä b c d e ë ẹ f g h i í ï j k l m n ñ o ọ p r s t u ü ụ v w x y z 
+--
+otm
+=   - ’ ( ) + ʔ   ¹ ² a á ä ạ b d e ë ẹ f g h i í ï j k m n o ø p r s t u w x y z 
+--
+pei
+^   / ʔ –   ¹ ² a ą b c d e ę f g h i I k m n o p r s t u ü ų v w y z 
+--
+cly
+  /   ⁰ ¹ ² ³ ⁴ a c d e E g h i j k l n o q r s t u w x y 
+--
+ctp
+  , : ! ? / " ( ) ʔ ᐟ   ¹ ² 3 ³ ⁴ a c d e g h i j k l m n o r s t u v w x y z 
+--
+czn
+=   - ʔ –   ¹ ² a ą b c e ę h i į k l n o ǫ r s t u ų w x y z 
+--
+zpv
+=   / ( ) + ʔ   a á ă â b d e ĕ ê f g h i í ĭ î k l n ñ o ŏ p r s t u ú ŭ û w x y z 
