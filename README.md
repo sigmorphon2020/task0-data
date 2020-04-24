@@ -67,7 +67,7 @@ levenshtein:	0.93
 |    |    |    |    |    |    |
 | Niger-Congo | Bantoid | sna | [Shona](https://en.wikipedia.org/wiki/Shona_language) |    | Rowan Hall Maudslay |
 |    |    |    |    |    |    |
-|Sino-Tibetan | Bodic | bod | [Tibetan](https://en.wikipedia.org/wiki/Standard_Tibetan) | (Di et al., 2019](https://www.aclweb.org/anthology/U19-1005.pdf] | Qianji Di |
+|Sino-Tibetan | Bodic | bod | [Tibetan](https://en.wikipedia.org/wiki/Standard_Tibetan) | [Di et al., 2019](https://www.aclweb.org/anthology/U19-1005.pdf) | Qianji Di |
 | Siouan | Core Siouan | dak | [Dakota](https://en.wikipedia.org/wiki/Dakota_language) | LaFontaine, Harlan & McKay, Neil. (2004). 550 Dakota verbs. Minnesota Historical Society. St. Paul, MN. | Eleanor Chodroff |
 | Songhay | Songhay | dje |[Zarma](https://en.wikipedia.org/wiki/Zarma_language)|    | Ran Zmigrod |
 | Southern Daly | Murrinh-Patha | mwf | [Murrinh-Patha](https://en.wikipedia.org/wiki/Murrinh-patha_language) | John Mansfield | John Mansfield |
