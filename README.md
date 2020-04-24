@@ -71,9 +71,9 @@ levenshtein:	0.93
 | Siouan | Core Siouan | dak | [Dakota](https://en.wikipedia.org/wiki/Dakota_language) | LaFontaine, Harlan & McKay, Neil. (2004). 550 Dakota verbs. Minnesota Historical Society. St. Paul, MN. | Eleanor Chodroff |
 | Songhay | Songhay | dje |[Zarma](https://en.wikipedia.org/wiki/Zarma_language)|    | Ran Zmigrod |
 | Southern Daly | Murrinh-Patha | mwf | [Murrinh-Patha](https://en.wikipedia.org/wiki/Murrinh-patha_language) | John Mansfield | John Mansfield |
-| Uralic | Permic | kpv | [Komi-Zyrian](https://en.wikipedia.org/wiki/Komi_language) | (Tim Arkhangelskij](https://github.com/timarkh/uniparser-grammar-komi-zyrian] | Liz Salesky and Ekaterina Vylomova |
-|    | Finnic | lud | [Ludic](https://en.wikipedia.org/wiki/Ludian_language)| (VepKar](http://dictorpus.krc.karelia.ru/en] | Natalia Krizhanovskaya |
-|    | Finnic | olo | [Livvi](https://en.wikipedia.org/wiki/Livvi_language) | (VepKar](http://dictorpus.krc.karelia.ru/en] | Natalia Krizhanovskaya |
-|    | Finnic | udm | [Udmurt](https://en.wikipedia.org/wiki/Udmurt_language) | (Tim Arkhangelskij](https://github.com/timarkh/uniparser-grammar-udm/] |  Liz Salesky and Ekaterina Vylomova |
+| Uralic | Permic | kpv | [Komi-Zyrian](https://en.wikipedia.org/wiki/Komi_language) | [Tim Arkhangelskij](https://github.com/timarkh/uniparser-grammar-komi-zyrian) | Liz Salesky and Ekaterina Vylomova |
+|    | Finnic | lud | [Ludic](https://en.wikipedia.org/wiki/Ludian_language)| [VepKar](http://dictorpus.krc.karelia.ru/en) | Natalia Krizhanovskaya |
+|    | Finnic | olo | [Livvi](https://en.wikipedia.org/wiki/Livvi_language) | [VepKar](http://dictorpus.krc.karelia.ru/en) | Natalia Krizhanovskaya |
+|    | Finnic | udm | [Udmurt](https://en.wikipedia.org/wiki/Udmurt_language) | [Tim Arkhangelskij](https://github.com/timarkh/uniparser-grammar-udm/) |  Liz Salesky and Ekaterina Vylomova |
 |    | Finnic | vro | [Võro](https://en.wikipedia.org/wiki/V%C3%B5ro_language) | Vitalij Chernyavskij | Ekaterina Vylomova |
 | Uto-Aztecan | Tepiman | ood | [O'odham](https://en.wikipedia.org/wiki/O%27odham) | Zepeda, Ofelia. (2003). A Tohono O'odham grammar. University of Arizona Press. (Original work published 1983). | Eleanor Chodroff |
