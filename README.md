@@ -1,7 +1,7 @@
-[>>Data](#Data)
-[>>Evaluation](#Evaluation)
-[>>Development Languages](#Development)
-[>>Surprise Languages](#Surprise)
+[    >>Data](#Data)   
+[    >>Evaluation](#Evaluation)
+[    >>Development Languages](#Development)
+[    >>Surprise Languages](#Surprise)
 
 # Data
 
@@ -26,7 +26,7 @@ levenshtein:	0.93
 # Languages
 ## Development
 
-## Suprise
+## Surprise
 
 | Family | Genus | Code | Language | Source of Data | Annotator | 
 |----|---|---|---|----|---|
