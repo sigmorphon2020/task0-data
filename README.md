@@ -31,7 +31,7 @@ levenshtein:	0.93
 | Family | Genus | Code | Language | Source of Data | Annotator | 
 |----|---|---|---|----|---|
 | Afro-Asiatic | Semitic | mlt |[Maltese](https://en.wikipedia.org/wiki/Maltese_language) | UniMorph |    |
-|| Lowland East Cushitic | orm | | [Oromo](https://en.wikipedia.org/wiki/Oromo_language) |    | Irene Nikkarinen |
+|| Lowland East Cushitic | orm | [Oromo](https://en.wikipedia.org/wiki/Oromo_language) |    | Irene Nikkarinen |
 | | Semitic | syc | [Syriac](https://en.wikipedia.org/wiki/Syriac_language) | UniMorph |    |
 | Algic | Algonquian| cre | [Cree](https://en.wikipedia.org/wiki/Cree_language)| Hunter, James. (1923). A lecture on the grammatical construction of the Cree language and Paradigms of the Cree Verb, with its various conjugations, moods, tenses, inflections, &c. The Society for Promoting Christian Knowledge. London. (Original work published 1875). | Eleanor Chodroff|
 | Altaic | Tungusic | evn | [Evenki](https://en.wikipedia.org/wiki/Evenki_language) | Elena Klyachko | Elena Klyachko |
