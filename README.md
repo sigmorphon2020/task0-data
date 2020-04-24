@@ -1,7 +1,7 @@
-[    >>Data](#Data)   
-[    >>Evaluation](#Evaluation)
-[    >>Development Languages](#Development)
-[    >>Surprise Languages](#Surprise)
+[   :: Data](#Data)
+[   :: Evaluation](#Evaluation)
+[   :: Development Languages](#Development)
+[   :: Surprise Languages](#Surprise)
 
 # Data
 
