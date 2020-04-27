@@ -1,0 +1,16 @@
+daay-si	V;FUT
+kayni	V;FUT
+diran	V;FUT
+hantum	V;FUT
+daay-si	V;PRS
+fayri	V;PST
+chauwayndi	V;PST
+sinttini	V;PRS
+tutaiye	V;FUT
+foh	V;PST
+kaiye	V;PST
+bann	V;PST
+chayndi	V;FUT
+goroh	V;PST
+foh	V;FUT
+daabu	V;PST
