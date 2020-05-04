@@ -108,7 +108,7 @@ levenshtein:	0.93
 |    | Romance | lld | [Ladin](https://en.wikipedia.org/wiki/Ladin_language) | UniMorph |    |
 |    | Romance | vec | [Venetian](https://en.wikipedia.org/wiki/Venetian_language) | UniMorph |    |
 |    | Romance | xno | [Anglo-Norman](https://en.wikipedia.org/wiki/Anglo-Norman_language) |    |    |
-|   -| West Germanic | gml | [Middle Low German](https://en.wikipedia.org/wiki/Middle_Low_German) | UniMorph |    |    |
+|   -| West Germanic | gml | [Middle Low German](https://en.wikipedia.org/wiki/Middle_Low_German) | UniMorph |    |
 |    | West Germanic | gsw |[Swiss German](https://en.wikipedia.org/wiki/Swiss_German) |    | Ryan Cotterell |
 |    | North Germanic | nno | [Norwegian Nynorsk](https://en.wikipedia.org/wiki/Nynorsk) | UniMorph |    |
 |    |    |    |    |    |    |
