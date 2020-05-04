@@ -27,51 +27,51 @@ levenshtein:	0.93
 ## Development
 | Family | Genus | Code | Language | Source of Data | Annotator | 
 |----    |---    |---   |---       |----            |---        |
-|Austronesian   |Barito   |mlg(plt)   |[Malagasy](https://en.wikipedia.org/wiki/Malagasy_language)      |----            |---        | 
+|Austronesian   |Barito   |mlg(plt)   |[Malagasy](https://en.wikipedia.org/wiki/Malagasy_language)      |Modern Malagasy Verbs. CreateSpace Independent Publishing Platform  |Jennifer White| 
 |    |Greater Central Philippine   |ceb   |[Cebuano](https://en.wikipedia.org/wiki/Cebuano_language)  |----            |---        |
-|    |Greater Central Philippine  |hil   |[Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) |----            |---        |
+|    |Greater Central Philippine  |hil   |[Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) |Hiligaynon Language: 101 Hiligaynon Verbs by Anj Santos | Ran Zmigrod      |
 |    |Greater Central Philippine  |tgl   |[Tagalog](https://en.wikipedia.org/wiki/Tagalog_language)     |----            |---        |
 |    |Oceanic  |mao(mri)  |[Maori](https://en.wikipedia.org/wiki/M%C4%81ori_language)      |----            |---        |
-|Indo-European  | Germanic   |ang   |[Old English](https://en.wikipedia.org/wiki/Old_English) |----            |---        |
-|    |Germanic   |dan   |[Danish](https://en.wikipedia.org/wiki/Danish_language) |----            |---        |
-|    |Germanic    |deu   |[German](https://en.wikipedia.org/wiki/German_language) |----            |---        |
-|    |Germanic    |eng   |[English](https://en.wikipedia.org/wiki/English_language) |----            |---        |
-|    |Germanic    |frr   |[North Frisian](https://en.wikipedia.org/wiki/North_Frisian_language)     |----            |---        |
-|    |Germanic    |gmh   |[Middle High German](https://en.wikipedia.org/wiki/Middle_High_German)       |----            |---        |
-|    |Germanic  |isl   |[Icelandic](https://en.wikipedia.org/wiki/Icelandic_language)|----            |---        |
-|    |Germanic    |nld   |[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|----            |---        |
-|    |Germanic     |nob   |[Norwegian Bokmål](https://en.wikipedia.org/wiki/Bokm%C3%A5l)      |----            |---        |
-|    |Germanic     |swe   |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)      |----            |---        |
-|Niger-Congo |Bantoid   |kon(kng)   |[Kongo](https://en.wikipedia.org/wiki/Kongo_language)|----            |---        |
+|Indo-European  | Germanic   |ang   |[Old English](https://en.wikipedia.org/wiki/Old_English) |UniMorph|        |
+|    |Germanic   |dan   |[Danish](https://en.wikipedia.org/wiki/Danish_language) | UniMorph |       |
+|    |Germanic    |deu   |[German](https://en.wikipedia.org/wiki/German_language) | UniMorph            |       |
+|    |Germanic    |eng   |[English](https://en.wikipedia.org/wiki/English_language) | UniMorph            |     |
+|    |Germanic    |frr   |[North Frisian](https://en.wikipedia.org/wiki/North_Frisian_language)     | UniMorph           |     |
+|    |Germanic    |gmh   |[Middle High German](https://en.wikipedia.org/wiki/Middle_High_German)       | UniMorph            |  |
+|    |Germanic  |isl   |[Icelandic](https://en.wikipedia.org/wiki/Icelandic_language)|UniMorph          |     |
+|    |Germanic    |nld   |[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|UniMorph           |      |
+|    |Germanic     |nob   |[Norwegian Bokmål](https://en.wikipedia.org/wiki/Bokm%C3%A5l)      | UniMorph            |       |
+|    |Germanic     |swe   |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)      | UniMorph           |      |
+|Niger-Congo |Bantoid   |kon(kng)   |[Kongo](https://en.wikipedia.org/wiki/Kongo_language)|Modern Kongo Verbs. CreateSpace Independent Publishing Platform |Jennifer White|
 |    |Bantoid    |lin   |[Lingala](https://en.wikipedia.org/wiki/Lingala) |----            |---        |
-|    |Bantoid   |lug   |[Luganda](https://en.wikipedia.org/wiki/Luganda)     |----            |---        |
-|    |Bantoid    |nya   |[Chewa](https://en.wikipedia.org/wiki/Chewa_language)  |----            |---        |
+|    |Bantoid   |lug   |[Luganda](https://en.wikipedia.org/wiki/Luganda)     |Namono, Mirembe. (2018). Luganda language: 101 Luganda verbs. CreateSpace Independent Publishing Platform. |Edoardo Ponti|
+|    |Bantoid    |nya   |[Chewa](https://en.wikipedia.org/wiki/Chewa_language)  |102 Swahili Verbs. CreateSpace Independent Publishing Platform  | Ryan Cotterell   |
 |    |Bantoid |sot   |[Sotho](https://en.wikipedia.org/wiki/Sotho_language) |----            |---        |
-|    |Bantoid    |swa(swh)   |[Swahili](https://en.wikipedia.org/wiki/Swahili_language) |----            |---        |
+|    |Bantoid    |swa(swh)   |[Swahili](https://en.wikipedia.org/wiki/Swahili_language) |----            |Jennifer White|
 |    |Bantoid    |zul   |[Zulu](https://en.wikipedia.org/wiki/Zulu_language)       |----            |---        |
-|    |Kwa   |aka   |[Akan](https://en.wikipedia.org/wiki/Akan_language) |----            |---        |
-|    |Kwa   |gaa   |[Gã](https://en.wikipedia.org/wiki/Ga_language)       |----            |---        |
-|Oto-Manguean    |Amuzgoan  |azg   |[San Pedro Amuzgos Amuzgo](https://en.wikipedia.org/wiki/Amuzgo_language)       |----            |---        |
-|    |Chichimec  |pei   |[Chichimeca-Jonaz](https://en.wikipedia.org/wiki/Chichimeca_Jonaz_language)      |----            |---        |
-|    |Chinantecan   |cpa  |[Tlatepuzco Chinantec](https://en.wikipedia.org/wiki/Palantla_Chinantec)       |----            |---        |
-|    |Mixtecan   |xty   |[Yoloxóchitl Mixtec](https://en.wikipedia.org/wiki/Yolox%C3%B3chitl_Mixtec)       |----            |---        |
-|    |Otomian   |ote   |[Mezquital Otomi](https://en.wikipedia.org/wiki/Northwestern_Otomi)  |----            |---        |
-|    |Otomian  |otm   |[Sierra Otomi](https://en.wikipedia.org/wiki/Sierra_Otomi)  |----            |---        |
-|    |Zapotecan    |cly   |[Eastern Highland Chatino](https://en.wikipedia.org/wiki/Highland_Chatino)|----            |---        |
-|    |Zapotecan |ctp   |[Yaitepec Chatino](https://en.wikipedia.org/wiki/Chatino_language)   |----            |---        |
-|    |Zapotecan  |czn   |[Zenzontepec Chatino](https://en.wikipedia.org/wiki/Zenzontepec_Chatino)  |----            |---        |
-|    |Zapotecan    |zpv   |[Chichicapan Zapotec](https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec)      |----            |---        |
-|Uralic    |Finnic    |est   |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)    |----            |---        |
-|    |Finnic    |fin   |[Finnish](https://en.wikipedia.org/wiki/Finnish_language)     |----            |---        |
-|    |Finnic    |izh   |[Ingrian](https://en.wikipedia.org/wiki/Ingrian_language)       |----            |---        |
-|    |Finnic   |krl   |[Karelian](https://en.wikipedia.org/wiki/Karelian_language)      |----            |---        |
+|    |Kwa   |aka   |[Akan](https://en.wikipedia.org/wiki/Akan_language) |Imbeah, Paa Kwesi. (2012). 102 Akan verbs. CreateSpace Independent Publishing Platform. |Tiago Pimentel |
+|    |Kwa   |gaa   |[Gã](https://en.wikipedia.org/wiki/Ga_language)       |102 Ga verbs. CreateSpace Independent Publishing Platform.|Tiago Pimentel  |
+|Oto-Manguean    |Amuzgoan  |azg   |[San Pedro Amuzgos Amuzgo](https://en.wikipedia.org/wiki/Amuzgo_language)       | Surrey Morphology Group          |     |
+|    |Chichimec  |pei   |[Chichimeca-Jonaz](https://en.wikipedia.org/wiki/Chichimeca_Jonaz_language)      | Surrey Morphology Group       |  |
+|    |Chinantecan   |cpa  |[Tlatepuzco Chinantec](https://en.wikipedia.org/wiki/Palantla_Chinantec)       | Surrey Morphology Group            |        |
+|    |Mixtecan   |xty   |[Yoloxóchitl Mixtec](https://en.wikipedia.org/wiki/Yolox%C3%B3chitl_Mixtec)       | Surrey Morphology Group            |        |
+|    |Otomian   |ote   |[Mezquital Otomi](https://en.wikipedia.org/wiki/Northwestern_Otomi)  | Surrey Morphology Group           |        |
+|    |Otomian  |otm   |[Sierra Otomi](https://en.wikipedia.org/wiki/Sierra_Otomi)  | Surrey Morphology Group     |        |
+|    |Zapotecan    |cly   |[Eastern Highland Chatino](https://en.wikipedia.org/wiki/Highland_Chatino)| Surrey Morphology Group        |       |
+|    |Zapotecan |ctp   |[Yaitepec Chatino](https://en.wikipedia.org/wiki/Chatino_language)   | Surrey Morphology Group       |       |
+|    |Zapotecan  |czn   |[Zenzontepec Chatino](https://en.wikipedia.org/wiki/Zenzontepec_Chatino)  | Surrey Morphology Group          |     |
+|    |Zapotecan    |zpv   |[Chichicapan Zapotec](https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec)      | Surrey Morphology Group          |        |
+|Uralic    |Finnic    |est   |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)    | UniMorph          |        |
+|    |Finnic    |fin   |[Finnish](https://en.wikipedia.org/wiki/Finnish_language)     | UniMorph           |        |
+|    |Finnic    |izh   |[Ingrian](https://en.wikipedia.org/wiki/Ingrian_language)       | UniMorph            |        |
+|    |Finnic   |krl   |[Karelian](https://en.wikipedia.org/wiki/Karelian_language)      |[VepKar](http://dictorpus.krc.karelia.ru/en) | Natalia Krizhanovskaya|
 |    |Finnic  |liv   |[Livonian](https://en.wikipedia.org/wiki/Livonian_language)       |----            |---        |
-|    |Finnic   |vep   |[Veps](https://en.wikipedia.org/wiki/Veps_language)    |----            |---        |
-|    |Finnic   |vot   |[Votic](https://en.wikipedia.org/wiki/Votic_language)  |----            |---        |
-|    |Mari   |mhr   |[Meadow Mari](https://en.wikipedia.org/wiki/Meadow_Mari_language)    |----            |---        |
-|    |Mordvin    |mdf   |[Moksha](https://en.wikipedia.org/wiki/Moksha_language)       |----            |---        |
-|    |Mordvin    |myv   |[Erzya](https://en.wikipedia.org/wiki/Erzya_language)      |----            |---        |
-|    |Saami   |sme   |[Northern Sami](https://en.wikipedia.org/wiki/Northern_Sami_language)       |----            |---        |
+|    |Finnic   |vep   |[Veps](https://en.wikipedia.org/wiki/Veps_language)    |[VepKar](http://dictorpus.krc.karelia.ru/en) | Natalia Krizhanovskaya |
+|    |Finnic   |vot   |[Votic](https://en.wikipedia.org/wiki/Votic_language)  | UniMorph |   |
+|    |Mari   |mhr   |[Meadow Mari](https://en.wikipedia.org/wiki/Meadow_Mari_language)    |[Tim Arkhangelskij](http://meadow-mari.web-corpora.net/index_en.html)  |Liz Salesky and Ekaterina Vylomova  |
+|    |Mordvin    |mdf   |[Moksha](https://en.wikipedia.org/wiki/Moksha_language)       |[Tim Arkhangelskij](http://moksha.web-corpora.net/index_en.html)|Liz Salesky and Ekaterina Vylomova |
+|    |Mordvin    |myv   |[Erzya](https://en.wikipedia.org/wiki/Erzya_language)      |[Tim Arkhangelskij](http://erzya.web-corpora.net/index_en.html)|Liz Salesky and Ekaterina Vylomova |
+|    |Saami   |sme   |[Northern Sami](https://en.wikipedia.org/wiki/Northern_Sami_language)       | UniMorph    |         |
 
 ## Surprise
 
@@ -109,7 +109,7 @@ levenshtein:	0.93
 |    | Romance | vec | [Venetian](https://en.wikipedia.org/wiki/Venetian_language) | UniMorph |    |
 |    | Romance | xno | [Anglo-Norman](https://en.wikipedia.org/wiki/Anglo-Norman_language) |    |    |
 |   -| West Germanic | gml | [Middle Low German](https://en.wikipedia.org/wiki/Middle_Low_German) | UniMorph |    |
-|    | West Germanic | gsw |[Swiss German](https://en.wikipedia.org/wiki/Swiss_German) |    | Ryan Cotterell |
+|    | West Germanic | gsw |[Swiss German](https://en.wikipedia.org/wiki/Swiss_German) | Egli-Wilde, Renate. Züritüütsch verstaa, Züritüütsch rede.    | Ryan Cotterell |
 |    | North Germanic | nno | [Norwegian Nynorsk](https://en.wikipedia.org/wiki/Nynorsk) | UniMorph |    |
 |    |    |    |    |    |    |
 | Niger-Congo | Bantoid | sna | [Shona](https://en.wikipedia.org/wiki/Shona_language) |    | Rowan Hall Maudslay |
