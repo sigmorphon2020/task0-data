@@ -25,6 +25,53 @@ levenshtein:	0.93
 
 # Languages
 ## Development
+| Family | Genus | Code | Language | Source of Data | Annotator | 
+|----    |---    |---   |---       |----            |---        |
+|Austronesian   |Barito   |mlg(plt)   |[Malagasy](https://en.wikipedia.org/wiki/Malagasy_language)      |----            |---        | 
+|    |Greater Central Philippine   |ceb   |[Cebuano](https://en.wikipedia.org/wiki/Cebuano_language)  |----            |---        |
+|    |Greater Central Philippine  |hil   |[Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) |----            |---        |
+|    |Greater Central Philippine  |tgl   |[Tagalog](https://en.wikipedia.org/wiki/Tagalog_language)     |----            |---        |
+|    |Oceanic  |mao(mri)  |[Maori](https://en.wikipedia.org/wiki/M%C4%81ori_language)      |----            |---        |
+|Indo-European  | Germanic   |ang   |[Old English](https://en.wikipedia.org/wiki/Old_English) |----            |---        |
+|    |Germanic   |dan   |[Danish](https://en.wikipedia.org/wiki/Danish_language) |----            |---        |
+|    |Germanic    |deu   |[German](https://en.wikipedia.org/wiki/German_language) |----            |---        |
+|    |Germanic    |eng   |[English](https://en.wikipedia.org/wiki/English_language) |----            |---        |
+|    |Germanic    |frr   |[North Frisian](https://en.wikipedia.org/wiki/North_Frisian_language)     |----            |---        |
+|    |Germanic    |gmh   |[Middle High German](https://en.wikipedia.org/wiki/Middle_High_German)       |----            |---        |
+|    |Germanic  |isl   |[Icelandic](https://en.wikipedia.org/wiki/Icelandic_language)|----            |---        |
+|    |Germanic    |nld   |[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|----            |---        |
+|    |Germanic     |nob   |[Norwegian Bokmål](https://en.wikipedia.org/wiki/Bokm%C3%A5l)      |----            |---        |
+|    |Germanic     |swe   |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)      |----            |---        |
+|Niger-Congo |Bantoid   |kon(kng)   |[Kongo](https://en.wikipedia.org/wiki/Kongo_language)|----            |---        |
+|    |Bantoid    |lin   |[Lingala](https://en.wikipedia.org/wiki/Lingala) |----            |---        |
+|    |Bantoid   |lug   |[Luganda](https://en.wikipedia.org/wiki/Luganda)     |----            |---        |
+|    |Bantoid    |nya   |[Chewa](https://en.wikipedia.org/wiki/Chewa_language)  |----            |---        |
+|    |Bantoid |sot   |[Sotho](https://en.wikipedia.org/wiki/Sotho_language) |----            |---        |
+|    |Bantoid    |swa(swh)   |[Swahili](https://en.wikipedia.org/wiki/Swahili_language) |----            |---        |
+|    |Bantoid    |zul   |[Zulu](https://en.wikipedia.org/wiki/Zulu_language)       |----            |---        |
+|    |Kwa   |aka   |[Akan](https://en.wikipedia.org/wiki/Akan_language) |----            |---        |
+|    |Kwa   |gaa   |[Gã](https://en.wikipedia.org/wiki/Ga_language)       |----            |---        |
+|Oto-Manguean    |Amuzgoan  |azg   |[San Pedro Amuzgos Amuzgo](https://en.wikipedia.org/wiki/Amuzgo_language)       |----            |---        |
+|    |Chichimec  |pei   |[Chichimeca-Jonaz](https://en.wikipedia.org/wiki/Chichimeca_Jonaz_language)      |----            |---        |
+|    |Chinantecan   |cpa  |[Tlatepuzco Chinantec](https://en.wikipedia.org/wiki/Palantla_Chinantec)       |----            |---        |
+|    |Mixtecan   |xty   |[Yoloxóchitl Mixtec](https://en.wikipedia.org/wiki/Yolox%C3%B3chitl_Mixtec)       |----            |---        |
+|    |Otomian   |ote   |[Mezquital Otomi](https://en.wikipedia.org/wiki/Northwestern_Otomi)  |----            |---        |
+|    |Otomian  |otm   |[Sierra Otomi](https://en.wikipedia.org/wiki/Sierra_Otomi)  |----            |---        |
+|    |Zapotecan    |cly   |[Eastern Highland Chatino](https://en.wikipedia.org/wiki/Highland_Chatino)|----            |---        |
+|    |Zapotecan |ctp   |[Yaitepec Chatino](https://en.wikipedia.org/wiki/Chatino_language)   |----            |---        |
+|    |Zapotecan  |czn   |[Zenzontepec Chatino](https://en.wikipedia.org/wiki/Zenzontepec_Chatino)  |----            |---        |
+|    |Zapotecan    |zpv   |[Chichicapan Zapotec](https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec)      |----            |---        |
+|Uralic    |Finnic    |est   |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)    |----            |---        |
+|    |Finnic    |fin   |[Finnish](https://en.wikipedia.org/wiki/Finnish_language)     |----            |---        |
+|    |Finnic    |izh   |[Ingrian](https://en.wikipedia.org/wiki/Ingrian_language)       |----            |---        |
+|    |Finnic   |krl   |[Karelian](https://en.wikipedia.org/wiki/Karelian_language)      |----            |---        |
+|    |Finnic  |liv   |[Livonian](https://en.wikipedia.org/wiki/Livonian_language)       |----            |---        |
+|    |Finnic   |vep   |[Veps](https://en.wikipedia.org/wiki/Veps_language)    |----            |---        |
+|    |Finnic   |vot   |[Votic](https://en.wikipedia.org/wiki/Votic_language)  |----            |---        |
+|    |Mari   |mhr   |[Meadow Mari](https://en.wikipedia.org/wiki/Meadow_Mari_language)    |----            |---        |
+|    |Mordvin    |mdf   |[Moksha](https://en.wikipedia.org/wiki/Moksha_language)       |----            |---        |
+|    |Mordvin    |myv   |[Erzya](https://en.wikipedia.org/wiki/Erzya_language)      |----            |---        |
+|    |Saami   |sme   |[Northern Sami](https://en.wikipedia.org/wiki/Northern_Sami_language)       |----            |---        |
 
 ## Surprise
 
