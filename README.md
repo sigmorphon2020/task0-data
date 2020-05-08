@@ -59,7 +59,7 @@ levenshtein:	0.93
 |    |Otomian  |otm   |[Sierra Otomi](https://en.wikipedia.org/wiki/Sierra_Otomi)  | Surrey Morphology Group     | Antonis Anastasopoulos       |
 |    |Zapotecan    |cly   |[Eastern Highland Chatino](https://en.wikipedia.org/wiki/Highland_Chatino)| --        |  Antonis Anastasopoulos     |
 |    |Zapotecan |ctp   |[Yaitepec Chatino](https://en.wikipedia.org/wiki/Chatino_language)   | Surrey Morphology Group       | Antonis Anastasopoulos      |
-|    |Zapotecan  |czn   |[Zenzontepec Chatino](https://en.wikipedia.org/wiki/Zenzontepec_Chatino)  | Surrey Morphology Group          |     |Antonis Anastasopoulos
+|    |Zapotecan  |czn   |[Zenzontepec Chatino](https://en.wikipedia.org/wiki/Zenzontepec_Chatino)  | Surrey Morphology Group          | Antonis Anastasopoulos    |
 |    |Zapotecan    |zpv   |[Chichicapan Zapotec](https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec)      | Surrey Morphology Group          |  Antonis Anastasopoulos      |
 |Uralic    |Finnic    |est   |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)    | UniMorph          |        |
 |    |Finnic    |fin   |[Finnish](https://en.wikipedia.org/wiki/Finnish_language)     | UniMorph           |        |
