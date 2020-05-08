@@ -51,16 +51,16 @@ levenshtein:	0.93
 |    |Bantoid    |zul   |[Zulu](https://en.wikipedia.org/wiki/Zulu_language)       |----            |---        |
 |    |Kwa   |aka   |[Akan](https://en.wikipedia.org/wiki/Akan_language) |Imbeah, Paa Kwesi. (2012). 102 Akan verbs. CreateSpace Independent Publishing Platform. |Tiago Pimentel |
 |    |Kwa   |gaa   |[Gã](https://en.wikipedia.org/wiki/Ga_language)       |102 Ga verbs. CreateSpace Independent Publishing Platform.|Tiago Pimentel  |
-|Oto-Manguean    |Amuzgoan  |azg   |[San Pedro Amuzgos Amuzgo](https://en.wikipedia.org/wiki/Amuzgo_language)       | Surrey Morphology Group          |     |
-|    |Chichimec  |pei   |[Chichimeca-Jonaz](https://en.wikipedia.org/wiki/Chichimeca_Jonaz_language)      | Surrey Morphology Group       |  |
-|    |Chinantecan   |cpa  |[Tlatepuzco Chinantec](https://en.wikipedia.org/wiki/Palantla_Chinantec)       | Surrey Morphology Group            |        |
-|    |Mixtecan   |xty   |[Yoloxóchitl Mixtec](https://en.wikipedia.org/wiki/Yolox%C3%B3chitl_Mixtec)       | Surrey Morphology Group            |        |
-|    |Otomian   |ote   |[Mezquital Otomi](https://en.wikipedia.org/wiki/Northwestern_Otomi)  | Surrey Morphology Group           |        |
-|    |Otomian  |otm   |[Sierra Otomi](https://en.wikipedia.org/wiki/Sierra_Otomi)  | Surrey Morphology Group     |        |
-|    |Zapotecan    |cly   |[Eastern Highland Chatino](https://en.wikipedia.org/wiki/Highland_Chatino)| Surrey Morphology Group        |       |
-|    |Zapotecan |ctp   |[Yaitepec Chatino](https://en.wikipedia.org/wiki/Chatino_language)   | Surrey Morphology Group       |       |
-|    |Zapotecan  |czn   |[Zenzontepec Chatino](https://en.wikipedia.org/wiki/Zenzontepec_Chatino)  | Surrey Morphology Group          |     |
-|    |Zapotecan    |zpv   |[Chichicapan Zapotec](https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec)      | Surrey Morphology Group          |        |
+|Oto-Manguean    |Amuzgoan  |azg   |[San Pedro Amuzgos Amuzgo](https://en.wikipedia.org/wiki/Amuzgo_language)       | Surrey Morphology Group          |  Antonis Anastasopoulos   |
+|    |Chichimec  |pei   |[Chichimeca-Jonaz](https://en.wikipedia.org/wiki/Chichimeca_Jonaz_language)      | Surrey Morphology Group       | Antonis Anastasopoulos |
+|    |Chinantecan   |cpa  |[Tlatepuzco Chinantec](https://en.wikipedia.org/wiki/Palantla_Chinantec)       | Surrey Morphology Group            |  Antonis Anastasopoulos      |
+|    |Mixtecan   |xty   |[Yoloxóchitl Mixtec](https://en.wikipedia.org/wiki/Yolox%C3%B3chitl_Mixtec)       | Surrey Morphology Group            |  Antonis Anastasopoulos      |
+|    |Otomian   |ote   |[Mezquital Otomi](https://en.wikipedia.org/wiki/Northwestern_Otomi)  | Surrey Morphology Group           |  Antonis Anastasopoulos      |
+|    |Otomian  |otm   |[Sierra Otomi](https://en.wikipedia.org/wiki/Sierra_Otomi)  | Surrey Morphology Group     | Antonis Anastasopoulos       |
+|    |Zapotecan    |cly   |[Eastern Highland Chatino](https://en.wikipedia.org/wiki/Highland_Chatino)| --        |  Antonis Anastasopoulos     |
+|    |Zapotecan |ctp   |[Yaitepec Chatino](https://en.wikipedia.org/wiki/Chatino_language)   | Surrey Morphology Group       | Antonis Anastasopoulos      |
+|    |Zapotecan  |czn   |[Zenzontepec Chatino](https://en.wikipedia.org/wiki/Zenzontepec_Chatino)  | Surrey Morphology Group          |     |Antonis Anastasopoulos
+|    |Zapotecan    |zpv   |[Chichicapan Zapotec](https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec)      | Surrey Morphology Group          |  Antonis Anastasopoulos      |
 |Uralic    |Finnic    |est   |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)    | UniMorph          |        |
 |    |Finnic    |fin   |[Finnish](https://en.wikipedia.org/wiki/Finnish_language)     | UniMorph           |        |
 |    |Finnic    |izh   |[Ingrian](https://en.wikipedia.org/wiki/Ingrian_language)       | UniMorph            |        |
