@@ -121,6 +121,6 @@ levenshtein:	0.93
 | Uralic | Permic | kpv | [Komi-Zyrian](https://en.wikipedia.org/wiki/Komi_language) | [Tim Arkhangelskij](https://github.com/timarkh/uniparser-grammar-komi-zyrian) | Liz Salesky and Ekaterina Vylomova |
 |    | Finnic | lud | [Ludic](https://en.wikipedia.org/wiki/Ludian_language)| [VepKar](http://dictorpus.krc.karelia.ru/en) | Natalia Krizhanovskaya |
 |    | Finnic | olo | [Livvi](https://en.wikipedia.org/wiki/Livvi_language) | [VepKar](http://dictorpus.krc.karelia.ru/en) | Natalia Krizhanovskaya |
-|    | Finnic | udm | [Udmurt](https://en.wikipedia.org/wiki/Udmurt_language) | [Tim Arkhangelskij](https://github.com/timarkh/uniparser-grammar-udm/) |  Liz Salesky and Ekaterina Vylomova |
+|    | Permic | udm | [Udmurt](https://en.wikipedia.org/wiki/Udmurt_language) | [Tim Arkhangelskij](https://github.com/timarkh/uniparser-grammar-udm/) |  Liz Salesky and Ekaterina Vylomova |
 |    | Finnic | vro | [Võro](https://en.wikipedia.org/wiki/V%C3%B5ro_language) | Vitalij Chernyavskij | Ekaterina Vylomova |
 | Uto-Aztecan | Tepiman | ood | [O'odham](https://en.wikipedia.org/wiki/O%27odham) | Zepeda, Ofelia. (2003). A Tohono O'odham grammar. University of Arizona Press. (Original work published 1983). | Eleanor Chodroff |
