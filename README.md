@@ -57,7 +57,7 @@ levenshtein:	0.93
 |    |Mixtecan   |xty   |[Yoloxóchitl Mixtec](https://en.wikipedia.org/wiki/Yolox%C3%B3chitl_Mixtec)       | Surrey Morphology Group            |  Antonis Anastasopoulos      |
 |    |Otomian   |ote   |[Mezquital Otomi](https://en.wikipedia.org/wiki/Northwestern_Otomi)  | Surrey Morphology Group           |  Antonis Anastasopoulos      |
 |    |Otomian  |otm   |[Sierra Otomi](https://en.wikipedia.org/wiki/Sierra_Otomi)  | Surrey Morphology Group     | Antonis Anastasopoulos       |
-|    |Zapotecan    |cly   |[Eastern Highland Chatino](https://en.wikipedia.org/wiki/Highland_Chatino)| Cruz, Hilaia; Anastasopoulos, Antonis and Stump, Gregory. 2020 (to appear at LREC). A Resource for Studying Chatino Verbal Morphology    |  Antonis Anastasopoulos     |
+|    |Zapotecan    |cly   |[Eastern Highland Chatino](https://en.wikipedia.org/wiki/Highland_Chatino)| Cruz, Hilaria; Anastasopoulos, Antonis and Stump, Gregory. 2020 (to appear at LREC). A Resource for Studying Chatino Verbal Morphology    |  Antonis Anastasopoulos     |
 |    |Zapotecan |ctp   |[Yaitepec Chatino](https://en.wikipedia.org/wiki/Chatino_language)   | Surrey Morphology Group       | Antonis Anastasopoulos      |
 |    |Zapotecan  |czn   |[Zenzontepec Chatino](https://en.wikipedia.org/wiki/Zenzontepec_Chatino)  | Surrey Morphology Group          | Antonis Anastasopoulos    |
 |    |Zapotecan    |zpv   |[Chichicapan Zapotec](https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec)      | Surrey Morphology Group          |  Antonis Anastasopoulos      |
