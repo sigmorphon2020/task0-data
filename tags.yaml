@@ -1,7 +1,7 @@
 ﻿# UniMorph 3.0 spec.
 
 
-# This lists possible values for each category; LGSPEC is not specified.
+# This lists possible values for each category; LGSPEC is not specified.Evenki: DUR+SEMEL/STAT
 categories:
   Aktionsart:
     - STAT
@@ -14,6 +14,8 @@ categories:
     - ACCMP
     - SEMEL
     - ACTY
+    - DUR+SEMEL
+    - DUR+STAT
   Animacy:
     - ANIM
     - INAN
@@ -25,6 +27,9 @@ categories:
     - NO2S
     - NO2P
     - NO3S
+    - NO3SA
+    - NO3SI
+    - NO3PA
     - NO3P
     - AC1S
     - AC1P
@@ -60,36 +65,48 @@ categories:
     - BE3S
     - BE3P
   Aspect:
+    - ITER
     - IPFV
     - PFV
     - PRF
     - PROG
+    - PFV+PROG
     - PRF+PROG  
     - PROSP
     - HAB
     - HAB+PROG
     - HAB+PRF
+    - HAB+IPFV
   Case:
     - NOM
     - ACC
+    - ACC+COMPV
     - LOC
     - ERG
     - ABS
     - NOMS
     - DAT
+    - DAT+COMPV
     - BEN
     - PRP
     - GEN
     - REL
     - PRT
     - INS
+    - INS+COMPV
+    - INS+DAT
     - COM
+    - COM+TERM
+    - COM+ACC
     - VOC
     - AT+ESS
     - AT+ESS+ALL
     - IN+ESS
+    - IN+ESS+COMPV
     - IN+ALL
+    - IN+ALL+COMPV
     - IN+ABL
+    - ACC+ABL
     - AT+ALL
     - AT+ABL
     - ON+ESS
@@ -98,6 +115,7 @@ categories:
     - ON/AT+ABL
     - VOC+GEN
     - NOM+ACC
+    - NOM+COMPV
     - non{NOM}
     - DAT+GEN
     - EXCLV
@@ -105,6 +123,7 @@ categories:
     - BEADJ
     - COMPV
     - EQTV
+    - EQTV+ACC
     - PRIV
     - DISTR
     - CAUSV
@@ -232,6 +251,13 @@ categories:
     - IMP
     - COND
     - COND+IMP
+    - COND+INTEN
+    - COND+IND
+    - COND+POT
+    - COND+POT+OPT
+    - COND+IND+OPT
+    - COND+SBJV
+    - COND+SBJV+OPT
     - PURP
     - INTEN
     - POT
@@ -243,6 +269,19 @@ categories:
     - DED
     - SIM
     - OPT
+    - ADM+OPT
+    - ADM+POT
+    - ADM+POT+OPT
+    - IND+OPT
+    - IND+POT
+    - IND+POT+OPT
+    - IND+IMP
+    - IMP+OPT
+    - IMP+RMT
+    - POT+OPT
+    - SBJV+OPT
+    - SBJV+POT
+    - SBJV+POT+OPT
   Number:
     - SG
     - PL
@@ -311,6 +350,14 @@ categories:
     - COL
   Possession:
     - ALN
+    - ALN+PSS1S
+    - ALN+PSS2S
+    - ALN+PSS3P
+    - ALN+PSS3S
+    - ALN+PSSRP
+    - ALN+PSS1PI
+    - ALN+PSSRS
+    - ALN+PSS1PE
     - NALN
     - PSS0
     - PSS1
@@ -346,6 +393,12 @@ categories:
     - PSS3P
     - PSS3PM
     - PSS3PF
+    - PSSRS
+    - PSSRS+ACC
+    - PSSRS+ACC+ALN
+    - PSSRP
+    - PSSRP+ACC
+    - PSSRP+ACC+ALN
   Switch-Reference:
     - SS
     - SSADV
@@ -381,6 +434,8 @@ categories:
     - REFL
     - RECP
     - CAUS
+    - CAUS+INTR
+    - CAUS+TR
     - APPL
   Voice:
     - ACT
