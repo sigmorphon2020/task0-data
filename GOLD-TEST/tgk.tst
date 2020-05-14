@@ -1,0 +1,16 @@
+рус	рус	N;NDEF;SG
+мор	мор	N;NDEF;SG
+нам	нам	N;NDEF;SG
+модар	модар	N;NDEF;SG
+сир	сир	N;NDEF;SG
+кишвар	кишвар	N;SG
+дил	дил	N;NDEF;SG
+бол	бол	N;NDEF;SG
+хар	хар	N;NDEF;SG
+зар	зар	N;NDEF;SG
+ранг	ранг	N;SG
+сол	сол	N;NDEF;SG
+мех	мех	N;NDEF;SG
+ватан	وطن	N;SG
+доктор	доктор	N;NDEF;SG
+дам	дам	N;NDEF;SG

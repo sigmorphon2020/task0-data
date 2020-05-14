@@ -1,0 +1,16 @@
+daay-si	nadaay-si	V;FUT
+kayni	nakayni	V;FUT
+diran	nadiran	V;FUT
+hantum	nahantum	V;FUT
+daay-si	daay-si	V;PRS
+fayri	gafayri	V;PST
+chauwayndi	gachauwayndi	V;PST
+sinttini	sinttini	V;PRS
+tutaiye	natutaiye	V;FUT
+foh	gafoh	V;PST
+kaiye	gakaiye	V;PST
+bann	gabann	V;PST
+chayndi	nachayndi	V;FUT
+goroh	gagoroh	V;PST
+foh	nafoh	V;FUT
+daabu	gadaabu	V;PST
