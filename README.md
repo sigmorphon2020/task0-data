@@ -15,6 +15,13 @@ We additionally `provide' WALS features [here](https://wals.info/download) for t
 
 # Evaluation
 
+Update: Please use `compute_acc_single.py` to evaluate your systems.
+
+```
+python compute_acc_single.py --gold gld.tst --sysout pred.tst
+
+```
+
 The official evaluation script `evaluate.py` lives in this directory.
 You may run the evaluation script as shown in the example below.
 
@@ -25,12 +32,7 @@ accuracy:	67.30
 levenshtein:	0.93
 ```
 
-Update: Please use `compute_acc_single.py` to evaluate your systems.
 
-```
-python compute_acc_single.py --gold gld.tst --sysout pred.tst
-
-```
 
 
 
