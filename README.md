@@ -41,10 +41,10 @@ levenshtein:	0.93
 | Family | Genus | Code | Language | Source of Data | Annotator | 
 |----    |---    |---   |---       |----            |---        |
 |Austronesian   |Barito   |mlg(plt)   |[Malagasy](https://en.wikipedia.org/wiki/Malagasy_language)      |Modern Malagasy Verbs. CreateSpace Independent Publishing Platform  |Jennifer White| 
-|    |Greater Central Philippine   |ceb   |[Cebuano](https://en.wikipedia.org/wiki/Cebuano_language)  |----            |---        |
+|    |Greater Central Philippine   |ceb   |[Cebuano](https://en.wikipedia.org/wiki/Cebuano_language)  |----            | Ran Zmigrod      |
 |    |Greater Central Philippine  |hil   |[Hiligaynon](https://en.wikipedia.org/wiki/Hiligaynon_language) |Hiligaynon Language: 101 Hiligaynon Verbs by Anj Santos | Ran Zmigrod      |
 |    |Greater Central Philippine  |tgl   |[Tagalog](https://en.wikipedia.org/wiki/Tagalog_language)     |----            |---        |
-|    |Oceanic  |mao(mri)  |[Maori](https://en.wikipedia.org/wiki/M%C4%81ori_language)      |----            |---        |
+|    |Oceanic  |mao(mri)  |[Maori](https://en.wikipedia.org/wiki/M%C4%81ori_language)      | [maoridictionary.co.nz/](https://maoridictionary.co.nz/)          | Jennifer White       |
 |Indo-European  | Germanic   |ang   |[Old English](https://en.wikipedia.org/wiki/Old_English) |UniMorph|        |
 |    |Germanic   |dan   |[Danish](https://en.wikipedia.org/wiki/Danish_language) | UniMorph |       |
 |    |Germanic    |deu   |[German](https://en.wikipedia.org/wiki/German_language) | UniMorph            |       |
