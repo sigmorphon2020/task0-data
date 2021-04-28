@@ -59,9 +59,9 @@ levenshtein:	0.93
 |Niger-Congo |Bantoid   |kon(kng)   |[Kongo](https://en.wikipedia.org/wiki/Kongo_language)|Modern Kongo Verbs. CreateSpace Independent Publishing Platform |Jennifer White|
 |    |Bantoid    |lin   |[Lingala](https://en.wikipedia.org/wiki/Lingala) |----            |---        |
 |    |Bantoid   |lug   |[Luganda](https://en.wikipedia.org/wiki/Luganda)     |Namono, Mirembe. (2018). Luganda language: 101 Luganda verbs. CreateSpace Independent Publishing Platform. |Edoardo Ponti|
-|    |Bantoid    |nya   |[Chewa](https://en.wikipedia.org/wiki/Chewa_language)  |102 Swahili Verbs. CreateSpace Independent Publishing Platform  | Ryan Cotterell   |
+|    |Bantoid    |nya   |[Chewa](https://en.wikipedia.org/wiki/Chewa_language)  |Modern Chewa Verbs. Master the basic tenses. CreateSpace Independent Publishing Platform  | Ryan Cotterell   |
 |    |Bantoid |sot   |[Sotho](https://en.wikipedia.org/wiki/Sotho_language) |----            |---        |
-|    |Bantoid    |swa(swh)   |[Swahili](https://en.wikipedia.org/wiki/Swahili_language) |----            |Jennifer White|
+|    |Bantoid    |swa(swh)   |[Swahili](https://en.wikipedia.org/wiki/Swahili_language) |102 Swahili Verbs. CreateSpace Independent Publishing Platform           |Jennifer White|
 |    |Bantoid    |zul   |[Zulu](https://en.wikipedia.org/wiki/Zulu_language)       |----            |---        |
 |    |Kwa   |aka   |[Akan](https://en.wikipedia.org/wiki/Akan_language) |Imbeah, Paa Kwesi. (2012). 102 Akan verbs. CreateSpace Independent Publishing Platform. |Tiago Pimentel |
 |    |Kwa   |gaa   |[Gã](https://en.wikipedia.org/wiki/Ga_language)       |102 Ga verbs. CreateSpace Independent Publishing Platform.|Tiago Pimentel  |
