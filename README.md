@@ -146,15 +146,13 @@ The shared task received 23 systems from 10 teams. The results on test data are 
 
 # Cite
 
-'''
 
-@article{vylomova2020sigmorphon,
-  title={SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection},
-  author={Vylomova, Ekaterina and White, Jennifer and Salesky, Elizabeth and Mielke, Sabrina J and Wu, Shijie and Ponti, Edoardo and Maudslay, Rowan Hall and Zmigrod, Ran and Valvoda, Josef and Toldova, Svetlana and others},
-  journal={SIGMORPHON 2020},
-  pages={1},
-  year={2020}
-}
+> @article{vylomova2020sigmorphon,
+>  title={SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection},
+>  author={Vylomova, Ekaterina and White, Jennifer and Salesky, Elizabeth and Mielke, Sabrina J and Wu, Shijie and Ponti, Edoardo and Maudslay, Rowan Hall and Zmigrod, Ran and Valvoda, Josef and Toldova, Svetlana and others},
+>  journal={SIGMORPHON 2020},
+>  pages={1},
+>  year={2020}
+> }
 
-'''
 
