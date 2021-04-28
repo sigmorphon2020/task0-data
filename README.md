@@ -3,6 +3,7 @@
 [   :: Development Languages](#Development)
 [   :: Surprise Languages](#Surprise)
 [   :: Results](#Results)
+[   :: Cite](#Cite)
 
 
 # Data
@@ -142,4 +143,17 @@ levenshtein:	0.93
 # Results
 
 The shared task received 23 systems from 10 teams. The results on test data are available [HERE](https://docs.google.com/spreadsheets/d/1ODFRnHuwN-mvGtzXA1sNdCi-jNqZjiE-i9jRxZCK0kg/edit?usp=sharing) 
+
+# Cite
+
+``
+@article{vylomova2020sigmorphon,
+  title={SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection},
+  author={Vylomova, Ekaterina and White, Jennifer and Salesky, Elizabeth and Mielke, Sabrina J and Wu, Shijie and Ponti, Edoardo and Maudslay, Rowan Hall and Zmigrod, Ran and Valvoda, Josef and Toldova, Svetlana and others},
+  journal={SIGMORPHON 2020},
+  pages={1},
+  year={2020}
+}
+
+``
 
