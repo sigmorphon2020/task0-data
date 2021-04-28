@@ -146,7 +146,7 @@ The shared task received 23 systems from 10 teams. The results on test data are 
 
 # Cite
 
-``
+'''
 
 @article{vylomova2020sigmorphon,
   title={SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection},
@@ -156,5 +156,5 @@ The shared task received 23 systems from 10 teams. The results on test data are 
   year={2020}
 }
 
-``
+'''
 
