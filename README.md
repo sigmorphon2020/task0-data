@@ -126,7 +126,7 @@ levenshtein:	0.93
 |    | West Germanic | gsw |[Swiss German](https://en.wikipedia.org/wiki/Swiss_German) | Egli-Wilde, Renate. Züritüütsch verstaa, Züritüütsch rede.    | Ryan Cotterell |
 |    | North Germanic | nno | [Norwegian Nynorsk](https://en.wikipedia.org/wiki/Nynorsk) | UniMorph |    |
 |    |    |    |    |    |    |
-| Niger-Congo | Bantoid | sna | [Shona](https://en.wikipedia.org/wiki/Shona_language) |    | Rowan Hall Maudslay |
+| Niger-Congo | Bantoid | sna | [Shona](https://en.wikipedia.org/wiki/Shona_language) | Shona Language: 101 Shona Verbs by Idai Nandoro  | Rowan Hall Maudslay |
 |    |    |    |    |    |    |
 |Sino-Tibetan | Bodic | bod | [Tibetan](https://en.wikipedia.org/wiki/Standard_Tibetan) | [Di et al., 2019](https://www.aclweb.org/anthology/U19-1005.pdf) | Qianji Di |
 | Siouan | Core Siouan | dak | [Dakota](https://en.wikipedia.org/wiki/Dakota_language) | LaFontaine, Harlan & McKay, Neil. (2004). 550 Dakota verbs. Minnesota Historical Society. St. Paul, MN. | Eleanor Chodroff |
